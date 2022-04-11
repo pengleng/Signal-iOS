@@ -2,7 +2,7 @@
 "AB_PERMISSION_MISSING_ACTION_NOT_NOW" = "나중에";
 
 /* Title for the 'about' help section */
-"ABOUT_SECTION_TITLE" = "Signal에 대하여";
+"ABOUT_SECTION_TITLE" = "CoolApp에 대하여";
 
 /* Action sheet item */
 "ACCEPT_NEW_IDENTITY_ACTION" = "새 안전 번호 수락";
@@ -35,10 +35,10 @@
 "ACCESSIBILITY_LABEL_VOICE_MEMO_FORMAT" = "음성 메시지 %@초";
 
 /* Label for 'audio call' button in contact view. */
-"ACTION_AUDIO_CALL" = "Signal 통화";
+"ACTION_AUDIO_CALL" = "CoolApp 통화";
 
 /* Label for 'invite' button in contact view. */
-"ACTION_INVITE" = "Signal로 초대";
+"ACTION_INVITE" = "CoolApp로 초대";
 
 /* Label for button that lets you send a message to a contact. */
 "ACTION_SEND_MESSAGE" = "메시지 보내기";
@@ -149,7 +149,7 @@
 "APN_Message" = "새 메시지가 있을 수 있음";
 
 /* Message for the 'app launch failed' alert. */
-"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Signal 시작에 실패했습니다. 문제 해결을 위해 디버그 로그를 support@signal.org로 보내주세요. ";
+"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "CoolApp 시작에 실패했습니다. 문제 해결을 위해 디버그 로그를 support@CoolApp.org로 보내주세요. ";
 
 /* Title for the 'app launch failed' alert. */
 "APP_LAUNCH_FAILURE_ALERT_TITLE" = "오류";
@@ -158,13 +158,13 @@
 "APP_LAUNCH_FAILURE_COULD_NOT_LOAD_DATABASE" = "데이터베이스를 불러올 수 없음";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
-"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "최신 버전의 Signal로 업그레이드해 주세요.";
+"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "최신 버전의 CoolApp로 업그레이드해 주세요.";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
 "APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_TITLE" = "데이터베이스 버전을 알 수 없습니다.";
 
 /* Error indicating that the app could not restore transferred data. */
-"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "이전 기기에서 이동된 데이터를 복원할 수 없습니다. support@signal.org로 디버그 로그를 보내어 문제 해결에 도움을 주실 수 있습니다. Signal을 다시 설치한다면 메시지 기록을 잃어버릴 수 있습니다.";
+"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "이전 기기에서 이동된 데이터를 복원할 수 없습니다. support@CoolApp.org로 디버그 로그를 보내어 문제 해결에 도움을 주실 수 있습니다. CoolApp을 다시 설치한다면 메시지 기록을 잃어버릴 수 있습니다.";
 
 /* Error indicating that the app could not restore transferred data. */
 "APP_LAUNCH_FAILURE_RESTORE_FAILED_TITLE" = "이동을 완료할 수 없음";
@@ -179,7 +179,7 @@
 "APP_UPDATE_NAG_ALERT_MESSAGE_FORMAT" = "%@ 버전을 지금 App Store에서 다운로드할 수 있습니다.";
 
 /* Title for the 'new app version available' alert. */
-"APP_UPDATE_NAG_ALERT_TITLE" = "Signal 새 버전 이용 가능";
+"APP_UPDATE_NAG_ALERT_TITLE" = "CoolApp 새 버전 이용 가능";
 
 /* Label for the 'update' button in the 'new app version available' alert. */
 "APP_UPDATE_NAG_ALERT_UPDATE_BUTTON" = "업데이트";
@@ -194,7 +194,7 @@
 "APPEARANCE_SETTINGS_SYSTEM_THEME_NAME" = "시스템";
 
 /* Name of application */
-"APPLICATION_NAME" = "Signal";
+"APPLICATION_NAME" = "CoolApp";
 
 /* Label for the archive button for conversations list view */
 "ARCHIVE_ACTION" = "보관";
@@ -211,7 +211,7 @@
 /* Error that outgoing attachments could not be exported. */
 "ATTACHMENT_APPROVAL_FAILED_TO_EXPORT" = "첨부 파일 내보내기에 실패했습니다.";
 
-/* alert text when Signal was unable to save a copy of the attachment to the system photo library */
+/* alert text when CoolApp was unable to save a copy of the attachment to the system photo library */
 "ATTACHMENT_APPROVAL_FAILED_TO_SAVE" = "저장 실패";
 
 /* Format string for file extension label in call interstitial view */
@@ -370,20 +370,20 @@
 /* The title for the badge configuration page */
 "BADGE_CONFIGURATION_TITLE" = "배지";
 
-/* Text prompting the user to become a signal sustainer */
+/* Text prompting the user to become a CoolApp sustainer */
 "BADGE_DETAILS_BECOME_A_SUSTAINER" = "Become a Sustainer";
 
 /* Text prompting the user to boost */
-"BADGE_DETAILS_GIVE_A_BOOST" = "Give Signal a Boost";
+"BADGE_DETAILS_GIVE_A_BOOST" = "Give CoolApp a Boost";
 
 /* String explaing to the user that their boost badge has expired on the badge expiry sheetsheet. */
-"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using Signal but to support technology that is built for you, please consider becoming a monthly Sustainer.";
+"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using CoolApp but to support technology that is built for you, please consider becoming a monthly Sustainer.";
 
 /* String explaing to the user that their boost badge has expired while they are a current subscription sustainer on the badge expiry sheetsheet. */
 "BADGE_EXIPRED_BOOST_CURRENT_SUSTAINER_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can reactivate your Boost badge for another 30 days with a one-time contribution.";
 
 /* String explaing to the user that their subscription badge has expired on the badge expiry sheetsheet. Embed {badge name}. */
-"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using Signal but to support the app and reactivate your badge, renew now.";
+"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using CoolApp but to support the app and reactivate your badge, renew now.";
 
 /* Button title for boost on the badge expiration sheet, used if the user is not already a sustainer. */
 "BADGE_EXPIRED_BOOST_RENEWAL_BUTTON" = "Become a Sustainer";
@@ -416,7 +416,7 @@
 "BADGE_THANKS_TOGGLE_FOOTER" = "When you have more than one badge, you can choose one to feature for others to see on your profile.";
 
 /* String explaing to the user that they've earned a badge on the badge thank you sheet. Embed {badge name}. */
-"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help Signal build awareness by displaying this badge on your profile.";
+"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help CoolApp build awareness by displaying this badge on your profile.";
 
 /* Accessibility label for banner close button */
 "BANNER_CLOSE_ACCESSIBILITY_LABEL" = "배너 닫기";
@@ -493,13 +493,13 @@
 /* Tooltip highlighting the blur image editing tool. */
 "BLUR_TOOLTIP" = "새 기능: 얼굴 또는 그린 곳을 가릴 수 있습니다.";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "BOOST_VIEW_AMOUNT_LABEL" = "Set currency";
 
-/* The body text for the donate to signal view */
+/* The body text for the donate to CoolApp view */
 "BOOST_VIEW_BODY" = "Say “Thanks!” and earn the Boost badge for 30 days.";
 
-/* The body text for the donate to signal view, embeds {{Expiration}} */
+/* The body text for the donate to CoolApp view, embeds {{Expiration}} */
 "BOOST_VIEW_BODY_WITH_EXPIRATION_FORMAT" = "Your Boost badge will expire on %@.";
 
 /* Default text for the custom amount field of the boost view. */
@@ -508,17 +508,17 @@
 /* Text explaining there are other ways to donate on the boost view. */
 "BOOST_VIEW_OTHER_WAYS" = "More Payment Options";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_LARGER_AMOUNT" = "기부할 금액을 더 많이 선택하세요.";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_SMALLER_AMOUNT" = "기부할 더 적은 금액을 선택하세요.";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_AN_AMOUNT" = "기부할 금액 선택";
 
-/* Title for the donate to signal view */
-"BOOST_VIEW_TITLE" = "Give Signal a Boost";
+/* Title for the donate to CoolApp view */
+"BOOST_VIEW_TITLE" = "Give CoolApp a Boost";
 
 /* Label for the 'add' button. */
 "BUTTON_ADD" = "추가";
@@ -599,7 +599,7 @@
 "CALL_AUDIO_MISSED_WEEK_NOTIFICATION_BODY_FORMAT" = "📞 Missed audio call on %@";
 
 /* Alert message when calling and permissions for microphone are missing */
-"CALL_AUDIO_PERMISSION_MESSAGE" = "Signal에서 전화 또는 음성 메시지를 녹음하려면 iOS 설정 앱에서 마이크 접근 권한을 허용해야 합니다.";
+"CALL_AUDIO_PERMISSION_MESSAGE" = "CoolApp에서 전화 또는 음성 메시지를 녹음하려면 iOS 설정 앱에서 마이크 접근 권한을 허용해야 합니다.";
 
 /* Alert title when calling and permissions for microphone are missing */
 "CALL_AUDIO_PERMISSION_TITLE" = "마이크 접근 권한 필요";
@@ -614,7 +614,7 @@
 "CALL_SCREEN_STATUS_NO_ANSWER" = "응답 없음";
 
 /* embeds {{Call Status}} in call screen label. For ongoing calls, {{Call Status}} is a seconds timer like 01:23, otherwise {{Call Status}} is a short text like 'Ringing', 'Busy', or 'Failed Call' */
-"CALL_STATUS_FORMAT" = "Signal %@";
+"CALL_STATUS_FORMAT" = "CoolApp %@";
 
 /* Label for call button for alert offering to call a user. */
 "CALL_USER_ALERT_CALL_BUTTON" = "전화";
@@ -677,7 +677,7 @@
 "CALLING_MEMBER_VIEW_YOUR_CAMERA_IS_OFF" = "카메라가 꺼졌습니다.";
 
 /* The generic name used for calls if CallKit privacy is enabled */
-"CALLKIT_ANONYMOUS_CONTACT_NAME" = "Signal 사용자";
+"CALLKIT_ANONYMOUS_CONTACT_NAME" = "CoolApp 사용자";
 
 /* Accessibility hint describing what you can do with the camera button */
 "CAMERA_BUTTON_HINT" = "사진을 찍은 후 전송하세요";
@@ -764,7 +764,7 @@
 "COMPARE_SAFETY_NUMBER_ACTION" = "클립보드로 비교";
 
 /* Accessibility hint describing what you can do with the compose button */
-"COMPOSE_BUTTON_HINT" = "함께 대화를 시작할 Signal 사용자를 선택하거나 검색하세요.";
+"COMPOSE_BUTTON_HINT" = "함께 대화를 시작할 CoolApp 사용자를 선택하거나 검색하세요.";
 
 /* Accessibility label from compose button. */
 "COMPOSE_BUTTON_LABEL" = "작성";
@@ -782,7 +782,7 @@
 "COMPOSE_MESSAGE_USERNAME_SEARCH_SECTION_TITLE" = "사용자 이름 검색";
 
 /* Multi-line label explaining why compose-screen contact picker is empty. */
-"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "iOS 설정 앱에서 연락처 권한을 허용하면 내 연락처에서 누가 Signal을 사용하고 있는지 알 수 있습니다.";
+"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "iOS 설정 앱에서 연락처 권한을 허용하면 내 연락처에서 누가 CoolApp을 사용하고 있는지 알 수 있습니다.";
 
 /* Configure reactions title text */
 "CONFIGURE_REACTIONS" = "Configure Reactions";
@@ -916,7 +916,7 @@
 /* Error indicating that at least one contact field must be selected before sharing a contact. */
 "CONTACT_SHARE_NO_FIELDS_SELECTED" = "연락처 입력란이 선택되지 않았습니다.";
 
-/* Button text to initiate an email to signal support staff */
+/* Button text to initiate an email to CoolApp support staff */
 "CONTACT_SUPPORT" = "지원에 문의";
 
 /* The localized representation of the 'feature request' support filter. */
@@ -958,14 +958,14 @@
 /* A brief localized representation of the 'something not working' support filter. */
 "CONTACT_SUPPORT_FILTER_SOMETHING_NOT_WORKING_SHORT" = "작동하지 않음";
 
-/* The localized representation of the 'Sustainers & Signal Boost' support filter. */
-"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & Signal Boost";
+/* The localized representation of the 'Sustainers & CoolApp Boost' support filter. */
+"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & CoolApp Boost";
 
-/* A brief localized representation of the 'Sustainers & Signal Boost' support filter. */
+/* A brief localized representation of the 'Sustainers & CoolApp Boost' support filter. */
 "CONTACT_SUPPORT_FILTER_SUSTAINERS_SHORT" = "Sustainers & Boost";
 
 /* Alert body */
-"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Signal이 사용자의 지원 요청을 완료하지 못했습니다.";
+"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "CoolApp이 사용자의 지원 요청을 완료하지 못했습니다.";
 
 /* button text */
 "CONTACT_SUPPORT_PROMPT_ERROR_TRY_AGAIN" = "다시 시도";
@@ -1058,7 +1058,7 @@
 "CONVERSATION_PICKER_SECTION_RECENTS" = "최근 대화";
 
 /* table section header for section containing contacts */
-"CONVERSATION_PICKER_SECTION_SIGNAL_CONTACTS" = "대화 상대";
+"CONVERSATION_PICKER_SECTION_CoolApp_CONTACTS" = "대화 상대";
 
 /* navbar header */
 "CONVERSATION_PICKER_TITLE" = "수신자 선택";
@@ -1100,7 +1100,7 @@
 "CONVERSATION_SETTINGS_AUDIO_CALL_BUTTON" = "오디오";
 
 /* Footer string for a contact's badges in conversation settings */
-"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Get badges for your profile by supporting Signal. Tap a badge to learn more.";
+"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Get badges for your profile by supporting CoolApp. Tap a badge to learn more.";
 
 /* Header title for a contact's badges in conversation settings */
 "CONVERSATION_SETTINGS_BADGES_HEADER" = "배지";
@@ -1397,7 +1397,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_ACTION" = "계정 삭제";
 
 /* Title for the action sheet message of the 'delete account confirmation' view controller. */
-"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "이후 Signal 계정이 삭제되고 애플리케이션이 재설정됩니다. 프로세스가 완료되면 앱이 닫힙니다.";
+"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "이후 CoolApp 계정이 삭제되고 애플리케이션이 재설정됩니다. 프로세스가 완료되면 앱이 닫힙니다.";
 
 /* Title for the action sheet confirmation title of the 'delete account confirmation' view controller. */
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_TITLE" = "계정을 삭제하시겠습니까?";
@@ -1421,7 +1421,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_PHONE_NUMBER_TITLE" = "전화번호";
 
 /* Section header */
-"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "Signal 전화번호 확인";
+"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "CoolApp 전화번호 확인";
 
 /* Title for the 'delete account' confirmation view. */
 "DELETE_ACCOUNT_CONFIRMATION_TITLE" = "계정 삭제";
@@ -1445,9 +1445,9 @@
 "DEREGISTRATION_REREGISTER_WITH_SAME_PHONE_NUMBER" = "이 전화번호 재등록";
 
 /* Label warning the user that they have been de-registered. */
-"DEREGISTRATION_WARNING" = "기기가 등록 해지되었습니다. 이 전화번호가 다른 기기의 Signal에서 등록되어 있을 수 있습니다. 탭하여 재등록하세요.";
+"DEREGISTRATION_WARNING" = "기기가 등록 해지되었습니다. 이 전화번호가 다른 기기의 CoolApp에서 등록되어 있을 수 있습니다. 탭하여 재등록하세요.";
 
-/* {{Short Date}} when device last communicated with Signal Server. */
+/* {{Short Date}} when device last communicated with CoolApp Server. */
 "DEVICE_LAST_ACTIVE_AT_LABEL" = "마지막 활성화 시간 %@";
 
 /* {{Short Date}} when device was linked. */
@@ -1469,7 +1469,7 @@
 "DEVICE_TRANSFER_CHOICE_EXPLANATION" = "이전 iOS 기기를 가지고 있다면, 이 기기로 계정과 메시지를 안전하게 이동할 수 있습니다.";
 
 /* The explanation for the device transfer 'choice' view when linking a device */
-"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "예전부터 iPad를 Signal과 연결하여 사용하고 있었다면 이 기기로 계정과 메시지를 안전하게 이동시킬 수 있습니다.";
+"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "예전부터 iPad를 CoolApp과 연결하여 사용하고 있었다면 이 기기로 계정과 메시지를 안전하게 이동시킬 수 있습니다.";
 
 /* The body for the device transfer 'choice' view 'register' option */
 "DEVICE_TRANSFER_CHOICE_REGISTER_BODY" = "계정과 메시지를 이동하지 않고 계속합니다";
@@ -1499,7 +1499,7 @@
 "DEVICE_TRANSFER_CHOICE_TRANSFER_TITLE" = "iOS 기기에서 이동하기";
 
 /* A warning for the device transfer 'choice' view indicating you can only have one device registered with your number */
-"DEVICE_TRANSFER_CHOICE_WARNING" = "계속하면 같은 전화번호로 등록한 다른 모든 기기의 Signal을 비활성화합니다.";
+"DEVICE_TRANSFER_CHOICE_WARNING" = "계속하면 같은 전화번호로 등록한 다른 모든 기기의 CoolApp을 비활성화합니다.";
 
 /* An error indicating that we were unable to verify the identity of the new device to complete the transfer */
 "DEVICE_TRANSFER_ERROR_CERTIFICATE_MISMATCH" = "새 기기를 검증할 수 없습니다. 다시 시도해 주세요.";
@@ -1517,16 +1517,16 @@
 "DEVICE_TRANSFER_ERROR_NOT_ENOUGH_SPACE" = "이동에 필요한 저장 공간이 부족합니다";
 
 /* An error indicating the user must update their device before trying to transfer. */
-"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "최신 Signal 버전으로 업데이트한 후 다시 시도해 주세요.";
+"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "최신 CoolApp 버전으로 업데이트한 후 다시 시도해 주세요.";
 
 /* The explanation on the action sheet prompting the user if they want to transfer their device. */
-"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "새 iOS 기기로 Signal 계정을 이동하세요. 새 기기가 가까이 있고 켜져 있는지 확인하세요.";
+"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "새 iOS 기기로 CoolApp 계정을 이동하세요. 새 기기가 가까이 있고 켜져 있는지 확인하세요.";
 
 /* The title on the acttion sheet prompting the user if they want to transfer their device. */
 "DEVICE_TRANSFER_PROMPT_TITLE" = "계정 이동";
 
 /* The explanation for the device transfer qr code view */
-"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "이전 기기에서 Signal을 열고 가까이 가져온 후, Wi-Fi와 Bluetooth가 두 기기에서 모두 켜져 있는지 확인하세요.";
+"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "이전 기기에서 CoolApp을 열고 가까이 가져온 후, Wi-Fi와 Bluetooth가 두 기기에서 모두 켜져 있는지 확인하세요.";
 
 /* The second explanation for the device transfer qr code view */
 "DEVICE_TRANSFER_QRCODE_EXPLANATION2" = "다른 기기 화면에서 QR 코드를 맞추세요";
@@ -1538,7 +1538,7 @@
 "DEVICE_TRANSFER_QRCODE_TITLE" = "다른 기기 응답 대기 중...";
 
 /* The explanation on the view that shows receiving progress */
-"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "두 기기를 가까이 두세요. 기기를 끄지 말고 Signal을 계속 켜두시기 바랍니다. 이동은 단대단 암호화됩니다.";
+"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "두 기기를 가까이 두세요. 기기를 끄지 말고 CoolApp을 계속 켜두시기 바랍니다. 이동은 단대단 암호화됩니다.";
 
 /* The title on the view that shows receiving progress */
 "DEVICE_TRANSFER_RECEIVING_TITLE" = "데이터 수신 중";
@@ -1553,7 +1553,7 @@
 "DEVICE_TRANSFER_SCANNING_TITLE" = "새 기기를 카메라로 가져오세요";
 
 /* The explanation on the action sheet that shows transfer progress */
-"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "두 기기에서 Signal을 실행한 후 서로 가까이 두세요. 기기를 끄지 마세요.";
+"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "두 기기에서 CoolApp을 실행한 후 서로 가까이 두세요. 기기를 끄지 마세요.";
 
 /* The title on the action sheet that shows transfer progress */
 "DEVICE_TRANSFER_TRANSFERRING_TITLE" = "데이터 이동 중";
@@ -1606,50 +1606,50 @@
 /* Section title for the 'domain fronting country' view. */
 "DOMAIN_FRONTING_COUNTRY_VIEW_SECTION_HEADER" = "검열 우회 위치";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "DONATION_VIEW_AMOUNT_LABEL" = "기부 금액";
 
 /* Default text for the custom amount field of the donation view. */
 "DONATION_VIEW_CUSTOM_AMOUNT_PLACEHOLDER" = "사용자 정의 금액 입력";
 
-/* Text describing to the user that they're going to pay a donation to Signal */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Signal 기부";
+/* Text describing to the user that they're going to pay a donation to CoolApp */
+"DONATION_VIEW_DONATION_TO_CoolApp" = "CoolApp 기부";
 
 /* Text explaining there are other ways to donate on the donation view. */
 "DONATION_VIEW_OTHER_WAYS" = "다른 기부 방법";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_LARGER_AMOUNT" = "기부할 금액을 더 많이 선택하세요.";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_SMALLER_AMOUNT" = "기부할 더 적은 금액을 선택하세요.";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_AN_AMOUNT" = "기부할 금액 선택";
 
-/* Thank you message on the donate to signal view */
+/* Thank you message on the donate to CoolApp view */
 "DONATION_VIEW_THANKS_FOR_YOUR_SUPPORT" = "지원해 주셔서 감사합니다!";
 
-/* Title for the donate to signal view */
-"DONATION_VIEW_TITLE" = "Signal은 귀하와 같은 분들이 만들어나갑니다.";
+/* Title for the donate to CoolApp view */
+"DONATION_VIEW_TITLE" = "CoolApp은 귀하와 같은 분들이 만들어나갑니다.";
 
-/* The body of the 'Why Donate' section of the donate to signal view */
-"DONATION_VIEW_WHY_DONATE_BODY" = "Signal 팀은 표현의 자유를 보호하고, 안전한 글로벌 커뮤니케이션을 가능하게 하는 오픈 소스 개인 정보 보호 기술을 개발하는 사명에 전념하고 있습니다. 사용자의 기여가 이러한 대의를 추진합니다. 광고 없음. 추적 없음. 농담 아님.\n\n귀하의 기부는 비공개 및 즉각적인 통신을 위해 전 세계 수백만 명이 사용하는 앱의 개발, 서버 및 대역폭 비용을 지불하는 데 도움이 됩니다.";
+/* The body of the 'Why Donate' section of the donate to CoolApp view */
+"DONATION_VIEW_WHY_DONATE_BODY" = "CoolApp 팀은 표현의 자유를 보호하고, 안전한 글로벌 커뮤니케이션을 가능하게 하는 오픈 소스 개인 정보 보호 기술을 개발하는 사명에 전념하고 있습니다. 사용자의 기여가 이러한 대의를 추진합니다. 광고 없음. 추적 없음. 농담 아님.\n\n귀하의 기부는 비공개 및 즉각적인 통신을 위해 전 세계 수백만 명이 사용하는 앱의 개발, 서버 및 대역폭 비용을 지불하는 데 도움이 됩니다.";
 
-/* The title of the 'Why Donate' section of the donate to signal view */
+/* The title of the 'Why Donate' section of the donate to CoolApp view */
 "DONATION_VIEW_WHY_DONATE_TITLE" = "왜 기부해야 합니까?";
 
-/* Alert body for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
+/* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "iOS 설정 앱에서 접근 권한을 허용할 수 있습니다.";
 
-/* Alert title for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
-"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Signal이 연락처 정보를 수정하려면 연락처 접근 권한이 필요함";
+/* Alert title for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
+"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "CoolApp이 연락처 정보를 수정하려면 연락처 접근 권한이 필요함";
 
 /* The navbar title for the 'update group' view. */
 "EDIT_GROUP_DEFAULT_TITLE" = "그룹 편집";
 
 /* Error message indicating the a user can't be added to a group. */
-"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "이 사용자가 Signal을 업그레이드하기 전에는 그룹에 추가할 수 없습니다.";
+"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "이 사용자가 CoolApp을 업그레이드하기 전에는 그룹에 추가할 수 없습니다.";
 
 /* Format for the 'group full' error alert when a user can't be added to a group because the group is full. Embeds {{ the maximum number of members in a group }}. */
 "EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER_GROUP_FULL_FORMAT" = "최대 그룹 규모인 멤버 %@명에 도달했습니다.";
@@ -1669,17 +1669,17 @@
 /* Short name for edit menu item to copy contents of media message. */
 "EDIT_ITEM_COPY_ACTION" = "복사";
 
-/* body of email sent to contacts when inviting to install Signal. Embeds {{link to install Signal}} and {{link to the Signal home page}} */
-"EMAIL_INVITE_BODY" = "안녕하세요.\n\n최근 저는 iPhone에서 나눈 대화를 안전하게 지키기 위해 Signal을 사용하고 있습니다. 저와 나눈 대화와 통화를 안전하게 지키고 싶다면 설치를 추천해 드리고 싶습니다.\n\nSignal은 iPhone과 Android에서 이용할 수 있습니다. 여기에서 다운로드하세요. %@\n\nSignal은 기존의 메시지 앱과 다름없이 이용할 수 있습니다. 사진과 비디오를 보내고, 통화하고, 그룹 대화를 나눌 수도 있죠. 가장 중요한 것은, Signal을 만든 사람조차 저희가 나눈 대화를 볼 수 없다는 점입니다.\n\nSignal을 만든 Open Whisper Systems에 대해서 자세히 알아보실 수도 있습니다. %@";
+/* body of email sent to contacts when inviting to install CoolApp. Embeds {{link to install CoolApp}} and {{link to the CoolApp home page}} */
+"EMAIL_INVITE_BODY" = "안녕하세요.\n\n최근 저는 iPhone에서 나눈 대화를 안전하게 지키기 위해 CoolApp을 사용하고 있습니다. 저와 나눈 대화와 통화를 안전하게 지키고 싶다면 설치를 추천해 드리고 싶습니다.\n\nCoolApp은 iPhone과 Android에서 이용할 수 있습니다. 여기에서 다운로드하세요. %@\n\nCoolApp은 기존의 메시지 앱과 다름없이 이용할 수 있습니다. 사진과 비디오를 보내고, 통화하고, 그룹 대화를 나눌 수도 있죠. 가장 중요한 것은, CoolApp을 만든 사람조차 저희가 나눈 대화를 볼 수 없다는 점입니다.\n\nCoolApp을 만든 Open Whisper Systems에 대해서 자세히 알아보실 수도 있습니다. %@";
 
-/* subject of email sent to contacts when inviting to install Signal */
-"EMAIL_INVITE_SUBJECT" = "Signal로 옮깁시다";
+/* subject of email sent to contacts when inviting to install CoolApp */
+"EMAIL_INVITE_SUBJECT" = "CoolApp로 옮깁시다";
 
 /* Description for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_MESSAGE" = "이 기기에서는 이메일을 보낼 수 있도록 설정되어 있지 않습니다. 지원 요청을 보내려면 이 기기에서 이메일을 보낼 수 있도록 설정하거나, support@signal.org 주소로 이메일을 보내주세요.";
+"EMAIL_CoolApp_MESSAGE" = "이 기기에서는 이메일을 보낼 수 있도록 설정되어 있지 않습니다. 지원 요청을 보내려면 이 기기에서 이메일을 보낼 수 있도록 설정하거나, support@CoolApp.org 주소로 이메일을 보내주세요.";
 
 /* Title for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_TITLE" = "이메일 이용 불가";
+"EMAIL_CoolApp_TITLE" = "이메일 이용 불가";
 
 /* The name for the emoji category 'Activities' */
 "EMOJI_CATEGORY_ACTIVITIES_NAME" = "활동";
@@ -1709,7 +1709,7 @@
 "EMOJI_CATEGORY_TRAVEL_NAME" = "여행과 장소";
 
 /* Full width label displayed when attempting to compose message */
-"EMPTY_CONTACTS_LABEL_LINE1" = "내 연락처 중 아무도 Signal을 사용하고 있지 않습니다.";
+"EMPTY_CONTACTS_LABEL_LINE1" = "내 연락처 중 아무도 CoolApp을 사용하고 있지 않습니다.";
 
 /* Full width label displayed when attempting to compose message */
 "EMPTY_CONTACTS_LABEL_LINE2" = "다른 사람들을 초대해보세요.";
@@ -1753,8 +1753,8 @@
 /* Error message indicating that message send failed due to block list */
 "ERROR_DESCRIPTION_MESSAGE_SEND_FAILED_DUE_TO_BLOCK_LIST" = "내가 차단한 사용자에게는 메시지를 보낼 수 없습니다.";
 
-/* Generic error used whenever Signal can't contact the server */
-"ERROR_DESCRIPTION_NO_INTERNET" = "Signal이 인터넷에 연결할 수 없습니다. 다시 시도해 주세요.";
+/* Generic error used whenever CoolApp can't contact the server */
+"ERROR_DESCRIPTION_NO_INTERNET" = "CoolApp이 인터넷에 연결할 수 없습니다. 다시 시도해 주세요.";
 
 /* Error indicating that an outgoing message had no valid recipients. */
 "ERROR_DESCRIPTION_NO_VALID_RECIPIENTS" = "올바른 수신자가 없어 메시지를 보낼 수 없습니다.";
@@ -1769,7 +1769,7 @@
 "ERROR_DESCRIPTION_RESPONSE_FAILED" = "서비스에서 잘못된 응답을 받았습니다.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "이 기기의 전화번호 등록이 해제되었습니다. Signal을 다시 설치하세요.";
+"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "이 기기의 전화번호 등록이 해제되었습니다. CoolApp을 다시 설치하세요.";
 
 /* Generic server error */
 "ERROR_DESCRIPTION_SERVER_FAILURE" = "서버에서 오류가 발생했습니다. 나중에 다시 시도해 주세요.";
@@ -1781,7 +1781,7 @@
 "ERROR_DESCRIPTION_UNKNOWN_ERROR" = "알 수 없는 오류가 발생했습니다.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "이 연락처는 Signal 사용자가 아닙니다.";
+"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "이 연락처는 CoolApp 사용자가 아닙니다.";
 
 /* Error message indicating that attachment download(s) failed. */
 "ERROR_MESSAGE_ATTACHMENT_DOWNLOAD_FAILED" = "첨부 파일 다운로드에 실패했습니다.";
@@ -1807,10 +1807,10 @@
 /* No comment provided by engineer. */
 "ERROR_MESSAGE_NO_SESSION" = "연락 가능한 세션이 없습니다.";
 
-/* Shown when signal users safety numbers changed */
+/* Shown when CoolApp users safety numbers changed */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE" = "안전 번호가 변경되었습니다.";
 
-/* Shown when signal users safety numbers changed, embeds the user's {{name or phone number}} */
+/* Shown when CoolApp users safety numbers changed, embeds the user's {{name or phone number}} */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE_FORMAT" = "%@ 님과의 안전 번호가 변경되었습니다.";
 
 /* Text notifying the user that their secure session has been reset */
@@ -1826,10 +1826,10 @@
 "ERROR_NETWORK_FAILURE" = "네트워크 오류";
 
 /* Format string for an error alert notification message. Embes {{ error string }} */
-"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve Signal by reporting this error along with debug logs from your device to support@signal.org; %@";
+"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve CoolApp by reporting this error along with debug logs from your device to support@CoolApp.org; %@";
 
 /* Format string for an error alert notification title. */
-"ERROR_NOTIFICATION_TITLE" = "Signal Beta: An error occurred";
+"ERROR_NOTIFICATION_TITLE" = "CoolApp Beta: An error occurred";
 
 /* Error indicating a send failure due to a delinked application. */
 "ERROR_SENDING_DELINKED" = "내 기기의 연결이 끊겼습니다. 메시지를 보내려면 다시 연결해주세요.";
@@ -1838,19 +1838,19 @@
 "ERROR_SENDING_DEREGISTERED" = "내 기기의 등록이 해제되었습니다. 메시지를 보내려면 다시 등록해주세요.";
 
 /* Error indicating a send failure due to an expired application. */
-"ERROR_SENDING_EXPIRED" = "설치된 Signal 버전이 만료되었습니다. 메시지를 보내려면 최신 버전으로 업데이트하세요.";
+"ERROR_SENDING_EXPIRED" = "설치된 CoolApp 버전이 만료되었습니다. 메시지를 보내려면 최신 버전으로 업데이트하세요.";
 
-/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or signal id}}. */
+/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or CoolApp id}}. */
 "ERROR_UNREGISTERED_USER_FORMAT" = "등록되지 않은 사용자: %@";
 
 /* Label notifying the user that the app has expired. */
-"EXPIRATION_ERROR" = "설치된 Signal 버전이 만료되었습니다! 탭하여 최신 버전으로 업데이트하세요.";
+"EXPIRATION_ERROR" = "설치된 CoolApp 버전이 만료되었습니다! 탭하여 최신 버전으로 업데이트하세요.";
 
 /* Label warning the user that the app will expire soon. */
-"EXPIRATION_WARNING_SOON" = "%d일 후 설치된 Signal 버전이 만료됩니다. 탭하여 최신 버전으로 업데이트하세요.";
+"EXPIRATION_WARNING_SOON" = "%d일 후 설치된 CoolApp 버전이 만료됩니다. 탭하여 최신 버전으로 업데이트하세요.";
 
 /* Label warning the user that the app will expire today. */
-"EXPIRATION_WARNING_TODAY" = "설치된 Signal 버전이 오늘 만료됩니다. 탭하여 최신 버전으로 업데이트하세요.";
+"EXPIRATION_WARNING_TODAY" = "설치된 CoolApp 버전이 오늘 만료됩니다. 탭하여 최신 버전으로 업데이트하세요.";
 
 /* action sheet header when re-sending message which failed because of too many attempts */
 "FAILED_SENDING_BECAUSE_RATE_LIMIT" = "이 연락처에서 너무 많은 오류가 발생했습니다. 나중에 다시 시도해 주세요.";
@@ -2315,7 +2315,7 @@
 "GROUP_LINK_INVALID_GROUP_INVITE_LINK_ERROR_TITLE" = "잘못된 링크";
 
 /* Error message indicating that the local user does not support groups v2. */
-"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "이 그룹에 참가하려면 이 기기의 Signal을 업데이트하세요.";
+"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "이 그룹에 참가하려면 이 기기의 CoolApp을 업데이트하세요.";
 
 /* Explanation of the 'approve new group members' switch. */
 "GROUP_LINK_PROMOTION_ALERT_APPROVE_NEW_MEMBERS_EXPLANATION" = "그룹 링크로 참가하려는 새 멤버를 승인하려면 관리자 권한이 필요합니다.";
@@ -2374,8 +2374,8 @@
 /* Label for the 'share group link via QR code' button in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_LINK_VIA_QR_CODE" = "QR 코드";
 
-/* Label for the 'share group link via Signal' button in the 'group link' view. */
-"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "Signal로 공유";
+/* Label for the 'share group link via CoolApp' button in the 'group link' view. */
+"GROUP_LINK_VIEW_SHARE_LINK_VIA_CoolApp" = "CoolApp로 공유";
 
 /* Message for the 'share group link' action sheet in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_SHEET_MESSAGE" = "이 링크를 가지고 있는 모두가 그룹 이름을 보거나 참가 요청을 보낼 수 있습니다. 믿을 수 있는 사람들에게 공유하세요.";
@@ -2750,13 +2750,13 @@
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_1_TITLE" = "구형 그룹은 무엇인가요?";
 
 /* Body text for the second section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "아직 구형 그룹을 새로운 그룹으로 업그레이드할 수는 없지만, 그룹 멤버가 모두 최신 버전의 Signal을 사용하고 있다면 새로운 그룹을 만들 수도 있습니다.\n\n향후 Signal에서 구형 그룹을 업그레이드하는 방법을 준비할 예정입니다.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "아직 구형 그룹을 새로운 그룹으로 업그레이드할 수는 없지만, 그룹 멤버가 모두 최신 버전의 CoolApp을 사용하고 있다면 새로운 그룹을 만들 수도 있습니다.\n\n향후 CoolApp에서 구형 그룹을 업그레이드하는 방법을 준비할 예정입니다.";
 
 /* Title for the second section of the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_2_TITLE" = "구형 그룹을 업그레이드할 수 있나요?";
 
 /* Body text for the third section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "새 형태의 그룹을 만드려면 모든 멤버가 최신 버전의 Signal로 업데이트해야 합니다.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "새 형태의 그룹을 만드려면 모든 멤버가 최신 버전의 CoolApp로 업데이트해야 합니다.";
 
 /* Title for the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_TITLE" = "구형 그룹과 새로운 그룹의 차이점";
@@ -2771,28 +2771,28 @@
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_ALERT_TOO_MANY_MEMBERS_FORMAT" = "그룹에 멤버가 너무 많아 새 그룹으로 업그레이드할 수 없습니다. 업그레이드할 수 있는 최대 그룹 규모는 %@입니다.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
-"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "현재 모든 그룹 멤버가 새 그룹에 가입할 수 있는 Signal 버전을 사용하면 그룹이 업그레이드됩니다.";
+"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "현재 모든 그룹 멤버가 새 그룹에 가입할 수 있는 CoolApp 버전을 사용하면 그룹이 업그레이드됩니다.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_2" = "모든 메시지 기록 및 미디어는 업그레이드 전에 보관됩니다.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "멤버 1명이 이전 버전의 Signal을 사용 중이므로 그룹을 만들 수 없습니다. Signal을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "멤버 1명이 이전 버전의 CoolApp을 사용 중이므로 그룹을 만들 수 없습니다. CoolApp을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "%@명의 멤버가 이전 버전의 Signal을 사용하고 있으므로 그룹을 만들 수 없습니다. Signal을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "%@명의 멤버가 이전 버전의 CoolApp을 사용하고 있으므로 그룹을 만들 수 없습니다. CoolApp을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다.";
 
 /* Indicates that a new group cannot be created because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "멤버 1명이 이전 버전의 Signal을 사용 중이므로 그룹을 만들 수 없습니다. Signal을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다. %@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "멤버 1명이 이전 버전의 CoolApp을 사용 중이므로 그룹을 만들 수 없습니다. CoolApp을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다. %@";
 
 /* Indicates that a new group cannot be created because multiple members do not support v2 groups. Embeds {{ %1$@ the number of members who do not support v2 groups, %2$@ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "%1$@명의 멤버가 이전 버전의 Signal을 사용 중이므로 그룹을 만들 수 없습니다. Signal을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다. %2$@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "%1$@명의 멤버가 이전 버전의 CoolApp을 사용 중이므로 그룹을 만들 수 없습니다. CoolApp을 업데이트한 후 새 스타일 그룹을 만들거나 그룹을 만들기 전에 제거할 수 있습니다. %2$@";
 
 /* Title for alert that explains that a new group will be a legacy group because 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "멤버 1명이 구 버전의 Signal을 사용하고 있기에 구형 그룹이 만들어졌습니다. 해당 멤버가 Signal을 업데이트하면 새로운 모습의 그룹을 만들 수 있습니다. 또는, 그룹을 만들기 전에 해당 멤버를 제외할 수도 있습니다.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "멤버 1명이 구 버전의 CoolApp을 사용하고 있기에 구형 그룹이 만들어졌습니다. 해당 멤버가 CoolApp을 업데이트하면 새로운 모습의 그룹을 만들 수 있습니다. 또는, 그룹을 만들기 전에 해당 멤버를 제외할 수도 있습니다.";
 
 /* Title for alert that explains that a new group will be a legacy group because multiple members do not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "멤버 %@명이 구 버전의 Signal을 사용하고 있기에 구형 그룹이 만들어졌습니다. 해당 멤버가 Signal을 업데이트하면 새로운 모습의 그룹을 만들 수 있습니다. 또는, 그룹을 만들기 전에 해당 멤버를 제외할 수도 있습니다.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "멤버 %@명이 구 버전의 CoolApp을 사용하고 있기에 구형 그룹이 만들어졌습니다. 해당 멤버가 CoolApp을 업데이트하면 새로운 모습의 그룹을 만들 수 있습니다. 또는, 그룹을 만들기 전에 해당 멤버를 제외할 수도 있습니다.";
 
 /* Indicates that a new group will be a legacy group because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
 "GROUPS_LEGACY_GROUP_CREATION_WARNING_FORMAT_1" = "멤버 1명이 새 그룹 기능을 지원하지 않습니다. 이 그룹은 구형 그룹으로 유지됩니다. %@";
@@ -2912,7 +2912,7 @@
 "GROUPS_REPLACE_ADMIN_BUTTON" = "새 관리자 선택";
 
 /* Format for the alert warning the user that they've reached the recommended limit on how many members can be in a group when creating a new group. Embeds {{ the maximum number of recommended members in a group }}. */
-"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "Signal 그룹은 %@명 이하의 멤버가 있을 때 가장 잘 작동합니다. 멤버를 더 많이 추가하면 메시지 송수신이 지연됩니다.";
+"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "CoolApp 그룹은 %@명 이하의 멤버가 있을 때 가장 잘 작동합니다. 멤버를 더 많이 추가하면 메시지 송수신이 지연됩니다.";
 
 /* Title for alert warning the user that they've reached the recommended limit on how many members can be in a group. */
 "GROUPS_TOO_MANY_MEMBERS_ALERT_TITLE" = "권장 멤버 수 한도에 도달했습니다.";
@@ -2929,7 +2929,7 @@
 /* Help item allowing the user to file a support request */
 "HELP_CONTACT_US" = "문의하기";
 
-/* Help item that takes the user to the Signal support website */
+/* Help item that takes the user to the CoolApp support website */
 "HELP_SUPPORT_CENTER" = "지원 센터";
 
 /* Label for 'archived conversations' button. */
@@ -2944,16 +2944,16 @@
 /* A prefix indicating that a message preview is a draft */
 "HOME_VIEW_DRAFT_PREFIX" = "임시 저장:";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Signal contact.  Embeds {{The name of 1 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "%@ 등 이미 내가 아는 사람이 Signal을 사용하고 있습니다.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 1 CoolApp contact.  Embeds {{The name of 1 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "%@ 등 이미 내가 아는 사람이 CoolApp을 사용하고 있습니다.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Signal contacts.  Embeds {{The names of 2 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "%@, %@ 등 이미 내가 아는 사람이 Signal을 사용하고 있습니다.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 2 CoolApp contacts.  Embeds {{The names of 2 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "%@, %@ 등 이미 내가 아는 사람이 CoolApp을 사용하고 있습니다.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Signal contacts.  Embeds {{The names of 3 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "%@, %@, %@ 등 이미 내가 아는 사람이 Signal을 사용하고 있습니다.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 CoolApp contacts.  Embeds {{The names of 3 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "%@, %@, %@ 등 이미 내가 아는 사람이 CoolApp을 사용하고 있습니다.";
 
-/* A label offering to start a new conversation with your contacts, if you have no Signal contacts. */
+/* A label offering to start a new conversation with your contacts, if you have no CoolApp contacts. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_NO_CONTACTS" = "여기서 첫 대화를 시작하세요.";
 
 /* Table cell subtitle label for a group the user has been added to. {Embeds inviter name} */
@@ -2986,11 +2986,11 @@
 /* Momentarily shown to the user when attempting to select more images than is allowed. Embeds {{max number of items}} that can be shared. */
 "IMAGE_PICKER_CAN_SELECT_NO_MORE_TOAST_FORMAT" = "항목 %@개를 초과하여 공유할 수 없습니다.";
 
-/* Button that will present a view for the user to change the photos Signal has access to. */
+/* Button that will present a view for the user to change the photos CoolApp has access to. */
 "IMAGE_PICKER_CHANGE_PHOTOS" = "사진 변경하기";
 
 /* Explanation showing that the user has granted limited access to their photos and can change that in the Settings app. */
-"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "설정에서 전체 권한을 부여하거나 Signal이 어떤 사진에 접근할 수 있을지를 변경하세요.";
+"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "설정에서 전체 권한을 부여하거나 CoolApp이 어떤 사진에 접근할 수 있을지를 변경하세요.";
 
 /* Title show that the user has granted limited access to their photos and can change that in the Settings app. */
 "IMAGE_PICKER_CHANGE_PHOTOS_TITLE" = "사진이 보이지 않나요?";
@@ -3043,8 +3043,8 @@
 /* Indicates that another user has changed their phone number. Embeds: {{ the user's name}} */
 "INFO_MESSAGE_USER_CHANGED_PHONE_NUMBER_FORMAT" = "%@ changed their phone number.";
 
-/* Shown in inbox and conversation when a user joins Signal, embeds the new user's {{contact name}} */
-"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "%@ 님이 Signal에 가입했습니다!";
+/* Shown in inbox and conversation when a user joins CoolApp, embeds the new user's {{contact name}} */
+"INFO_MESSAGE_USER_JOINED_CoolApp_BODY_FORMAT" = "%@ 님이 CoolApp에 가입했습니다!";
 
 /* accessibility label for the button which shows the sticker picker */
 "INPUT_TOOLBAR_STICKER_BUTTON_ACCESSIBILITY_LABEL" = "스티커";
@@ -3058,14 +3058,14 @@
 /* Message for the alert indicating that an audio file is invalid. */
 "INVALID_AUDIO_FILE_ALERT_ERROR_MESSAGE" = "잘못된 음성 파일입니다.";
 
-/* Alert body when contacts disabled while trying to invite contacts to signal */
-"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "iOS 설정 앱에서 연락처 권한을 허용하면 Signal에 친구를 초대할 수 있습니다.";
+/* Alert body when contacts disabled while trying to invite contacts to CoolApp */
+"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "iOS 설정 앱에서 연락처 권한을 허용하면 CoolApp에 친구를 초대할 수 있습니다.";
 
-/* Alert title when contacts disabled while trying to invite contacts to signal */
+/* Alert title when contacts disabled while trying to invite contacts to CoolApp */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_TITLE" = "연락처 접근 허용";
 
 /* Label for the cell that presents the 'invite contacts' workflow. */
-"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Signal로 친구를 초대하세요.";
+"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "CoolApp로 친구를 초대하세요.";
 
 /* Search */
 "INVITE_FRIENDS_PICKER_SEARCHBAR_PLACEHOLDER" = "검색";
@@ -3167,7 +3167,7 @@
 "LINKING_DEVICE_FAILED_TITLE" = "기기 연결 실패";
 
 /* Body for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "Signal 계정을 이전하려면 두 기기 모두에서 로컬 네트워크 액세스를 활성화해야 합니다.";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "CoolApp 계정을 이전하려면 두 기기 모두에서 로컬 네트워크 액세스를 활성화해야 합니다.";
 
 /* A button asking the user if they need further help getting their transfer working. */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_NEED_HELP" = "도움이 필요하신가요?";
@@ -3179,7 +3179,7 @@
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_THREE" = "로컬 네트워크를 켭니다.";
 
 /* Second step for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Signal 탐색하기";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "CoolApp 탐색하기";
 
 /* Title for local network permission action sheet */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_TITLE" = "로컬 네트워크 액세스 켜기";
@@ -3194,7 +3194,7 @@
 "LOGGING_SECTION" = "로깅";
 
 /* Footer for the 'logging' help section. */
-"LOGGING_SECTION_FOOTER" = "디버그 로그는 Signal이 문제 및 충돌을 해결하는 데 도움이 될 수 있습니다.";
+"LOGGING_SECTION_FOOTER" = "디버그 로그는 CoolApp이 문제 및 충돌을 해결하는 데 도움이 될 수 있습니다.";
 
 /* Title for the 'long text message' view. */
 "LONG_TEXT_VIEW_TITLE" = "메시지";
@@ -3239,7 +3239,7 @@
 "MESSAGE_ACTION_DELETE_FOR_EVERYONE" = "모두에게서 삭제";
 
 /* A one-time confirmation that you want to delete for everyone */
-"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "이 메시지는 최신의 Signal을 설치한 모두에게서 삭제됩니다. 멤버는 내가 메시지를 삭제했다는 것을 확인할 수 있습니다.";
+"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "이 메시지는 최신의 CoolApp을 설치한 모두에게서 삭제됩니다. 멤버는 내가 메시지를 삭제했다는 것을 확인할 수 있습니다.";
 
 /* The title for the action sheet asking who the user wants to delete the message for. */
 "MESSAGE_ACTION_DELETE_FOR_TITLE" = "이 메시지를 누구에게서 삭제하시겠습니까?";
@@ -3413,7 +3413,7 @@
 "MESSAGE_REQUEST_LEAVE_AND_DELETE_GROUP_TITLE" = "그룹을 삭제하고 나가시겠습니까?";
 
 /* Banner label notifying user that a new message is from a user with the same name as an existing contact */
-"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "요청을 신중하게 검토하세요. Signal에서 같은 이름의 다른 연락처를 또 찾았습니다.";
+"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "요청을 신중하게 검토하세요. CoolApp에서 같은 이름의 다른 연락처를 또 찾았습니다.";
 
 /* A header string above a known contact's contact info */
 "MESSAGE_REQUEST_NAME_COLLISON_CONTACT_HEADER" = "내 연락처";
@@ -3508,7 +3508,7 @@
 /* status message for read messages */
 "MESSAGE_STATUS_READ" = "읽음";
 
-/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Signal account. */
+/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their CoolApp account. */
 "MESSAGE_STATUS_RECIPIENT_SKIPPED" = "건너뜀";
 
 /* Label indicating that a message failed to send. */
@@ -3551,22 +3551,22 @@
 "MISSED_CALL" = "부재중 전화";
 
 /* Alert body */
-"MISSING_CAMERA_PERMISSION_MESSAGE" = "iOS 설정 앱에서 카메라 접근을 허용하여 Signal 영상 통화를 할 수 있습니다.";
+"MISSING_CAMERA_PERMISSION_MESSAGE" = "iOS 설정 앱에서 카메라 접근을 허용하여 CoolApp 영상 통화를 할 수 있습니다.";
 
 /* Alert title */
-"MISSING_CAMERA_PERMISSION_TITLE" = "Signal에서 카메라 접근 권한이 필요합니다.";
+"MISSING_CAMERA_PERMISSION_TITLE" = "CoolApp에서 카메라 접근 권한이 필요합니다.";
 
 /* Alert body indicating the user has denied location permissios */
 "MISSING_LOCATION_PERMISSION_MESSAGE" = "iOS 설정 앱에서 권한을 활성화할 수 있습니다. ";
 
 /* Alert title indicating the user has denied location permissios */
-"MISSING_LOCATION_PERMISSION_TITLE" = "Signal에서 해당 기능을 사용하려면 위치 접근 권한을 허용하세요.";
+"MISSING_LOCATION_PERMISSION_TITLE" = "CoolApp에서 해당 기능을 사용하려면 위치 접근 권한을 허용하세요.";
 
 /* Alert body when user has previously denied media library access */
 "MISSING_MEDIA_LIBRARY_PERMISSION_MESSAGE" = "iOS 설정 앱에서 권한을 활성화할 수 있습니다. ";
 
 /* Alert title when user has previously denied media library access */
-"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Signal에서 해당 기능을 사용하려면 사진 접근 권한을 허용하세요.";
+"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "CoolApp에서 해당 기능을 사용하려면 사진 접근 권한을 허용하세요.";
 
 /* Generic indicator that no value is available for display */
 "MISSING_VALUE" = "없음";
@@ -3674,12 +3674,12 @@
 "NO_SELECTED_CONVERSATION_DESCRIPTION" = "연락처 또는 그룹을 선택해 대화를 시작하세요.";
 
 /* Title welcoming to the app */
-"NO_SELECTED_CONVERSATION_TITLE" = "Signal에 오신 것을 환영합니다";
+"NO_SELECTED_CONVERSATION_TITLE" = "CoolApp에 오신 것을 환영합니다";
 
 /* A string prompting the user to send a new mesaage to a user */
 "NON_CONTACT_TABLE_CELL_NEW_MESSAGE" = "새 메시지 보내기:";
 
-/* A string asking the user if they'd like to invite a number to signal via SMS. */
+/* A string asking the user if they'd like to invite a number to CoolApp via SMS. */
 "NON_CONTACT_TABLE_CELL_SEND_SMS" = "사용자를 찾을 수 없습니다. SMS로 초대하시겠습니까?";
 
 /* Label for 1:1 conversation with yourself. */
@@ -3721,7 +3721,7 @@
 /* No comment provided by engineer. */
 "NOTIFICATIONS_NONE" = "이름 또는 내용 없음";
 
-/* Table cell switch label. When disabled, Signal will not play notification sounds while the app is in the foreground. */
+/* Table cell switch label. When disabled, CoolApp will not play notification sounds while the app is in the foreground. */
 "NOTIFICATIONS_SECTION_INAPP" = "앱이 열려 있을 때 재생";
 
 /* Label for settings UI that allows user to add a new notification sound. */
@@ -3776,7 +3776,7 @@
 "ONBOARDING_CAPTCHA_TITLE" = "메시지에 인간다움을 담아보세요";
 
 /* Explanation on the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_EXPLANATION" = "장기간 비활성 상태였기 때문에 Signal을 사용하려면 다시 등록해야 합니다.";
+"ONBOARDING_DROPPED_YDB_EXPLANATION" = "장기간 비활성 상태였기 때문에 CoolApp을 사용하려면 다시 등록해야 합니다.";
 
 /* Title of the 'onboarding after dropped YDB' view. */
 "ONBOARDING_DROPPED_YDB_TITLE" = "신호 등록";
@@ -3788,7 +3788,7 @@
 "ONBOARDING_MODE_SWITCH_BUTTON_REGISTERING" = "iPhone 연결하기";
 
 /* explanation to the user they're switching from linking to registering flow */
-"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "\"iPad 등록\"을 탭하면 새로운 Signal 계정을 만들거나 기존 계정을 iPad로 이전할 수 있습니다. 같은 전화번호로 등록된 다른 기기의 Signal은 모두 비활성화됩니다.";
+"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "\"iPad 등록\"을 탭하면 새로운 CoolApp 계정을 만들거나 기존 계정을 iPad로 이전할 수 있습니다. 같은 전화번호로 등록된 다른 기기의 CoolApp은 모두 비활성화됩니다.";
 
 /* explanation to the user they're switching from registering to linking flow */
 "ONBOARDING_MODE_SWITCH_EXPLANATION_REGISTERING" = "\"iPhone 연결\"을 탭하면 기존 계정을 휴대전화에 연결할 수 있습니다. 전화 등 일부 기능이 제한되기에 휴대전화를 연결하는 것은 권장하지 않습니다.";
@@ -3800,7 +3800,7 @@
 "ONBOARDING_MODE_SWITCH_TITLE_REGISTERING" = "이 iPhone 연결하기";
 
 /* warning to the user that registering an ipad is not recommended */
-"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "iPad를 등록하면 같은 전화번호로 등록한 다른 모든 기기의 Signal을 비활성화합니다.";
+"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "iPad를 등록하면 같은 전화번호로 등록한 다른 모든 기기의 CoolApp을 비활성화합니다.";
 
 /* warning to the user that linking a phone is not recommended */
 "ONBOARDING_MODE_SWITCH_WARNING_REGISTERING" = "iPhone을 연결하면 각종 주요 기능이 제한되기에 추천해 드리지 않습니다.";
@@ -3809,7 +3809,7 @@
 "ONBOARDING_PERMISSIONS_ENABLE_PERMISSIONS_BUTTON" = "권한 허용";
 
 /* Explanation in the 'onboarding permissions' view. */
-"ONBOARDING_PERMISSIONS_EXPLANATION" = "알림과 연락처를 허용하면 메시지가 왔을 때 바로 확인할 수 있고 내가 아는 사람이 나를 찾을 수 있습니다. 연락처는 암호화되므로 Signal 팀이 볼 수 없습니다.";
+"ONBOARDING_PERMISSIONS_EXPLANATION" = "알림과 연락처를 허용하면 메시지가 왔을 때 바로 확인할 수 있고 내가 아는 사람이 나를 찾을 수 있습니다. 연락처는 암호화되므로 CoolApp 팀이 볼 수 없습니다.";
 
 /* Title of the 'onboarding permissions' view. */
 "ONBOARDING_PERMISSIONS_TITLE" = "권한 허용";
@@ -3836,7 +3836,7 @@
 "ONBOARDING_PHONE_NUMBER_VALIDATION_WARNING" = "잘못된 전화번호입니다. 올바른 전화번호 입력 후 가입하세요";
 
 /* Explanation of the 'onboarding pin attempts exhausted' view when reglock is disabled. */
-"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "PIN 시도 횟수 제한에 도달했으나 새로운 PIN을 만들어 Signal 계정에 계속 접근할 수 있습니다. 개인정보와 보안을 위해 저장된 프로필 정보 또는 설정은 삭제된 채로 복원됩니다.";
+"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "PIN 시도 횟수 제한에 도달했으나 새로운 PIN을 만들어 CoolApp 계정에 계속 접근할 수 있습니다. 개인정보와 보안을 위해 저장된 프로필 정보 또는 설정은 삭제된 채로 복원됩니다.";
 
 /* Label for the 'learn more' link when reglock is disabled in the 'onboarding pin attempts exhausted' view. */
 "ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_LEARN_MORE" = "PIN에 대해 더 알아보기";
@@ -3910,8 +3910,8 @@
 /* Info Message when another user enabled disappearing messages. Embeds {{name of other user}} and {{time amount}} before messages disappear. See the *_TIME_AMOUNT strings for context. */
 "OTHER_UPDATED_DISAPPEARING_MESSAGES_CONFIGURATION" = "%@ 님이 사라지는 메시지 시간을 %@(으)로 설정했습니다.";
 
-/* Label warning the user that the Signal service may be down. */
-"OUTAGE_WARNING" = "Signal에 기술적 문제가 발생했습니다. 문제를 최대한 신속하게 처리하겠습니다.";
+/* Label warning the user that the CoolApp service may be down. */
+"OUTAGE_WARNING" = "CoolApp에 기술적 문제가 발생했습니다. 문제를 최대한 신속하게 처리하겠습니다.";
 
 /* info message text in conversation view. {embeds callee name} */
 "OUTGOING_CALL_FORMAT" = "%@ 님에게 전화함";
@@ -3989,7 +3989,7 @@
 "PAYMENTS_NEW_PAYMENT_ERROR_INVALID_TRANSACTION" = "잘못된 거래";
 
 /* Indicates that a payment failed due to an outdated client. */
-"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "결제를 사용하려면 Signal을 업데이트하세요.";
+"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "결제를 사용하려면 CoolApp을 업데이트하세요.";
 
 /* Indicates that an outgoing payment could not be verified in a timely way. */
 "PAYMENTS_NEW_PAYMENT_ERROR_OUTGOING_VERIFICATION_TAKING_TOO_LONG" = "결제가 아직 확인되지 않음";
@@ -4223,13 +4223,13 @@
 "PHONE_NUMBER_DISCOVERABILITY_EVERYBODY" = "모두에게 허용";
 
 /* A user friendly description of the 'everybody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "내 휴대전화 번호를 연락처로 가지고 있는 모든 사람들이 나를 Signal 연락처에서 볼 수 있습니다. 다른 사람들은 나를 검색으로 찾아볼 수 있습니다.";
+"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "내 휴대전화 번호를 연락처로 가지고 있는 모든 사람들이 나를 CoolApp 연락처에서 볼 수 있습니다. 다른 사람들은 나를 검색으로 찾아볼 수 있습니다.";
 
 /* A user friendly name for the 'nobody' phone number discoverability mode. */
 "PHONE_NUMBER_DISCOVERABILITY_NOBODY" = "모두에게 금지";
 
 /* A user friendly description of the 'nobody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Signal을 이용하는 모두가 내 휴대전화 번호를 통해 나를 찾아볼 수 없습니다. 내 휴대전화 번호를 연락처로 가지고 있는 사람 또한 연락처에서 나를 볼 수 없으며, 다른 사람들 또한 휴대전화 번호 검색을 통하여 나를 찾을 수 없습니다.";
+"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "CoolApp을 이용하는 모두가 내 휴대전화 번호를 통해 나를 찾아볼 수 없습니다. 내 휴대전화 번호를 연락처로 가지고 있는 사람 또한 연락처에서 나를 볼 수 없으며, 다른 사람들 또한 휴대전화 번호 검색을 통하여 나를 찾을 수 없습니다.";
 
 /* A format for a label showing an example phone number. Embeds {{the example phone number}}. */
 "PHONE_NUMBER_EXAMPLE_FORMAT" = "예시: %@";
@@ -4238,19 +4238,19 @@
 "PHONE_NUMBER_SHARING_CONTACTS_ONLY" = "내 연락처";
 
 /* A user friendly description of the 'contacts only' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "내 연락처에 있는 사람만 Signal에서 나를 볼 수 있습니다.";
+"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "내 연락처에 있는 사람만 CoolApp에서 나를 볼 수 있습니다.";
 
 /* A user friendly name for the 'everybody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_EVERYBODY" = "모두에게 허용";
 
 /* A user friendly description of the 'everybody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_EVERYBODY_DESCRIPTION" = "내가 메시지를 보낸 사람 또는 그룹에 내 휴대전화 번호가 보이게 됩니다. 내 번호를 휴대전화 연락처에 가지고 있는 사람 또한 Signal에서 나를 볼 수 있습니다.";
+"PHONE_NUMBER_SHARING_EVERYBODY_DESCRIPTION" = "내가 메시지를 보낸 사람 또는 그룹에 내 휴대전화 번호가 보이게 됩니다. 내 번호를 휴대전화 연락처에 가지고 있는 사람 또한 CoolApp에서 나를 볼 수 있습니다.";
 
 /* A user friendly name for the 'nobody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_NOBODY" = "모두에게 금지";
 
 /* A user friendly description of the 'nobody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "아무도 Signal에서 내 전화번호를 볼 수 없습니다.";
+"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "아무도 CoolApp에서 내 전화번호를 볼 수 없습니다.";
 
 /* Format for phone number label with an index. Embeds {{Phone number label (e.g. 'home')}} and {{index, e.g. 2}}. */
 "PHONE_NUMBER_TYPE_AND_INDEX_NAME_FORMAT" = "%@ %@";
@@ -4331,7 +4331,7 @@
 "PIN_CREATION_DISABLE_CONFIRMATION_ACTION" = "PIN 끄기";
 
 /* Message of the 'pin disable' action sheet. */
-"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "PIN을 끌 경우, 또다른 iOS 기기에서 이동하지 않은 채로 Signal에 재등록할 때 모든 데이터를 잃어버리게 됩니다. PIN이 꺼져 있을 때에는 등록 잠금을 켤 수 없습니다.";
+"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "PIN을 끌 경우, 또다른 iOS 기기에서 이동하지 않은 채로 CoolApp에 재등록할 때 모든 데이터를 잃어버리게 됩니다. PIN이 꺼져 있을 때에는 등록 잠금을 켤 수 없습니다.";
 
 /* Title of the 'pin disable' action sheet. */
 "PIN_CREATION_DISABLE_CONFIRMATION_TITLE" = "경고";
@@ -4343,7 +4343,7 @@
 "PIN_CREATION_ERROR_TITLE" = "PIN 생성 실패";
 
 /* The explanation in the 'pin creation' view. */
-"PIN_CREATION_EXPLANATION" = "PIN 번호는 Signal에 저장된 정보를 암호화하여 오직 나만 접근할 수 있게 만듭니다. 내 프로필, 설정, 그리고 연락처는 Signal을 다시 설치할 때 복원됩니다.";
+"PIN_CREATION_EXPLANATION" = "PIN 번호는 CoolApp에 저장된 정보를 암호화하여 오직 나만 접근할 수 있게 만듭니다. 내 프로필, 설정, 그리고 연락처는 CoolApp을 다시 설치할 때 복원됩니다.";
 
 /* Learn more action on the pin creation view */
 "PIN_CREATION_LEARN_MORE" = "PIN에 대해 더 알아보기";
@@ -4421,7 +4421,7 @@
 "PIN_REMINDER_MEGAPHONE_FEW_DAYS_TOAST" = "며칠 뒤 다시 알려드리겠습니다.";
 
 /* Title for PIN reminder megaphone */
-"PIN_REMINDER_MEGAPHONE_TITLE" = "Signal PIN 인증";
+"PIN_REMINDER_MEGAPHONE_TITLE" = "CoolApp PIN 인증";
 
 /* Toast indicating that we'll ask you for your PIN again tomorrow. */
 "PIN_REMINDER_MEGAPHONE_TOMORROW_TOAST" = "내일 다시 알려드리겠습니다.";
@@ -4436,7 +4436,7 @@
 "PIN_REMINDER_MISMATCH_ERROR" = "잘못된 PIN입니다. 다시 시도해 주세요.";
 
 /* The title for the 'pin reminder' dialog. */
-"PIN_REMINDER_TITLE" = "Signal PIN 입력";
+"PIN_REMINDER_TITLE" = "CoolApp PIN 입력";
 
 /* Label indicating that the attempted PIN is too short */
 "PIN_REMINDER_TOO_SHORT_ERROR" = "PIN은 최소 4자리입니다.";
@@ -4451,7 +4451,7 @@
 "PINS_MEGAPHONE_ACTION" = "PIN 만들기";
 
 /* Body for PIN megaphone when user doesn't have a PIN */
-"PINS_MEGAPHONE_BODY" = "Finish creating your Signal PIN.";
+"PINS_MEGAPHONE_BODY" = "Finish creating your CoolApp PIN.";
 
 /* Toast indication that the user will be reminded later to setup their PIN. Embeds {{time until mandatory}} */
 "PINS_MEGAPHONE_SNOOZE_TOAST_FORMAT" = "나중에 알려드리겠습니다. %ld일 후에는 PIN을 만드셔야 합니다.";
@@ -4487,19 +4487,19 @@
 "PRIVACY_VERIFICATION_FAILED_MISMATCHED_SAFETY_NUMBERS_IN_CLIPBOARD" = "클립보드에 있는 번호가 이 대화의 안전 번호와 일치하지 않습니다.";
 
 /* Alert body for user error */
-"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Signal이 클립보드에서 안전 번호를 찾을 수 없습니다. 올바르게 복사하셨나요?";
+"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "CoolApp이 클립보드에서 안전 번호를 찾을 수 없습니다. 올바르게 복사하셨나요?";
 
 /* Alert body when verifying with {{contact name}} */
-"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "모든 Signal 사용자 쌍은 각자 다른 안전 번호를 가지고 있습니다. %@ 님이 *나와의* 안전 번호를 가졌는지 다시 한 번 확인하세요.";
+"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "모든 CoolApp 사용자 쌍은 각자 다른 안전 번호를 가지고 있습니다. %@ 님이 *나와의* 안전 번호를 가졌는지 다시 한 번 확인하세요.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "이전 버전의 Signal을 사용 중입니다. 인증 전에 먼저 업데이트해야 합니다.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "이전 버전의 CoolApp을 사용 중입니다. 인증 전에 먼저 업데이트해야 합니다.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "파트너가 이전 버전의 Signal을 사용 중입니다. 인증 전에 먼저 업데이트해야 합니다.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "파트너가 이전 버전의 CoolApp을 사용 중입니다. 인증 전에 먼저 업데이트해야 합니다.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "스캔한 코드는 안전 번호가 아닌 것 같습니다. 모두가 최신 버전의 Signal을 사용하고 있는지 확인하세요.";
+"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "스캔한 코드는 안전 번호가 아닌 것 같습니다. 모두가 최신 버전의 CoolApp을 사용하고 있는지 확인하세요.";
 
 /* Paragraph(s) shown alongside the safety number when verifying privacy with {{contact name}} */
 "PRIVACY_VERIFICATION_INSTRUCTIONS" = "%@ 님과의 단대단 암호화 보안을 검증하려면 상단에 보여지는 번호를 서로 비교해보시기 바랍니다.\n\n상대방의 코드를 스캔하거나 상대방에게 스캔해달라고 할 수도 있습니다.";
@@ -4685,7 +4685,7 @@
 "RECIPIENT_PICKER_ERROR_USER_CANNOT_BE_SELECTED" = "사용자를 선택할 수 없습니다.";
 
 /* Error message indicating that a user can't be selected until they upgrade their app. */
-"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "이 사용자가 Signal을 업그레이드하기 전에는 그룹에 추가할 수 없습니다.";
+"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "이 사용자가 CoolApp을 업그레이드하기 전에는 그룹에 추가할 수 없습니다.";
 
 /* Label for 'I forgot my PIN' link in the 2FA registration view. */
 "REGISTER_2FA_FORGOT_PIN" = "PIN을 잊어버렸습니다.";
@@ -4844,7 +4844,7 @@
 "SAFETY_NUMBER_CONFIRMATION_VIEW_ACTION" = "보기";
 
 /* Snippet to share {{safety number}} with a friend. sent e.g. via SMS */
-"SAFETY_NUMBER_SHARE_FORMAT" = "Signal 안전 번호:\n%@";
+"SAFETY_NUMBER_SHARE_FORMAT" = "CoolApp 안전 번호:\n%@";
 
 /* Action sheet heading */
 "SAFETY_NUMBERS_ACTIONSHEET_TITLE" = "%@ 님과의 안전 번호가 변경되었습니다. 안전 번호를 검증해보세요.";
@@ -4876,14 +4876,14 @@
 /* Indicates that Touch ID/Face ID/Phone Passcode passcode is not set. */
 "SCREEN_LOCK_ERROR_LOCAL_AUTHENTICATION_PASSCODE_NOT_SET" = "화면 잠금을 사용하려면 iOS 설정에서 암호를 켜야 합니다.";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
-"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Signal을 열려면 인증하세요.";
+/* Description of how and why CoolApp iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
+"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "CoolApp을 열려면 인증하세요.";
 
 /* Title for alert indicating that screen lock could not be unlocked. */
 "SCREEN_LOCK_UNLOCK_FAILED" = "인증 실패";
 
-/* Label for button on lock screen that lets users unlock Signal. */
-"SCREEN_LOCK_UNLOCK_SIGNAL" = "Signal 잠금 해제";
+/* Label for button on lock screen that lets users unlock CoolApp. */
+"SCREEN_LOCK_UNLOCK_CoolApp" = "CoolApp 잠금 해제";
 
 /* This is a contact's name. Replace the name for a more common name in your locale if this sounds too foreign. This should be a unique non-public figure's name. This will have a female profile photo. */
 "SCREENSHOT_NAME_CONTACT_EIGHT" = "홍길순";
@@ -4933,7 +4933,7 @@
 /* This is for a group chat for people who want weather updates. */
 "SCREENSHOT_NAME_GROUP_TWO" = "일기 예보";
 
-/* This appears in Signal > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
+/* This appears in CoolApp > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
 "SCREENSHOT_NAME_LOCAL_PROFILE" = "어흥 회장";
 
 /* This is a message expressing support/happiness/awe/shock. */
@@ -5054,13 +5054,13 @@
 "SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_TITLE" = "계정이 일치하지 않음";
 
 /* Message for error alert indicating that a linked device must be upgraded before it can be linked. */
-"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "이 기기를 휴대전화와 연결하려면 Signal을 업데이트하세요.";
+"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "이 기기를 휴대전화와 연결하려면 CoolApp을 업데이트하세요.";
 
 /* Title for error alert indicating that a linked device must be upgraded before it can be linked. */
 "SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_TITLE" = "지원되지 않는 버전";
 
 /* alert message for outdated linking device */
-"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "다른 기기에서 iPad QR 코드를 지원하지 않는 Signal 구 버전을 실행하고 있습니다. 최신 Signal 버전을 설치한 후 다시 시도해 주세요.";
+"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "다른 기기에서 iPad QR 코드를 지원하지 않는 CoolApp 구 버전을 실행하고 있습니다. 최신 CoolApp 버전을 설치한 후 다시 시도해 주세요.";
 
 /* alert title for outdated linking device */
 "SECONDARY_LINKING_ERROR_OLD_VERSION_TITLE" = "스캔 기기 업데이트";
@@ -5081,19 +5081,19 @@
 "SECONDARY_ONBOARDING_COMPLETE_LINKING_PROCESS" = "연결 완료";
 
 /* header text before the user can link this device */
-"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "이 iPad를 계정과 연결하려면 사용자 휴대전화에서 Signal을 실행하십시오";
+"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "이 iPad를 계정과 연결하려면 사용자 휴대전화에서 CoolApp을 실행하십시오";
 
 /* Link explaining what to do when trying to link a device before having a primary device. */
-"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "제 휴대전화에는 Signal이 없습니다…";
+"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "제 휴대전화에는 CoolApp이 없습니다…";
 
 /* alert body */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "휴대전화에서 App Store에 방문하여 Signal을 설치하고, 설치 절차를 완료한 후 같은 계정에 iPad를 연결할 수 있습니다.";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "휴대전화에서 App Store에 방문하여 CoolApp을 설치하고, 설치 절차를 완료한 후 같은 계정에 iPad를 연결할 수 있습니다.";
 
 /* alert title */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "당신의 휴대전화에 Signal을 설치하세요";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "당신의 휴대전화에 CoolApp을 설치하세요";
 
 /* body text while displaying a QR code which, when scanned, will link this device. */
-"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "휴대전화에서 프로필 사진을 탭하여 Signal 설정을 여세요. \"연결된 기기\", \"새 기기 연결\"을 차례대로 눌러 이 코드를 휴대전화에서 스캔하세요.";
+"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "휴대전화에서 프로필 사진을 탭하여 CoolApp 설정을 여세요. \"연결된 기기\", \"새 기기 연결\"을 차례대로 눌러 이 코드를 휴대전화에서 스캔하세요.";
 
 /* Link text for page with troubleshooting info shown on the QR scanning screen */
 "SECONDARY_ONBOARDING_SCAN_CODE_HELP_TEXT" = "여기에서 iPad 연결 관련 도움을 받아보세요.";
@@ -5102,7 +5102,7 @@
 "SECONDARY_ONBOARDING_SCAN_CODE_TITLE" = "휴대전화를 이용하여 QR 코드 스캔";
 
 /* header text before the user can transfer to this device */
-"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "이전 iPad에서 Signal을 실행하여 계정 이동";
+"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "이전 iPad에서 CoolApp을 실행하여 계정 이동";
 
 /* No comment provided by engineer. */
 "SECURE_SESSION_RESET" = "보안 세션이 초기화되었습니다.";
@@ -5123,7 +5123,7 @@
 "SEND_INVITE_FAILURE" = "초대 보내기에 실패했습니다. 나중에 다시 시도해 주세요.";
 
 /* Alert body after invite succeeded */
-"SEND_INVITE_SUCCESS" = "당신은 친구가 Signal를 사용할 수 있도록 초대하였습니다!";
+"SEND_INVITE_SUCCESS" = "당신은 친구가 CoolApp를 사용할 수 있도록 초대하였습니다!";
 
 /* alert action, confirming the user wants to exit the media flow and abandon any photos they've taken */
 "SEND_MEDIA_CONFIRM_ABANDON_ALBUM" = "미디어 파기";
@@ -5135,7 +5135,7 @@
 "SEND_SMS_CONFIRM_TITLE" = "불안전한 SMS를 통해 친구를 초대하겠습니까?";
 
 /* No comment provided by engineer. */
-"SEND_SMS_INVITE_TITLE" = "다음과 같은 번호를 Signal로 초대하겠습니까:";
+"SEND_SMS_INVITE_TITLE" = "다음과 같은 번호를 CoolApp로 초대하겠습니까:";
 
 /* String describing high quality sent media */
 "SENT_MEDIA_QUALITY_HIGH" = "높음";
@@ -5144,7 +5144,7 @@
 "SENT_MEDIA_QUALITY_STANDARD" = "기본";
 
 /* Description for the session refresh alert */
-"SESSION_REFRESH_ALERT_MESSAGE" = "Signal은 단대단 암호화를 사용하며, 대화 세션을 때때로 새로 고침해야 할 수도 있습니다. 이는 대화 보안에 영향을 미치지는 않지만, 이로 인해 연락처로부터 메시지를 수신하지 못할 수도 있습니다. 이때 상대방에게 메시지 재발송을 요청할 수 있습니다.";
+"SESSION_REFRESH_ALERT_MESSAGE" = "CoolApp은 단대단 암호화를 사용하며, 대화 세션을 때때로 새로 고침해야 할 수도 있습니다. 이는 대화 보안에 영향을 미치지는 않지만, 이로 인해 연락처로부터 메시지를 수신하지 못할 수도 있습니다. 이때 상대방에게 메시지 재발송을 요청할 수 있습니다.";
 
 /* Title for the session refresh alert */
 "SESSION_REFRESH_ALERT_TITLE" = "챗 세션 새로고침됨";
@@ -5171,7 +5171,7 @@
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_COUNTRY" = "위치";
 
 /* Table footer for the 'censorship circumvention' section when censorship circumvention can be manually enabled. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "이 기능을 켠다면 Signal이 검열 우회를 시도합니다. Signal이 검열된 곳이 아니라면 이 기능을 켜지 마십시오.";
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "이 기능을 켠다면 CoolApp이 검열 우회를 시도합니다. CoolApp이 검열된 곳이 아니라면 이 기능을 켜지 마십시오.";
 
 /* Table footer for the 'censorship circumvention' section shown when censorship circumvention has been auto-enabled based on local phone number. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_AUTO_ENABLED" = "검열 우회가 계정의 휴대전화에서 활성화되습니다.";
@@ -5182,8 +5182,8 @@
 /* Table footer for the 'censorship circumvention' section shown when the app is not connected to the internet. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_NO_CONNECTION" = "검열 우회는 인터넷에 연결되었을 때만 활성화할 수 있습니다.";
 
-/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Signal service. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "검열 우회는 필수가 아닙니다. Signal 서비스에 연결되어 있다면 필요하지 않습니다.";
+/* Table footer for the 'censorship circumvention' section shown when the app is connected to the CoolApp service. */
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "검열 우회는 필수가 아닙니다. CoolApp 서비스에 연결되어 있다면 필요하지 않습니다.";
 
 /* No comment provided by engineer. */
 "SETTINGS_ADVANCED_DEBUGLOG" = "디버그 파일 활성화시키기";
@@ -5224,8 +5224,8 @@
 /* A label for the 'add phone number' button in the block list table. */
 "SETTINGS_BLOCK_LIST_ADD_BUTTON" = "차단한 사용자 추가";
 
-/* A label that indicates the user has no Signal contacts. */
-"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "Signal에 연락처가 없습니다.";
+/* A label that indicates the user has no CoolApp contacts. */
+"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "CoolApp에 연락처가 없습니다.";
 
 /* A label that indicates the user's search has no matching results. */
 "SETTINGS_BLOCK_LIST_NO_SEARCH_RESULTS" = "검색 결과 없음";
@@ -5237,7 +5237,7 @@
 "SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE" = "항상 릴레이 통화";
 
 /* User settings section footer, a detailed explanation */
-"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "내 연락처에게 IP 주소가 표시되지 않도록 모든 통화를 Signal 서버로 중계합니다. 전화 품질이 떨어질 수 있습니다.";
+"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "내 연락처에게 IP 주소가 표시되지 않도록 모든 통화를 CoolApp 서버로 중계합니다. 전화 품질이 떨어질 수 있습니다.";
 
 /* Label for the 'edit phone number' button in the 'change phone number' views. */
 "SETTINGS_CHANGE_PHONE_NUMBER_BACK_TO_EDIT_BUTTON" = "Edit Number";
@@ -5291,7 +5291,7 @@
 "SETTINGS_CLEAR_HISTORY" = "대화 기록 삭제";
 
 /* Footer for the 'about' help section */
-"SETTINGS_COPYRIGHT" = "Signal Messenger 저작권\nGPLv3에 따라 라이선스가 부여됨";
+"SETTINGS_COPYRIGHT" = "CoolApp Messenger 저작권\nGPLv3에 따라 라이선스가 부여됨";
 
 /* Title for the 'Subscription' link in settings. */
 "SETTINGS_CURRENT_SUBSCRIPTION" = "Subscription";
@@ -5362,8 +5362,8 @@
 /* Explanation for the 'disappearing messages' privacy settings. */
 "SETTINGS_DISAPPEARING_MESSAGES_FOOTER" = "내가 시작한 모든 새 채팅에 대해 기본 사라지는 메시지 타이머를 설정합니다.";
 
-/* Title for the 'donate to signal' link in settings. */
-"SETTINGS_DONATE" = "Signal에 후원";
+/* Title for the 'donate to CoolApp' link in settings. */
+"SETTINGS_DONATE" = "CoolApp에 후원";
 
 /* Title for help button and help pages in app settings. */
 "SETTINGS_HELP" = "도움말";
@@ -5372,7 +5372,7 @@
 "SETTINGS_INVITE_TITLE" = "친구 초대";
 
 /* content of tweet when inviting via twitter - please do not translate URL */
-"SETTINGS_INVITE_TWITTER_TEXT" = "저에게 @signalapp 으로 연락해보세요. 여기서 다운로드하세요. https://signal.org/download/";
+"SETTINGS_INVITE_TWITTER_TEXT" = "저에게 @CoolAppapp 으로 연락해보세요. 여기서 다운로드하세요. https://CoolApp.org/download/";
 
 /* Label for settings view that allows user to change the chat color and wallpaper. */
 "SETTINGS_ITEM_COLOR_AND_WALLPAPER" = "채팅 색상 및 배경 화면";
@@ -5431,8 +5431,8 @@
 /* table section header */
 "SETTINGS_NOTIFICATION_CONTENT_TITLE" = "알림 내용";
 
-/* When the local device discovers a contact has recently installed signal, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
-"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "아는 사람이 Signal에 가입했습니다";
+/* When the local device discovers a contact has recently installed CoolApp, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
+"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_CoolApp" = "아는 사람이 CoolApp에 가입했습니다";
 
 /* table section header */
 "SETTINGS_NOTIFICATION_NOTIFY_WHEN_TITLE" = "다음의 경우 알림...";
@@ -5444,7 +5444,7 @@
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_AGREE" = "활성화";
 
 /* Description for the 'activate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Signal을 사용하여 MobileCoin을 보내고 받을 수 있습니다. 모든 지불은 MobileCoin 및 MobileCoin 지갑에 대한 사용 약관의 적용을 받습니다. 이는 베타 기능이므로 일부 문제가 발생할 수 있으며 손실될 수 있는 지불 또는 잔액은 복구할 수 없습니다.";
+"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "CoolApp을 사용하여 MobileCoin을 보내고 받을 수 있습니다. 모든 지불은 MobileCoin 및 MobileCoin 지갑에 대한 사용 약관의 적용을 받습니다. 이는 베타 기능이므로 일부 문제가 발생할 수 있으며 손실될 수 있는 지불 또는 잔액은 복구할 수 없습니다.";
 
 /* Title for the 'activate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_TITLE" = "활성화";
@@ -5468,7 +5468,7 @@
 "SETTINGS_PAYMENTS_BALANCE_CONVERSION_FORMAT" = "%1$@ %2$@ %3$@";
 
 /* Error message indicating that payments could not be activated because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Signal 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.";
+"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "CoolApp 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.";
 
 /* Error message indicating that payments could not be deactivated because the current balance is unavailable. */
 "SETTINGS_PAYMENTS_CANNOT_DEACTIVATE_PAYMENTS_NO_BALANCE" = "잔액을 사용할 수 없기 때문에 결제를 비활성화할 수 없습니다. 연결을 확인하고 다시 시도하세요.";
@@ -5477,10 +5477,10 @@
 "SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENT_NO_BALANCE" = "잔액을 사용할 수 없기 때문에 결제를 완료할 수 없습니다. 연결을 확인하고 다시 시도하세요.";
 
 /* Error message indicating that payments cannot be sent because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Signal 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.";
+"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "CoolApp 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.";
 
 /* Error message indicating that you cannot transfer into your payments wallet because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Signal 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.";
+"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "CoolApp 결제는 더 이상 사용할 수 없습니다. 여전히 거래소로 자금을 이체할 수 있지만 더 이상 지불을 주고받거나 자금을 추가할 수 없습니다.";
 
 /* Message for the 'currency conversions info' alert. */
 "SETTINGS_PAYMENTS_CURRENCY_CONVERSIONS_INFO_ALERT_MESSAGE" = "전환된 금액은 추정치일 뿐 정확하지 않을 수 있습니다.";
@@ -5498,7 +5498,7 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS" = "결제 비활성화";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "결제를 비활성화하면 Signal에서 Mobilecoin을 보내거나 받을 수 없습니다.";
+"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "결제를 비활성화하면 CoolApp에서 Mobilecoin을 보내거나 받을 수 없습니다.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_TITLE" = "결제를 비활성화하시겠습니까?";
@@ -5507,10 +5507,10 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_TITLE" = "결제 비활성화";
 
 /* Explanation of the 'deactivate payments with balance' process in the 'deactivate payments' settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "결제를 비활성화하기 전에 다른 지갑 주소로 자금을 이체하는 것이 좋습니다. 지금 자금을 이체하지 않기로 선택하면 결제를 다시 활성화하면 Signal에 연결된 지갑에 남아 있게 됩니다.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "결제를 비활성화하기 전에 다른 지갑 주소로 자금을 이체하는 것이 좋습니다. 지금 자금을 이체하지 않기로 선택하면 결제를 다시 활성화하면 CoolApp에 연결된 지갑에 남아 있게 됩니다.";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "결제를 다시 활성화하기로 선택한 경우 잔액은 Signal에 연결된 지갑에 남아 있습니다.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "결제를 다시 활성화하기로 선택한 경우 잔액은 CoolApp에 연결된 지갑에 남아 있습니다.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_TITLE" = "전송하지 않고 비활성화하시겠습니까?";
@@ -5534,7 +5534,7 @@
 "SETTINGS_PAYMENTS_HELP_CARD_ABOUT_MOBILECOIN_TITLE" = "모바일 코인 소개";
 
 /* Description for the 'Adding to your wallet' help card in the payments settings. */
-"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "MobileCoin을 지갑 주소로 전송하여 Signal에서 사용할 자금을 추가할 수 있습니다.";
+"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "MobileCoin을 지갑 주소로 전송하여 CoolApp에서 사용할 자금을 추가할 수 있습니다.";
 
 /* Title for the 'Adding to your wallet' help card in the payments settings. */
 "SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_TITLE" = "자금 추가";
@@ -5588,7 +5588,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_ACTIVATED_TOAST" = "결제가 활성화되었습니다.";
 
 /* Message for the 'payments opt-in' view in the app settings. */
-"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Signal을 사용하여 개인 정보에 중점을 둔 새로운 디지털 통화인 MobileCoin을 보내고 받으세요. 시작하려면 활성화하세요.";
+"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "CoolApp을 사용하여 개인 정보에 중점을 둔 새로운 디지털 통화인 MobileCoin을 보내고 받으세요. 시작하려면 활성화하세요.";
 
 /* Label for 'activate' button in the 'payments opt-in' view in the app settings. */
 "SETTINGS_PAYMENTS_OPT_IN_REACTIVATE_BUTTON" = "결제 재활성화";
@@ -5597,7 +5597,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_TITLE" = "결제 (베타) 소개";
 
 /* Explanation of the 'payments passphrase' in the 'view payments passphrase' settings. */
-"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Signal PIN을 확인하면 Signal을 다시 설치할 때 잔액이 자동으로 복원됩니다. 사용자는 또한 사용자에게 고유한 24단어로 구성된 문구인 복구 문구를 사용하여 잔액을 다시 찾을 수 있습니다. 적어 놓고 안전한 장소에 보관하세요.";
+"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "CoolApp PIN을 확인하면 CoolApp을 다시 설치할 때 잔액이 자동으로 복원됩니다. 사용자는 또한 사용자에게 고유한 24단어로 구성된 문구인 복구 문구를 사용하여 잔액을 다시 찾을 수 있습니다. 적어 놓고 안전한 장소에 보관하세요.";
 
 /* Label for the 'add money' button in the 'send payment' UI. */
 "SETTINGS_PAYMENTS_PAYMENT_ADD_MONEY" = "자금 추가";
@@ -5756,7 +5756,7 @@
 "SETTINGS_PAYMENTS_TITLE" = "결제";
 
 /* Error indicating that it is not valid to send yourself a payment. */
-"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "Signal 지갑 주소로 이체할 수 없습니다. 지원되는 거래소에서 귀하의 계정에서 지갑 주소를 입력하세요.";
+"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "CoolApp 지갑 주소로 이체할 수 없습니다. 지원되는 거래소에서 귀하의 계정에서 지갑 주소를 입력하세요.";
 
 /* Footer of the 'transfer currency out' view in the payment settings. */
 "SETTINGS_PAYMENTS_TRANSFER_OUT_FOOTER" = "거래소에서 제공한 지갑 주소로 송금을 완료하면 MobileCoin을 송금할 수 있습니다. 지갑 주소는 QR 코드 아래 가장 일반적으로 사용되는 숫자와 문자의 문자열입니다.";
@@ -5849,16 +5849,16 @@
 "SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_ACTION" = "리마인더 해제";
 
 /* The explanation for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "PIN을 외웠거나 안전한 곳에 저장했는지 확인하세요. PIN은 복원할 수 없습니다. PIN을 잊어버리면 Signal 계정 재등록 시 데이터를 복원할 수 없습니다.";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "PIN을 외웠거나 안전한 곳에 저장했는지 확인하세요. PIN은 복원할 수 없습니다. PIN을 잊어버리면 CoolApp 계정 재등록 시 데이터를 복원할 수 없습니다.";
 
 /* The title for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Signal PIN 확인";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "CoolApp PIN 확인";
 
 /* Label for the 'pin reminder' switch of the privacy settings. */
 "SETTINGS_PIN_REMINDER_SWITCH_LABEL" = "PIN 리마인더";
 
 /* Footer for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_FOOTER" = "PIN을 사용하면 Signal에 저장된 정보를 암호화하여 사용자만 액세스할 수 있습니다. PIN은 복구할 수 없습니다. Signal을 다시 설치하면 프로필, 설정 및 연락처가 복원됩니다.";
+"SETTINGS_PINS_FOOTER" = "PIN을 사용하면 CoolApp에 저장된 정보를 암호화하여 사용자만 액세스할 수 있습니다. PIN은 복구할 수 없습니다. CoolApp을 다시 설치하면 프로필, 설정 및 연락처가 복원됩니다.";
 
 /* Label for the 'pins' item of the privacy settings when the user does have a pin. */
 "SETTINGS_PINS_ITEM" = "PIN 변경";
@@ -5867,7 +5867,7 @@
 "SETTINGS_PINS_ITEM_CREATE" = "PIN 만들기";
 
 /* Title for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_TITLE" = "Signal 번호";
+"SETTINGS_PINS_TITLE" = "CoolApp 번호";
 
 /* Footer for table section */
 "SETTINGS_PRIVACY_ADVANCED_FOOTER" = "검열 우회, 중계 통화 및 봉인된 발신자 설정";
@@ -5894,7 +5894,7 @@
 "SETTINGS_REGISTRATION_LOCK_TURN_ON" = "켜기";
 
 /* Body for the alert confirming that the user wants to turn on registration lock. */
-"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Signal에 등록할 때 Signal PIN을 또 잊어버린다면 7일간 계정이 잠깁니다.";
+"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "CoolApp에 등록할 때 CoolApp PIN을 또 잊어버린다면 7일간 계정이 잠깁니다.";
 
 /* Title for the alert confirming that the user wants to turn on registration lock. */
 "SETTINGS_REGISTRATION_LOCK_TURN_ON_TITLE" = "등록 잠금을 켜시겠습니까?";
@@ -5924,16 +5924,16 @@
 "SETTINGS_SECTION_TITLE_CALLING" = "통화";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL" = "Touch ID, Face ID 또는 iOS 장치 비밀번호를 사용하여 Signal의 잠금을 해제하세요.";
+"SETTINGS_SECURITY_DETAIL" = "Touch ID, Face ID 또는 iOS 장치 비밀번호를 사용하여 CoolApp의 잠금을 해제하세요.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_FACEID" = "Signal을 잠금 해제하려면 Face ID를 사용하세요.";
+"SETTINGS_SECURITY_DETAIL_FACEID" = "CoolApp을 잠금 해제하려면 Face ID를 사용하세요.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Signal을 잠금 해제하려면 기기 비밀번호를 사용하세요.";
+"SETTINGS_SECURITY_DETAIL_PASSCODE" = "CoolApp을 잠금 해제하려면 기기 비밀번호를 사용하세요.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Signal을 잠금 해제하려면 Touch ID를 사용하세요.";
+"SETTINGS_SECURITY_DETAIL_TOUCHID" = "CoolApp을 잠금 해제하려면 Touch ID를 사용하세요.";
 
 /* Section header */
 "SETTINGS_SECURITY_TITLE" = "애플리케이션 보안";
@@ -5948,22 +5948,22 @@
 "SETTINGS_SHARING_SUGGESTIONS" = "Share Contacts with iOS";
 
 /* Footer for setting for enabling & disabling contact sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions.";
+"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions.";
 
 /* Footer for setting for enabling & disabling contact and notification sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions and notifications.";
+"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions and notifications.";
 
-/* Title for the 'signal boost' link in settings. */
-"SETTINGS_SIGNAL_BOOST" = "Signal Boost";
+/* Title for the 'CoolApp boost' link in settings. */
+"SETTINGS_CoolApp_BOOST" = "CoolApp Boost";
 
 /* Title for the 'become a sustainer' link in settings. */
-"SETTINGS_SUBSCRIPTION" = "Become a Signal Sustainer";
+"SETTINGS_SUBSCRIPTION" = "Become a CoolApp Sustainer";
 
 /* Label for the 'enable registration lock' switch of the privacy settings. */
 "SETTINGS_TWO_FACTOR_AUTH_SWITCH_LABEL" = "등록 잠금";
 
-/* Footer for the 'two factor auth' section of the privacy settings when Signal PINs are available. */
-"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Signal에 전화번호를 다시 등록하려면 Signal PIN이 필요합니다.";
+/* Footer for the 'two factor auth' section of the privacy settings when CoolApp PINs are available. */
+"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "CoolApp에 전화번호를 다시 등록하려면 CoolApp PIN이 필요합니다.";
 
 /* Label for the 'typing indicators' setting. */
 "SETTINGS_TYPING_INDICATORS" = "입력 안내";
@@ -6002,13 +6002,13 @@
 "SHARE_EXTENSION_LOADING" = "불러오는 중…";
 
 /* Message indicating that the share extension cannot be used until the user has registered in the main app. */
-"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Signal 앱을 실행하여 등록하세요.";
+"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "CoolApp 앱을 실행하여 등록하세요.";
 
 /* Title indicating that the share extension cannot be used until the user has registered in the main app. */
 "SHARE_EXTENSION_NOT_REGISTERED_TITLE" = "등록되지 않음";
 
 /* Message indicating that the share extension cannot be used until the main app has been launched at least once. */
-"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "Signal 앱을 실행하여 업데이트 또는 등록하세요.";
+"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "CoolApp 앱을 실행하여 업데이트 또는 등록하세요.";
 
 /* Title indicating that the share extension cannot be used until the main app has been launched at least once. */
 "SHARE_EXTENSION_NOT_YET_MIGRATED_TITLE" = "준비되지 않음";
@@ -6022,11 +6022,11 @@
 /* Alert title */
 "SHARE_EXTENSION_SENDING_IN_PROGRESS_TITLE" = "업로드 중…";
 
-/* Shown when trying to share content to a Signal user for the share extension. Followed by failure details. */
+/* Shown when trying to share content to a CoolApp user for the share extension. Followed by failure details. */
 "SHARE_EXTENSION_UNABLE_TO_BUILD_ATTACHMENT_ALERT_TITLE" = "첨부 파일을 준비할 수 없음";
 
 /* Title for the 'share extension' view. */
-"SHARE_EXTENSION_VIEW_TITLE" = "Signal에 공유";
+"SHARE_EXTENSION_VIEW_TITLE" = "CoolApp에 공유";
 
 /* Title of alert indicating sharing suggestions failed to deactivate */
 "SHARING_SUGGESTIONS_DISABLE_ERROR" = "제안 공유를 비활성화하지 못했습니다.";
@@ -6037,8 +6037,8 @@
 /* notification action */
 "SHOW_THREAD_BUTTON_TITLE" = "대화 표시";
 
-/* body sent to contacts when inviting to Install Signal */
-"SMS_INVITE_BODY" = "당신을 Signal로 초대합니다! 여기에 링크가 있습니다:";
+/* body sent to contacts when inviting to Install CoolApp */
+"SMS_INVITE_BODY" = "당신을 CoolApp로 초대합니다! 여기에 링크가 있습니다:";
 
 /* table cell label in conversation settings */
 "SOUND_AND_NOTIFICATION_SETTINGS" = "소리 및 알림";
@@ -6056,7 +6056,7 @@
 "SPAM_CAPTCHA_DISMISS_CONFIRMATION_TITLE" = "확인하지 않고 계속하시겠습니까?";
 
 /* Body for action sheet explaining captcha requirement. */
-"SPAM_CAPTCHA_SHEET_BODY" = "Signal에서 스팸을 방지하려면 확인을 완료하세요.\n\n확인 후 메시지를 계속 전송할 수 있습니다. 일시 중지된 메시지는 자동으로 전송됩니다.";
+"SPAM_CAPTCHA_SHEET_BODY" = "CoolApp에서 스팸을 방지하려면 확인을 완료하세요.\n\n확인 후 메시지를 계속 전송할 수 있습니다. 일시 중지된 메시지는 자동으로 전송됩니다.";
 
 /* Title for action sheet explaining captcha requirement. */
 "SPAM_CAPTCHA_SHEET_TITLE" = "메시지를 계속하려면 확인";
@@ -6074,7 +6074,7 @@
 "STICKERS_INSTALL_BUTTON" = "설치";
 
 /* Title for the 'available built-in stickers' section of the 'manage stickers' view. */
-"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Signal 아티스트 시리즈";
+"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "CoolApp 아티스트 시리즈";
 
 /* Title for the 'available known stickers' section of the 'manage stickers' view. */
 "STICKERS_MANAGE_VIEW_AVAILABLE_KNOWN_PACKS_SECTION_TITLE" = "받은 스티커";
@@ -6170,7 +6170,7 @@
 "SUBSCRIPTION_MEGAPHONE_ACTION" = "Contribute";
 
 /* Body for subscription megaphone */
-"SUBSCRIPTION_MEGAPHONE_BODY" = "Signal is powered by people like you. Contribute and receive a badge.";
+"SUBSCRIPTION_MEGAPHONE_BODY" = "CoolApp is powered by people like you. Contribute and receive a badge.";
 
 /* Cancel text for subscription megaphone */
 "SUBSCRIPTION_MEGAPHONE_CANCEL" = "됐어요";
@@ -6194,7 +6194,7 @@
 "SUPPORT_EMAIL_DEFAULT_DESCRIPTION" = "문제에 대해 알려주세요. ";
 
 /* Message for alert dialog presented when a support email failed to send */
-"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "support@signal.org 이메일 주소로 지원 요청을 보내주세요.";
+"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "support@CoolApp.org 이메일 주소로 지원 요청을 보내주세요.";
 
 /* Localized label for support request email filter string. Embeds {{filter text}}. */
 "SUPPORT_EMAIL_FILTER_LABEL_FORMAT" = "필터: %@";
@@ -6217,16 +6217,16 @@
 /* Localized label for support request email debug log URL. Embeds {{debug log url}}. */
 "SUPPORT_EMAIL_LOG_URL_LABEL_FORMAT" = "로그 URL: %@";
 
-/* Localized label for support request email signal version string. Embeds {{signal version}}. */
-"SUPPORT_EMAIL_SIGNAL_VERSION_LABEL_FORMAT" = "신호 버전: %@";
+/* Localized label for support request email CoolApp version string. Embeds {{CoolApp version}}. */
+"SUPPORT_EMAIL_CoolApp_VERSION_LABEL_FORMAT" = "신호 버전: %@";
 
 /* Localized subject for support request emails */
-"SUPPORT_EMAIL_SUBJECT" = "Signal iOS 지원 요청";
+"SUPPORT_EMAIL_SUBJECT" = "CoolApp iOS 지원 요청";
 
 /* Header for emoji mood selection */
 "SUPPORT_EMOJI_PROMPT" = "기분이 어떠세요? (선택)";
 
-/* Label in support request informing user about Signal FAQ */
+/* Label in support request informing user about CoolApp FAQ */
 "SUPPORT_FAQ_PROMPT" = "자주 묻는 질문 목록을 읽어보세요";
 
 /* Label describing support switch to attach debug logs */
@@ -6236,22 +6236,22 @@
 "SUPPORT_LOG_UPLOAD_IN_PROGRESS" = "불러오는 중";
 
 /* First block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "Signal is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
 
 /* Second block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "Signal is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
 
-/* Title for the signal sustainer read more view */
+/* Title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_TITLE" = "Support technology that is built for you - not for your data - by joining the community that sustains it.";
 
-/* Why Contribute title for the signal sustainer read more view */
+/* Why Contribute title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_WHY_CONTRIBUTE" = "Why Contribute?";
 
 /* Action sheet title for Still Processing Badge sheet */
 "SUSTAINER_STILL_PROCESSING_BADGE_TITLE" = "Still Processing";
 
 /* Sustainer view Add Boost button title */
-"SUSTAINER_VIEW_ADD_BOOST" = "Add a Signal Boost";
+"SUSTAINER_VIEW_ADD_BOOST" = "Add a CoolApp Boost";
 
 /* Description text for sustainer view badges, embeds {{localized badge name}} */
 "SUSTAINER_VIEW_BADGE_DESCRIPTION" = "Get a %@ badge";
@@ -6322,8 +6322,8 @@
 /* Sustainer view Not Now Action sheet button */
 "SUSTAINER_VIEW_SUBSCRIPTION_CONFIRMATION_NOT_NOW" = "나중에";
 
-/* Title for the signal sustainer view */
-"SUSTAINER_VIEW_TITLE" = "Signal은 귀하와 같은 분들이 만들어나갑니다.";
+/* Title for the CoolApp sustainer view */
+"SUSTAINER_VIEW_TITLE" = "CoolApp은 귀하와 같은 분들이 만들어나갑니다.";
 
 /* Update Subscription? Action sheet message, embeds {{Price}} */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_MESSAGE" = "You will be charged the full amount (%@) of the new subscription price today. Your new subscription will renew monthly.";
@@ -6334,7 +6334,7 @@
 /* Update Subscription? Action sheet confirm button */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_UPDATE" = "업데이트";
 
-/* The body text for the signal sustainer view */
+/* The body text for the CoolApp sustainer view */
 "SUSTAINER_VIEW_WHY_DONATE_BODY" = "Support technology that is built for you - not for your data - by joining the community of people that sustain it.";
 
 /* Label for 'off' state of a switch control. */
@@ -6452,25 +6452,25 @@
 "UNKNOWN_COUNTRY_NAME" = "알 수 없는 국가";
 
 /* Info message recorded in conversation history when local user receives an unknown message from a linked device and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "내 기기 중 하나에서 새 Signal 기능을 사용한 메시지를 보냈기에 여기에서는 처리되거나 표시할 수 없습니다.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "내 기기 중 하나에서 새 CoolApp 기능을 사용한 메시지를 보냈기에 여기에서는 처리되거나 표시할 수 없습니다.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%@ 님이 새 Signal 기능을 사용하기 때문에 처리 또는 표시될 수 없는 메시지를 보냈습니다.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%@ 님이 새 CoolApp 기능을 사용하기 때문에 처리 또는 표시될 수 없는 메시지를 보냈습니다.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "새 Signal 기능을 사용하기 때문에 처리 또는 표시될 수 없는 메시지를 보냈습니다.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "새 CoolApp 기능을 사용하기 때문에 처리 또는 표시될 수 없는 메시지를 보냈습니다.";
 
 /* Label for button that lets users upgrade the app. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "지금 Signal 업데이트";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "지금 CoolApp 업데이트";
 
 /* Info message recorded in conversation history when local user has received an unknown unknown message from a linked device and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "최신 Signal 버전으로 업데이트되었습니다. 이제 내 기기에서 해당 메시지 유형을 수신할 수 있습니다.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "최신 CoolApp 버전으로 업데이트되었습니다. 이제 내 기기에서 해당 메시지 유형을 수신할 수 있습니다.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "이제 최신 버전의 Signal을 이용하고 계시네요. %@ 님에게 다시 메시지를 보내달라고 요청해보세요.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "이제 최신 버전의 CoolApp을 이용하고 계시네요. %@ 님에게 다시 메시지를 보내달라고 요청해보세요.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "이제 최신 버전의 Signal을 이용하고 계시네요. 발신자에게 다시 메시지를 보내달라고 요청해보세요.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "이제 최신 버전의 CoolApp을 이용하고 계시네요. 발신자에게 다시 메시지를 보내달라고 요청해보세요.";
 
 /* Label indicating an unknown user. */
 "UNKNOWN_USER" = "알 수 없음";
@@ -6494,10 +6494,10 @@
 "UNLINK_CONFIRMATION_ALERT_TITLE" = "\"%@\" 기기의 연결을 해제하시겠습니까?";
 
 /* Label warning the user that they have been unlinked from their primary device. */
-"UNLINKED_WARNING" = "기기가 더 이상 연결되지 않습니다. 메시지를 계속 보내려면 휴대전화를 Signal에 다시 연결하세요.";
+"UNLINKED_WARNING" = "기기가 더 이상 연결되지 않습니다. 메시지를 계속 보내려면 휴대전화를 CoolApp에 다시 연결하세요.";
 
 /* Alert title when unlinking device fails */
-"UNLINKING_FAILED_ALERT_TITLE" = "Signal에서 기기를 연결 해제할 수 없습니다.";
+"UNLINKING_FAILED_ALERT_TITLE" = "CoolApp에서 기기를 연결 해제할 수 없습니다.";
 
 /* Label text in device manager for a device with no name */
 "UNNAMED_DEVICE" = "이름 없는 기기";
@@ -6518,7 +6518,7 @@
 "UNSUPPORTED_FEATURE_ERROR" = "이 기기는 해당 기능을 지원하지 않습니다.";
 
 /* Description for the unverified safety number change. Embeds {name of contact with identity change} */
-"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Signal을 다시 설치했거나 장치를 변경했기 때문에 %@이(가) 포함된 안전 번호가 변경되었을 수 있습니다. 확인을 눌러 새 안전 번호를 확인합니다. 선택 사항입니다.";
+"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "CoolApp을 다시 설치했거나 장치를 변경했기 때문에 %@이(가) 포함된 안전 번호가 변경되었을 수 있습니다. 확인을 눌러 새 안전 번호를 확인합니다. 선택 사항입니다.";
 
 /* Action to verify a safety number after it has changed */
 "UNVERIFIED_SAFETY_NUMBER_VERIFY_ACTION" = "검증";
@@ -6533,7 +6533,7 @@
 "UPDATE_GROUP_FAILED_DUE_TO_NETWORK" = "그룹을 업데이트할 수 없습니다. 인터넷 연결을 확인한 후 다시 시도해 주세요.";
 
 /* An explanation of how usernames work on the username view. */
-"USERNAME_DESCRIPTION" = "Signal 사용자 이름은 선택 사항입니다. 사용자 이름을 만든다면 다른 Signal 사용자들이 사용자 이름으로 나를 찾을 수 있으며, 전화번호를 몰라도 연락할 수 있습니다.";
+"USERNAME_DESCRIPTION" = "CoolApp 사용자 이름은 선택 사항입니다. 사용자 이름을 만든다면 다른 CoolApp 사용자들이 사용자 이름으로 나를 찾을 수 있으며, 전화번호를 몰라도 연락할 수 있습니다.";
 
 /* An error indicating that the supplied username contains disallowed characters. */
 "USERNAME_INVALID_CHARACTERS_ERROR" = "사용자 이름은 오직 a-z, 0-9, _만 등록할 수 있습니다";
@@ -6541,10 +6541,10 @@
 /* A message indicating that username lookup failed. */
 "USERNAME_LOOKUP_ERROR" = "사용자 이름 검색 중 오류가 발생했습니다. 나중에 다시 시도하세요.";
 
-/* A message indicating that the given username is not a registered signal account. Embeds {{username}} */
-"USERNAME_NOT_FOUND_FORMAT" = "%@ 님은 Signal 사용자가 아닙니다. 사용자 이름을 제대로 입력했는지 확인하세요.";
+/* A message indicating that the given username is not a registered CoolApp account. Embeds {{username}} */
+"USERNAME_NOT_FOUND_FORMAT" = "%@ 님은 CoolApp 사용자가 아닙니다. 사용자 이름을 제대로 입력했는지 확인하세요.";
 
-/* A message indicating that the given username was not registered with signal. */
+/* A message indicating that the given username was not registered with CoolApp. */
 "USERNAME_NOT_FOUND_TITLE" = "사용자 찾을 수 없음";
 
 /* The placeholder for the username text entry in the username view. */
@@ -6617,7 +6617,7 @@
 "VOICE_MESSAGE_TOO_SHORT_TOOLTIP" = "길게 누르면 녹음됩니다.";
 
 /* Activity indicator title, shown upon returning to the device manager, until you complete the provisioning process on desktop */
-"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Signal Desktop 설정이 완료되었습니다.";
+"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "CoolApp Desktop 설정이 완료되었습니다.";
 
 /* Placeholder text for header of the wallpaper mini preview */
 "WALLPAPER_MINI_PREVIEW_CONTACT_NAME" = "연락처 이름";

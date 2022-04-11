@@ -2,7 +2,7 @@
 "AB_PERMISSION_MISSING_ACTION_NOT_NOW" = "ഇപ്പോൾ വേണ്ട";
 
 /* Title for the 'about' help section */
-"ABOUT_SECTION_TITLE" = "Signal-നെ ക്കുറിച്ച്";
+"ABOUT_SECTION_TITLE" = "CoolApp-നെ ക്കുറിച്ച്";
 
 /* Action sheet item */
 "ACCEPT_NEW_IDENTITY_ACTION" = "പുതിയ സുരക്ഷാ നമ്പർ സ്വീകരിക്കുക";
@@ -35,10 +35,10 @@
 "ACCESSIBILITY_LABEL_VOICE_MEMO_FORMAT" = "ശബ്ദ സന്ദേശം %@ സെക്കൻഡ്";
 
 /* Label for 'audio call' button in contact view. */
-"ACTION_AUDIO_CALL" = "Signal കോൾ";
+"ACTION_AUDIO_CALL" = "CoolApp കോൾ";
 
 /* Label for 'invite' button in contact view. */
-"ACTION_INVITE" = "Signal-ലേക്ക് ക്ഷണിക്കുക";
+"ACTION_INVITE" = "CoolApp-ലേക്ക് ക്ഷണിക്കുക";
 
 /* Label for button that lets you send a message to a contact. */
 "ACTION_SEND_MESSAGE" = "മെസേജ് അയയ്ക്കുക";
@@ -149,7 +149,7 @@
 "APN_Message" = "നിങ്ങൾക്ക് പുതിയ സന്ദേശങ്ങൾ ഉണ്ടായിരിക്കാം";
 
 /* Message for the 'app launch failed' alert. */
-"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Signal ലോഞ്ച് ചെയ്യാൻ കഴിയുന്നില്ല. ദയവായി support@signal.org ലേക്ക് ഒരു ഡീബഗ് ലോഗ് അയയ്ക്കുക, നമുക്ക് ഈ പ്രശ്നത്തിനൊരു പരിഹാരം കാണാൻ വേണ്ടി.";
+"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "CoolApp ലോഞ്ച് ചെയ്യാൻ കഴിയുന്നില്ല. ദയവായി support@CoolApp.org ലേക്ക് ഒരു ഡീബഗ് ലോഗ് അയയ്ക്കുക, നമുക്ക് ഈ പ്രശ്നത്തിനൊരു പരിഹാരം കാണാൻ വേണ്ടി.";
 
 /* Title for the 'app launch failed' alert. */
 "APP_LAUNCH_FAILURE_ALERT_TITLE" = "പിഴവ്";
@@ -158,13 +158,13 @@
 "APP_LAUNCH_FAILURE_COULD_NOT_LOAD_DATABASE" = "ഡാറ്റാബേസ് ലോഡ് ചെയ്യാൻ കഴിയുന്നില്ല.";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
-"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Signalന്റെ ഏറ്റവും പുതിയ വേർഷനിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക.";
+"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "CoolAppന്റെ ഏറ്റവും പുതിയ വേർഷനിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക.";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
 "APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_TITLE" = "തിരിച്ചറിയാനാകാത്ത ഡാറ്റാബേസ് പതിപ്പ്";
 
 /* Error indicating that the app could not restore transferred data. */
-"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "നിങ്ങളുടെ പഴയ ഡിവൈസിൽ നിന്ന് മാറ്റം ചെയ്ത ഡാറ്റ റീസ്റ്റോർ ചെയ്യാൻ കഴിയുന്നില്ല.  ദയവായി support@signal.org ലേക്ക് ഒരു ഡീബഗ് ലോഗ് അയയ്ക്കുക, നമുക്ക് ഈ പ്രശ്നത്തിനൊരു പരിഹാരം കാണാൻ വേണ്ടി.  നിങ്ങൾ Signal റീഇൻസ്റ്റാൾ ചെയ്യുകയാണെങ്കിൽ, നിങ്ങളുടെ സന്ദേശ ചരിത്രം നഷ്ടപ്പെട്ടേക്കാം.";
+"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "നിങ്ങളുടെ പഴയ ഡിവൈസിൽ നിന്ന് മാറ്റം ചെയ്ത ഡാറ്റ റീസ്റ്റോർ ചെയ്യാൻ കഴിയുന്നില്ല.  ദയവായി support@CoolApp.org ലേക്ക് ഒരു ഡീബഗ് ലോഗ് അയയ്ക്കുക, നമുക്ക് ഈ പ്രശ്നത്തിനൊരു പരിഹാരം കാണാൻ വേണ്ടി.  നിങ്ങൾ CoolApp റീഇൻസ്റ്റാൾ ചെയ്യുകയാണെങ്കിൽ, നിങ്ങളുടെ സന്ദേശ ചരിത്രം നഷ്ടപ്പെട്ടേക്കാം.";
 
 /* Error indicating that the app could not restore transferred data. */
 "APP_LAUNCH_FAILURE_RESTORE_FAILED_TITLE" = "കൈമാറ്റം പൂർത്തീകരിക്കാൻ കഴിയുന്നില്ല";
@@ -179,7 +179,7 @@
 "APP_UPDATE_NAG_ALERT_MESSAGE_FORMAT" = "വേർഷൻ %@ ഇപ്പോൾ ആപ്പ് സ്റ്റോറിൽ ലഭ്യമാണ്.";
 
 /* Title for the 'new app version available' alert. */
-"APP_UPDATE_NAG_ALERT_TITLE" = "Signal-ന്റെ പുതിയ പതിപ്പ് ലഭ്യമാണ്";
+"APP_UPDATE_NAG_ALERT_TITLE" = "CoolApp-ന്റെ പുതിയ പതിപ്പ് ലഭ്യമാണ്";
 
 /* Label for the 'update' button in the 'new app version available' alert. */
 "APP_UPDATE_NAG_ALERT_UPDATE_BUTTON" = "അപ്‌ഡേറ്റ്";
@@ -194,7 +194,7 @@
 "APPEARANCE_SETTINGS_SYSTEM_THEME_NAME" = "സിസ്റ്റം";
 
 /* Name of application */
-"APPLICATION_NAME" = "Signal";
+"APPLICATION_NAME" = "CoolApp";
 
 /* Label for the archive button for conversations list view */
 "ARCHIVE_ACTION" = "ആർക്കൈവ്";
@@ -211,7 +211,7 @@
 /* Error that outgoing attachments could not be exported. */
 "ATTACHMENT_APPROVAL_FAILED_TO_EXPORT" = "അറ്റാച്ച്‌മെന്റ് എക്സ്‌പോർട്ട് ചെയ്യാൻ പരാജയപ്പെട്ടു";
 
-/* alert text when Signal was unable to save a copy of the attachment to the system photo library */
+/* alert text when CoolApp was unable to save a copy of the attachment to the system photo library */
 "ATTACHMENT_APPROVAL_FAILED_TO_SAVE" = "സംരക്ഷിക്കാൻ പരാജയപെട്ടു ";
 
 /* Format string for file extension label in call interstitial view */
@@ -370,20 +370,20 @@
 /* The title for the badge configuration page */
 "BADGE_CONFIGURATION_TITLE" = "ബാഡ്ജുകള്‍";
 
-/* Text prompting the user to become a signal sustainer */
+/* Text prompting the user to become a CoolApp sustainer */
 "BADGE_DETAILS_BECOME_A_SUSTAINER" = "പരിപാലകര്‍ ആകുക";
 
 /* Text prompting the user to boost */
-"BADGE_DETAILS_GIVE_A_BOOST" = "Signal ന് ഒരു ബൂസ്റ്റ് നല്‍കുക";
+"BADGE_DETAILS_GIVE_A_BOOST" = "CoolApp ന് ഒരു ബൂസ്റ്റ് നല്‍കുക";
 
 /* String explaing to the user that their boost badge has expired on the badge expiry sheetsheet. */
-"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "നിങ്ങളുടെ ബൂസ്റ്റ് ബാഡ്‌ജ് കാലഹരണപ്പെട്ടു ഇനി അത് നിങ്ങളുടെ പ്രൊഫൈലിൽ ദൃശ്യമാകില്ല.\n\nനിങ്ങൾക്ക് Signal ഉപയോഗിക്കുന്നത് തുടരാം, എന്നാൽ നിങ്ങൾക്കായി നിർമ്മിച്ച സാങ്കേതികവിദ്യയെ പിന്തുണയ്‌ക്കാൻ, ദയവായി പ്രതിമാസ പരിപാലകര്‍ ആകുന്നത് പരിഗണിക്കുക.";
+"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "നിങ്ങളുടെ ബൂസ്റ്റ് ബാഡ്‌ജ് കാലഹരണപ്പെട്ടു ഇനി അത് നിങ്ങളുടെ പ്രൊഫൈലിൽ ദൃശ്യമാകില്ല.\n\nനിങ്ങൾക്ക് CoolApp ഉപയോഗിക്കുന്നത് തുടരാം, എന്നാൽ നിങ്ങൾക്കായി നിർമ്മിച്ച സാങ്കേതികവിദ്യയെ പിന്തുണയ്‌ക്കാൻ, ദയവായി പ്രതിമാസ പരിപാലകര്‍ ആകുന്നത് പരിഗണിക്കുക.";
 
 /* String explaing to the user that their boost badge has expired while they are a current subscription sustainer on the badge expiry sheetsheet. */
 "BADGE_EXIPRED_BOOST_CURRENT_SUSTAINER_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can reactivate your Boost badge for another 30 days with a one-time contribution.";
 
 /* String explaing to the user that their subscription badge has expired on the badge expiry sheetsheet. Embed {badge name}. */
-"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using Signal but to support the app and reactivate your badge, renew now.";
+"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using CoolApp but to support the app and reactivate your badge, renew now.";
 
 /* Button title for boost on the badge expiration sheet, used if the user is not already a sustainer. */
 "BADGE_EXPIRED_BOOST_RENEWAL_BUTTON" = "പരിപാലകര്‍ ആകുക";
@@ -416,7 +416,7 @@
 "BADGE_THANKS_TOGGLE_FOOTER" = "നിങ്ങൾക്ക് ഒന്നിലധികം ബാഡ്‌ജുകൾ ഉള്ളപ്പോൾ, നിങ്ങളുടെ പ്രൊഫൈലിൽ മറ്റുള്ളവർക്ക് കാണുന്നതിന് ഫീച്ചർ ചെയ്യുന്നതിനായി നിങ്ങൾക്ക് ഒന്ന് തിരഞ്ഞെടുക്കാം.";
 
 /* String explaing to the user that they've earned a badge on the badge thank you sheet. Embed {badge name}. */
-"BADGE_THANKS_YOU_EARNED_FORMAT" = "നിങ്ങൾ %@ ബാഡ്ജ് നേടി! നിങ്ങളുടെ പ്രൊഫൈലിൽ ഈ ബാഡ്‌ജ് പ്രദർശിപ്പിച്ച് അവബോധം സൃഷ്ടിക്കാൻ Signal-നെ സഹായിക്കുക.";
+"BADGE_THANKS_YOU_EARNED_FORMAT" = "നിങ്ങൾ %@ ബാഡ്ജ് നേടി! നിങ്ങളുടെ പ്രൊഫൈലിൽ ഈ ബാഡ്‌ജ് പ്രദർശിപ്പിച്ച് അവബോധം സൃഷ്ടിക്കാൻ CoolApp-നെ സഹായിക്കുക.";
 
 /* Accessibility label for banner close button */
 "BANNER_CLOSE_ACCESSIBILITY_LABEL" = "ബാനർ അടയ്‌ക്കുക";
@@ -493,13 +493,13 @@
 /* Tooltip highlighting the blur image editing tool. */
 "BLUR_TOOLTIP" = "പുതിയത്: മുഖങ്ങൾ മങ്ങിക്കുക അല്ലെങ്കിൽ മങ്ങിക്കാൻ എവിടെയെങ്കിലും വരയ്ക്കുക";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "BOOST_VIEW_AMOUNT_LABEL" = "Set currency";
 
-/* The body text for the donate to signal view */
+/* The body text for the donate to CoolApp view */
 "BOOST_VIEW_BODY" = "Say “Thanks!” and earn the Boost badge for 30 days.";
 
-/* The body text for the donate to signal view, embeds {{Expiration}} */
+/* The body text for the donate to CoolApp view, embeds {{Expiration}} */
 "BOOST_VIEW_BODY_WITH_EXPIRATION_FORMAT" = "Your Boost badge will expire on %@.";
 
 /* Default text for the custom amount field of the boost view. */
@@ -508,17 +508,17 @@
 /* Text explaining there are other ways to donate on the boost view. */
 "BOOST_VIEW_OTHER_WAYS" = "പണമടയ്ക്കാനുള്ള കൂടുതല്‍ മാർഗങ്ങൾ";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_LARGER_AMOUNT" = "സംഭാവന ചെയ്യാൻ ഒരു വലിയ തുക തിരഞ്ഞെടുക്കുക";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_SMALLER_AMOUNT" = "സംഭാവന നൽകാൻ ഒരു ചെറിയ തുക തിരഞ്ഞെടുക്കുക";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_AN_AMOUNT" = "സംഭാവന ചെയ്യാൻ ഒരു തുക തിരഞ്ഞെടുക്കുക";
 
-/* Title for the donate to signal view */
-"BOOST_VIEW_TITLE" = "Signal ന് ഒരു ബൂസ്റ്റ് നല്‍കുക";
+/* Title for the donate to CoolApp view */
+"BOOST_VIEW_TITLE" = "CoolApp ന് ഒരു ബൂസ്റ്റ് നല്‍കുക";
 
 /* Label for the 'add' button. */
 "BUTTON_ADD" = "ചേർക്കുക";
@@ -599,7 +599,7 @@
 "CALL_AUDIO_MISSED_WEEK_NOTIFICATION_BODY_FORMAT" = "📞 Missed audio call on %@";
 
 /* Alert message when calling and permissions for microphone are missing */
-"CALL_AUDIO_PERMISSION_MESSAGE" = "നിങ്ങൾക്ക് Signal വഴി കോൾ ചെയ്യുന്നതിനും വോയിസ് മെസേജുകൾ റെക്കോഡ് ചെയ്യുന്നതിനും iOS സെറ്റിംഗ്സ് ആപ്പിൽ മൈക്രോഫോൺ അക്സസ്സ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
+"CALL_AUDIO_PERMISSION_MESSAGE" = "നിങ്ങൾക്ക് CoolApp വഴി കോൾ ചെയ്യുന്നതിനും വോയിസ് മെസേജുകൾ റെക്കോഡ് ചെയ്യുന്നതിനും iOS സെറ്റിംഗ്സ് ആപ്പിൽ മൈക്രോഫോൺ അക്സസ്സ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
 /* Alert title when calling and permissions for microphone are missing */
 "CALL_AUDIO_PERMISSION_TITLE" = "മൈക്രോഫോൺ പ്രാപ്യത ആവശ്യമാണ്";
@@ -614,7 +614,7 @@
 "CALL_SCREEN_STATUS_NO_ANSWER" = "ഉത്തരമില്ല";
 
 /* embeds {{Call Status}} in call screen label. For ongoing calls, {{Call Status}} is a seconds timer like 01:23, otherwise {{Call Status}} is a short text like 'Ringing', 'Busy', or 'Failed Call' */
-"CALL_STATUS_FORMAT" = "Signal %@";
+"CALL_STATUS_FORMAT" = "CoolApp %@";
 
 /* Label for call button for alert offering to call a user. */
 "CALL_USER_ALERT_CALL_BUTTON" = "വിളിക്കുക";
@@ -677,7 +677,7 @@
 "CALLING_MEMBER_VIEW_YOUR_CAMERA_IS_OFF" = "നിങ്ങളുടെ ക്യാമറ ഓഫാണ്";
 
 /* The generic name used for calls if CallKit privacy is enabled */
-"CALLKIT_ANONYMOUS_CONTACT_NAME" = "Signal ഉപയോക്താവ്";
+"CALLKIT_ANONYMOUS_CONTACT_NAME" = "CoolApp ഉപയോക്താവ്";
 
 /* Accessibility hint describing what you can do with the camera button */
 "CAMERA_BUTTON_HINT" = "ഒരു ചിത്രം എടുത്ത ശേഷം അയക്കുക";
@@ -782,7 +782,7 @@
 "COMPOSE_MESSAGE_USERNAME_SEARCH_SECTION_TITLE" = "ഉപയോക്തൃനാമം തിരയൽ";
 
 /* Multi-line label explaining why compose-screen contact picker is empty. */
-"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ ആരൊക്കെ Signal  ഉപയോഗിക്കുന്നു എന്നറിയാൻ നിങ്ങൾക്ക് iOS സെറ്റിംഗ്സ് ആപ്പിൽ കോൺടാക്സ് അക്സസ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
+"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ ആരൊക്കെ CoolApp  ഉപയോഗിക്കുന്നു എന്നറിയാൻ നിങ്ങൾക്ക് iOS സെറ്റിംഗ്സ് ആപ്പിൽ കോൺടാക്സ് അക്സസ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
 /* Configure reactions title text */
 "CONFIGURE_REACTIONS" = "Configure Reactions";
@@ -916,7 +916,7 @@
 /* Error indicating that at least one contact field must be selected before sharing a contact. */
 "CONTACT_SHARE_NO_FIELDS_SELECTED" = "കോൺടാക്ട് ഫീൽഡുകൾ ഒന്നും സെലക്ട് ചെയ്തില്ല.";
 
-/* Button text to initiate an email to signal support staff */
+/* Button text to initiate an email to CoolApp support staff */
 "CONTACT_SUPPORT" = "കോൺടാക്ട് സഹായം";
 
 /* The localized representation of the 'feature request' support filter. */
@@ -958,14 +958,14 @@
 /* A brief localized representation of the 'something not working' support filter. */
 "CONTACT_SUPPORT_FILTER_SOMETHING_NOT_WORKING_SHORT" = "എന്തോ പ്രവർത്തിക്കുന്നില്ല";
 
-/* The localized representation of the 'Sustainers & Signal Boost' support filter. */
-"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & Signal Boost";
+/* The localized representation of the 'Sustainers & CoolApp Boost' support filter. */
+"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & CoolApp Boost";
 
-/* A brief localized representation of the 'Sustainers & Signal Boost' support filter. */
+/* A brief localized representation of the 'Sustainers & CoolApp Boost' support filter. */
 "CONTACT_SUPPORT_FILTER_SUSTAINERS_SHORT" = "Sustainers & Boost";
 
 /* Alert body */
-"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Signal ന് നിങ്ങളുടെ സഹായാഭ്യർത്ഥന പൂർത്തിയാക്കാൻ കഴിഞ്ഞില്ല.";
+"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "CoolApp ന് നിങ്ങളുടെ സഹായാഭ്യർത്ഥന പൂർത്തിയാക്കാൻ കഴിഞ്ഞില്ല.";
 
 /* button text */
 "CONTACT_SUPPORT_PROMPT_ERROR_TRY_AGAIN" = "വീണ്ടും ശ്രമിക്കുക";
@@ -1058,7 +1058,7 @@
 "CONVERSATION_PICKER_SECTION_RECENTS" = "അടുത്തിടെയുള്ള ചാറ്റുകൾ";
 
 /* table section header for section containing contacts */
-"CONVERSATION_PICKER_SECTION_SIGNAL_CONTACTS" = "ആളുകൾ";
+"CONVERSATION_PICKER_SECTION_CoolApp_CONTACTS" = "ആളുകൾ";
 
 /* navbar header */
 "CONVERSATION_PICKER_TITLE" = "സ്വീകർത്താക്കളെ തിരഞ്ഞെടുക്കുക";
@@ -1100,7 +1100,7 @@
 "CONVERSATION_SETTINGS_AUDIO_CALL_BUTTON" = "ഓഡിയോ";
 
 /* Footer string for a contact's badges in conversation settings */
-"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Signal-നെ പിന്തുണച്ച് നിങ്ങളുടെ പ്രൊഫൈലിനായി ബാഡ്ജുകൾ നേടുക. കൂടുതലറിയാൻ ഒരു ബാഡ്ജിൽ തൊടുക.";
+"CONVERSATION_SETTINGS_BADGES_FOOTER" = "CoolApp-നെ പിന്തുണച്ച് നിങ്ങളുടെ പ്രൊഫൈലിനായി ബാഡ്ജുകൾ നേടുക. കൂടുതലറിയാൻ ഒരു ബാഡ്ജിൽ തൊടുക.";
 
 /* Header title for a contact's badges in conversation settings */
 "CONVERSATION_SETTINGS_BADGES_HEADER" = "ബാഡ്ജുകള്‍";
@@ -1397,7 +1397,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_ACTION" = "അക്കൗണ്ട് ഇല്ലാതാക്കുക";
 
 /* Title for the action sheet message of the 'delete account confirmation' view controller. */
-"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "ഇത് നിങ്ങളുടെ Signal അക്കൗണ്ട് ഇല്ലാതാക്കുകയും ആപ്ലിക്കേഷൻ പുന:സജ്ജമാക്കുകയും ചെയ്യും. ഈ പ്രക്രിയ പൂർത്തിയായശേഷം ആപ്പ് അടയ്ക്കും.";
+"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "ഇത് നിങ്ങളുടെ CoolApp അക്കൗണ്ട് ഇല്ലാതാക്കുകയും ആപ്ലിക്കേഷൻ പുന:സജ്ജമാക്കുകയും ചെയ്യും. ഈ പ്രക്രിയ പൂർത്തിയായശേഷം ആപ്പ് അടയ്ക്കും.";
 
 /* Title for the action sheet confirmation title of the 'delete account confirmation' view controller. */
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_TITLE" = "നിങ്ങൾക്ക് നിങ്ങളുടെ അക്കൌണ്ട് ഇല്ലാതക്കണം എന്നത് ഉറപ്പാണോ?";
@@ -1421,7 +1421,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_PHONE_NUMBER_TITLE" = "ഫോൺ നമ്പർ";
 
 /* Section header */
-"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "നിങ്ങളുടെ Signal നമ്പർ സ്ഥിരീകരിക്കുക";
+"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "നിങ്ങളുടെ CoolApp നമ്പർ സ്ഥിരീകരിക്കുക";
 
 /* Title for the 'delete account' confirmation view. */
 "DELETE_ACCOUNT_CONFIRMATION_TITLE" = "അക്കൗണ്ട് ഇല്ലാതാക്കുക";
@@ -1445,9 +1445,9 @@
 "DEREGISTRATION_REREGISTER_WITH_SAME_PHONE_NUMBER" = "ഈ ഫോൺ നമ്പർ റീ-രജിസ്റ്റർ ചെയ്യുക";
 
 /* Label warning the user that they have been de-registered. */
-"DEREGISTRATION_WARNING" = "ഡിവൈസ് ഇതുവരെ രജിസ്റ്റർ ചെയ്യപ്പെട്ടിട്ടില്ല.  നിങ്ങളുടെ ഫോൺ നമ്പർ Signal ലുമായി രജിസ്റ്റർ ചെയ്തിരിക്കുന്നത് മറ്റൊരു ഡിവൈസിൽ ആയിരിക്കും. റീ-രജിസ്റ്റർ ചെയ്യാൻ ടാപ് ചെയ്യുക.";
+"DEREGISTRATION_WARNING" = "ഡിവൈസ് ഇതുവരെ രജിസ്റ്റർ ചെയ്യപ്പെട്ടിട്ടില്ല.  നിങ്ങളുടെ ഫോൺ നമ്പർ CoolApp ലുമായി രജിസ്റ്റർ ചെയ്തിരിക്കുന്നത് മറ്റൊരു ഡിവൈസിൽ ആയിരിക്കും. റീ-രജിസ്റ്റർ ചെയ്യാൻ ടാപ് ചെയ്യുക.";
 
-/* {{Short Date}} when device last communicated with Signal Server. */
+/* {{Short Date}} when device last communicated with CoolApp Server. */
 "DEVICE_LAST_ACTIVE_AT_LABEL" = "അവസാനത്തെ സജീവമായ %@";
 
 /* {{Short Date}} when device was linked. */
@@ -1469,7 +1469,7 @@
 "DEVICE_TRANSFER_CHOICE_EXPLANATION" = "നിങ്ങൾക്കുള്ള പഴയ iOS ഡിവൈസ് ആണെങ്കിൽ, നിങ്ങൾക്ക് നിങ്ങളുടെ അക്കൗണ്ടും സന്ദേശങ്ങളും ഈ ഡിവൈസിലേക്ക് സുരക്ഷിതമായി കൈമാറ്റം ചെയ്യാൻ കഴിയും.";
 
 /* The explanation for the device transfer 'choice' view when linking a device */
-"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "ലിങ്ക് ചെയ്ത ഒരു ഐപാഡിലാണ് നിങ്ങൾ ഇതിന് മുന്നെ Signal ഉപയോഗിച്ചിരുന്നതെങ്കിൽ, നിങ്ങൾക്ക് നിങ്ങളുടെ അക്കൗണ്ടും സന്ദേശങ്ങളും ഈ ഡിവൈസിലേക്ക് സുരക്ഷിതമായി കൈമാറ്റം ചെയ്യാൻ കഴിയും.";
+"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "ലിങ്ക് ചെയ്ത ഒരു ഐപാഡിലാണ് നിങ്ങൾ ഇതിന് മുന്നെ CoolApp ഉപയോഗിച്ചിരുന്നതെങ്കിൽ, നിങ്ങൾക്ക് നിങ്ങളുടെ അക്കൗണ്ടും സന്ദേശങ്ങളും ഈ ഡിവൈസിലേക്ക് സുരക്ഷിതമായി കൈമാറ്റം ചെയ്യാൻ കഴിയും.";
 
 /* The body for the device transfer 'choice' view 'register' option */
 "DEVICE_TRANSFER_CHOICE_REGISTER_BODY" = "നിങ്ങളുടെ അക്കൗണ്ടും സന്ദേശങ്ങളും കൈമാറ്റം ചെയ്യാതെ തന്നെ തുടരുക";
@@ -1499,7 +1499,7 @@
 "DEVICE_TRANSFER_CHOICE_TRANSFER_TITLE" = "iOS ഡിവൈസിൽ നിന്നുള്ള കൈമാറ്റം";
 
 /* A warning for the device transfer 'choice' view indicating you can only have one device registered with your number */
-"DEVICE_TRANSFER_CHOICE_WARNING" = "തുടർന്നാൽ, ഇതേ ഫോൺ നമ്പർ നിലവിൽ രജിസ്റ്റർ ചെയ്തിരിക്കുന്ന മറ്റ് ഡിവൈസുകളിൽ  Signal നെ  സജീവമല്ലാതാക്കും.";
+"DEVICE_TRANSFER_CHOICE_WARNING" = "തുടർന്നാൽ, ഇതേ ഫോൺ നമ്പർ നിലവിൽ രജിസ്റ്റർ ചെയ്തിരിക്കുന്ന മറ്റ് ഡിവൈസുകളിൽ  CoolApp നെ  സജീവമല്ലാതാക്കും.";
 
 /* An error indicating that we were unable to verify the identity of the new device to complete the transfer */
 "DEVICE_TRANSFER_ERROR_CERTIFICATE_MISMATCH" = "നിങ്ങളുടെ പുതിയ ഡിവൈസ് പരിശോധിക്കാൻ കഴിയുന്നില്ല, ദയവായി വീണ്ടും ശ്രമിക്കുക";
@@ -1517,16 +1517,16 @@
 "DEVICE_TRANSFER_ERROR_NOT_ENOUGH_SPACE" = "ഈ കൈമാറ്റം പൂർത്തിയാക്കാൻ വേണ്ട ഫ്രീ സ്പെയ്സ് ഇല്ല";
 
 /* An error indicating the user must update their device before trying to transfer. */
-"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Signal ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്ത ശേഷം വീണ്ടും ശ്രമിക്കുക";
+"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "CoolApp ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്ത ശേഷം വീണ്ടും ശ്രമിക്കുക";
 
 /* The explanation on the action sheet prompting the user if they want to transfer their device. */
-"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "ഒരു പുതിയ iOS ഡിവൈസിലേക്ക് നിങ്ങളുടെ Signal അക്കൗണ്ട് കൈമാറ്റം ചെയ്യുക.  നിങ്ങളുടെ പുതിയ ഡിവൈസ് സമീപത്ത് തന്നെ ഉണ്ടെന്നും ഓൺ ചെയ്തിട്ടുണ്ടെന്നും ഉറപ്പാക്കുക.";
+"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "ഒരു പുതിയ iOS ഡിവൈസിലേക്ക് നിങ്ങളുടെ CoolApp അക്കൗണ്ട് കൈമാറ്റം ചെയ്യുക.  നിങ്ങളുടെ പുതിയ ഡിവൈസ് സമീപത്ത് തന്നെ ഉണ്ടെന്നും ഓൺ ചെയ്തിട്ടുണ്ടെന്നും ഉറപ്പാക്കുക.";
 
 /* The title on the acttion sheet prompting the user if they want to transfer their device. */
 "DEVICE_TRANSFER_PROMPT_TITLE" = "അക്കൗണ്ട് കൈമാറ്റം ചെയ്യുക";
 
 /* The explanation for the device transfer qr code view */
-"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "നിങ്ങളുടെ പഴയ ഡിവൈസിൽ Signal ഓപ്പൺ ചെയ്യുക, അത് സമീപത്തേക്ക് കൊണ്ട് വരിക, രണ്ട് ഡിവൈസുകളിലും വൈ-ഫൈ, ബ്ലൂടൂത്ത്  സജീവമാക്കിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.";
+"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "നിങ്ങളുടെ പഴയ ഡിവൈസിൽ CoolApp ഓപ്പൺ ചെയ്യുക, അത് സമീപത്തേക്ക് കൊണ്ട് വരിക, രണ്ട് ഡിവൈസുകളിലും വൈ-ഫൈ, ബ്ലൂടൂത്ത്  സജീവമാക്കിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.";
 
 /* The second explanation for the device transfer qr code view */
 "DEVICE_TRANSFER_QRCODE_EXPLANATION2" = "നിങ്ങളുടെ മറ്റെ ഡിവസിൻ്റെ ഫ്രെയിമിൽ ഈ QR കോഡ് ക്രമീകരിക്കുക.";
@@ -1538,7 +1538,7 @@
 "DEVICE_TRANSFER_QRCODE_TITLE" = "മറ്റെ ഡിവൈസിന് വേണ്ടി കാത്തിരിക്കുന്നു...";
 
 /* The explanation on the view that shows receiving progress */
-"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "രണ്ട് ഡിവൈസുകളും സമീപത്തായി പരസ്പരം സൂക്ഷിക്കുക.  രണ്ടും ഓഫ് ചെയ്യരുത്, Signal ഓപ്പൺ ആക്കി വയ്ക്കുക.  കൈമാറ്റം എൻഡ്-ടു-എൻഡ് എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു.";
+"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "രണ്ട് ഡിവൈസുകളും സമീപത്തായി പരസ്പരം സൂക്ഷിക്കുക.  രണ്ടും ഓഫ് ചെയ്യരുത്, CoolApp ഓപ്പൺ ആക്കി വയ്ക്കുക.  കൈമാറ്റം എൻഡ്-ടു-എൻഡ് എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു.";
 
 /* The title on the view that shows receiving progress */
 "DEVICE_TRANSFER_RECEIVING_TITLE" = "ഡാറ്റ സ്വീകരിക്കുന്നു";
@@ -1553,7 +1553,7 @@
 "DEVICE_TRANSFER_SCANNING_TITLE" = "നിങ്ങളുടെ പുതിയ ഡിവൈസ് ക്യാമറയ്ക്ക് സമീപത്തായി പിടിക്കുക";
 
 /* The explanation on the action sheet that shows transfer progress */
-"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "രണ്ട് ഡിവൈസുകളും സമീപത്തായി പരസ്പരം സൂക്ഷിക്കുക. രണ്ടും ഓഫ് ചെയ്യരുത്, Signal ഓപ്പൺ ആക്കി വയ്ക്കുക.";
+"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "രണ്ട് ഡിവൈസുകളും സമീപത്തായി പരസ്പരം സൂക്ഷിക്കുക. രണ്ടും ഓഫ് ചെയ്യരുത്, CoolApp ഓപ്പൺ ആക്കി വയ്ക്കുക.";
 
 /* The title on the action sheet that shows transfer progress */
 "DEVICE_TRANSFER_TRANSFERRING_TITLE" = "ഡാറ്റ കൈമാറ്റം ചെയ്യുന്നു";
@@ -1606,50 +1606,50 @@
 /* Section title for the 'domain fronting country' view. */
 "DOMAIN_FRONTING_COUNTRY_VIEW_SECTION_HEADER" = "സെൻസർഷിപ്പ് സർക്കംവെൻഷൻ ലൊക്കേഷൻ";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "DONATION_VIEW_AMOUNT_LABEL" = "സംഭാവന തുക";
 
 /* Default text for the custom amount field of the donation view. */
 "DONATION_VIEW_CUSTOM_AMOUNT_PLACEHOLDER" = "ഇഷ്ടാനുസൃത തുക നൽകുക";
 
-/* Text describing to the user that they're going to pay a donation to Signal */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Signal-ലേക്കുള്ള സംഭാവന";
+/* Text describing to the user that they're going to pay a donation to CoolApp */
+"DONATION_VIEW_DONATION_TO_CoolApp" = "CoolApp-ലേക്കുള്ള സംഭാവന";
 
 /* Text explaining there are other ways to donate on the donation view. */
 "DONATION_VIEW_OTHER_WAYS" = "സംഭാവന ചെയ്യാനുള്ള മറ്റ് വഴികൾ";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_LARGER_AMOUNT" = "സംഭാവന ചെയ്യാൻ ഒരു വലിയ തുക തിരഞ്ഞെടുക്കുക";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_SMALLER_AMOUNT" = "സംഭാവന നൽകാൻ ഒരു ചെറിയ തുക തിരഞ്ഞെടുക്കുക";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_AN_AMOUNT" = "സംഭാവന ചെയ്യാൻ ഒരു തുക തിരഞ്ഞെടുക്കുക";
 
-/* Thank you message on the donate to signal view */
+/* Thank you message on the donate to CoolApp view */
 "DONATION_VIEW_THANKS_FOR_YOUR_SUPPORT" = "നിങ്ങളുടെ പിന്തുണയ്ക്ക് നന്ദി!";
 
-/* Title for the donate to signal view */
-"DONATION_VIEW_TITLE" = "നിങ്ങളെപ്പോലുള്ളവരാണ് Signal പ്രവർത്തിപ്പിക്കുന്നത്.";
+/* Title for the donate to CoolApp view */
+"DONATION_VIEW_TITLE" = "നിങ്ങളെപ്പോലുള്ളവരാണ് CoolApp പ്രവർത്തിപ്പിക്കുന്നത്.";
 
-/* The body of the 'Why Donate' section of the donate to signal view */
-"DONATION_VIEW_WHY_DONATE_BODY" = "ആഗോള ആശയവിനിമയം പ്രാപ്തമാക്കുകയും ചെയ്യുന്ന ഓപ്പൺ സോഴ്സ് സ്വകാര്യതാ സാങ്കേതികവിദ്യ വികസിപ്പിക്കുന്നതിനുള്ള ദൗത്യത്തിന് Signal-ലെ ടീം പ്രതിജ്ഞാബദ്ധമാണ്. നിങ്ങളുടെ സംഭാവന ഈ കാരണം ഇന്ധനമാക്കുന്നു. പരസ്യങ്ങളൊന്നുമില്ല. ട്രാക്കറുകൾ ഇല്ല. തമാശ ഇല്ല.\n\nസ്വകാര്യവും തൽക്ഷണവുമായ ആശയവിനിമയത്തിനായി ലോകമെമ്പാടുമുള്ള ദശലക്ഷക്കണക്കിന് ആളുകൾ ഉപയോഗിക്കുന്ന ഒരു ആപ്പിന്റെ വികസനം, സെർവറുകൾ, ബാൻഡ് വിഡ്ത്ത് എന്നിവയ്ക്ക് പണം നൽകാൻ നിങ്ങളുടെ സംഭാവന സഹായിക്കുന്നു.";
+/* The body of the 'Why Donate' section of the donate to CoolApp view */
+"DONATION_VIEW_WHY_DONATE_BODY" = "ആഗോള ആശയവിനിമയം പ്രാപ്തമാക്കുകയും ചെയ്യുന്ന ഓപ്പൺ സോഴ്സ് സ്വകാര്യതാ സാങ്കേതികവിദ്യ വികസിപ്പിക്കുന്നതിനുള്ള ദൗത്യത്തിന് CoolApp-ലെ ടീം പ്രതിജ്ഞാബദ്ധമാണ്. നിങ്ങളുടെ സംഭാവന ഈ കാരണം ഇന്ധനമാക്കുന്നു. പരസ്യങ്ങളൊന്നുമില്ല. ട്രാക്കറുകൾ ഇല്ല. തമാശ ഇല്ല.\n\nസ്വകാര്യവും തൽക്ഷണവുമായ ആശയവിനിമയത്തിനായി ലോകമെമ്പാടുമുള്ള ദശലക്ഷക്കണക്കിന് ആളുകൾ ഉപയോഗിക്കുന്ന ഒരു ആപ്പിന്റെ വികസനം, സെർവറുകൾ, ബാൻഡ് വിഡ്ത്ത് എന്നിവയ്ക്ക് പണം നൽകാൻ നിങ്ങളുടെ സംഭാവന സഹായിക്കുന്നു.";
 
-/* The title of the 'Why Donate' section of the donate to signal view */
+/* The title of the 'Why Donate' section of the donate to CoolApp view */
 "DONATION_VIEW_WHY_DONATE_TITLE" = "എന്തിനാണ് സംഭാവന നൽകുന്നത്?";
 
-/* Alert body for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
+/* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "iOS സെറ്റിംഗ്സ് ആപ്പിൽ നിങ്ങൾക്ക് അക്സസ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
-/* Alert title for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
-"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "കോൺടാക്ട് വിവരങ്ങൾ എഡിറ്റ് ചെയ്യുന്നതിന് Signal ന് കോൺടാക്ട് അക്സസ് ആവശ്യമാണ്";
+/* Alert title for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
+"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "കോൺടാക്ട് വിവരങ്ങൾ എഡിറ്റ് ചെയ്യുന്നതിന് CoolApp ന് കോൺടാക്ട് അക്സസ് ആവശ്യമാണ്";
 
 /* The navbar title for the 'update group' view. */
 "EDIT_GROUP_DEFAULT_TITLE" = "ഗ്രൂപ്പ് തിരുത്തുക";
 
 /* Error message indicating the a user can't be added to a group. */
-"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "ഈ യൂസറിനെ അവർ Signal അപ്ഗ്രേഡ് ചെയ്യുന്നത് വരെ ഗ്രൂപ്പിൽ ചേർക്കാൻ കഴിയുകയില്ല.";
+"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "ഈ യൂസറിനെ അവർ CoolApp അപ്ഗ്രേഡ് ചെയ്യുന്നത് വരെ ഗ്രൂപ്പിൽ ചേർക്കാൻ കഴിയുകയില്ല.";
 
 /* Format for the 'group full' error alert when a user can't be added to a group because the group is full. Embeds {{ the maximum number of members in a group }}. */
 "EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER_GROUP_FULL_FORMAT" = "%@ അംഗങ്ങളുടെ പരമാവധി ഗ്രൂപ്പ് വലുപ്പം എത്തി.";
@@ -1669,17 +1669,17 @@
 /* Short name for edit menu item to copy contents of media message. */
 "EDIT_ITEM_COPY_ACTION" = "പകർത്തുക";
 
-/* body of email sent to contacts when inviting to install Signal. Embeds {{link to install Signal}} and {{link to the Signal home page}} */
-"EMAIL_INVITE_BODY" = "ഹേയ്,\n\nഅടുത്തിടെയായി ഞാൻ എൻ്റെ ഐഫോണിലെ സംഭാഷണങ്ങൾ സ്വകാര്യമായി സൂക്ഷിക്കാൻ Signal ഉപയോഗിക്കുന്നു.  നിങ്ങളും അത് ഇൻസ്റ്റാൾ ചെയ്യണമെന്ന് ഞാൻ ആഗ്രഹിക്കുന്നു, അങ്ങനെയായാൽ നമ്മുടെ സന്ദേശങ്ങൾ വായിക്കാനും നമ്മുടെ കോളുകൾ കേൾക്കാനും നമുക്ക് മാത്രമെ സാധിക്കുകയുള്ളൂ എന്ന് നമുക്ക് വിശ്വസിക്കാനാകും.\n\nSignal ഐഫോണുകൾക്കും ആൻഡ്രോയിഡിനും ലഭ്യമാണ്.  ഇവിടെ നിന്നും ലഭിക്കും: %@\n\nSignal നിങ്ങളുടെ നിലവിലെ മെസേജിംഗ് ആപ്പ് പോലെ പ്രവർത്തിക്കുന്നു.  നമുക്ക് ചിത്രങ്ങളും വീഡിയോകളും അയയ്ക്കാം, കോളുകൾ ചെയ്യാം, ഗ്രൂപ്പ് ചാറ്റുകൾ തുടങ്ങാം.  ഏറ്റവും മെച്ചപ്പെട്ട കാര്യമെന്താന്ന് വച്ചാൽ, ഇവയൊന്നും മറ്റാർക്കും കാണാൻ സാധിക്കില്ല, Signal നിർമ്മിച്ചിരിക്കുന്ന ആളുകൾക്ക് പോലും!\n\nSignal ൻ്റെ സൃഷ്ടികർത്താക്കളായ ഓപ്പൺ വിസ്പർ സിസ്റ്റംസ് നെ പറ്റി കൂടുതലായി നിങ്ങൾക്ക് ഇവിടെ വായിക്കാം: %@";
+/* body of email sent to contacts when inviting to install CoolApp. Embeds {{link to install CoolApp}} and {{link to the CoolApp home page}} */
+"EMAIL_INVITE_BODY" = "ഹേയ്,\n\nഅടുത്തിടെയായി ഞാൻ എൻ്റെ ഐഫോണിലെ സംഭാഷണങ്ങൾ സ്വകാര്യമായി സൂക്ഷിക്കാൻ CoolApp ഉപയോഗിക്കുന്നു.  നിങ്ങളും അത് ഇൻസ്റ്റാൾ ചെയ്യണമെന്ന് ഞാൻ ആഗ്രഹിക്കുന്നു, അങ്ങനെയായാൽ നമ്മുടെ സന്ദേശങ്ങൾ വായിക്കാനും നമ്മുടെ കോളുകൾ കേൾക്കാനും നമുക്ക് മാത്രമെ സാധിക്കുകയുള്ളൂ എന്ന് നമുക്ക് വിശ്വസിക്കാനാകും.\n\nCoolApp ഐഫോണുകൾക്കും ആൻഡ്രോയിഡിനും ലഭ്യമാണ്.  ഇവിടെ നിന്നും ലഭിക്കും: %@\n\nCoolApp നിങ്ങളുടെ നിലവിലെ മെസേജിംഗ് ആപ്പ് പോലെ പ്രവർത്തിക്കുന്നു.  നമുക്ക് ചിത്രങ്ങളും വീഡിയോകളും അയയ്ക്കാം, കോളുകൾ ചെയ്യാം, ഗ്രൂപ്പ് ചാറ്റുകൾ തുടങ്ങാം.  ഏറ്റവും മെച്ചപ്പെട്ട കാര്യമെന്താന്ന് വച്ചാൽ, ഇവയൊന്നും മറ്റാർക്കും കാണാൻ സാധിക്കില്ല, CoolApp നിർമ്മിച്ചിരിക്കുന്ന ആളുകൾക്ക് പോലും!\n\nCoolApp ൻ്റെ സൃഷ്ടികർത്താക്കളായ ഓപ്പൺ വിസ്പർ സിസ്റ്റംസ് നെ പറ്റി കൂടുതലായി നിങ്ങൾക്ക് ഇവിടെ വായിക്കാം: %@";
 
-/* subject of email sent to contacts when inviting to install Signal */
-"EMAIL_INVITE_SUBJECT" = "നമുക്ക് Signal-ലേക്ക് മാറാം";
+/* subject of email sent to contacts when inviting to install CoolApp */
+"EMAIL_INVITE_SUBJECT" = "നമുക്ക് CoolApp-ലേക്ക് മാറാം";
 
 /* Description for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_MESSAGE" = "ഇമെയിൽ അയയ്‌ക്കുന്നതിന് നിങ്ങളുടെ ഉപകരണം കോൺഫിഗർ ചെയ്‌തിട്ടില്ല. ഒരു പിന്തുണ അഭ്യർത്ഥന അയയ്‌ക്കാൻ, നിങ്ങളുടെ ഉപകരണത്തിലോ ഇമെയിലിലോ ഇമെയിൽ സജ്ജമാക്കുകsupport@signal.org";
+"EMAIL_CoolApp_MESSAGE" = "ഇമെയിൽ അയയ്‌ക്കുന്നതിന് നിങ്ങളുടെ ഉപകരണം കോൺഫിഗർ ചെയ്‌തിട്ടില്ല. ഒരു പിന്തുണ അഭ്യർത്ഥന അയയ്‌ക്കാൻ, നിങ്ങളുടെ ഉപകരണത്തിലോ ഇമെയിലിലോ ഇമെയിൽ സജ്ജമാക്കുകsupport@CoolApp.org";
 
 /* Title for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_TITLE" = "ഇമെയിൽ ലഭ്യമല്ല";
+"EMAIL_CoolApp_TITLE" = "ഇമെയിൽ ലഭ്യമല്ല";
 
 /* The name for the emoji category 'Activities' */
 "EMOJI_CATEGORY_ACTIVITIES_NAME" = "പ്രവർത്തനങ്ങൾ";
@@ -1709,7 +1709,7 @@
 "EMOJI_CATEGORY_TRAVEL_NAME" = "യാത്രയും സ്ഥലങ്ങളും";
 
 /* Full width label displayed when attempting to compose message */
-"EMPTY_CONTACTS_LABEL_LINE1" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ ആർക്കും Signal ഇല്ല.";
+"EMPTY_CONTACTS_LABEL_LINE1" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ ആർക്കും CoolApp ഇല്ല.";
 
 /* Full width label displayed when attempting to compose message */
 "EMPTY_CONTACTS_LABEL_LINE2" = "നിങ്ങൾ ആരെയും ക്ഷണിക്കാത്തതെന്തേ?";
@@ -1753,8 +1753,8 @@
 /* Error message indicating that message send failed due to block list */
 "ERROR_DESCRIPTION_MESSAGE_SEND_FAILED_DUE_TO_BLOCK_LIST" = "യൂസറിന് സന്ദേശം അയക്കുന്നതിൽ പരാജയപ്പെട്ടു എന്തെന്നാൽ നിങ്ങൾ അവരെ ബ്ലോക്ക് ചെയ്തിരിക്കുകയാണ്.";
 
-/* Generic error used whenever Signal can't contact the server */
-"ERROR_DESCRIPTION_NO_INTERNET" = "Signal ന് ഇൻ്റർനെറ്റുമായി കണക്ട് ചെയ്യാൻ സാധിച്ചില്ല. ദയവായി അൽപ്പ നേരം കഴിഞ്ഞ് ശ്രമിക്കൂ.";
+/* Generic error used whenever CoolApp can't contact the server */
+"ERROR_DESCRIPTION_NO_INTERNET" = "CoolApp ന് ഇൻ്റർനെറ്റുമായി കണക്ട് ചെയ്യാൻ സാധിച്ചില്ല. ദയവായി അൽപ്പ നേരം കഴിഞ്ഞ് ശ്രമിക്കൂ.";
 
 /* Error indicating that an outgoing message had no valid recipients. */
 "ERROR_DESCRIPTION_NO_VALID_RECIPIENTS" = "സജീവമായിട്ടുള്ള സ്വീകർത്താക്കൾ ഇല്ലതിരുന്നതിനാൽ സന്ദേശം അയക്കുന്നത് പരജയപ്പെട്ടു.";
@@ -1769,7 +1769,7 @@
 "ERROR_DESCRIPTION_RESPONSE_FAILED" = "സർവീസിൽ നിന്ന് മൂല്യമില്ലാത്ത പ്രതികരണം.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "ഈ ഡിവൈസ് നിങ്ങളുടെ ഫോൺ നമ്പരുമായി രജിസ്റ്റർ ചെയ്തിട്ടില്ല.  Signal വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുക";
+"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "ഈ ഡിവൈസ് നിങ്ങളുടെ ഫോൺ നമ്പരുമായി രജിസ്റ്റർ ചെയ്തിട്ടില്ല.  CoolApp വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുക";
 
 /* Generic server error */
 "ERROR_DESCRIPTION_SERVER_FAILURE" = "സെർവർ തകരാർ. ദയവായി അൽപ്പ സമയത്തിന് ശേഷം ശ്രമിക്കുക.";
@@ -1781,7 +1781,7 @@
 "ERROR_DESCRIPTION_UNKNOWN_ERROR" = "അറിയാത്ത ഒരു തകരാർ സംഭവിച്ചിരിക്കുന്നു.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "കോൺടാക്ട്  ഒരു Signal യൂസർ അല്ല.";
+"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "കോൺടാക്ട്  ഒരു CoolApp യൂസർ അല്ല.";
 
 /* Error message indicating that attachment download(s) failed. */
 "ERROR_MESSAGE_ATTACHMENT_DOWNLOAD_FAILED" = "അറ്റാച്ച്‌മെൻ്റ് ഡൗൺലോഡ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.";
@@ -1807,10 +1807,10 @@
 /* No comment provided by engineer. */
 "ERROR_MESSAGE_NO_SESSION" = "കോൺടാക്ടിന് വേണ്ടി സെഷൻ ലഭ്യമല്ല.";
 
-/* Shown when signal users safety numbers changed */
+/* Shown when CoolApp users safety numbers changed */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE" = "സുരക്ഷാ നമ്പർ മാറ്റി.";
 
-/* Shown when signal users safety numbers changed, embeds the user's {{name or phone number}} */
+/* Shown when CoolApp users safety numbers changed, embeds the user's {{name or phone number}} */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE_FORMAT" = " %@ ന്റെ ഒപ്പമുള്ള നിങ്ങളുടെ സേഫ്റ്റി നമ്പർ മാറ്റിയിരിക്കുന്നു.";
 
 /* Text notifying the user that their secure session has been reset */
@@ -1826,10 +1826,10 @@
 "ERROR_NETWORK_FAILURE" = "നെറ്റ്‌വർക്ക് തകരാർ";
 
 /* Format string for an error alert notification message. Embes {{ error string }} */
-"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve Signal by reporting this error along with debug logs from your device to support@signal.org; %@";
+"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve CoolApp by reporting this error along with debug logs from your device to support@CoolApp.org; %@";
 
 /* Format string for an error alert notification title. */
-"ERROR_NOTIFICATION_TITLE" = "Signal Beta: An error occurred";
+"ERROR_NOTIFICATION_TITLE" = "CoolApp Beta: An error occurred";
 
 /* Error indicating a send failure due to a delinked application. */
 "ERROR_SENDING_DELINKED" = "നിങ്ങളുടെ ഡിവൈസ് ലിങ്ക് ചെയ്തിട്ടില്ല.  മേലിൽ സന്ദേശങ്ങൾ അയയ്ക്കുന്നതിന് ദയവായി റീ-ലിങ്ക് ചെയ്യുക.";
@@ -1838,19 +1838,19 @@
 "ERROR_SENDING_DEREGISTERED" = "നിങ്ങളുടെ ഡിവൈസ് രജിസ്റ്റർ ചെയ്തിട്ടില്ല.  മേലിൽ സന്ദേശങ്ങൾ അയയ്ക്കുന്നതിന് ദയവായി റീ-രജിസ്റ്റർ ചെയ്യുക.";
 
 /* Error indicating a send failure due to an expired application. */
-"ERROR_SENDING_EXPIRED" = "നിങ്ങളുടെ Signal വെർഷൻ കാലഹരണപ്പെട്ടിരിക്കുന്നു. മേലിൽ സന്ദേശങ്ങൾ അയയ്ക്കുന്നതിന് ദയവായി അപ്ഡേറ്റ് ചെയ്യുക";
+"ERROR_SENDING_EXPIRED" = "നിങ്ങളുടെ CoolApp വെർഷൻ കാലഹരണപ്പെട്ടിരിക്കുന്നു. മേലിൽ സന്ദേശങ്ങൾ അയയ്ക്കുന്നതിന് ദയവായി അപ്ഡേറ്റ് ചെയ്യുക";
 
-/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or signal id}}. */
+/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or CoolApp id}}. */
 "ERROR_UNREGISTERED_USER_FORMAT" = "അൺരജിസ്ട്രേഡ് യൂസർ: %@";
 
 /* Label notifying the user that the app has expired. */
-"EXPIRATION_ERROR" = "നിങ്ങളുടെ Signal-ന്റെ പതിപ്പ് കാലഹരണപ്പെട്ടു! ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റുചെയ്യാൻ ടാപ്പുചെയ്യുക.";
+"EXPIRATION_ERROR" = "നിങ്ങളുടെ CoolApp-ന്റെ പതിപ്പ് കാലഹരണപ്പെട്ടു! ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റുചെയ്യാൻ ടാപ്പുചെയ്യുക.";
 
 /* Label warning the user that the app will expire soon. */
-"EXPIRATION_WARNING_SOON" = "നിങ്ങളുടെ Signal-ന്റെ പതിപ്പ് %d ദിവസത്തിനുള്ളിൽ കാലഹരണപ്പെടും. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റുചെയ്യാൻ ടാപ്പുചെയ്യുക.";
+"EXPIRATION_WARNING_SOON" = "നിങ്ങളുടെ CoolApp-ന്റെ പതിപ്പ് %d ദിവസത്തിനുള്ളിൽ കാലഹരണപ്പെടും. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റുചെയ്യാൻ ടാപ്പുചെയ്യുക.";
 
 /* Label warning the user that the app will expire today. */
-"EXPIRATION_WARNING_TODAY" = "നിങ്ങളുടെ Signal-ന്റെ പതിപ്പ് ഇന്ന് കാലഹരണപ്പെടും. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റുചെയ്യാൻ ടാപ്പുചെയ്യുക.";
+"EXPIRATION_WARNING_TODAY" = "നിങ്ങളുടെ CoolApp-ന്റെ പതിപ്പ് ഇന്ന് കാലഹരണപ്പെടും. ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റുചെയ്യാൻ ടാപ്പുചെയ്യുക.";
 
 /* action sheet header when re-sending message which failed because of too many attempts */
 "FAILED_SENDING_BECAUSE_RATE_LIMIT" = "ഈ കോൺടാക്ടിൽ വളരെയധികം പരാജയം ഉണ്ടായിരിക്കുന്നു.  പിന്നീട് വീണ്ടും ശ്രമിക്കുക.";
@@ -2315,7 +2315,7 @@
 "GROUP_LINK_INVALID_GROUP_INVITE_LINK_ERROR_TITLE" = "അസാധുവായ ലിങ്ക്";
 
 /* Error message indicating that the local user does not support groups v2. */
-"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "ഈ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യാൻ Signal ഈ ഉപകരണത്തിൽ അപ്ഡേറ്റ് ചെയ്യുക";
+"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "ഈ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യാൻ CoolApp ഈ ഉപകരണത്തിൽ അപ്ഡേറ്റ് ചെയ്യുക";
 
 /* Explanation of the 'approve new group members' switch. */
 "GROUP_LINK_PROMOTION_ALERT_APPROVE_NEW_MEMBERS_EXPLANATION" = "ഗ്രൂപ്പ് ലിങ്ക് വഴി ചേരുന്ന പുതിയ അംഗങ്ങളെ അംഗീകരിക്കുന്നതിന് ഒരു അഡ്മിൻ ആവശ്യമാണ്.";
@@ -2374,8 +2374,8 @@
 /* Label for the 'share group link via QR code' button in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_LINK_VIA_QR_CODE" = "QR കോഡ്";
 
-/* Label for the 'share group link via Signal' button in the 'group link' view. */
-"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "Signal വഴി പങ്കിടുക";
+/* Label for the 'share group link via CoolApp' button in the 'group link' view. */
+"GROUP_LINK_VIEW_SHARE_LINK_VIA_CoolApp" = "CoolApp വഴി പങ്കിടുക";
 
 /* Message for the 'share group link' action sheet in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_SHEET_MESSAGE" = "ഈ ലിങ്കുള്ള ആർക്കും ഈ ഗ്രൂപ്പിന്റെ പേരും അംഗങ്ങളും കാണാനും ചേരാൻ അഭ്യർത്ഥിക്കാനും കഴിയും. നിങ്ങൾ വിശ്വസിക്കുന്ന ആളുകളുമായി ഇത് പങ്കിടുക.";
@@ -2750,13 +2750,13 @@
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_1_TITLE" = "ലെഗസി ഗ്രൂപ്പുകൾ എന്താണ്?";
 
 /* Body text for the second section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "ലെഗസി  (പഴയ) ഗ്രൂപ്പുകളെ ഇതുവരെ പുതിയ ഗ്രൂപ്പുകളിലേക്ക് അപ്ഗ്രേഡ് ചെയ്യാൻ കഴിയില്ല, എന്നാൽ അതേ അംഗങ്ങൾ Signal-ഇന്റെ (സിഗ്നലിന്റെ) ഏറ്റവും പുതിയ വേർഷനിലുണ്ടെങ്കിൽ (പതിപ്പിലാണെങ്കിൽ) നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും.\n\nഭാവിയിൽ ലെഗസി ഗ്രൂപ്പുകളെ നവീകരിക്കുന്നതിനുള്ള ഒരു വഴി Signal നൽകും.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "ലെഗസി  (പഴയ) ഗ്രൂപ്പുകളെ ഇതുവരെ പുതിയ ഗ്രൂപ്പുകളിലേക്ക് അപ്ഗ്രേഡ് ചെയ്യാൻ കഴിയില്ല, എന്നാൽ അതേ അംഗങ്ങൾ CoolApp-ഇന്റെ (സിഗ്നലിന്റെ) ഏറ്റവും പുതിയ വേർഷനിലുണ്ടെങ്കിൽ (പതിപ്പിലാണെങ്കിൽ) നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും.\n\nഭാവിയിൽ ലെഗസി ഗ്രൂപ്പുകളെ നവീകരിക്കുന്നതിനുള്ള ഒരു വഴി CoolApp നൽകും.";
 
 /* Title for the second section of the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_2_TITLE" = "എനിക്ക് ഒരു ലെഗസി (പഴയ) ഗ്രൂപ്പ് അപ്‌ഗ്രേഡുചെയ്യാനാകുമോ (നവീകരിക്കാനാകുമോ)?";
 
 /* Body text for the third section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "ഒരു പുതിയ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന്, എല്ലാ അംഗങ്ങൾക്കും Signalന്റെ ഏറ്റവും പുതിയ വേർഷൻ ഉണ്ടായിരിക്കണം";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "ഒരു പുതിയ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന്, എല്ലാ അംഗങ്ങൾക്കും CoolAppന്റെ ഏറ്റവും പുതിയ വേർഷൻ ഉണ്ടായിരിക്കണം";
 
 /* Title for the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_TITLE" = "ലെഗസി vs. പുതിയ ഗ്രൂപ്പുകൾ";
@@ -2771,28 +2771,28 @@
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_ALERT_TOO_MANY_MEMBERS_FORMAT" = "വളരെയധികം അംഗങ്ങളുള്ളതിനാൽ ഈ ഗ്രൂപ്പിനെ ഒരു പുതിയ ഗ്രൂപ്പിലേക്ക് അപ്‌ഗ്രേഡുചെയ്യാൻ കഴിയില്ല. അപ്‌ഗ്രേഡുചെയ്യാനാകുന്ന പരമാവധി ഗ്രൂപ്പ് വലുപ്പം %@ ആണ്.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
-"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "നിലവിലെ എല്ലാ ഗ്രൂപ്പ് അംഗങ്ങളും ഒരു പുതിയ ഗ്രൂപ്പിൽ ചേരാൻ പ്രാപ്തിയുള്ള Signal പതിപ്പ് ഉപയോഗിക്കുമ്പോൾ, ഈ ഗ്രൂപ്പ് അപ്ഗ്രേഡ് ചെയ്യപ്പെടും.";
+"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "നിലവിലെ എല്ലാ ഗ്രൂപ്പ് അംഗങ്ങളും ഒരു പുതിയ ഗ്രൂപ്പിൽ ചേരാൻ പ്രാപ്തിയുള്ള CoolApp പതിപ്പ് ഉപയോഗിക്കുമ്പോൾ, ഈ ഗ്രൂപ്പ് അപ്ഗ്രേഡ് ചെയ്യപ്പെടും.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_2" = "എല്ലാ സന്ദേശ ചരിത്രവും മീഡിയയും നവീകരിക്കുന്നതിന് മുമ്പായി സൂക്ഷിച്ച് വയ്ക്കും.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "1 അംഗം പഴയ Signal പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. Signal അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "1 അംഗം പഴയ CoolApp പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. CoolApp അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "%@ അംഗങ്ങൾ പഴയ Signal പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. Signal അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "%@ അംഗങ്ങൾ പഴയ CoolApp പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. CoolApp അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക.";
 
 /* Indicates that a new group cannot be created because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "1 അംഗം പഴയ Signal പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. Signal അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക. %@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "1 അംഗം പഴയ CoolApp പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. CoolApp അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക. %@";
 
 /* Indicates that a new group cannot be created because multiple members do not support v2 groups. Embeds {{ %1$@ the number of members who do not support v2 groups, %2$@ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "%1$@ അംഗങ്ങൾ പഴയ Signal പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. Signal അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക. %2$@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "%1$@ അംഗങ്ങൾ പഴയ CoolApp പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഈ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല. CoolApp അപ്‌ഡേറ്റുചെയ്‌തതിന് ശേഷം നിങ്ങൾക്ക് അവരുമായി ഒരു പുതിയ സ്റ്റൈൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്ടിക്കുന്നതിന് മുമ്പ് അവ നീക്കംചെയ്യുക. %2$@";
 
 /* Title for alert that explains that a new group will be a legacy group because 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "1 അംഗം Signal ന്റെ പഴയ പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഒരു ലെഗസി ഗ്രൂപ്പ് സൃഷ്ടിക്കപ്പെടും. അവര്‍ Signal അപ്‌ഡേറ്റുചെയ്‌തതിനുശേഷം നിങ്ങൾക്ക് അവരുടെ കൂടെ പുതിയ ശൈലിയില്‍ ഒരു ഗ്രൂപ്പ് സൃഷ്‌ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്‌ടിക്കുന്നതിന് മുമ്പ് അവരെ നീക്കംചെയ്യുക.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "1 അംഗം CoolApp ന്റെ പഴയ പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഒരു ലെഗസി ഗ്രൂപ്പ് സൃഷ്ടിക്കപ്പെടും. അവര്‍ CoolApp അപ്‌ഡേറ്റുചെയ്‌തതിനുശേഷം നിങ്ങൾക്ക് അവരുടെ കൂടെ പുതിയ ശൈലിയില്‍ ഒരു ഗ്രൂപ്പ് സൃഷ്‌ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്‌ടിക്കുന്നതിന് മുമ്പ് അവരെ നീക്കംചെയ്യുക.";
 
 /* Title for alert that explains that a new group will be a legacy group because multiple members do not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "%@ അംഗങ്ങള്‍ Signal ന്റെ പഴയ പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഒരു ലെഗസി ഗ്രൂപ്പ് സൃഷ്ടിക്കപ്പെടും. അവര്‍ Signal അപ്‌ഡേറ്റുചെയ്‌തതിനുശേഷം നിങ്ങൾക്ക് അവരുടെ കൂടെ പുതിയ ശൈലിയില്‍ ഒരു ഗ്രൂപ്പ് സൃഷ്‌ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്‌ടിക്കുന്നതിന് മുമ്പ് അവരെ നീക്കംചെയ്യുക.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "%@ അംഗങ്ങള്‍ CoolApp ന്റെ പഴയ പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ ഒരു ലെഗസി ഗ്രൂപ്പ് സൃഷ്ടിക്കപ്പെടും. അവര്‍ CoolApp അപ്‌ഡേറ്റുചെയ്‌തതിനുശേഷം നിങ്ങൾക്ക് അവരുടെ കൂടെ പുതിയ ശൈലിയില്‍ ഒരു ഗ്രൂപ്പ് സൃഷ്‌ടിക്കാൻ കഴിയും, അല്ലെങ്കിൽ ഗ്രൂപ്പ് സൃഷ്‌ടിക്കുന്നതിന് മുമ്പ് അവരെ നീക്കംചെയ്യുക.";
 
 /* Indicates that a new group will be a legacy group because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
 "GROUPS_LEGACY_GROUP_CREATION_WARNING_FORMAT_1" = "1 അംഗം പുതിയ ഗ്രൂപ്പുകള്‍ പിന്തുണയ്‌ക്കുന്നില്ല, അതിനാൽ ഈ ഗ്രൂപ്പ് ഒരു ലെഗസി ഗ്രൂപ്പായിരിക്കും. %@";
@@ -2912,7 +2912,7 @@
 "GROUPS_REPLACE_ADMIN_BUTTON" = "പുതിയ അഡ്മിനെ തിരെഞ്ഞെടുക്കുക";
 
 /* Format for the alert warning the user that they've reached the recommended limit on how many members can be in a group when creating a new group. Embeds {{ the maximum number of recommended members in a group }}. */
-"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "Signal ഗ്രൂപ്പുകൾ %@ അംഗങ്ങളോ അതിൽ കുറവോ ഉപയോഗിച്ച് മികച്ച രീതിയിൽ പ്രവർത്തിക്കുന്നു. കൂടുതൽ അംഗങ്ങളെ ചേർക്കുന്നത് സന്ദേശങ്ങൾ അയയ്‌ക്കുന്നതിനും സ്വീകരിക്കുന്നതിനും കാലതാമസമുണ്ടാക്കും.";
+"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "CoolApp ഗ്രൂപ്പുകൾ %@ അംഗങ്ങളോ അതിൽ കുറവോ ഉപയോഗിച്ച് മികച്ച രീതിയിൽ പ്രവർത്തിക്കുന്നു. കൂടുതൽ അംഗങ്ങളെ ചേർക്കുന്നത് സന്ദേശങ്ങൾ അയയ്‌ക്കുന്നതിനും സ്വീകരിക്കുന്നതിനും കാലതാമസമുണ്ടാക്കും.";
 
 /* Title for alert warning the user that they've reached the recommended limit on how many members can be in a group. */
 "GROUPS_TOO_MANY_MEMBERS_ALERT_TITLE" = "ശുപാർശ ചെയ്യുന്ന അംഗ പരിധി എത്തി";
@@ -2929,7 +2929,7 @@
 /* Help item allowing the user to file a support request */
 "HELP_CONTACT_US" = "ഞങ്ങളെ സമീപിക്കുക";
 
-/* Help item that takes the user to the Signal support website */
+/* Help item that takes the user to the CoolApp support website */
 "HELP_SUPPORT_CENTER" = "പിന്തുണാ കേന്ദ്രം";
 
 /* Label for 'archived conversations' button. */
@@ -2944,16 +2944,16 @@
 /* A prefix indicating that a message preview is a draft */
 "HOME_VIEW_DRAFT_PREFIX" = "ഡ്രാഫ്റ്റ്:";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Signal contact.  Embeds {{The name of 1 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ കുറച്ച് പേർ, %@ ഉൾപ്പെടെ, Signal ലിൽ ഉണ്ട്.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 1 CoolApp contact.  Embeds {{The name of 1 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ കുറച്ച് പേർ, %@ ഉൾപ്പെടെ, CoolApp ലിൽ ഉണ്ട്.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Signal contacts.  Embeds {{The names of 2 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ കുറച്ച് പേർ, %@ ഉം %@ ഉം ഉൾപ്പെടെ, Signal ലിൽ ഉണ്ട്.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 2 CoolApp contacts.  Embeds {{The names of 2 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ കുറച്ച് പേർ, %@ ഉം %@ ഉം ഉൾപ്പെടെ, CoolApp ലിൽ ഉണ്ട്.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Signal contacts.  Embeds {{The names of 3 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ കുറച്ച് പേർ, %@ ഉം %@ ഉം %@ഉം ഉൾപ്പെടെ, Signal ലിൽ ഉണ്ട്.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 CoolApp contacts.  Embeds {{The names of 3 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "നിങ്ങളുടെ കോൺടാക്ടുകളിൽ കുറച്ച് പേർ, %@ ഉം %@ ഉം %@ഉം ഉൾപ്പെടെ, CoolApp ലിൽ ഉണ്ട്.";
 
-/* A label offering to start a new conversation with your contacts, if you have no Signal contacts. */
+/* A label offering to start a new conversation with your contacts, if you have no CoolApp contacts. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_NO_CONTACTS" = "നിങ്ങളുടെ ആദ്യ ചാറ്റ് ഇവിടെ ആരംഭിക്കുക.";
 
 /* Table cell subtitle label for a group the user has been added to. {Embeds inviter name} */
@@ -2986,11 +2986,11 @@
 /* Momentarily shown to the user when attempting to select more images than is allowed. Embeds {{max number of items}} that can be shared. */
 "IMAGE_PICKER_CAN_SELECT_NO_MORE_TOAST_FORMAT" = "നിങ്ങൾക്ക് %@ ഇനങ്ങളിൽ കൂടുതൽ പങ്കിടാൻ കഴിയില്ല.";
 
-/* Button that will present a view for the user to change the photos Signal has access to. */
+/* Button that will present a view for the user to change the photos CoolApp has access to. */
 "IMAGE_PICKER_CHANGE_PHOTOS" = "ഫോട്ടോകൾ മാറ്റുക";
 
 /* Explanation showing that the user has granted limited access to their photos and can change that in the Settings app. */
-"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "ക്രമീകരണങ്ങളിൽ പൂർണ്ണ ആക്‌സസ് അനുവദിക്കുക അല്ലെങ്കിൽ Signal-ന് ആക്‌സസ്സുചെയ്യാനാകുന്ന ഫോട്ടോകൾ മാറ്റുക.";
+"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "ക്രമീകരണങ്ങളിൽ പൂർണ്ണ ആക്‌സസ് അനുവദിക്കുക അല്ലെങ്കിൽ CoolApp-ന് ആക്‌സസ്സുചെയ്യാനാകുന്ന ഫോട്ടോകൾ മാറ്റുക.";
 
 /* Title show that the user has granted limited access to their photos and can change that in the Settings app. */
 "IMAGE_PICKER_CHANGE_PHOTOS_TITLE" = "നിങ്ങളുടെ ഫോട്ടോകൾ കാണാൻ കഴിയുന്നില്ലേ?";
@@ -3043,8 +3043,8 @@
 /* Indicates that another user has changed their phone number. Embeds: {{ the user's name}} */
 "INFO_MESSAGE_USER_CHANGED_PHONE_NUMBER_FORMAT" = "%@ changed their phone number.";
 
-/* Shown in inbox and conversation when a user joins Signal, embeds the new user's {{contact name}} */
-"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "%@ Signal ലിൽ ഉണ്ട്!";
+/* Shown in inbox and conversation when a user joins CoolApp, embeds the new user's {{contact name}} */
+"INFO_MESSAGE_USER_JOINED_CoolApp_BODY_FORMAT" = "%@ CoolApp ലിൽ ഉണ്ട്!";
 
 /* accessibility label for the button which shows the sticker picker */
 "INPUT_TOOLBAR_STICKER_BUTTON_ACCESSIBILITY_LABEL" = "സ്റ്റിക്കറുകൾ";
@@ -3058,14 +3058,14 @@
 /* Message for the alert indicating that an audio file is invalid. */
 "INVALID_AUDIO_FILE_ALERT_ERROR_MESSAGE" = "അസാധുവായ ഓഡിയോ ഫയൽ.";
 
-/* Alert body when contacts disabled while trying to invite contacts to signal */
-"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "നിങ്ങളുടെ സുഹൃത്തുക്കളെ Signal ലിൽ ചേരുന്നതിനായി ക്ഷണിക്കുന്നതിന് വേണ്ടി നിങ്ങൾക്ക് iOS സെറ്റിംഗ്സ് ആപ്പിൽ കോൺടാക്സ് അക്സസ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
+/* Alert body when contacts disabled while trying to invite contacts to CoolApp */
+"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "നിങ്ങളുടെ സുഹൃത്തുക്കളെ CoolApp ലിൽ ചേരുന്നതിനായി ക്ഷണിക്കുന്നതിന് വേണ്ടി നിങ്ങൾക്ക് iOS സെറ്റിംഗ്സ് ആപ്പിൽ കോൺടാക്സ് അക്സസ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
-/* Alert title when contacts disabled while trying to invite contacts to signal */
+/* Alert title when contacts disabled while trying to invite contacts to CoolApp */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_TITLE" = "കോൺടാക്സ് അക്സസ് അനുവദിക്കുക";
 
 /* Label for the cell that presents the 'invite contacts' workflow. */
-"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "സുഹൃത്തുക്കളെ Signal ലേക്ക് ക്ഷണിക്കുക";
+"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "സുഹൃത്തുക്കളെ CoolApp ലേക്ക് ക്ഷണിക്കുക";
 
 /* Search */
 "INVITE_FRIENDS_PICKER_SEARCHBAR_PLACEHOLDER" = "തിരയൽ";
@@ -3167,7 +3167,7 @@
 "LINKING_DEVICE_FAILED_TITLE" = "ഡിവൈസ് ലിങ്ക് ചെയ്യുന്നത് പരാജയപ്പെട്ടിരിക്കുന്നു";
 
 /* Body for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "നിങ്ങളുടെ Signal അക്കൗണ്ട് ട്രാൻസ്ഫർ ചെയ്യുന്നതിന്, രണ്ട് ഉപകരണങ്ങളിലും പ്രാദേശിക നെറ്റ്‌വർക്ക് ആക്‌സസ് പ്രവർത്തനക്ഷമമാക്കേണ്ടതുണ്ട്.";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "നിങ്ങളുടെ CoolApp അക്കൗണ്ട് ട്രാൻസ്ഫർ ചെയ്യുന്നതിന്, രണ്ട് ഉപകരണങ്ങളിലും പ്രാദേശിക നെറ്റ്‌വർക്ക് ആക്‌സസ് പ്രവർത്തനക്ഷമമാക്കേണ്ടതുണ്ട്.";
 
 /* A button asking the user if they need further help getting their transfer working. */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_NEED_HELP" = "സഹായം ആവശ്യമുണ്ടോ?";
@@ -3179,7 +3179,7 @@
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_THREE" = "\"ലോക്കൽ നെറ്റ്‌വർക്ക്\" ഓണാക്കുക";
 
 /* Second step for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Signal-ലേക്ക് നാവിഗേറ്റ് ചെയ്യുക";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "CoolApp-ലേക്ക് നാവിഗേറ്റ് ചെയ്യുക";
 
 /* Title for local network permission action sheet */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_TITLE" = "ലോക്കൽ നെറ്റ്‌വർക്ക് ആക്‌സസ് ഓണാക്കുക";
@@ -3194,7 +3194,7 @@
 "LOGGING_SECTION" = "ലോഗിംഗ്";
 
 /* Footer for the 'logging' help section. */
-"LOGGING_SECTION_FOOTER" = "പ്രശ്നങ്ങളും ക്രാഷുകളും പരിഹരിക്കാൻ Signal-നെ ഡീബഗ് ലോഗുകൾ സഹായിക്കും.";
+"LOGGING_SECTION_FOOTER" = "പ്രശ്നങ്ങളും ക്രാഷുകളും പരിഹരിക്കാൻ CoolApp-നെ ഡീബഗ് ലോഗുകൾ സഹായിക്കും.";
 
 /* Title for the 'long text message' view. */
 "LONG_TEXT_VIEW_TITLE" = "സന്ദേശം";
@@ -3239,7 +3239,7 @@
 "MESSAGE_ACTION_DELETE_FOR_EVERYONE" = "എല്ലാവർക്കുമായി ഇല്ലാതാക്കുക";
 
 /* A one-time confirmation that you want to delete for everyone */
-"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "സംഭാഷണത്തിലെ എല്ലാവർ‌ക്കും അവർ‌ Signal-ന്റെ സമീപകാല പതിപ്പിലാണെങ്കിൽ‌ ഈ സന്ദേശം ഇല്ലാതാക്കും. നിങ്ങൾ ഒരു സന്ദേശം ഇല്ലാതാക്കിയത് അവർക്ക് കാണാൻ കഴിയും.";
+"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "സംഭാഷണത്തിലെ എല്ലാവർ‌ക്കും അവർ‌ CoolApp-ന്റെ സമീപകാല പതിപ്പിലാണെങ്കിൽ‌ ഈ സന്ദേശം ഇല്ലാതാക്കും. നിങ്ങൾ ഒരു സന്ദേശം ഇല്ലാതാക്കിയത് അവർക്ക് കാണാൻ കഴിയും.";
 
 /* The title for the action sheet asking who the user wants to delete the message for. */
 "MESSAGE_ACTION_DELETE_FOR_TITLE" = "ആർക്കാണ് ഈ സന്ദേശം ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നത്?";
@@ -3413,7 +3413,7 @@
 "MESSAGE_REQUEST_LEAVE_AND_DELETE_GROUP_TITLE" = "ഗ്രൂപ്പ് ഡിലീറ്റ് ചെയ്ത് വിട്ടുപോവണോ?";
 
 /* Banner label notifying user that a new message is from a user with the same name as an existing contact */
-"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "അഭ്യർത്ഥനകൾ ശ്രദ്ധാപൂർവ്വം അവലോകനം ചെയ്യുക. Signal ഇതേ പേരിൽ മറ്റൊരു കോൺടാക്റ്റ് കണ്ടെത്തി.";
+"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "അഭ്യർത്ഥനകൾ ശ്രദ്ധാപൂർവ്വം അവലോകനം ചെയ്യുക. CoolApp ഇതേ പേരിൽ മറ്റൊരു കോൺടാക്റ്റ് കണ്ടെത്തി.";
 
 /* A header string above a known contact's contact info */
 "MESSAGE_REQUEST_NAME_COLLISON_CONTACT_HEADER" = "നിങ്ങളുടെ കോൺ‌ടാക്റ്റ്";
@@ -3508,7 +3508,7 @@
 /* status message for read messages */
 "MESSAGE_STATUS_READ" = "വായിച്ചു";
 
-/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Signal account. */
+/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their CoolApp account. */
 "MESSAGE_STATUS_RECIPIENT_SKIPPED" = "ഒഴിവാക്കി";
 
 /* Label indicating that a message failed to send. */
@@ -3551,22 +3551,22 @@
 "MISSED_CALL" = "മിസ്ഡ് കോൾ";
 
 /* Alert body */
-"MISSING_CAMERA_PERMISSION_MESSAGE" = "നിങ്ങൾക്ക് Signal ൽ വീഡിയോ കോൾ ചെയ്യുന്നതിന് നിങ്ങളുടെ  iOS സെറ്റിംഗ്സിലെ ക്യാമറ അക്സസ്സ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
+"MISSING_CAMERA_PERMISSION_MESSAGE" = "നിങ്ങൾക്ക് CoolApp ൽ വീഡിയോ കോൾ ചെയ്യുന്നതിന് നിങ്ങളുടെ  iOS സെറ്റിംഗ്സിലെ ക്യാമറ അക്സസ്സ് പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
 /* Alert title */
-"MISSING_CAMERA_PERMISSION_TITLE" = "Signal ന് നിങ്ങളുടെ ക്യാമറ അക്സസ് ചെയ്യേണ്ടതായുണ്ട്.";
+"MISSING_CAMERA_PERMISSION_TITLE" = "CoolApp ന് നിങ്ങളുടെ ക്യാമറ അക്സസ് ചെയ്യേണ്ടതായുണ്ട്.";
 
 /* Alert body indicating the user has denied location permissios */
 "MISSING_LOCATION_PERMISSION_MESSAGE" = "നിങ്ങൾക്ക് ഈ അനുമതി iOS സെറ്റിംഗ്സ് ആപ്പിൽ പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
 /* Alert title indicating the user has denied location permissios */
-"MISSING_LOCATION_PERMISSION_TITLE" = "Signal ന് ഈ ഫീച്ചറിന് നിങ്ങളുടെ ലൊക്കേഷനിലേക്കുള്ള അക്സസ് ആവശ്യമാണ്.";
+"MISSING_LOCATION_PERMISSION_TITLE" = "CoolApp ന് ഈ ഫീച്ചറിന് നിങ്ങളുടെ ലൊക്കേഷനിലേക്കുള്ള അക്സസ് ആവശ്യമാണ്.";
 
 /* Alert body when user has previously denied media library access */
 "MISSING_MEDIA_LIBRARY_PERMISSION_MESSAGE" = "നിങ്ങൾക്ക് ഈ അനുമതി iOS സെറ്റിംഗ്സ് ആപ്പിൽ പ്രാപ്തമാക്കാവുന്നതാണ്.";
 
 /* Alert title when user has previously denied media library access */
-"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Signal ന് ഈ ഫീച്ചറിന് നിങ്ങളുടെ ഫോട്ടോകളിലേക്ക് അക്സസ് ആവശ്യമുണ്ട്.";
+"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "CoolApp ന് ഈ ഫീച്ചറിന് നിങ്ങളുടെ ഫോട്ടോകളിലേക്ക് അക്സസ് ആവശ്യമുണ്ട്.";
 
 /* Generic indicator that no value is available for display */
 "MISSING_VALUE" = "ഒന്നുമില്ല";
@@ -3674,12 +3674,12 @@
 "NO_SELECTED_CONVERSATION_DESCRIPTION" = "ചാറ്റിംഗ് ആരംഭിക്കുന്നതിന് ഒരു കോൺടാക്ട് അല്ലെങ്കിൽ ഗ്രൂപ്പ് തിരെഞ്ഞെടുക്കുക.";
 
 /* Title welcoming to the app */
-"NO_SELECTED_CONVERSATION_TITLE" = "Signal ലേക്ക് സ്വാഗതം";
+"NO_SELECTED_CONVERSATION_TITLE" = "CoolApp ലേക്ക് സ്വാഗതം";
 
 /* A string prompting the user to send a new mesaage to a user */
 "NON_CONTACT_TABLE_CELL_NEW_MESSAGE" = "പുതിയ സന്ദേശം അയക്കേണ്ടത്:";
 
-/* A string asking the user if they'd like to invite a number to signal via SMS. */
+/* A string asking the user if they'd like to invite a number to CoolApp via SMS. */
 "NON_CONTACT_TABLE_CELL_SEND_SMS" = "യൂസറിനെ കാണുന്നില്ല. SMS ലൂടെ ക്ഷണിക്കട്ടെ?";
 
 /* Label for 1:1 conversation with yourself. */
@@ -3721,7 +3721,7 @@
 /* No comment provided by engineer. */
 "NOTIFICATIONS_NONE" = "പേരോ ഉള്ളടക്കമോ ഇല്ല";
 
-/* Table cell switch label. When disabled, Signal will not play notification sounds while the app is in the foreground. */
+/* Table cell switch label. When disabled, CoolApp will not play notification sounds while the app is in the foreground. */
 "NOTIFICATIONS_SECTION_INAPP" = "ആപ്പ് ഓപ്പൺ ആയിരിക്കുമ്പോൾ പ്ലേ ചെയ്യുക";
 
 /* Label for settings UI that allows user to add a new notification sound. */
@@ -3776,10 +3776,10 @@
 "ONBOARDING_CAPTCHA_TITLE" = "നിങ്ങളുടെ സന്ദേശങ്ങളിൽ ഒരു മനുഷ്യത്വ സ്പർശം കൂട്ടിച്ചേർക്കുക";
 
 /* Explanation on the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_EXPLANATION" = "നിങ്ങൾ വളരെക്കാലമായി നിഷ്ക്രിയരായതിനാൽ, Signal ഉപയോഗിക്കാൻ നിങ്ങൾ വീണ്ടും രജിസ്റ്റർ ചെയ്യണം.";
+"ONBOARDING_DROPPED_YDB_EXPLANATION" = "നിങ്ങൾ വളരെക്കാലമായി നിഷ്ക്രിയരായതിനാൽ, CoolApp ഉപയോഗിക്കാൻ നിങ്ങൾ വീണ്ടും രജിസ്റ്റർ ചെയ്യണം.";
 
 /* Title of the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_TITLE" = "Signal വേണ്ടി രജിസ്റ്റർ ചെയ്യുക";
+"ONBOARDING_DROPPED_YDB_TITLE" = "CoolApp വേണ്ടി രജിസ്റ്റർ ചെയ്യുക";
 
 /* button indicating that the user will register their ipad */
 "ONBOARDING_MODE_SWITCH_BUTTON_PROVISIONING" = "ഐപാഡ് രജിസ്റ്റർ ചെയ്യുക";
@@ -3788,7 +3788,7 @@
 "ONBOARDING_MODE_SWITCH_BUTTON_REGISTERING" = "ഐഫോൺ ലിങ്കുചെയ്യുക";
 
 /* explanation to the user they're switching from linking to registering flow */
-"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "“Register iPad” ടാപ് ചെയ്താൽ നിങ്ങൾക്ക് തികച്ചും പുതുതായി ഒരു Signal അക്കൗണ്ട് തുടങ്ങാനോ അല്ലെങ്കിൽ നിലവിലുള്ള ഒരു അക്കൗണ്ട് ഈ ഐപാഡിലേക്ക് മാറ്റാനോ സാധിക്കും.  ഇതേ ഫോൺ നമ്പർ നിലവിൽ രജിസ്റ്റർ ചെയ്തിരിക്കുന്ന മറ്റേതൊരു ഡിവൈസിലെയും Signal നെ ഇത് സജീവമല്ലാതാക്കും.";
+"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "“Register iPad” ടാപ് ചെയ്താൽ നിങ്ങൾക്ക് തികച്ചും പുതുതായി ഒരു CoolApp അക്കൗണ്ട് തുടങ്ങാനോ അല്ലെങ്കിൽ നിലവിലുള്ള ഒരു അക്കൗണ്ട് ഈ ഐപാഡിലേക്ക് മാറ്റാനോ സാധിക്കും.  ഇതേ ഫോൺ നമ്പർ നിലവിൽ രജിസ്റ്റർ ചെയ്തിരിക്കുന്ന മറ്റേതൊരു ഡിവൈസിലെയും CoolApp നെ ഇത് സജീവമല്ലാതാക്കും.";
 
 /* explanation to the user they're switching from registering to linking flow */
 "ONBOARDING_MODE_SWITCH_EXPLANATION_REGISTERING" = " “Link iPhone” ടാപ് ചെയ്താൽ നിങ്ങൾക്ക് നിലവിലുള്ള ഒരു അക്കൗണ്ടുമായി നിങ്ങളുടെ ഫോൺ കണക്ട് ചെയ്യാൻ സാധിക്കും.  നിങ്ങളുടെ ഫോൺ ലിങ്ക് ചെയ്യുന്നത് പൊതുവേ ശുപാർശ ചെയ്യുന്നില്ല, അത് കോളിംഗ് പോലുള്ള ചില സംവിധാനങ്ങളെ പരിമിതപ്പെടുത്തും.";
@@ -3800,7 +3800,7 @@
 "ONBOARDING_MODE_SWITCH_TITLE_REGISTERING" = "ഈ ഐഫോൺ ലിങ്കുചെയ്യുക";
 
 /* warning to the user that registering an ipad is not recommended */
-"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "ഈ ഐപാഡ് രജിസ്റ്റർ ചെയ്താൽ, ഇതേ ഫോൺ നമ്പർ നിലവിൽ രജിസ്റ്റർ ചെയ്തിരിക്കുന്ന മറ്റേതൊരു ഡിവൈസിലെയും Signal നെ ഇത് സജീവമല്ലാതാക്കും.";
+"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "ഈ ഐപാഡ് രജിസ്റ്റർ ചെയ്താൽ, ഇതേ ഫോൺ നമ്പർ നിലവിൽ രജിസ്റ്റർ ചെയ്തിരിക്കുന്ന മറ്റേതൊരു ഡിവൈസിലെയും CoolApp നെ ഇത് സജീവമല്ലാതാക്കും.";
 
 /* warning to the user that linking a phone is not recommended */
 "ONBOARDING_MODE_SWITCH_WARNING_REGISTERING" = "നിങ്ങളുടെ ഫോൺ ലിങ്ക് ചെയ്യുന്നത്  ശുപാർശ ചെയ്യുന്നില്ല, അത് ചില പ്രധാന പ്രവർത്തന സംവിധാനങ്ങളെ പരിമിതപ്പെടുത്തും.";
@@ -3809,13 +3809,13 @@
 "ONBOARDING_PERMISSIONS_ENABLE_PERMISSIONS_BUTTON" = "അനുമതികൾ അനുവദിക്കുക";
 
 /* Explanation in the 'onboarding permissions' view. */
-"ONBOARDING_PERMISSIONS_EXPLANATION" = "അറിയിപ്പുകളും കോൺ‌ടാക്റ്റുകൾ-ളും അനുവദിക്കുന്നത് സന്ദേശങ്ങള്‍ വരുമ്പോൾ കാണാനും നിങ്ങൾക്ക് അറിയാവുന്ന ആളുകളെ കണ്ടെത്താൻ നിങ്ങളെ സഹായിക്കാനും നിങ്ങളെ അനുവദിക്കുന്നു. കോൺ‌ടാക്റ്റുകൾ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു, അതിനാൽ Signal സേവനത്തിന് അവ കാണാൻ കഴിയില്ല";
+"ONBOARDING_PERMISSIONS_EXPLANATION" = "അറിയിപ്പുകളും കോൺ‌ടാക്റ്റുകൾ-ളും അനുവദിക്കുന്നത് സന്ദേശങ്ങള്‍ വരുമ്പോൾ കാണാനും നിങ്ങൾക്ക് അറിയാവുന്ന ആളുകളെ കണ്ടെത്താൻ നിങ്ങളെ സഹായിക്കാനും നിങ്ങളെ അനുവദിക്കുന്നു. കോൺ‌ടാക്റ്റുകൾ എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു, അതിനാൽ CoolApp സേവനത്തിന് അവ കാണാൻ കഴിയില്ല";
 
 /* Title of the 'onboarding permissions' view. */
 "ONBOARDING_PERMISSIONS_TITLE" = "അനുമതികൾ അനുവദിക്കുക";
 
 /* Explanation of the 'onboarding phone number discoverability' view. Embeds {user phone number} */
-"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "നിങ്ങളുടെ ഫോൺ നമ്പർ %@ ഉപയോഗിച്ച് Signal-ൽ നിങ്ങളെ കണ്ടെത്താൻ ആർക്കാണ് കഴിയുകഎന്ന് തിരഞ്ഞെടുക്കുക";
+"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "നിങ്ങളുടെ ഫോൺ നമ്പർ %@ ഉപയോഗിച്ച് CoolApp-ൽ നിങ്ങളെ കണ്ടെത്താൻ ആർക്കാണ് കഴിയുകഎന്ന് തിരഞ്ഞെടുക്കുക";
 
 /* Title of the 'onboarding phone number discoverability' view. */
 "ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_TITLE" = "നിങ്ങളുടെ നമ്പർ ഉപയോഗിച്ച് ആർക്കാണ് നിങ്ങളെ കണ്ടെത്താൻ കഴിയുക?";
@@ -3836,7 +3836,7 @@
 "ONBOARDING_PHONE_NUMBER_VALIDATION_WARNING" = "അസാധുവായ ഫോൺ നമ്പർ .രജിസ്റ്റർ ചെയ്യുന്നതിനായി സാധുവായ ഒരു ഫോൺ നമ്പർ നൽകുക.";
 
 /* Explanation of the 'onboarding pin attempts exhausted' view when reglock is disabled. */
-"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "നിങ്ങൾക്ക് PIN ഊഹിച്ചെടുക്കാനുള്ള അവസരങ്ങൾ കഴിഞ്ഞിരിക്കുന്നു, എന്നാലും ഒരു പുതിയ PIN സൃഷ്ടിച്ച് നിങ്ങളുടെ Signal അക്കൗണ്ട് പ്രാപ്തമാക്കാൻ നിങ്ങൾക്ക് ഇപ്പോഴും സാധ്യമാണ്.";
+"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "നിങ്ങൾക്ക് PIN ഊഹിച്ചെടുക്കാനുള്ള അവസരങ്ങൾ കഴിഞ്ഞിരിക്കുന്നു, എന്നാലും ഒരു പുതിയ PIN സൃഷ്ടിച്ച് നിങ്ങളുടെ CoolApp അക്കൗണ്ട് പ്രാപ്തമാക്കാൻ നിങ്ങൾക്ക് ഇപ്പോഴും സാധ്യമാണ്.";
 
 /* Label for the 'learn more' link when reglock is disabled in the 'onboarding pin attempts exhausted' view. */
 "ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_LEARN_MORE" = "PIN-കളെക്കുറിച്ച് കൂടുതൽ പഠിക്കുക.";
@@ -3910,8 +3910,8 @@
 /* Info Message when another user enabled disappearing messages. Embeds {{name of other user}} and {{time amount}} before messages disappear. See the *_TIME_AMOUNT strings for context. */
 "OTHER_UPDATED_DISAPPEARING_MESSAGES_CONFIGURATION" = "സന്ദേശം അപ്രത്യക്ഷമാകാനുള്ള സമയം %@ ആയി  %@ ക്രമീകരിച്ചിരിക്കുന്നു.";
 
-/* Label warning the user that the Signal service may be down. */
-"OUTAGE_WARNING" = "Signal ചില സാങ്കേതിക പ്രശ്നങ്ങൾ നേരിടുകയാണ്.  കഴിയുന്നതും വേഗം സേവനം പുനസ്ഥാപിക്കാൻ ഞങ്ങൾ കഠിനപ്രയത്നം നടത്തുകയാണ്.";
+/* Label warning the user that the CoolApp service may be down. */
+"OUTAGE_WARNING" = "CoolApp ചില സാങ്കേതിക പ്രശ്നങ്ങൾ നേരിടുകയാണ്.  കഴിയുന്നതും വേഗം സേവനം പുനസ്ഥാപിക്കാൻ ഞങ്ങൾ കഠിനപ്രയത്നം നടത്തുകയാണ്.";
 
 /* info message text in conversation view. {embeds callee name} */
 "OUTGOING_CALL_FORMAT" = "നിങ്ങൾ %@-നെ വിളിച്ചു ";
@@ -3989,7 +3989,7 @@
 "PAYMENTS_NEW_PAYMENT_ERROR_INVALID_TRANSACTION" = "അസാധുവായ ഇടപാട്";
 
 /* Indicates that a payment failed due to an outdated client. */
-"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "പേയ്മെന്റുകൾ ഉപയോഗിക്കുന്നതിന് Signal അപ്ഡേറ്റ് ചെയ്യുക.";
+"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "പേയ്മെന്റുകൾ ഉപയോഗിക്കുന്നതിന് CoolApp അപ്ഡേറ്റ് ചെയ്യുക.";
 
 /* Indicates that an outgoing payment could not be verified in a timely way. */
 "PAYMENTS_NEW_PAYMENT_ERROR_OUTGOING_VERIFICATION_TAKING_TOO_LONG" = "പേയ്മെന്റ് ഇതുവരെ പരിശോധിച്ചിട്ടില്ല";
@@ -4223,13 +4223,13 @@
 "PHONE_NUMBER_DISCOVERABILITY_EVERYBODY" = "എല്ലാവരും";
 
 /* A user friendly description of the 'everybody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "കോൺ‌ടാക്റ്റുകളിൽ‌ നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ ഉള്ള ഏതൊരാളും നിങ്ങളെ Signal-ഇലെ (സിഗ്നലിലെ) ഒരു കോൺ‌ടാക്റ്റായി കാണും. മറ്റുള്ളവർക്ക് നിങ്ങളെ തിരയലിൽ കണ്ടെത്താൻ കഴിയും.";
+"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "കോൺ‌ടാക്റ്റുകളിൽ‌ നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ ഉള്ള ഏതൊരാളും നിങ്ങളെ CoolApp-ഇലെ (സിഗ്നലിലെ) ഒരു കോൺ‌ടാക്റ്റായി കാണും. മറ്റുള്ളവർക്ക് നിങ്ങളെ തിരയലിൽ കണ്ടെത്താൻ കഴിയും.";
 
 /* A user friendly name for the 'nobody' phone number discoverability mode. */
 "PHONE_NUMBER_DISCOVERABILITY_NOBODY" = "ആരുംതന്നെയില്ല";
 
 /* A user friendly description of the 'nobody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Signal-ലുള്ള ആർക്കും നിങ്ങളുടെ ഫോൺ നമ്പർ ഉപയോഗിച്ച് നിങ്ങളെ കണ്ടെത്താൻ കഴിയില്ല. കോൺ‌ടാക്റ്റുകളിൽ‌ നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ ഉള്ള ആളുകൾ‌ക്ക് നിങ്ങൾ‌ കോൺ‌ടാക്റ്റായി ദൃശ്യമാകില്ല, മറ്റുള്ളവർ‌ക്ക് നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ ഉപയോഗിച്ച് തിരയലിൽ‌ നിങ്ങളെ കണ്ടെത്താൻ‌ കഴിയില്ല.";
+"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "CoolApp-ലുള്ള ആർക്കും നിങ്ങളുടെ ഫോൺ നമ്പർ ഉപയോഗിച്ച് നിങ്ങളെ കണ്ടെത്താൻ കഴിയില്ല. കോൺ‌ടാക്റ്റുകളിൽ‌ നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ ഉള്ള ആളുകൾ‌ക്ക് നിങ്ങൾ‌ കോൺ‌ടാക്റ്റായി ദൃശ്യമാകില്ല, മറ്റുള്ളവർ‌ക്ക് നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ ഉപയോഗിച്ച് തിരയലിൽ‌ നിങ്ങളെ കണ്ടെത്താൻ‌ കഴിയില്ല.";
 
 /* A format for a label showing an example phone number. Embeds {{the example phone number}}. */
 "PHONE_NUMBER_EXAMPLE_FORMAT" = "ഉദാഹരണം: %@";
@@ -4238,7 +4238,7 @@
 "PHONE_NUMBER_SHARING_CONTACTS_ONLY" = "എന്റെ കോൺ‌ടാക്റ്റുകൾ";
 
 /* A user friendly description of the 'contacts only' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "നിങ്ങളുടെ കോൺ‌ടാക്റ്റുകൾ‌ മാത്രമേ നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ Signal - ൽ‌ കാണൂ.";
+"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "നിങ്ങളുടെ കോൺ‌ടാക്റ്റുകൾ‌ മാത്രമേ നിങ്ങളുടെ ഫോൺ‌ നമ്പർ‌ CoolApp - ൽ‌ കാണൂ.";
 
 /* A user friendly name for the 'everybody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_EVERYBODY" = "എല്ലാവരും";
@@ -4250,7 +4250,7 @@
 "PHONE_NUMBER_SHARING_NOBODY" = "ആരുംതന്നെയില്ല";
 
 /* A user friendly description of the 'nobody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "Signal-ൽ നിങ്ങളുടെ ഫോൺ നമ്പർ ആരും കാണില്ല.";
+"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "CoolApp-ൽ നിങ്ങളുടെ ഫോൺ നമ്പർ ആരും കാണില്ല.";
 
 /* Format for phone number label with an index. Embeds {{Phone number label (e.g. 'home')}} and {{index, e.g. 2}}. */
 "PHONE_NUMBER_TYPE_AND_INDEX_NAME_FORMAT" = "%@ %@";
@@ -4331,7 +4331,7 @@
 "PIN_CREATION_DISABLE_CONFIRMATION_ACTION" = "പിൻ അപ്രാപ്‌തമാക്കുക";
 
 /* Message of the 'pin disable' action sheet. */
-"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "നിങ്ങൾ പിൻ പ്രവർത്തനരഹിതമാക്കുകയാണെങ്കിൽ, നിങ്ങൾ മറ്റൊരു ഐഒഎസ് ഉപകരണത്തിൽ നിന്ന് കൈമാറ്റം ചെയ്യുന്നില്ലെങ്കിൽ Signal വീണ്ടും രജിസ്റ്റർ ചെയ്യുമ്പോൾ നിങ്ങൾക്ക് എല്ലാ ഡാറ്റയും നഷ്ടപ്പെടും. പിൻ പ്രവർത്തനരഹിതമിരിക്കെ നിങ്ങൾക്ക് രജിസ്ട്രേഷൻ ലോക്ക് ഓണാക്കാൻ കഴിയില്ല.";
+"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "നിങ്ങൾ പിൻ പ്രവർത്തനരഹിതമാക്കുകയാണെങ്കിൽ, നിങ്ങൾ മറ്റൊരു ഐഒഎസ് ഉപകരണത്തിൽ നിന്ന് കൈമാറ്റം ചെയ്യുന്നില്ലെങ്കിൽ CoolApp വീണ്ടും രജിസ്റ്റർ ചെയ്യുമ്പോൾ നിങ്ങൾക്ക് എല്ലാ ഡാറ്റയും നഷ്ടപ്പെടും. പിൻ പ്രവർത്തനരഹിതമിരിക്കെ നിങ്ങൾക്ക് രജിസ്ട്രേഷൻ ലോക്ക് ഓണാക്കാൻ കഴിയില്ല.";
 
 /* Title of the 'pin disable' action sheet. */
 "PIN_CREATION_DISABLE_CONFIRMATION_TITLE" = "മുന്നറിയിപ്പ്";
@@ -4421,7 +4421,7 @@
 "PIN_REMINDER_MEGAPHONE_FEW_DAYS_TOAST" = "കുറച്ച് ദിവസങ്ങൾക്കുള്ളിൽ ഞങ്ങൾ നിങ്ങളെ വീണ്ടും ഓർമ്മപ്പെടുത്തും.";
 
 /* Title for PIN reminder megaphone */
-"PIN_REMINDER_MEGAPHONE_TITLE" = "നിങ്ങളുടെ Signal പിൻ പരിശോധിക്കുക";
+"PIN_REMINDER_MEGAPHONE_TITLE" = "നിങ്ങളുടെ CoolApp പിൻ പരിശോധിക്കുക";
 
 /* Toast indicating that we'll ask you for your PIN again tomorrow. */
 "PIN_REMINDER_MEGAPHONE_TOMORROW_TOAST" = "ഞങ്ങൾ നിങ്ങളെ നാളെ വീണ്ടും ഓർമ്മപ്പെടുത്തും.";
@@ -4436,7 +4436,7 @@
 "PIN_REMINDER_MISMATCH_ERROR" = "അസാധുവായ PIN. വീണ്ടും ശ്രമിക്കുക.";
 
 /* The title for the 'pin reminder' dialog. */
-"PIN_REMINDER_TITLE" = "നിങ്ങളുടെ Signal PIN നൽകുക";
+"PIN_REMINDER_TITLE" = "നിങ്ങളുടെ CoolApp PIN നൽകുക";
 
 /* Label indicating that the attempted PIN is too short */
 "PIN_REMINDER_TOO_SHORT_ERROR" = "PIN കുറഞ്ഞത് 4 അക്കങ്ങളെങ്കിലും ആയിരിക്കണം";
@@ -4451,7 +4451,7 @@
 "PINS_MEGAPHONE_ACTION" = "പിൻ സൃഷ്ടിക്കുക";
 
 /* Body for PIN megaphone when user doesn't have a PIN */
-"PINS_MEGAPHONE_BODY" = "Finish creating your Signal PIN.";
+"PINS_MEGAPHONE_BODY" = "Finish creating your CoolApp PIN.";
 
 /* Toast indication that the user will be reminded later to setup their PIN. Embeds {{time until mandatory}} */
 "PINS_MEGAPHONE_SNOOZE_TOAST_FORMAT" = "ഞങ്ങൾ നിങ്ങളെ പിന്നീട് ഓർമ്മപ്പെടുത്തും. ഒരു PIN സൃഷ്‌ടിക്കുന്നത് %ld ദിവസങ്ങളിൽ നിർബന്ധമാകും.";
@@ -4487,19 +4487,19 @@
 "PRIVACY_VERIFICATION_FAILED_MISMATCHED_SAFETY_NUMBERS_IN_CLIPBOARD" = "നിങ്ങളുടെ ക്ലിപ്പ് ബോർഡിലുള്ളത് ഈ സംഭാഷണത്തിന് വേണ്ടിയുള്ള ശരിയായ സുരക്ഷാ നമ്പർ പോലെ അല്ല.";
 
 /* Alert body for user error */
-"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Signal ന് നിങ്ങളുടെ ക്ലിപ്പ് ബോർഡിൽ ഒരു സുരക്ഷാ നമ്പരും കണ്ടു പിടിക്കാൻ കഴിഞ്ഞില്ല.  നിങ്ങൾ അത് ശരിയായിട്ടാണോ കോപ്പി ചെയ്തത്?";
+"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "CoolApp ന് നിങ്ങളുടെ ക്ലിപ്പ് ബോർഡിൽ ഒരു സുരക്ഷാ നമ്പരും കണ്ടു പിടിക്കാൻ കഴിഞ്ഞില്ല.  നിങ്ങൾ അത് ശരിയായിട്ടാണോ കോപ്പി ചെയ്തത്?";
 
 /* Alert body when verifying with {{contact name}} */
-"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Signal യൂസർമാരുടെ ഓരോ ജോഡിയും പങ്ക് വയ്ക്കുന്നത് ഒരു അനന്യമായ സുരക്ഷാ നമ്പരാണ്.  %@ ഡിസ്പ്ലേ ചെയ്യുന്നത് *നിങ്ങളുടെ* അനന്യമായ സുരക്ഷാ നമ്പരാണെന്ന് രണ്ട് തവണ പരിശോധിക്കുക.";
+"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "CoolApp യൂസർമാരുടെ ഓരോ ജോഡിയും പങ്ക് വയ്ക്കുന്നത് ഒരു അനന്യമായ സുരക്ഷാ നമ്പരാണ്.  %@ ഡിസ്പ്ലേ ചെയ്യുന്നത് *നിങ്ങളുടെ* അനന്യമായ സുരക്ഷാ നമ്പരാണെന്ന് രണ്ട് തവണ പരിശോധിക്കുക.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "നിങ്ങൾ ഉപയോഗിക്കുന്നത് Signal ൻ്റെ ഒരു പഴയ പതിപ്പാണ്.  നിങ്ങൾ പരിശോധന നടത്തുന്നതിന് മുൻപ് അത് നിങ്ങൾ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "നിങ്ങൾ ഉപയോഗിക്കുന്നത് CoolApp ൻ്റെ ഒരു പഴയ പതിപ്പാണ്.  നിങ്ങൾ പരിശോധന നടത്തുന്നതിന് മുൻപ് അത് നിങ്ങൾ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "നിങ്ങളുടെ പങ്കാളി ഉപയോഗിക്കുന്നത് Signal ൻ്റെ ഒരു പഴയ പതിപ്പാണ്.  നിങ്ങൾ പരിശോധന നടത്തുന്നതിന് മുൻപ് അത് അവർ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "നിങ്ങളുടെ പങ്കാളി ഉപയോഗിക്കുന്നത് CoolApp ൻ്റെ ഒരു പഴയ പതിപ്പാണ്.  നിങ്ങൾ പരിശോധന നടത്തുന്നതിന് മുൻപ് അത് അവർ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "സ്കാൻ ചെയ്ത കോഡ് ഒരു സുരക്ഷാ നമ്പർ പോലെ അല്ല.  നിങ്ങൾ രണ്ട് പേരും Signal ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പിലാണോ?";
+"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "സ്കാൻ ചെയ്ത കോഡ് ഒരു സുരക്ഷാ നമ്പർ പോലെ അല്ല.  നിങ്ങൾ രണ്ട് പേരും CoolApp ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പിലാണോ?";
 
 /* Paragraph(s) shown alongside the safety number when verifying privacy with {{contact name}} */
 "PRIVACY_VERIFICATION_INSTRUCTIONS" = "നിങ്ങൾക്ക് %@ മായിട്ടുള്ള നിങ്ങളുടെ ആദ്യാവസാന-എൻക്രിപ്ഷൻ സുരക്ഷ വിലയിരുത്തണമെന്നുണ്ടെങ്കിൽ, മുകളിലെ നമ്പരുകൾ അവരുടെ ഡിവൈസിലെ നമ്പരുകളുമായി ഒത്ത് നോക്കുക.\n\nകൂടാതെ, നിങ്ങൾക്ക് അവരുടെ ഫോണിലെ കോഡ് സ്കാൻ ചെയ്യാവുന്നതാണ്, അല്ലെങ്കിൽ അവരോട് നിങ്ങളുടെ കോഡ് സ്കാൻ ചെയ്യാൻ ആവശ്യപ്പെടുക.";
@@ -4685,7 +4685,7 @@
 "RECIPIENT_PICKER_ERROR_USER_CANNOT_BE_SELECTED" = "ഉപയോക്താവിനെ തിരഞ്ഞെടുക്കാനാവില്ല.";
 
 /* Error message indicating that a user can't be selected until they upgrade their app. */
-"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "ഈ യൂസറിനെ അവർ Signal അപ്ഗ്രേഡ് ചെയ്യുന്നത് വരെ ഗ്രൂപ്പിൽ ചേർക്കാൻ കഴിയുകയില്ല.";
+"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "ഈ യൂസറിനെ അവർ CoolApp അപ്ഗ്രേഡ് ചെയ്യുന്നത് വരെ ഗ്രൂപ്പിൽ ചേർക്കാൻ കഴിയുകയില്ല.";
 
 /* Label for 'I forgot my PIN' link in the 2FA registration view. */
 "REGISTER_2FA_FORGOT_PIN" = "ഞാൻ എന്റെ പിൻ മറന്നു.";
@@ -4844,7 +4844,7 @@
 "SAFETY_NUMBER_CONFIRMATION_VIEW_ACTION" = "കാണുക";
 
 /* Snippet to share {{safety number}} with a friend. sent e.g. via SMS */
-"SAFETY_NUMBER_SHARE_FORMAT" = "നമ്മുടെ Signal സുരക്ഷാ നമ്പർ.\n%@";
+"SAFETY_NUMBER_SHARE_FORMAT" = "നമ്മുടെ CoolApp സുരക്ഷാ നമ്പർ.\n%@";
 
 /* Action sheet heading */
 "SAFETY_NUMBERS_ACTIONSHEET_TITLE" = "%@ നൊപ്പമുള്ള നിങ്ങളുടെ സുരക്ഷാ നമ്പർ മാറിയിരിക്കുന്നു.  നിങ്ങൾ അത് വിലയിരുത്താൻ താത്പര്യപ്പെടുന്നു.";
@@ -4876,14 +4876,14 @@
 /* Indicates that Touch ID/Face ID/Phone Passcode passcode is not set. */
 "SCREEN_LOCK_ERROR_LOCAL_AUTHENTICATION_PASSCODE_NOT_SET" = "സ്ക്രീൻ ലോക്ക് ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ iOS സെറ്റിങ്സിൽ നിങ്ങൾ ഒരു പാസ്കോഡ് സജീവമാക്കണം.";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
-"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Signal ഓപ്പൺ ചെയ്യുന്നതിന് ഓതൻ്റിക്കേറ്റ് ചെയ്യുക";
+/* Description of how and why CoolApp iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
+"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "CoolApp ഓപ്പൺ ചെയ്യുന്നതിന് ഓതൻ്റിക്കേറ്റ് ചെയ്യുക";
 
 /* Title for alert indicating that screen lock could not be unlocked. */
 "SCREEN_LOCK_UNLOCK_FAILED" = "ഓതൻ്റിക്കേഷൻ പരാജയപ്പെട്ടിരിക്കുന്നു";
 
-/* Label for button on lock screen that lets users unlock Signal. */
-"SCREEN_LOCK_UNLOCK_SIGNAL" = "Signal തുറക്കൂ";
+/* Label for button on lock screen that lets users unlock CoolApp. */
+"SCREEN_LOCK_UNLOCK_CoolApp" = "CoolApp തുറക്കൂ";
 
 /* This is a contact's name. Replace the name for a more common name in your locale if this sounds too foreign. This should be a unique non-public figure's name. This will have a female profile photo. */
 "SCREENSHOT_NAME_CONTACT_EIGHT" = "ടീന ഉകുകു";
@@ -4933,7 +4933,7 @@
 /* This is for a group chat for people who want weather updates. */
 "SCREENSHOT_NAME_GROUP_TWO" = "വെതർ ഫോർകാസ്‌റ്റ്‌സ്";
 
-/* This appears in Signal > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
+/* This appears in CoolApp > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
 "SCREENSHOT_NAME_LOCAL_PROFILE" = "ചെയർവുമൻ ഫ്രെയ";
 
 /* This is a message expressing support/happiness/awe/shock. */
@@ -5060,7 +5060,7 @@
 "SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_TITLE" = "പിന്തുണയ്‌ക്കാത്ത പതിപ്പ്";
 
 /* alert message for outdated linking device */
-"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "നിങ്ങളുടെ മറ്റെ ഡിവൈസിൽ പ്രവർത്തിക്കുന്നത് Signal ൻ്റെ വളരെ പഴയ പതിപ്പാണ്, അത് ഐപാഡ് QR കോഡുകൾ സ്കാൻ ചെയ്യുന്നത് സപ്പോർട്ട് ചെയ്യുകയില്ല.  ദയവായി ഏറ്റവും പുതിയ Signal പതിപ്പ്  ഇൻസ്റ്റാൾ ചെയ്ത് വീണ്ടും ശ്രമിക്കുക.";
+"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "നിങ്ങളുടെ മറ്റെ ഡിവൈസിൽ പ്രവർത്തിക്കുന്നത് CoolApp ൻ്റെ വളരെ പഴയ പതിപ്പാണ്, അത് ഐപാഡ് QR കോഡുകൾ സ്കാൻ ചെയ്യുന്നത് സപ്പോർട്ട് ചെയ്യുകയില്ല.  ദയവായി ഏറ്റവും പുതിയ CoolApp പതിപ്പ്  ഇൻസ്റ്റാൾ ചെയ്ത് വീണ്ടും ശ്രമിക്കുക.";
 
 /* alert title for outdated linking device */
 "SECONDARY_LINKING_ERROR_OLD_VERSION_TITLE" = "സ്കാനിംഗ് ഡിവൈസ് അപ്ഡേറ്റ് ചെയ്യുക";
@@ -5081,19 +5081,19 @@
 "SECONDARY_ONBOARDING_COMPLETE_LINKING_PROCESS" = "ലിങ്കിംഗ് പൂർത്തിയാക്കുക";
 
 /* header text before the user can link this device */
-"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "ഈ ഐപാഡ് നിങ്ങളുടെ അക്കൗണ്ടുമായി ലിങ്ക് ചെയ്യുന്നതിന് നിങ്ങളുടെ ഫോണിൽ Signal ലോഞ്ച് ചെയ്യുക";
+"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "ഈ ഐപാഡ് നിങ്ങളുടെ അക്കൗണ്ടുമായി ലിങ്ക് ചെയ്യുന്നതിന് നിങ്ങളുടെ ഫോണിൽ CoolApp ലോഞ്ച് ചെയ്യുക";
 
 /* Link explaining what to do when trying to link a device before having a primary device. */
-"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "എൻ്റെ ഫോണിൽ Signal ഇല്ല...";
+"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "എൻ്റെ ഫോണിൽ CoolApp ഇല്ല...";
 
 /* alert body */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "നിങ്ങളുടെ ഫോണിലെ ആപ്പ് സ്റ്റോറിൽ പോകുക, Signal ഇൻസ്റ്റാൾ ചെയ്യുക, രജിസ്ട്രേഷൻ നടപടിക്രമങ്ങൾ പൂർത്തിയാക്കുക, അതിന് ശേഷം നിങ്ങൾക്ക് നിങ്ങളുടെ ഐപാഡ് ഇതേ അക്കൗണ്ടുമായി ലിങ്ക് ചെയ്യാവുന്നതാണ്.";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "നിങ്ങളുടെ ഫോണിലെ ആപ്പ് സ്റ്റോറിൽ പോകുക, CoolApp ഇൻസ്റ്റാൾ ചെയ്യുക, രജിസ്ട്രേഷൻ നടപടിക്രമങ്ങൾ പൂർത്തിയാക്കുക, അതിന് ശേഷം നിങ്ങൾക്ക് നിങ്ങളുടെ ഐപാഡ് ഇതേ അക്കൗണ്ടുമായി ലിങ്ക് ചെയ്യാവുന്നതാണ്.";
 
 /* alert title */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "നിങ്ങളുടെ ഫോണിൽ Signal ഇൻസ്റ്റാൾ ചെയ്യുക";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "നിങ്ങളുടെ ഫോണിൽ CoolApp ഇൻസ്റ്റാൾ ചെയ്യുക";
 
 /* body text while displaying a QR code which, when scanned, will link this device. */
-"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "നിങ്ങളുടെ ഫോണിൽ Signal സെറ്റിംഗ്സ് ഓപ്പൺ ചെയ്യുന്നതിനായി നിങ്ങളുടെ പ്രൊഫൈൽ ചിത്രത്തിൽ ടാപ് ചെയ്യുക.  അതിന് ശേഷം ഈ കോഡ് നിങ്ങളുടെ ഫോണിൽ സ്കാൻ ചെയ്യുന്നതിന് \"Linked Devices\", \"Link New Device\" എന്നിവ ചെയ്യുക:";
+"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "നിങ്ങളുടെ ഫോണിൽ CoolApp സെറ്റിംഗ്സ് ഓപ്പൺ ചെയ്യുന്നതിനായി നിങ്ങളുടെ പ്രൊഫൈൽ ചിത്രത്തിൽ ടാപ് ചെയ്യുക.  അതിന് ശേഷം ഈ കോഡ് നിങ്ങളുടെ ഫോണിൽ സ്കാൻ ചെയ്യുന്നതിന് \"Linked Devices\", \"Link New Device\" എന്നിവ ചെയ്യുക:";
 
 /* Link text for page with troubleshooting info shown on the QR scanning screen */
 "SECONDARY_ONBOARDING_SCAN_CODE_HELP_TEXT" = "നിങ്ങളുടെ ഐപാഡ് ലിങ്ക് ചെയ്യുന്നതിനുള്ള സഹായം ഇവിടെ തേടുക";
@@ -5102,7 +5102,7 @@
 "SECONDARY_ONBOARDING_SCAN_CODE_TITLE" = "QR കോഡ് നിങ്ങളുടെ ഫോണിൽ സ്കാൻ ചെയ്യുക.";
 
 /* header text before the user can transfer to this device */
-"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "നിങ്ങളുടെ അക്കൗണ്ട് കൈമാറ്റം ചെയ്യുന്നതിന് നിങ്ങളുടെ പഴയ ഐപാഡിൽ Signal ലോഞ്ച് ചെയ്യുക";
+"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "നിങ്ങളുടെ അക്കൗണ്ട് കൈമാറ്റം ചെയ്യുന്നതിന് നിങ്ങളുടെ പഴയ ഐപാഡിൽ CoolApp ലോഞ്ച് ചെയ്യുക";
 
 /* No comment provided by engineer. */
 "SECURE_SESSION_RESET" = "സുരക്ഷിതമായ സെഷൻ റീസെറ്റ് ആയിരിക്കുന്നു.";
@@ -5123,7 +5123,7 @@
 "SEND_INVITE_FAILURE" = "ക്ഷണം അയയ്ക്കുന്നത് പരാജയപ്പെട്ടു, ദയവായി അൽപ്പ സമയത്തിന് ശേഷം ശ്രമിക്കുക.";
 
 /* Alert body after invite succeeded */
-"SEND_INVITE_SUCCESS" = "Signal ഉപയോഗിക്കുന്നതിനായി നിങ്ങൾ നിങ്ങളുടെ സുഹൃത്തിനെ ക്ഷണിച്ചിരിക്കുന്നു!";
+"SEND_INVITE_SUCCESS" = "CoolApp ഉപയോഗിക്കുന്നതിനായി നിങ്ങൾ നിങ്ങളുടെ സുഹൃത്തിനെ ക്ഷണിച്ചിരിക്കുന്നു!";
 
 /* alert action, confirming the user wants to exit the media flow and abandon any photos they've taken */
 "SEND_MEDIA_CONFIRM_ABANDON_ALBUM" = "മീഡിയ നിരാകരിക്കുക";
@@ -5135,7 +5135,7 @@
 "SEND_SMS_CONFIRM_TITLE" = "സുരക്ഷിതമല്ലാത്ത SMS ലൂടെ ഒരു സുഹൃത്തിനെ ക്ഷണിക്കണോ?";
 
 /* No comment provided by engineer. */
-"SEND_SMS_INVITE_TITLE" = "താഴെ പറയുന്ന നമ്പറിനെ Signal ലേക്ക് ക്ഷണിക്കാൻ നിങ്ങൾക്ക് താത്പര്യമുണ്ടോ:";
+"SEND_SMS_INVITE_TITLE" = "താഴെ പറയുന്ന നമ്പറിനെ CoolApp ലേക്ക് ക്ഷണിക്കാൻ നിങ്ങൾക്ക് താത്പര്യമുണ്ടോ:";
 
 /* String describing high quality sent media */
 "SENT_MEDIA_QUALITY_HIGH" = "ഉയർന്ന";
@@ -5144,7 +5144,7 @@
 "SENT_MEDIA_QUALITY_STANDARD" = "സ്റ്റാൻഡേർഡ്";
 
 /* Description for the session refresh alert */
-"SESSION_REFRESH_ALERT_MESSAGE" = "Signal ആദ്യാവസാന-എൻക്രിപ്ഷൻ ഉപയോക്കുന്നതിനാൽ ചിലപ്പോൾ മുമ്പത്തെ ചാറ്റുകൾ പുതുക്കേണ്ടി വരും. ഇത് ചാറ്റിന്റെ സുരക്ഷയെ ബാധിക്കില്ല, പക്ഷെ ഈ കോണ്ടാക്ടിൽ നിന്നുള്ളൊരു മെസ്സേജ്  നിങ്ങൾക്ക് നഷ്ടപെട്ടിരിക്കാം, എങ്കിൽ അതവരോട് നിങ്ങൾക്ക് വീണ്ടുമയക്കാൻ പറയാം.";
+"SESSION_REFRESH_ALERT_MESSAGE" = "CoolApp ആദ്യാവസാന-എൻക്രിപ്ഷൻ ഉപയോക്കുന്നതിനാൽ ചിലപ്പോൾ മുമ്പത്തെ ചാറ്റുകൾ പുതുക്കേണ്ടി വരും. ഇത് ചാറ്റിന്റെ സുരക്ഷയെ ബാധിക്കില്ല, പക്ഷെ ഈ കോണ്ടാക്ടിൽ നിന്നുള്ളൊരു മെസ്സേജ്  നിങ്ങൾക്ക് നഷ്ടപെട്ടിരിക്കാം, എങ്കിൽ അതവരോട് നിങ്ങൾക്ക് വീണ്ടുമയക്കാൻ പറയാം.";
 
 /* Title for the session refresh alert */
 "SESSION_REFRESH_ALERT_TITLE" = "ചാറ്റ് സെഷൻ പുതുക്കി";
@@ -5171,7 +5171,7 @@
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_COUNTRY" = "സ്ഥലം";
 
 /* Table footer for the 'censorship circumvention' section when censorship circumvention can be manually enabled. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "പ്രാപ്യമാക്കിയിട്ടുണ്ടെങ്കിൽ, സെൻസർഷിപ്പ് ഒഴിവാക്കാൻ Signal ശ്രമം നടത്തും.  Signal സെൻസർ ചെയ്യുന്ന ഒരു ലൊക്കേഷനിൽ ആണ് നിങ്ങളെങ്കിൽ ഈ ഫീച്ചർ പ്രാപ്യമാക്കരുത്.";
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "പ്രാപ്യമാക്കിയിട്ടുണ്ടെങ്കിൽ, സെൻസർഷിപ്പ് ഒഴിവാക്കാൻ CoolApp ശ്രമം നടത്തും.  CoolApp സെൻസർ ചെയ്യുന്ന ഒരു ലൊക്കേഷനിൽ ആണ് നിങ്ങളെങ്കിൽ ഈ ഫീച്ചർ പ്രാപ്യമാക്കരുത്.";
 
 /* Table footer for the 'censorship circumvention' section shown when censorship circumvention has been auto-enabled based on local phone number. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_AUTO_ENABLED" = "നിങ്ങളുടെ അക്കൗണ്ടിലെ ഫോൺ നമ്പർ അടിസ്ഥാനമാക്കി സെൻസർഷിപ്പ് ഒഴിവാക്കൽ പ്രാപ്തമാക്കിയിട്ടുണ്ട്.";
@@ -5182,8 +5182,8 @@
 /* Table footer for the 'censorship circumvention' section shown when the app is not connected to the internet. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_NO_CONNECTION" = "ഇൻ്റർനെറ്റുമായി കണക്ട് ചെയ്യുമ്പോൾ മാത്രമേ സെൻസർഷിപ്പ് ഒഴിവാക്കൽ പ്രാപ്തമാക്കാൻ സാധിക്കുകയുള്ളൂ.";
 
-/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Signal service. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "സെൻസർഷിപ്പ് ഒഴിവാക്കൽ നിർബന്ധമല്ല; നിങ്ങൾ ഇതിനകം തന്നെ Signal സേവനങ്ങളുമായി കണക്ട് ആയിരിക്കുന്നു.";
+/* Table footer for the 'censorship circumvention' section shown when the app is connected to the CoolApp service. */
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "സെൻസർഷിപ്പ് ഒഴിവാക്കൽ നിർബന്ധമല്ല; നിങ്ങൾ ഇതിനകം തന്നെ CoolApp സേവനങ്ങളുമായി കണക്ട് ആയിരിക്കുന്നു.";
 
 /* No comment provided by engineer. */
 "SETTINGS_ADVANCED_DEBUGLOG" = "ഡീബഗ് ലോഗ് പ്രാപ്തമാക്കുക";
@@ -5224,8 +5224,8 @@
 /* A label for the 'add phone number' button in the block list table. */
 "SETTINGS_BLOCK_LIST_ADD_BUTTON" = "ബ്ലോക്ക് ചെയ്ത യൂസറെ ചേർക്കുക";
 
-/* A label that indicates the user has no Signal contacts. */
-"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "നിങ്ങൾക്ക് Signal ൽ കോൺടാക്ടുകൾ ഇല്ല.";
+/* A label that indicates the user has no CoolApp contacts. */
+"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "നിങ്ങൾക്ക് CoolApp ൽ കോൺടാക്ടുകൾ ഇല്ല.";
 
 /* A label that indicates the user's search has no matching results. */
 "SETTINGS_BLOCK_LIST_NO_SEARCH_RESULTS" = "തിരച്ചിൽ ഫലങ്ങളൊന്നുമില്ല";
@@ -5237,7 +5237,7 @@
 "SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE" = "കോളുകൾ എപ്പോഴും കൈമാറുക";
 
 /* User settings section footer, a detailed explanation */
-"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = " നിങ്ങളുടെ കോൺടാക്ടിന് നിങ്ങളുടെ ഐപി വിലാസം വെളിപ്പെടുന്നത് ഒഴിവാക്കാൻ ഒരു Signal സെർവറിലൂടെ എല്ലാ കോളുകളും കൈമാറുക.  ഇത് പ്രാപ്തമാക്കുന്നത് കോളിൻ്റെ ഗുണമേന്മ കുറയ്ക്കും.";
+"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = " നിങ്ങളുടെ കോൺടാക്ടിന് നിങ്ങളുടെ ഐപി വിലാസം വെളിപ്പെടുന്നത് ഒഴിവാക്കാൻ ഒരു CoolApp സെർവറിലൂടെ എല്ലാ കോളുകളും കൈമാറുക.  ഇത് പ്രാപ്തമാക്കുന്നത് കോളിൻ്റെ ഗുണമേന്മ കുറയ്ക്കും.";
 
 /* Label for the 'edit phone number' button in the 'change phone number' views. */
 "SETTINGS_CHANGE_PHONE_NUMBER_BACK_TO_EDIT_BUTTON" = "നമ്പർ എഡിറ്റ് ചെയ്യുക";
@@ -5291,7 +5291,7 @@
 "SETTINGS_CLEAR_HISTORY" = "ചാറ്റിന്റെ ചരിത്രം മായ്ക്കുക";
 
 /* Footer for the 'about' help section */
-"SETTINGS_COPYRIGHT" = "പകർപ്പവകാശ Signal സന്ദേശകന്‍\nജിപിഎൽവി3 പ്രകാരം ലൈസൻസ്";
+"SETTINGS_COPYRIGHT" = "പകർപ്പവകാശ CoolApp സന്ദേശകന്‍\nജിപിഎൽവി3 പ്രകാരം ലൈസൻസ്";
 
 /* Title for the 'Subscription' link in settings. */
 "SETTINGS_CURRENT_SUBSCRIPTION" = "സബ്സ്ക്രിപ്ഷൻ";
@@ -5362,8 +5362,8 @@
 /* Explanation for the 'disappearing messages' privacy settings. */
 "SETTINGS_DISAPPEARING_MESSAGES_FOOTER" = "നിങ്ങൾ ആരംഭിച്ച എല്ലാ പുതിയ ചാറ്റുകൾക്കും ഒരു സ്ഥിരസ്ഥിതി അപ്രത്യക്ഷമാകുന്ന സന്ദേശ ടൈമർ ക്രമീകരിക്കുക.";
 
-/* Title for the 'donate to signal' link in settings. */
-"SETTINGS_DONATE" = "Signal-ന് സംഭാവന ചെയ്യുക";
+/* Title for the 'donate to CoolApp' link in settings. */
+"SETTINGS_DONATE" = "CoolApp-ന് സംഭാവന ചെയ്യുക";
 
 /* Title for help button and help pages in app settings. */
 "SETTINGS_HELP" = "സഹായം";
@@ -5372,7 +5372,7 @@
 "SETTINGS_INVITE_TITLE" = "നിങ്ങളുടെ സുഹൃത്തുക്കളെ ക്ഷണിക്കുക";
 
 /* content of tweet when inviting via twitter - please do not translate URL */
-"SETTINGS_INVITE_TWITTER_TEXT" = "നിങ്ങൾക്ക് ഞാനുമായി ബന്ധപ്പെടാം @signalapp. ഇപ്പോൾ തന്നെ അത് നേടൂ: https://signal.org/download/";
+"SETTINGS_INVITE_TWITTER_TEXT" = "നിങ്ങൾക്ക് ഞാനുമായി ബന്ധപ്പെടാം @CoolAppapp. ഇപ്പോൾ തന്നെ അത് നേടൂ: https://CoolApp.org/download/";
 
 /* Label for settings view that allows user to change the chat color and wallpaper. */
 "SETTINGS_ITEM_COLOR_AND_WALLPAPER" = "ചാറ്റ് നിറം & വാള്‍പേപ്പര്‍";
@@ -5431,8 +5431,8 @@
 /* table section header */
 "SETTINGS_NOTIFICATION_CONTENT_TITLE" = "നോട്ടിഫിക്കേഷൻ ഉള്ളടക്കം";
 
-/* When the local device discovers a contact has recently installed signal, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
-"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "കോൺടാക്റ്റ് Signal-ൽ ചേരുന്നു";
+/* When the local device discovers a contact has recently installed CoolApp, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
+"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_CoolApp" = "കോൺടാക്റ്റ് CoolApp-ൽ ചേരുന്നു";
 
 /* table section header */
 "SETTINGS_NOTIFICATION_NOTIFY_WHEN_TITLE" = "എപ്പോൾ അറിയിക്കുക...";
@@ -5444,7 +5444,7 @@
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_AGREE" = "സജീവമാക്കുക";
 
 /* Description for the 'activate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "മൊബൈൽ കോയിൻ അയയ്ക്കാനും സ്വീകരിക്കാനും നിങ്ങൾക്ക് Signal ഉപയോഗിക്കാം. എല്ലാ പണമിടപാടുകളും മൊബൈൽ കോയിനുകൾക്കായുള്ള ഉപയോഗ വ്യവസ്ഥകൾക്കും മൊബൈൽ കോയിൻ വാലറ്റിനും വിധേയമാണ്. ഇതൊരു ബീറ്റ സവിശേഷതയാണ്, അതിനാൽ നിങ്ങൾക്ക് ചില പ്രശ്നങ്ങൾ നേരിട്ടേക്കാം, നിങ്ങൾക്ക് വീണ്ടെടുക്കാനാകാത്ത പേയ്‌മെന്റുകളോ ബാലൻസുകളോ നഷ്ടപ്പെട്ടേക്കാം.";
+"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "മൊബൈൽ കോയിൻ അയയ്ക്കാനും സ്വീകരിക്കാനും നിങ്ങൾക്ക് CoolApp ഉപയോഗിക്കാം. എല്ലാ പണമിടപാടുകളും മൊബൈൽ കോയിനുകൾക്കായുള്ള ഉപയോഗ വ്യവസ്ഥകൾക്കും മൊബൈൽ കോയിൻ വാലറ്റിനും വിധേയമാണ്. ഇതൊരു ബീറ്റ സവിശേഷതയാണ്, അതിനാൽ നിങ്ങൾക്ക് ചില പ്രശ്നങ്ങൾ നേരിട്ടേക്കാം, നിങ്ങൾക്ക് വീണ്ടെടുക്കാനാകാത്ത പേയ്‌മെന്റുകളോ ബാലൻസുകളോ നഷ്ടപ്പെട്ടേക്കാം.";
 
 /* Title for the 'activate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_TITLE" = "സജീവമാക്കുക";
@@ -5468,7 +5468,7 @@
 "SETTINGS_PAYMENTS_BALANCE_CONVERSION_FORMAT" = "%3$@-ൽ %1$@%2$@";
 
 /* Error message indicating that payments could not be activated because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Signal-ലെ പേയ്‌മെന്റുകൾ ഇനി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും ഒരു എക്സ്ചേഞ്ചിലേക്ക് ഫണ്ടുകൾ ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയും, എന്നാൽ നിങ്ങൾക്ക് ഇനി പേയ്മെന്റുകൾ അയയ്ക്കാനും കൂടാതെ സ്വീകരിക്കാനും അല്ലെങ്കിൽ ഫണ്ടുകൾ ചേർക്കാനോ കഴിയില്ല.";
+"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "CoolApp-ലെ പേയ്‌മെന്റുകൾ ഇനി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും ഒരു എക്സ്ചേഞ്ചിലേക്ക് ഫണ്ടുകൾ ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയും, എന്നാൽ നിങ്ങൾക്ക് ഇനി പേയ്മെന്റുകൾ അയയ്ക്കാനും കൂടാതെ സ്വീകരിക്കാനും അല്ലെങ്കിൽ ഫണ്ടുകൾ ചേർക്കാനോ കഴിയില്ല.";
 
 /* Error message indicating that payments could not be deactivated because the current balance is unavailable. */
 "SETTINGS_PAYMENTS_CANNOT_DEACTIVATE_PAYMENTS_NO_BALANCE" = "നിങ്ങളുടെ ബാലൻസ് ലഭ്യമല്ലാത്തതിനാൽ പേയ്‌മെന്റുകൾ നിർജ്ജീവമാക്കാൻ കഴിയില്ല. നിങ്ങളുടെ കണക്ഷൻ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.";
@@ -5477,10 +5477,10 @@
 "SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENT_NO_BALANCE" = "നിങ്ങളുടെ ബാലൻസ് ലഭ്യമല്ലാത്തതിനാൽ പേയ്മെന്റ് പൂർത്തിയാക്കാനായില്ല. നിങ്ങളുടെ കണക്ഷൻ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.";
 
 /* Error message indicating that payments cannot be sent because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Signal-ലെ പേയ്‌മെന്റുകൾ ഇനി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും ഒരു എക്സ്ചേഞ്ചിലേക്ക് ഫണ്ടുകൾ ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയും, എന്നാൽ നിങ്ങൾക്ക് ഇനി പേയ്മെന്റുകൾ അയയ്ക്കാനും കൂടാതെ സ്വീകരിക്കാനും അല്ലെങ്കിൽ ഫണ്ടുകൾ ചേർക്കാനോ കഴിയില്ല.";
+"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "CoolApp-ലെ പേയ്‌മെന്റുകൾ ഇനി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും ഒരു എക്സ്ചേഞ്ചിലേക്ക് ഫണ്ടുകൾ ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയും, എന്നാൽ നിങ്ങൾക്ക് ഇനി പേയ്മെന്റുകൾ അയയ്ക്കാനും കൂടാതെ സ്വീകരിക്കാനും അല്ലെങ്കിൽ ഫണ്ടുകൾ ചേർക്കാനോ കഴിയില്ല.";
 
 /* Error message indicating that you cannot transfer into your payments wallet because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Signal-ലെ പേയ്‌മെന്റുകൾ ഇനി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും ഒരു എക്സ്ചേഞ്ചിലേക്ക് ഫണ്ടുകൾ ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയും, എന്നാൽ നിങ്ങൾക്ക് ഇനി പേയ്മെന്റുകൾ അയയ്ക്കാനും കൂടാതെ സ്വീകരിക്കാനും അല്ലെങ്കിൽ ഫണ്ടുകൾ ചേർക്കാനോ കഴിയില്ല.";
+"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "CoolApp-ലെ പേയ്‌മെന്റുകൾ ഇനി ലഭ്യമല്ല. നിങ്ങൾക്ക് ഇപ്പോഴും ഒരു എക്സ്ചേഞ്ചിലേക്ക് ഫണ്ടുകൾ ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയും, എന്നാൽ നിങ്ങൾക്ക് ഇനി പേയ്മെന്റുകൾ അയയ്ക്കാനും കൂടാതെ സ്വീകരിക്കാനും അല്ലെങ്കിൽ ഫണ്ടുകൾ ചേർക്കാനോ കഴിയില്ല.";
 
 /* Message for the 'currency conversions info' alert. */
 "SETTINGS_PAYMENTS_CURRENCY_CONVERSIONS_INFO_ALERT_MESSAGE" = "പരിവർത്തനങ്ങൾ വെറും എസ്റ്റിമേറ്റുകൾ മാത്രമാണ്, അത് കൃത്യമല്ലായിരിക്കാം.";
@@ -5498,7 +5498,7 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS" = "പേയ്‌മെന്റുകൾ നിർജ്ജീവമാക്കുക";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "നിങ്ങൾ പേയ്മെന്റുകൾ നിർജ്ജീവമാക്കുകയാണെങ്കിൽ നിങ്ങൾക്ക് Signal-ൽ മൊബൈൽകോയിൻ അയയ്ക്കാനോ സ്വീകരിക്കാനോ കഴിയില്ല.";
+"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "നിങ്ങൾ പേയ്മെന്റുകൾ നിർജ്ജീവമാക്കുകയാണെങ്കിൽ നിങ്ങൾക്ക് CoolApp-ൽ മൊബൈൽകോയിൻ അയയ്ക്കാനോ സ്വീകരിക്കാനോ കഴിയില്ല.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_TITLE" = "പേയ്‌മെന്റുകൾ നിർജ്ജീവമാക്കണോ?";
@@ -5507,10 +5507,10 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_TITLE" = "പേയ്‌മെന്റുകൾ നിർജ്ജീവമാക്കുക";
 
 /* Explanation of the 'deactivate payments with balance' process in the 'deactivate payments' settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "പേയ്മെന്റുകൾ നിർജ്ജീവമാക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ ഫണ്ടുകൾ മറ്റൊരു വാലറ്റ് വിലാസത്തിലേക്ക് ട്രാൻസ്ഫർ ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു. നിങ്ങളുടെ ഫണ്ടുകൾ ഇപ്പോൾ ട്രാൻസ്ഫർ ചെയ്യാതിരിക്കാൻ നിങ്ങൾ തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ, നിങ്ങൾ പേയ്മെന്റുകൾ വീണ്ടും സജീവമാക്കുകയാണെങ്കിൽ, Signal-മായി ബന്ധിപ്പിച്ചിട്ടുള്ള നിങ്ങളുടെ വാലറ്റിൽ അവ തുടരും.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "പേയ്മെന്റുകൾ നിർജ്ജീവമാക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ ഫണ്ടുകൾ മറ്റൊരു വാലറ്റ് വിലാസത്തിലേക്ക് ട്രാൻസ്ഫർ ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു. നിങ്ങളുടെ ഫണ്ടുകൾ ഇപ്പോൾ ട്രാൻസ്ഫർ ചെയ്യാതിരിക്കാൻ നിങ്ങൾ തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ, നിങ്ങൾ പേയ്മെന്റുകൾ വീണ്ടും സജീവമാക്കുകയാണെങ്കിൽ, CoolApp-മായി ബന്ധിപ്പിച്ചിട്ടുള്ള നിങ്ങളുടെ വാലറ്റിൽ അവ തുടരും.";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "പേയ്‌മെന്റുകൾ വീണ്ടും സജീവമാക്കാൻ നിങ്ങൾ തീരുമാനിക്കുകയാണെങ്കിൽ, Signal-മായി ബന്ധിപ്പിച്ചിട്ടുള്ള നിങ്ങളുടെ വാലറ്റിൽ നിങ്ങളുടെ ബാലൻസ് തുടരും.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "പേയ്‌മെന്റുകൾ വീണ്ടും സജീവമാക്കാൻ നിങ്ങൾ തീരുമാനിക്കുകയാണെങ്കിൽ, CoolApp-മായി ബന്ധിപ്പിച്ചിട്ടുള്ള നിങ്ങളുടെ വാലറ്റിൽ നിങ്ങളുടെ ബാലൻസ് തുടരും.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_TITLE" = "ട്രാൻസ്ഫർ ചെയ്യാതെ നിർജ്ജീവമാക്കുക?";
@@ -5534,7 +5534,7 @@
 "SETTINGS_PAYMENTS_HELP_CARD_ABOUT_MOBILECOIN_TITLE" = "MobileCoin-നെ കുറിച്ച്";
 
 /* Description for the 'Adding to your wallet' help card in the payments settings. */
-"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "നിങ്ങളുടെ വാലറ്റ് വിലാസത്തിലേക്ക് മൊബൈൽകോയിൻ അയച്ചുകൊണ്ട് Signal-ൽ ഉപയോഗിക്കുന്നതിനുള്ള ഫണ്ടുകൾ നിങ്ങൾക്ക് ചേർക്കാം.";
+"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "നിങ്ങളുടെ വാലറ്റ് വിലാസത്തിലേക്ക് മൊബൈൽകോയിൻ അയച്ചുകൊണ്ട് CoolApp-ൽ ഉപയോഗിക്കുന്നതിനുള്ള ഫണ്ടുകൾ നിങ്ങൾക്ക് ചേർക്കാം.";
 
 /* Title for the 'Adding to your wallet' help card in the payments settings. */
 "SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_TITLE" = "ഫണ്ടുകൾ ചേർക്കുന്നു";
@@ -5588,7 +5588,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_ACTIVATED_TOAST" = "പേയ്‌മെന്റുകൾ സജീവമാക്കി.";
 
 /* Message for the 'payments opt-in' view in the app settings. */
-"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "സ്വകാര്യതയിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്ന ഒരു പുതിയ ഡിജിറ്റൽ കറൻസി മൊബൈൽകോയിൻ അയയ്ക്കാനും സ്വീകരിക്കാനും Signal ഉപയോഗിക്കുക. ആരംഭിക്കാൻ സജീവമാക്കുക.";
+"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "സ്വകാര്യതയിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്ന ഒരു പുതിയ ഡിജിറ്റൽ കറൻസി മൊബൈൽകോയിൻ അയയ്ക്കാനും സ്വീകരിക്കാനും CoolApp ഉപയോഗിക്കുക. ആരംഭിക്കാൻ സജീവമാക്കുക.";
 
 /* Label for 'activate' button in the 'payments opt-in' view in the app settings. */
 "SETTINGS_PAYMENTS_OPT_IN_REACTIVATE_BUTTON" = "പേയ്‌മെന്റുകൾ വീണ്ടും സജീവമാക്കുക";
@@ -5597,7 +5597,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_TITLE" = "പേയ്‌മെന്റുകൾ അവതരിപ്പിക്കുന്നു (ബീറ്റ)";
 
 /* Explanation of the 'payments passphrase' in the 'view payments passphrase' settings. */
-"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "നിങ്ങളുടെ Signal പിൻ സ്ഥിരീകരിക്കുകയാണെങ്കിൽ, നിങ്ങൾ Signal വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുമ്പോൾ നിങ്ങളുടെ ബാലൻസ് സ്വയമേവ പുനഃസ്ഥാപിക്കപ്പെടും. നിങ്ങൾക്ക് അതുല്യമായ 24 വാക്കുകളുള്ള വാക്യമായ ഒരു വീണ്ടെടുക്കൽ വാക്യം ഉപയോഗിച്ച് നിങ്ങൾക്ക് നിങ്ങളുടെ ബാലൻസ് പുനസ്ഥാപിക്കാനും കഴിയും. അത് എഴുതി സുരക്ഷിതമായ സ്ഥലത്ത് സൂക്ഷിക്കുക.";
+"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "നിങ്ങളുടെ CoolApp പിൻ സ്ഥിരീകരിക്കുകയാണെങ്കിൽ, നിങ്ങൾ CoolApp വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുമ്പോൾ നിങ്ങളുടെ ബാലൻസ് സ്വയമേവ പുനഃസ്ഥാപിക്കപ്പെടും. നിങ്ങൾക്ക് അതുല്യമായ 24 വാക്കുകളുള്ള വാക്യമായ ഒരു വീണ്ടെടുക്കൽ വാക്യം ഉപയോഗിച്ച് നിങ്ങൾക്ക് നിങ്ങളുടെ ബാലൻസ് പുനസ്ഥാപിക്കാനും കഴിയും. അത് എഴുതി സുരക്ഷിതമായ സ്ഥലത്ത് സൂക്ഷിക്കുക.";
 
 /* Label for the 'add money' button in the 'send payment' UI. */
 "SETTINGS_PAYMENTS_PAYMENT_ADD_MONEY" = "ഫണ്ടുകൾ ചേർക്കുക";
@@ -5756,7 +5756,7 @@
 "SETTINGS_PAYMENTS_TITLE" = "പേയ്മെന്റുകൾ";
 
 /* Error indicating that it is not valid to send yourself a payment. */
-"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "നിങ്ങളുടെ Signal വാലറ്റ് വിലാസത്തിലേക്ക് നിങ്ങൾക്ക് ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയില്ല. പിന്തുണയുള്ള എക്സ്ചേഞ്ചിൽ നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് വാലറ്റ് വിലാസം നൽകുക.";
+"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "നിങ്ങളുടെ CoolApp വാലറ്റ് വിലാസത്തിലേക്ക് നിങ്ങൾക്ക് ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയില്ല. പിന്തുണയുള്ള എക്സ്ചേഞ്ചിൽ നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് വാലറ്റ് വിലാസം നൽകുക.";
 
 /* Footer of the 'transfer currency out' view in the payment settings. */
 "SETTINGS_PAYMENTS_TRANSFER_OUT_FOOTER" = "എക്സ്ചേഞ്ച് നൽകുന്ന വാലറ്റ് വിലാസത്തിലേക്ക് ഒരു ട്രാൻസ്ഫർ പൂർത്തിയാക്കി ക്കൊണ്ട് നിങ്ങൾക്ക് മൊബൈൽ കോയിൻ ട്രാൻസ്ഫർ ചെയ്യാം. ക്യുആർ കോഡിന് ഏറ്റവും താഴെ യുള്ള സംഖ്യകളുടെയും അക്ഷരങ്ങളുടെയും സ്ട്രിംഗാണ് വാലറ്റ് വിലാസം.";
@@ -5852,13 +5852,13 @@
 "SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "നിങ്ങളുടെ പിൻ വീണ്ടെടുക്കാൻ കഴിയാത്തതിനാൽ നിങ്ങൾ അത് മന:പാഠമാക്കുകയോ സുരക്ഷിതമായി സംഭരിക്കുകയോ ചെയ്തുവെന്ന് ഉറപ്പാക്കുക. നിങ്ങളുടെ പിൻ മറന്നാൽ, നിങ്ങളുടെ സിഗ്നൽ അക്കൗണ്ട് വീണ്ടും രജിസ്റ്റർ ചെയ്യുമ്പോൾ നിങ്ങൾക്ക് ഡാറ്റ നഷ്‌ടപ്പെടാം.";
 
 /* The title for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "നിങ്ങളുടെ Signal പിൻ സ്ഥിരീകരിക്കുക";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "നിങ്ങളുടെ CoolApp പിൻ സ്ഥിരീകരിക്കുക";
 
 /* Label for the 'pin reminder' switch of the privacy settings. */
 "SETTINGS_PIN_REMINDER_SWITCH_LABEL" = "പിൻ ഓർമ്മപ്പെടുത്തലുകൾ";
 
 /* Footer for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_FOOTER" = "Signal-ൽ സൂക്ഷിച്ചിരിക്കുന്ന വിവരങ്ങൾ എൻക്രിപ്‌റ്റ് ചെയ്‌ത നിലയിൽ പിനുകൾ സൂക്ഷിക്കുന്നു, അതിനാൽ നിങ്ങൾക്ക് മാത്രമേ അത് ആക്‌സസ് ചെയ്യാൻ കഴിയൂ. നിങ്ങളുടെ പിൻ വീണ്ടെടുക്കാൻ കഴിയില്ല. നിങ്ങൾ Signal വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുമ്പോൾ നിങ്ങളുടെ പ്രൊഫൈൽ, ക്രമീകരണങ്ങൾ, കോൺ‌ടാക്റ്റുകൾ, എന്നിവ പുന:സ്ഥാപിക്കും.";
+"SETTINGS_PINS_FOOTER" = "CoolApp-ൽ സൂക്ഷിച്ചിരിക്കുന്ന വിവരങ്ങൾ എൻക്രിപ്‌റ്റ് ചെയ്‌ത നിലയിൽ പിനുകൾ സൂക്ഷിക്കുന്നു, അതിനാൽ നിങ്ങൾക്ക് മാത്രമേ അത് ആക്‌സസ് ചെയ്യാൻ കഴിയൂ. നിങ്ങളുടെ പിൻ വീണ്ടെടുക്കാൻ കഴിയില്ല. നിങ്ങൾ CoolApp വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുമ്പോൾ നിങ്ങളുടെ പ്രൊഫൈൽ, ക്രമീകരണങ്ങൾ, കോൺ‌ടാക്റ്റുകൾ, എന്നിവ പുന:സ്ഥാപിക്കും.";
 
 /* Label for the 'pins' item of the privacy settings when the user does have a pin. */
 "SETTINGS_PINS_ITEM" = "നിങ്ങളുടെ പിൻ മാറ്റുക";
@@ -5867,7 +5867,7 @@
 "SETTINGS_PINS_ITEM_CREATE" = "ഒരു പിൻ സൃഷ്ടിക്കുക";
 
 /* Title for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_TITLE" = "Signal PIN";
+"SETTINGS_PINS_TITLE" = "CoolApp PIN";
 
 /* Footer for table section */
 "SETTINGS_PRIVACY_ADVANCED_FOOTER" = "സെൻസർഷിപ്പ് മറികടക്കൽ, റിലേ കോളുകൾ, സീൽ ചെയ്ത അയയ്ക്കുന്നക്രമീകരണങ്ങൾ.";
@@ -5894,7 +5894,7 @@
 "SETTINGS_REGISTRATION_LOCK_TURN_ON" = "ഓൺ ചെയ്യുക";
 
 /* Body for the alert confirming that the user wants to turn on registration lock. */
-"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Signal ൽ വീണ്ടും രജിസ്റ്റർ ചെയ്യുമ്പോൾ നിങ്ങൾ നിങ്ങളുടെ Signal PIN മറന്നുപോകുകയാണെങ്കിൽ, നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് നിങ്ങളെ 7 ദിവസത്തേക്ക് ബ്ലോക്ക് ചെയ്യുന്നതായിരിക്കും.";
+"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "CoolApp ൽ വീണ്ടും രജിസ്റ്റർ ചെയ്യുമ്പോൾ നിങ്ങൾ നിങ്ങളുടെ CoolApp PIN മറന്നുപോകുകയാണെങ്കിൽ, നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് നിങ്ങളെ 7 ദിവസത്തേക്ക് ബ്ലോക്ക് ചെയ്യുന്നതായിരിക്കും.";
 
 /* Title for the alert confirming that the user wants to turn on registration lock. */
 "SETTINGS_REGISTRATION_LOCK_TURN_ON_TITLE" = "രജിസ്ട്രേഷൻ ലോക്ക് ഓൺ ചെയ്യണോ?";
@@ -5924,16 +5924,16 @@
 "SETTINGS_SECTION_TITLE_CALLING" = "കോളിംഗ്";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL" = "Signal അൺലോക്ക് ചെയ്യുന്നതിന് ടച്ച് ഐഡി, ഫെയ്സ് ഐഡി അല്ലെങ്കിൽ നിങ്ങളുടെ ഐഒഎസ് ഉപകരണ പാസ്കോഡ് ഉപയോഗിക്കുക.";
+"SETTINGS_SECURITY_DETAIL" = "CoolApp അൺലോക്ക് ചെയ്യുന്നതിന് ടച്ച് ഐഡി, ഫെയ്സ് ഐഡി അല്ലെങ്കിൽ നിങ്ങളുടെ ഐഒഎസ് ഉപകരണ പാസ്കോഡ് ഉപയോഗിക്കുക.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_FACEID" = "Signal അൺലോക്കുചെയ്യാൻ Face ID ഉപയോഗിക്കുക.";
+"SETTINGS_SECURITY_DETAIL_FACEID" = "CoolApp അൺലോക്കുചെയ്യാൻ Face ID ഉപയോഗിക്കുക.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Signal അൺലോക്ക് ചെയ്യാൻ നിങ്ങളുടെ ഉപകരണ പാസ്കോഡ് ഉപയോഗിക്കുക.";
+"SETTINGS_SECURITY_DETAIL_PASSCODE" = "CoolApp അൺലോക്ക് ചെയ്യാൻ നിങ്ങളുടെ ഉപകരണ പാസ്കോഡ് ഉപയോഗിക്കുക.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Signal അൺലോക്കുചെയ്യാൻ Touch ID ഉപയോഗിക്കുക.";
+"SETTINGS_SECURITY_DETAIL_TOUCHID" = "CoolApp അൺലോക്കുചെയ്യാൻ Touch ID ഉപയോഗിക്കുക.";
 
 /* Section header */
 "SETTINGS_SECURITY_TITLE" = "ആപ്പ് സുരക്ഷ";
@@ -5948,22 +5948,22 @@
 "SETTINGS_SHARING_SUGGESTIONS" = "iOS-മായി കോൺടാക്റ്റുകൾ പങ്കിടുക";
 
 /* Footer for setting for enabling & disabling contact sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions.";
+"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions.";
 
 /* Footer for setting for enabling & disabling contact and notification sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions and notifications.";
+"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions and notifications.";
 
-/* Title for the 'signal boost' link in settings. */
-"SETTINGS_SIGNAL_BOOST" = "Signal ബൂസ്റ്റ്";
+/* Title for the 'CoolApp boost' link in settings. */
+"SETTINGS_CoolApp_BOOST" = "CoolApp ബൂസ്റ്റ്";
 
 /* Title for the 'become a sustainer' link in settings. */
-"SETTINGS_SUBSCRIPTION" = "Signal പരിപാലകര്‍ ആകുക";
+"SETTINGS_SUBSCRIPTION" = "CoolApp പരിപാലകര്‍ ആകുക";
 
 /* Label for the 'enable registration lock' switch of the privacy settings. */
 "SETTINGS_TWO_FACTOR_AUTH_SWITCH_LABEL" = "രജിസ്ട്രേഷൻ ലോക്ക്";
 
-/* Footer for the 'two factor auth' section of the privacy settings when Signal PINs are available. */
-"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Signal-മായി നിങ്ങളുടെ ഫോൺ നമ്പർ വീണ്ടും രജിസ്റ്റർ ചെയ്യുന്നതിന് നിങ്ങളുടെ Signal പിൻ ആവശ്യമാണ്.";
+/* Footer for the 'two factor auth' section of the privacy settings when CoolApp PINs are available. */
+"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "CoolApp-മായി നിങ്ങളുടെ ഫോൺ നമ്പർ വീണ്ടും രജിസ്റ്റർ ചെയ്യുന്നതിന് നിങ്ങളുടെ CoolApp പിൻ ആവശ്യമാണ്.";
 
 /* Label for the 'typing indicators' setting. */
 "SETTINGS_TYPING_INDICATORS" = "ടൈപ്പിംഗ് ഇൻഡിക്കേറ്ററുകൾ";
@@ -6002,13 +6002,13 @@
 "SHARE_EXTENSION_LOADING" = "ലോഡിംഗ്…";
 
 /* Message indicating that the share extension cannot be used until the user has registered in the main app. */
-"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "രജിസ്റ്റർ ചെയ്യുന്നതിന് Signal ആപ്പ് ലോഞ്ച് ചെയ്യുക.";
+"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "രജിസ്റ്റർ ചെയ്യുന്നതിന് CoolApp ആപ്പ് ലോഞ്ച് ചെയ്യുക.";
 
 /* Title indicating that the share extension cannot be used until the user has registered in the main app. */
 "SHARE_EXTENSION_NOT_REGISTERED_TITLE" = "രജിസ്റ്റർ ചെയ്തിട്ടില്ല";
 
 /* Message indicating that the share extension cannot be used until the main app has been launched at least once. */
-"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "അപ്ഡേറ്റ് ചെയ്യുന്നതിന് അല്ലെങ്കിൽ രജിസ്റ്റർ ചെയ്യുന്നതിന് Signal ആപ്പ് ലോഞ്ച് ചെയ്യുക.";
+"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "അപ്ഡേറ്റ് ചെയ്യുന്നതിന് അല്ലെങ്കിൽ രജിസ്റ്റർ ചെയ്യുന്നതിന് CoolApp ആപ്പ് ലോഞ്ച് ചെയ്യുക.";
 
 /* Title indicating that the share extension cannot be used until the main app has been launched at least once. */
 "SHARE_EXTENSION_NOT_YET_MIGRATED_TITLE" = "റെഡി അല്ല";
@@ -6022,11 +6022,11 @@
 /* Alert title */
 "SHARE_EXTENSION_SENDING_IN_PROGRESS_TITLE" = "അപ്‌ലോഡ് ചെയ്യുന്നു...";
 
-/* Shown when trying to share content to a Signal user for the share extension. Followed by failure details. */
+/* Shown when trying to share content to a CoolApp user for the share extension. Followed by failure details. */
 "SHARE_EXTENSION_UNABLE_TO_BUILD_ATTACHMENT_ALERT_TITLE" = "അറ്റാച്ച്‌‌മെന്റ് തയ്യാറാക്കാൻ കഴിയുന്നില്ല";
 
 /* Title for the 'share extension' view. */
-"SHARE_EXTENSION_VIEW_TITLE" = "Signal ലേക്ക് പങ്കിടുക";
+"SHARE_EXTENSION_VIEW_TITLE" = "CoolApp ലേക്ക് പങ്കിടുക";
 
 /* Title of alert indicating sharing suggestions failed to deactivate */
 "SHARING_SUGGESTIONS_DISABLE_ERROR" = "നിർദ്ദേശങ്ങൾ പങ്കിടുന്നത് പ്രവർത്തനരഹിതമാക്കുന്നതിൽ പരാജയപ്പെട്ടു.";
@@ -6037,8 +6037,8 @@
 /* notification action */
 "SHOW_THREAD_BUTTON_TITLE" = "ചാറ്റ് കാണിക്കുക";
 
-/* body sent to contacts when inviting to Install Signal */
-"SMS_INVITE_BODY" = "Signal ഇൻസ്റ്റാൾ ചെയ്യാൻ ഞാൻ നിങ്ങളെ ക്ഷണിക്കുന്നു! ലിങ്ക് ഇതാ ഇവിടെ:";
+/* body sent to contacts when inviting to Install CoolApp */
+"SMS_INVITE_BODY" = "CoolApp ഇൻസ്റ്റാൾ ചെയ്യാൻ ഞാൻ നിങ്ങളെ ക്ഷണിക്കുന്നു! ലിങ്ക് ഇതാ ഇവിടെ:";
 
 /* table cell label in conversation settings */
 "SOUND_AND_NOTIFICATION_SETTINGS" = "ശബ്ദങ്ങൾ & അറിയിപ്പുകൾ";
@@ -6056,7 +6056,7 @@
 "SPAM_CAPTCHA_DISMISS_CONFIRMATION_TITLE" = "പരിശോധിച്ചുറപ്പിക്കാതെ തുടരണോ?";
 
 /* Body for action sheet explaining captcha requirement. */
-"SPAM_CAPTCHA_SHEET_BODY" = "Signal-ലെ സ്പാം തടയുന്നതിന് സഹായിക്കുന്നതിന്, പരിശോധിച്ചുറപ്പിക്കൽ പൂർത്തിയാക്കുക.\n\nപരിശോധിച്ചുറപ്പിച്ചശേഷം, നിങ്ങൾക്ക് സന്ദേശ വിനിമയം തുടരാം. താൽക്കാലികമായി നിർത്തിയ സന്ദേശങ്ങള്‍ സ്വയമേവ അയയ്ക്കപ്പെടും.";
+"SPAM_CAPTCHA_SHEET_BODY" = "CoolApp-ലെ സ്പാം തടയുന്നതിന് സഹായിക്കുന്നതിന്, പരിശോധിച്ചുറപ്പിക്കൽ പൂർത്തിയാക്കുക.\n\nപരിശോധിച്ചുറപ്പിച്ചശേഷം, നിങ്ങൾക്ക് സന്ദേശ വിനിമയം തുടരാം. താൽക്കാലികമായി നിർത്തിയ സന്ദേശങ്ങള്‍ സ്വയമേവ അയയ്ക്കപ്പെടും.";
 
 /* Title for action sheet explaining captcha requirement. */
 "SPAM_CAPTCHA_SHEET_TITLE" = "സന്ദേശ വിനിമയം തുടരുന്നതിന് പരിശോധിക്കുക";
@@ -6074,7 +6074,7 @@
 "STICKERS_INSTALL_BUTTON" = "ഇൻസ്റ്റാൾ";
 
 /* Title for the 'available built-in stickers' section of the 'manage stickers' view. */
-"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Signal ആർട്ടിസ്റ്റ് സീരീസ്";
+"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "CoolApp ആർട്ടിസ്റ്റ് സീരീസ്";
 
 /* Title for the 'available known stickers' section of the 'manage stickers' view. */
 "STICKERS_MANAGE_VIEW_AVAILABLE_KNOWN_PACKS_SECTION_TITLE" = "നിങ്ങൾക്ക് ലഭിച്ച സ്റ്റിക്കറുകൾ";
@@ -6170,7 +6170,7 @@
 "SUBSCRIPTION_MEGAPHONE_ACTION" = "സംഭാവന ചെയ്യുക";
 
 /* Body for subscription megaphone */
-"SUBSCRIPTION_MEGAPHONE_BODY" = "Signal is powered by people like you. Contribute and receive a badge.";
+"SUBSCRIPTION_MEGAPHONE_BODY" = "CoolApp is powered by people like you. Contribute and receive a badge.";
 
 /* Cancel text for subscription megaphone */
 "SUBSCRIPTION_MEGAPHONE_CANCEL" = "വേണ്ട, നന്ദി";
@@ -6194,7 +6194,7 @@
 "SUPPORT_EMAIL_DEFAULT_DESCRIPTION" = "പ്രശ്നത്തെക്കുറിച്ച് ഞങ്ങളോട് പറയുക:";
 
 /* Message for alert dialog presented when a support email failed to send */
-"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "നിങ്ങളുടെ പിന്തുണ അഭ്യർത്ഥന support@signal.org ലേക്ക് ഇമെയിൽ ചെയ്യുക";
+"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "നിങ്ങളുടെ പിന്തുണ അഭ്യർത്ഥന support@CoolApp.org ലേക്ക് ഇമെയിൽ ചെയ്യുക";
 
 /* Localized label for support request email filter string. Embeds {{filter text}}. */
 "SUPPORT_EMAIL_FILTER_LABEL_FORMAT" = "ഫിൽട്ടർ: %@";
@@ -6217,16 +6217,16 @@
 /* Localized label for support request email debug log URL. Embeds {{debug log url}}. */
 "SUPPORT_EMAIL_LOG_URL_LABEL_FORMAT" = "ലോഗ് യുആർഎൽ: %@";
 
-/* Localized label for support request email signal version string. Embeds {{signal version}}. */
-"SUPPORT_EMAIL_SIGNAL_VERSION_LABEL_FORMAT" = "സിഗ്നൽ പതിപ്പ്: %@";
+/* Localized label for support request email CoolApp version string. Embeds {{CoolApp version}}. */
+"SUPPORT_EMAIL_CoolApp_VERSION_LABEL_FORMAT" = "സിഗ്നൽ പതിപ്പ്: %@";
 
 /* Localized subject for support request emails */
-"SUPPORT_EMAIL_SUBJECT" = "Signal iOS പിന്തുണ അഭ്യർത്ഥന";
+"SUPPORT_EMAIL_SUBJECT" = "CoolApp iOS പിന്തുണ അഭ്യർത്ഥന";
 
 /* Header for emoji mood selection */
 "SUPPORT_EMOJI_PROMPT" = "നിങ്ങൾക്ക് എന്തുതോന്നുന്നു? (ഓപ്ഷണൽ)";
 
-/* Label in support request informing user about Signal FAQ */
+/* Label in support request informing user about CoolApp FAQ */
 "SUPPORT_FAQ_PROMPT" = "നിങ്ങൾ ഞങ്ങളുടെ പതിവുചോദ്യങ്ങൾ വായിച്ചിട്ടുണ്ടോ?";
 
 /* Label describing support switch to attach debug logs */
@@ -6236,22 +6236,22 @@
 "SUPPORT_LOG_UPLOAD_IN_PROGRESS" = "ലോഡിംഗ്";
 
 /* First block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "Signal is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
 
 /* Second block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "Signal is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
 
-/* Title for the signal sustainer read more view */
+/* Title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_TITLE" = "Support technology that is built for you - not for your data - by joining the community that sustains it.";
 
-/* Why Contribute title for the signal sustainer read more view */
+/* Why Contribute title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_WHY_CONTRIBUTE" = "എന്തുകൊണ്ട് സംഭാവന ചെയ്യണം?";
 
 /* Action sheet title for Still Processing Badge sheet */
 "SUSTAINER_STILL_PROCESSING_BADGE_TITLE" = "Still Processing";
 
 /* Sustainer view Add Boost button title */
-"SUSTAINER_VIEW_ADD_BOOST" = "ഒരു Signal ബൂസ്റ്റ് ചേർക്കുക";
+"SUSTAINER_VIEW_ADD_BOOST" = "ഒരു CoolApp ബൂസ്റ്റ് ചേർക്കുക";
 
 /* Description text for sustainer view badges, embeds {{localized badge name}} */
 "SUSTAINER_VIEW_BADGE_DESCRIPTION" = "Get a %@ badge";
@@ -6322,8 +6322,8 @@
 /* Sustainer view Not Now Action sheet button */
 "SUSTAINER_VIEW_SUBSCRIPTION_CONFIRMATION_NOT_NOW" = "ഇപ്പോൾ വേണ്ട";
 
-/* Title for the signal sustainer view */
-"SUSTAINER_VIEW_TITLE" = "നിങ്ങളെപ്പോലുള്ളവരാണ് Signal പ്രവർത്തിപ്പിക്കുന്നത്.";
+/* Title for the CoolApp sustainer view */
+"SUSTAINER_VIEW_TITLE" = "നിങ്ങളെപ്പോലുള്ളവരാണ് CoolApp പ്രവർത്തിപ്പിക്കുന്നത്.";
 
 /* Update Subscription? Action sheet message, embeds {{Price}} */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_MESSAGE" = "You will be charged the full amount (%@) of the new subscription price today. Your new subscription will renew monthly.";
@@ -6334,7 +6334,7 @@
 /* Update Subscription? Action sheet confirm button */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_UPDATE" = "അപ്‌ഡേറ്റ്";
 
-/* The body text for the signal sustainer view */
+/* The body text for the CoolApp sustainer view */
 "SUSTAINER_VIEW_WHY_DONATE_BODY" = "Support technology that is built for you - not for your data - by joining the community of people that sustain it.";
 
 /* Label for 'off' state of a switch control. */
@@ -6452,25 +6452,25 @@
 "UNKNOWN_COUNTRY_NAME" = "അജ്ഞാത രാജ്യം";
 
 /* Info message recorded in conversation history when local user receives an unknown message from a linked device and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "നിങ്ങളുടെ ഒരു ഡിവൈസ് ഒരു സന്ദേശം അയച്ചിട്ടുണ്ട്, അത് ഉപയോഗിക്കുന്നത് ഒരു പുതിയ Signal ഫീച്ചർ ആയതിനാൽ സന്ദേശം പ്രോസസ് ചെയ്യാനോ ഇവിടെ ഡിസ്പ്ലേ ചെയ്യാനോ സാധ്യമല്ല.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "നിങ്ങളുടെ ഒരു ഡിവൈസ് ഒരു സന്ദേശം അയച്ചിട്ടുണ്ട്, അത് ഉപയോഗിക്കുന്നത് ഒരു പുതിയ CoolApp ഫീച്ചർ ആയതിനാൽ സന്ദേശം പ്രോസസ് ചെയ്യാനോ ഇവിടെ ഡിസ്പ്ലേ ചെയ്യാനോ സാധ്യമല്ല.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%@ നിങ്ങൾക്ക് ഒരു സന്ദേശം അയച്ചിട്ടുണ്ട്, അത് ഉപയോഗിക്കുന്നത് ഒരു പുതിയ Signal ഫീച്ചർ ആയതിനാൽ സന്ദേശം പ്രോസസ് ചെയ്യാനോ ഇവിടെ ഡിസ്പ്ലേ ചെയ്യാനോ സാധ്യമല്ല.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%@ നിങ്ങൾക്ക് ഒരു സന്ദേശം അയച്ചിട്ടുണ്ട്, അത് ഉപയോഗിക്കുന്നത് ഒരു പുതിയ CoolApp ഫീച്ചർ ആയതിനാൽ സന്ദേശം പ്രോസസ് ചെയ്യാനോ ഇവിടെ ഡിസ്പ്ലേ ചെയ്യാനോ സാധ്യമല്ല.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "നിങ്ങൾക്ക് ഒരു സന്ദേശം ലഭിച്ചിട്ടുണ്ട്, അത് ഉപയോഗിക്കുന്നത് ഒരു പുതിയ Signal ഫീച്ചർ ആയതിനാൽ സന്ദേശം പ്രോസസ് ചെയ്യാനോ ഇവിടെ ഡിസ്പ്ലേ ചെയ്യാനോ സാധ്യമല്ല.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "നിങ്ങൾക്ക് ഒരു സന്ദേശം ലഭിച്ചിട്ടുണ്ട്, അത് ഉപയോഗിക്കുന്നത് ഒരു പുതിയ CoolApp ഫീച്ചർ ആയതിനാൽ സന്ദേശം പ്രോസസ് ചെയ്യാനോ ഇവിടെ ഡിസ്പ്ലേ ചെയ്യാനോ സാധ്യമല്ല.";
 
 /* Label for button that lets users upgrade the app. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "Signal ഇപ്പോൾ അപ്ഡേറ്റ് ചെയ്യുക";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "CoolApp ഇപ്പോൾ അപ്ഡേറ്റ് ചെയ്യുക";
 
 /* Info message recorded in conversation history when local user has received an unknown unknown message from a linked device and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Signal ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു.  നിങ്ങൾക്കിപ്പോൾ ഈ തരം സന്ദേശം നിങ്ങളുടെ ഡിവൈസിൽ സ്വീകരിക്കാൻ കഴിയും.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "CoolApp ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു.  നിങ്ങൾക്കിപ്പോൾ ഈ തരം സന്ദേശം നിങ്ങളുടെ ഡിവൈസിൽ സ്വീകരിക്കാൻ കഴിയും.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "നിങ്ങൾ ഇപ്പോൾ ഉപയോഗിക്കുന്നത് Signal ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പായതിനാൽ %@ നോട് ഈ സന്ദേശം വീണ്ടും അയയ്ക്കാൻ നിങ്ങൾക്ക് ആവശ്യപ്പെടാവുന്നതാണ്.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "നിങ്ങൾ ഇപ്പോൾ ഉപയോഗിക്കുന്നത് CoolApp ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പായതിനാൽ %@ നോട് ഈ സന്ദേശം വീണ്ടും അയയ്ക്കാൻ നിങ്ങൾക്ക് ആവശ്യപ്പെടാവുന്നതാണ്.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "നിങ്ങൾ ഇപ്പോൾ ഉപയോഗിക്കുന്നത് Signal ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പായതിനാൽ അയക്കുന്ന ആളോട് ഈ സന്ദേശം വീണ്ടും അയയ്ക്കാൻ നിങ്ങൾക്ക് ആവശ്യപ്പെടാവുന്നതാണ്.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "നിങ്ങൾ ഇപ്പോൾ ഉപയോഗിക്കുന്നത് CoolApp ൻ്റെ ഏറ്റവും പുതിയ പതിപ്പായതിനാൽ അയക്കുന്ന ആളോട് ഈ സന്ദേശം വീണ്ടും അയയ്ക്കാൻ നിങ്ങൾക്ക് ആവശ്യപ്പെടാവുന്നതാണ്.";
 
 /* Label indicating an unknown user. */
 "UNKNOWN_USER" = "അജ്ഞാതം";
@@ -6494,10 +6494,10 @@
 "UNLINK_CONFIRMATION_ALERT_TITLE" = "\"%@\" അൺലിങ്ക് ചെയ്യട്ടെ?";
 
 /* Label warning the user that they have been unlinked from their primary device. */
-"UNLINKED_WARNING" = "ഡിവൈസ് ലിങ്ക് ചെയ്തിട്ടില്ല.  സന്ദേശങ്ങൾ അയയ്ക്കുന്നത് തുടരുന്നതിന്  നിങ്ങളുടെ ഫോണുമായി Signal റീ-ലിങ്ക് ചെയ്യുക.";
+"UNLINKED_WARNING" = "ഡിവൈസ് ലിങ്ക് ചെയ്തിട്ടില്ല.  സന്ദേശങ്ങൾ അയയ്ക്കുന്നത് തുടരുന്നതിന്  നിങ്ങളുടെ ഫോണുമായി CoolApp റീ-ലിങ്ക് ചെയ്യുക.";
 
 /* Alert title when unlinking device fails */
-"UNLINKING_FAILED_ALERT_TITLE" = "Signal ന് നിങ്ങളുടെ ഡിവൈസ് അൺലിങ്ക് ചെയ്യാൻ സാധിക്കുന്നില്ല.";
+"UNLINKING_FAILED_ALERT_TITLE" = "CoolApp ന് നിങ്ങളുടെ ഡിവൈസ് അൺലിങ്ക് ചെയ്യാൻ സാധിക്കുന്നില്ല.";
 
 /* Label text in device manager for a device with no name */
 "UNNAMED_DEVICE" = "പേരിടാത്ത ഉപകരണം";
@@ -6518,7 +6518,7 @@
 "UNSUPPORTED_FEATURE_ERROR" = "നിങ്ങളുടെ ഡിവൈസ് ഈ ഫീച്ചർ സപ്പോർട്ട് ചെയ്യുന്നില്ല.";
 
 /* Description for the unverified safety number change. Embeds {name of contact with identity change} */
-"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Signal വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്തതുകൊണ്ടോ ഉപകരണങ്ങൾ മാറ്റിയതുകൊണ്ടോ %@ ഉള്ള നിങ്ങളുടെ സുരക്ഷാ നമ്പർ മാറ്റപ്പെടാൻ സാധ്യതയുണ്ട്. പുതിയ സുരക്ഷാ നമ്പർ സ്ഥിരീകരിക്കുന്നതിന് പരിശോധിച്ചുറപ്പിക്കാൻ തൊടുക. ഇത് ഓപ്ഷണൽ ആണ്.";
+"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "CoolApp വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്തതുകൊണ്ടോ ഉപകരണങ്ങൾ മാറ്റിയതുകൊണ്ടോ %@ ഉള്ള നിങ്ങളുടെ സുരക്ഷാ നമ്പർ മാറ്റപ്പെടാൻ സാധ്യതയുണ്ട്. പുതിയ സുരക്ഷാ നമ്പർ സ്ഥിരീകരിക്കുന്നതിന് പരിശോധിച്ചുറപ്പിക്കാൻ തൊടുക. ഇത് ഓപ്ഷണൽ ആണ്.";
 
 /* Action to verify a safety number after it has changed */
 "UNVERIFIED_SAFETY_NUMBER_VERIFY_ACTION" = "ഉറപ്പാക്കു";
@@ -6533,7 +6533,7 @@
 "UPDATE_GROUP_FAILED_DUE_TO_NETWORK" = "ഗ്രൂപ്പ് അപ്‌ഡേറ്റുചെയ്യാനായില്ല. നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.";
 
 /* An explanation of how usernames work on the username view. */
-"USERNAME_DESCRIPTION" = "Signal ൽ യൂസർ പേര് ഓപ്ഷണൽ ആണ്.  നിങ്ങൾ ഒരു യൂസർ പേര് സൃഷ്ടിക്കുകയാണെങ്കിൽ, മറ്റ് Signal യൂസർമാർക്ക് നിങ്ങളുടെ ഈ യൂസർ പേര് വച്ച് നിങ്ങളെ കണ്ടുപിടിക്കാനും നിങ്ങളുടെ ഫോൺ നമ്പർ അറിയാതെ തന്നെ നിങ്ങളെ ബന്ധപ്പെടാനും സാധിക്കും.";
+"USERNAME_DESCRIPTION" = "CoolApp ൽ യൂസർ പേര് ഓപ്ഷണൽ ആണ്.  നിങ്ങൾ ഒരു യൂസർ പേര് സൃഷ്ടിക്കുകയാണെങ്കിൽ, മറ്റ് CoolApp യൂസർമാർക്ക് നിങ്ങളുടെ ഈ യൂസർ പേര് വച്ച് നിങ്ങളെ കണ്ടുപിടിക്കാനും നിങ്ങളുടെ ഫോൺ നമ്പർ അറിയാതെ തന്നെ നിങ്ങളെ ബന്ധപ്പെടാനും സാധിക്കും.";
 
 /* An error indicating that the supplied username contains disallowed characters. */
 "USERNAME_INVALID_CHARACTERS_ERROR" = "യൂസർ പേരിൽ a-Z, 0-9, _ എന്നിവ മാത്രമേ ഉൾപ്പെടുത്താനാകൂ.";
@@ -6541,10 +6541,10 @@
 /* A message indicating that username lookup failed. */
 "USERNAME_LOOKUP_ERROR" = "യൂസർ പേര് തിരയുന്നതിനിടയിൽ ഒരു തകരാർ സംഭവിച്ചു.  ദയവായി അൽപ്പ സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.";
 
-/* A message indicating that the given username is not a registered signal account. Embeds {{username}} */
-"USERNAME_NOT_FOUND_FORMAT" = "%@ ഒരു Signal യൂസർ അല്ല.  നിങ്ങൾ യൂസർ പേര് പൂർണ്ണമായും നൽകിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.";
+/* A message indicating that the given username is not a registered CoolApp account. Embeds {{username}} */
+"USERNAME_NOT_FOUND_FORMAT" = "%@ ഒരു CoolApp യൂസർ അല്ല.  നിങ്ങൾ യൂസർ പേര് പൂർണ്ണമായും നൽകിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.";
 
-/* A message indicating that the given username was not registered with signal. */
+/* A message indicating that the given username was not registered with CoolApp. */
 "USERNAME_NOT_FOUND_TITLE" = "യൂസറിനെ കണ്ടെത്താനാവുന്നില്ല";
 
 /* The placeholder for the username text entry in the username view. */
@@ -6617,7 +6617,7 @@
 "VOICE_MESSAGE_TOO_SHORT_TOOLTIP" = "റെക്കോർഡ് ചെയ്യാൻ അമർത്തി പിടിക്കുക.";
 
 /* Activity indicator title, shown upon returning to the device manager, until you complete the provisioning process on desktop */
-"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Signal Desktop സെറ്റ്അപ്പ് പൂർത്തിയാക്കുക.";
+"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "CoolApp Desktop സെറ്റ്അപ്പ് പൂർത്തിയാക്കുക.";
 
 /* Placeholder text for header of the wallpaper mini preview */
 "WALLPAPER_MINI_PREVIEW_CONTACT_NAME" = "കോണ്ടാക്ടിന്റെ പേര്";

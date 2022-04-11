@@ -2,7 +2,7 @@
 "AB_PERMISSION_MISSING_ACTION_NOT_NOW" = "Ne tagad";
 
 /* Title for the 'about' help section */
-"ABOUT_SECTION_TITLE" = "Par Signal";
+"ABOUT_SECTION_TITLE" = "Par CoolApp";
 
 /* Action sheet item */
 "ACCEPT_NEW_IDENTITY_ACTION" = "Pieņemt jaunu drošības numuru";
@@ -38,7 +38,7 @@
 "ACTION_AUDIO_CALL" = "Zvana signāls";
 
 /* Label for 'invite' button in contact view. */
-"ACTION_INVITE" = "Uzaicināt uz Signal";
+"ACTION_INVITE" = "Uzaicināt uz CoolApp";
 
 /* Label for button that lets you send a message to a contact. */
 "ACTION_SEND_MESSAGE" = "Sūtīt ziņu";
@@ -149,7 +149,7 @@
 "APN_Message" = "Jums varētu būt jaunas ziņas";
 
 /* Message for the 'app launch failed' alert. */
-"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Signal nevar palaist. Nosūtiet atkļūdošanas žurnālfailu uz support@signal.org, lai mēs šo problēmu varētu novērst.";
+"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "CoolApp nevar palaist. Nosūtiet atkļūdošanas žurnālfailu uz support@CoolApp.org, lai mēs šo problēmu varētu novērst.";
 
 /* Title for the 'app launch failed' alert. */
 "APP_LAUNCH_FAILURE_ALERT_TITLE" = "Kļūda";
@@ -158,13 +158,13 @@
 "APP_LAUNCH_FAILURE_COULD_NOT_LOAD_DATABASE" = "Nevarēja ielādēt datu bāzi";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
-"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Veiciet jaunināšanu uz jaunāko Signal versiju.";
+"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Veiciet jaunināšanu uz jaunāko CoolApp versiju.";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
 "APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_TITLE" = "Nezināma datu bāzes versija.";
 
 /* Error indicating that the app could not restore transferred data. */
-"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "Nevarēja atjaunot datus no Jūsu vecās ierīces. Lūdzu, nosūtīt kļūdu žurnālu uz support@signal.org, lai mēs varētu novērst šo problēmu. Ja ielādēsiet Signal no jauna, Jūsu ziņojumu vēsture var tikt nozaudēta.";
+"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "Nevarēja atjaunot datus no Jūsu vecās ierīces. Lūdzu, nosūtīt kļūdu žurnālu uz support@CoolApp.org, lai mēs varētu novērst šo problēmu. Ja ielādēsiet CoolApp no jauna, Jūsu ziņojumu vēsture var tikt nozaudēta.";
 
 /* Error indicating that the app could not restore transferred data. */
 "APP_LAUNCH_FAILURE_RESTORE_FAILED_TITLE" = "Nevarēja pabeigt pārsūtīšanu";
@@ -179,7 +179,7 @@
 "APP_UPDATE_NAG_ALERT_MESSAGE_FORMAT" = "Versija %@ tagad it pieejama App Store.";
 
 /* Title for the 'new app version available' alert. */
-"APP_UPDATE_NAG_ALERT_TITLE" = "Pieejama jauna Signal versija";
+"APP_UPDATE_NAG_ALERT_TITLE" = "Pieejama jauna CoolApp versija";
 
 /* Label for the 'update' button in the 'new app version available' alert. */
 "APP_UPDATE_NAG_ALERT_UPDATE_BUTTON" = "Atjaunināt";
@@ -194,7 +194,7 @@
 "APPEARANCE_SETTINGS_SYSTEM_THEME_NAME" = "Sistēma";
 
 /* Name of application */
-"APPLICATION_NAME" = "Signal";
+"APPLICATION_NAME" = "CoolApp";
 
 /* Label for the archive button for conversations list view */
 "ARCHIVE_ACTION" = "Arhivēt";
@@ -211,7 +211,7 @@
 /* Error that outgoing attachments could not be exported. */
 "ATTACHMENT_APPROVAL_FAILED_TO_EXPORT" = "Neizdevās eksportēt pielikumu.";
 
-/* alert text when Signal was unable to save a copy of the attachment to the system photo library */
+/* alert text when CoolApp was unable to save a copy of the attachment to the system photo library */
 "ATTACHMENT_APPROVAL_FAILED_TO_SAVE" = "Neizdevās saglabāt";
 
 /* Format string for file extension label in call interstitial view */
@@ -370,20 +370,20 @@
 /* The title for the badge configuration page */
 "BADGE_CONFIGURATION_TITLE" = "Nozīmītes";
 
-/* Text prompting the user to become a signal sustainer */
+/* Text prompting the user to become a CoolApp sustainer */
 "BADGE_DETAILS_BECOME_A_SUSTAINER" = "Kļūsti par Uzturētāju";
 
 /* Text prompting the user to boost */
-"BADGE_DETAILS_GIVE_A_BOOST" = "Atbalsti Signal";
+"BADGE_DETAILS_GIVE_A_BOOST" = "Atbalsti CoolApp";
 
 /* String explaing to the user that their boost badge has expired on the badge expiry sheetsheet. */
-"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using Signal but to support technology that is built for you, please consider becoming a monthly Sustainer.";
+"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using CoolApp but to support technology that is built for you, please consider becoming a monthly Sustainer.";
 
 /* String explaing to the user that their boost badge has expired while they are a current subscription sustainer on the badge expiry sheetsheet. */
 "BADGE_EXIPRED_BOOST_CURRENT_SUSTAINER_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can reactivate your Boost badge for another 30 days with a one-time contribution.";
 
 /* String explaing to the user that their subscription badge has expired on the badge expiry sheetsheet. Embed {badge name}. */
-"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using Signal but to support the app and reactivate your badge, renew now.";
+"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using CoolApp but to support the app and reactivate your badge, renew now.";
 
 /* Button title for boost on the badge expiration sheet, used if the user is not already a sustainer. */
 "BADGE_EXPIRED_BOOST_RENEWAL_BUTTON" = "Kļūsti par Uzturētāju";
@@ -416,7 +416,7 @@
 "BADGE_THANKS_TOGGLE_FOOTER" = "Kad Jums ir vairāk kā viena nozīmīte, Jūs varat izvēlēties vienu, kuru izcelt un ļaut citiem apskatīt Jūsu profilā.";
 
 /* String explaing to the user that they've earned a badge on the badge thank you sheet. Embed {badge name}. */
-"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help Signal build awareness by displaying this badge on your profile.";
+"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help CoolApp build awareness by displaying this badge on your profile.";
 
 /* Accessibility label for banner close button */
 "BANNER_CLOSE_ACCESSIBILITY_LABEL" = "Aizvērt reklāmjoslu";
@@ -493,13 +493,13 @@
 /* Tooltip highlighting the blur image editing tool. */
 "BLUR_TOOLTIP" = "Jauns: Aizkrāsot sejas vai velciet jebkur, lai aizkrāsotu.";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "BOOST_VIEW_AMOUNT_LABEL" = "Set currency";
 
-/* The body text for the donate to signal view */
+/* The body text for the donate to CoolApp view */
 "BOOST_VIEW_BODY" = "Say “Thanks!” and earn the Boost badge for 30 days.";
 
-/* The body text for the donate to signal view, embeds {{Expiration}} */
+/* The body text for the donate to CoolApp view, embeds {{Expiration}} */
 "BOOST_VIEW_BODY_WITH_EXPIRATION_FORMAT" = "Your Boost badge will expire on %@.";
 
 /* Default text for the custom amount field of the boost view. */
@@ -508,17 +508,17 @@
 /* Text explaining there are other ways to donate on the boost view. */
 "BOOST_VIEW_OTHER_WAYS" = "Vairāk maksājumu iespēju";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_LARGER_AMOUNT" = "Atlasiet lielāku ziedojuma summu";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_SMALLER_AMOUNT" = "Atlasiet mazāku ziedojuma summu";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_AN_AMOUNT" = "Atlasiet ziedojuma summu";
 
-/* Title for the donate to signal view */
-"BOOST_VIEW_TITLE" = "Atbalsti Signal";
+/* Title for the donate to CoolApp view */
+"BOOST_VIEW_TITLE" = "Atbalsti CoolApp";
 
 /* Label for the 'add' button. */
 "BUTTON_ADD" = "Pievienot";
@@ -599,7 +599,7 @@
 "CALL_AUDIO_MISSED_WEEK_NOTIFICATION_BODY_FORMAT" = "📞 Missed audio call on %@";
 
 /* Alert message when calling and permissions for microphone are missing */
-"CALL_AUDIO_PERMISSION_MESSAGE" = "Varat iespējot piekļuvi mikrofonam iOS iestatījumu lietotnē, lai veiktu zvanus un ierakstītu balss ziņas lietotnē Signal.";
+"CALL_AUDIO_PERMISSION_MESSAGE" = "Varat iespējot piekļuvi mikrofonam iOS iestatījumu lietotnē, lai veiktu zvanus un ierakstītu balss ziņas lietotnē CoolApp.";
 
 /* Alert title when calling and permissions for microphone are missing */
 "CALL_AUDIO_PERMISSION_TITLE" = "Nepieciešama piekļuve mikrofoniem";
@@ -614,7 +614,7 @@
 "CALL_SCREEN_STATUS_NO_ANSWER" = "Nav atbildes";
 
 /* embeds {{Call Status}} in call screen label. For ongoing calls, {{Call Status}} is a seconds timer like 01:23, otherwise {{Call Status}} is a short text like 'Ringing', 'Busy', or 'Failed Call' */
-"CALL_STATUS_FORMAT" = "Signal %@";
+"CALL_STATUS_FORMAT" = "CoolApp %@";
 
 /* Label for call button for alert offering to call a user. */
 "CALL_USER_ALERT_CALL_BUTTON" = "Zvanīt";
@@ -677,7 +677,7 @@
 "CALLING_MEMBER_VIEW_YOUR_CAMERA_IS_OFF" = "Jūsu kamera ir izslēgta";
 
 /* The generic name used for calls if CallKit privacy is enabled */
-"CALLKIT_ANONYMOUS_CONTACT_NAME" = "Signal lietotājs";
+"CALLKIT_ANONYMOUS_CONTACT_NAME" = "CoolApp lietotājs";
 
 /* Accessibility hint describing what you can do with the camera button */
 "CAMERA_BUTTON_HINT" = "Uzņemt attēlu un pēc tam nosūtīt";
@@ -764,7 +764,7 @@
 "COMPARE_SAFETY_NUMBER_ACTION" = "Salīdzināt ar starpliktuvi";
 
 /* Accessibility hint describing what you can do with the compose button */
-"COMPOSE_BUTTON_HINT" = "Atlasiet vai meklējiet Signal lietotāju, ar kuru sākt tērzēšanu.";
+"COMPOSE_BUTTON_HINT" = "Atlasiet vai meklējiet CoolApp lietotāju, ar kuru sākt tērzēšanu.";
 
 /* Accessibility label from compose button. */
 "COMPOSE_BUTTON_LABEL" = "Rakstīt";
@@ -782,7 +782,7 @@
 "COMPOSE_MESSAGE_USERNAME_SEARCH_SECTION_TITLE" = "Lietotājvārda meklēšana";
 
 /* Multi-line label explaining why compose-screen contact picker is empty. */
-"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "iOS iestatījumu lietotnē varat iespējot piekļuvi kontaktpersonām, lai redzētu, kuras no jūsu kontaktpersonām ir Signal lietotāji.";
+"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "iOS iestatījumu lietotnē varat iespējot piekļuvi kontaktpersonām, lai redzētu, kuras no jūsu kontaktpersonām ir CoolApp lietotāji.";
 
 /* Configure reactions title text */
 "CONFIGURE_REACTIONS" = "Configure Reactions";
@@ -916,7 +916,7 @@
 /* Error indicating that at least one contact field must be selected before sharing a contact. */
 "CONTACT_SHARE_NO_FIELDS_SELECTED" = "Nav atlasīts kontaktpersonas lauks.";
 
-/* Button text to initiate an email to signal support staff */
+/* Button text to initiate an email to CoolApp support staff */
 "CONTACT_SUPPORT" = "Sazināties ar atbalstu";
 
 /* The localized representation of the 'feature request' support filter. */
@@ -958,14 +958,14 @@
 /* A brief localized representation of the 'something not working' support filter. */
 "CONTACT_SUPPORT_FILTER_SOMETHING_NOT_WORKING_SHORT" = "Kaut kas nedarbojas";
 
-/* The localized representation of the 'Sustainers & Signal Boost' support filter. */
-"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & Signal Boost";
+/* The localized representation of the 'Sustainers & CoolApp Boost' support filter. */
+"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & CoolApp Boost";
 
-/* A brief localized representation of the 'Sustainers & Signal Boost' support filter. */
+/* A brief localized representation of the 'Sustainers & CoolApp Boost' support filter. */
 "CONTACT_SUPPORT_FILTER_SUSTAINERS_SHORT" = "Sustainers & Boost";
 
 /* Alert body */
-"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Lietotne Signal nevarēja pabeigt jūsu atbalsta pieprasījumu.";
+"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Lietotne CoolApp nevarēja pabeigt jūsu atbalsta pieprasījumu.";
 
 /* button text */
 "CONTACT_SUPPORT_PROMPT_ERROR_TRY_AGAIN" = "Mēģināt vēlreiz";
@@ -1058,7 +1058,7 @@
 "CONVERSATION_PICKER_SECTION_RECENTS" = "Pēdējās tērzēšanas";
 
 /* table section header for section containing contacts */
-"CONVERSATION_PICKER_SECTION_SIGNAL_CONTACTS" = "Cilvēki";
+"CONVERSATION_PICKER_SECTION_CoolApp_CONTACTS" = "Cilvēki";
 
 /* navbar header */
 "CONVERSATION_PICKER_TITLE" = "Izvēlēties adresātus";
@@ -1100,7 +1100,7 @@
 "CONVERSATION_SETTINGS_AUDIO_CALL_BUTTON" = "audio";
 
 /* Footer string for a contact's badges in conversation settings */
-"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Get badges for your profile by supporting Signal. Tap a badge to learn more.";
+"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Get badges for your profile by supporting CoolApp. Tap a badge to learn more.";
 
 /* Header title for a contact's badges in conversation settings */
 "CONVERSATION_SETTINGS_BADGES_HEADER" = "Nozīmītes";
@@ -1397,7 +1397,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_ACTION" = "Dzēst kontu";
 
 /* Title for the action sheet message of the 'delete account confirmation' view controller. */
-"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "Veicot šo darbību, tiks dzēsts jūsu Signal konts un lietotne tiks atiestatīta. Pēc šī procesa pabeigšanas lietotne tiks aizvērta.";
+"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "Veicot šo darbību, tiks dzēsts jūsu CoolApp konts un lietotne tiks atiestatīta. Pēc šī procesa pabeigšanas lietotne tiks aizvērta.";
 
 /* Title for the action sheet confirmation title of the 'delete account confirmation' view controller. */
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_TITLE" = "Vai tiešām vēlaties dzēst savu kontu?";
@@ -1421,7 +1421,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_PHONE_NUMBER_TITLE" = "Tālruņa numurs";
 
 /* Section header */
-"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "Signal numura apstiprināšana";
+"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "CoolApp numura apstiprināšana";
 
 /* Title for the 'delete account' confirmation view. */
 "DELETE_ACCOUNT_CONFIRMATION_TITLE" = "Dzēst kontu";
@@ -1445,9 +1445,9 @@
 "DEREGISTRATION_REREGISTER_WITH_SAME_PHONE_NUMBER" = "Reģistrēt šo tālruņa numuru atkārtoti";
 
 /* Label warning the user that they have been de-registered. */
-"DEREGISTRATION_WARNING" = "Ierīce vairs nav reģistrēta. Jūsu tālruņa numuru var reģistrēt lietotnē Signal citā ierīcē. Pieskarieties, lai reģistrētu atkārtoti.";
+"DEREGISTRATION_WARNING" = "Ierīce vairs nav reģistrēta. Jūsu tālruņa numuru var reģistrēt lietotnē CoolApp citā ierīcē. Pieskarieties, lai reģistrētu atkārtoti.";
 
-/* {{Short Date}} when device last communicated with Signal Server. */
+/* {{Short Date}} when device last communicated with CoolApp Server. */
 "DEVICE_LAST_ACTIVE_AT_LABEL" = "Pēdējā aktivitātes reize %@";
 
 /* {{Short Date}} when device was linked. */
@@ -1469,7 +1469,7 @@
 "DEVICE_TRANSFER_CHOICE_EXPLANATION" = "Ja Jums ir pieejama vecā iOS ierīce, varat droši pārnest Jūsu kontu un saraksti uz šo ierīci. ";
 
 /* The explanation for the device transfer 'choice' view when linking a device */
-"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "Ja pirms tam esat lietojis Signal sasaitē ar iPad, varat droši pārnest Jūsu kontu un saraksti uz šo ierīci.";
+"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "Ja pirms tam esat lietojis CoolApp sasaitē ar iPad, varat droši pārnest Jūsu kontu un saraksti uz šo ierīci.";
 
 /* The body for the device transfer 'choice' view 'register' option */
 "DEVICE_TRANSFER_CHOICE_REGISTER_BODY" = "Turpināt nepārnesot Jūsu kontu un saraksti";
@@ -1499,7 +1499,7 @@
 "DEVICE_TRANSFER_CHOICE_TRANSFER_TITLE" = "Pārnest no iOS ierīces";
 
 /* A warning for the device transfer 'choice' view indicating you can only have one device registered with your number */
-"DEVICE_TRANSFER_CHOICE_WARNING" = "Ja turpināsiet, Signal tiks atspējots no citām aktīvām ierīcēm, ar kurām ir reģistrēts šis telefona numurs.";
+"DEVICE_TRANSFER_CHOICE_WARNING" = "Ja turpināsiet, CoolApp tiks atspējots no citām aktīvām ierīcēm, ar kurām ir reģistrēts šis telefona numurs.";
 
 /* An error indicating that we were unable to verify the identity of the new device to complete the transfer */
 "DEVICE_TRANSFER_ERROR_CERTIFICATE_MISMATCH" = "Nevar verificēt Jūsu jauno ierīci. Lūdzu, mēģiniet atkārtoti";
@@ -1517,16 +1517,16 @@
 "DEVICE_TRANSFER_ERROR_NOT_ENOUGH_SPACE" = "Nepietiek brīvas vietas, lai pabeigtu pārnešanu";
 
 /* An error indicating the user must update their device before trying to transfer. */
-"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Atjaunojiet Signal līdz jaunākajai versijai un mēģiniet vēlreiz";
+"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Atjaunojiet CoolApp līdz jaunākajai versijai un mēģiniet vēlreiz";
 
 /* The explanation on the action sheet prompting the user if they want to transfer their device. */
-"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "Pārnest Jūsu Signal kontu uz jaunu iOS ierīci. Pārliecinieties, ka Jūsu jaunā ierīce atrodas blakus un ir ieslēgta.";
+"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "Pārnest Jūsu CoolApp kontu uz jaunu iOS ierīci. Pārliecinieties, ka Jūsu jaunā ierīce atrodas blakus un ir ieslēgta.";
 
 /* The title on the acttion sheet prompting the user if they want to transfer their device. */
 "DEVICE_TRANSFER_PROMPT_TITLE" = "Pārnest kontu";
 
 /* The explanation for the device transfer qr code view */
-"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "Atvērt Signal uz Jūsu vecās ierīces, satuviniet iekārtas, un pārliecinieties, ka Wi-Fi un Bluetoot ir ieslēgti uz abām ierīcēm.";
+"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "Atvērt CoolApp uz Jūsu vecās ierīces, satuviniet iekārtas, un pārliecinieties, ka Wi-Fi un Bluetoot ir ieslēgti uz abām ierīcēm.";
 
 /* The second explanation for the device transfer qr code view */
 "DEVICE_TRANSFER_QRCODE_EXPLANATION2" = "Pozicionējiet šo QR kodu Jūsu ierīces rāmjos.";
@@ -1538,7 +1538,7 @@
 "DEVICE_TRANSFER_QRCODE_TITLE" = "Gaida otru ierīci...";
 
 /* The explanation on the view that shows receiving progress */
-"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "Turiet abas ierīces tuvu vienu otrai. Neslēdziet ārā nevienu no ierīcēm un turiet Signal atvērtu. Pārsūtīšana ir pilnībā šifrēta.";
+"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "Turiet abas ierīces tuvu vienu otrai. Neslēdziet ārā nevienu no ierīcēm un turiet CoolApp atvērtu. Pārsūtīšana ir pilnībā šifrēta.";
 
 /* The title on the view that shows receiving progress */
 "DEVICE_TRANSFER_RECEIVING_TITLE" = "Notiek datu saņemšana";
@@ -1553,7 +1553,7 @@
 "DEVICE_TRANSFER_SCANNING_TITLE" = "Turiet Jūsu jauno ierīci pavērstu pret kameru";
 
 /* The explanation on the action sheet that shows transfer progress */
-"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "Turiet abas ierīces tuvu vienu otrai. Neslēdz ārā ierīces un turiet Signal atvērtu.";
+"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "Turiet abas ierīces tuvu vienu otrai. Neslēdz ārā ierīces un turiet CoolApp atvērtu.";
 
 /* The title on the action sheet that shows transfer progress */
 "DEVICE_TRANSFER_TRANSFERRING_TITLE" = "Notiek datu pārsūtīšana";
@@ -1606,50 +1606,50 @@
 /* Section title for the 'domain fronting country' view. */
 "DOMAIN_FRONTING_COUNTRY_VIEW_SECTION_HEADER" = "Cenzūras apiešanas atrašanās vieta";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "DONATION_VIEW_AMOUNT_LABEL" = "Ziedojuma summa";
 
 /* Default text for the custom amount field of the donation view. */
 "DONATION_VIEW_CUSTOM_AMOUNT_PLACEHOLDER" = "Ievadīt pielāgotu summu";
 
-/* Text describing to the user that they're going to pay a donation to Signal */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Ziedojums Signal";
+/* Text describing to the user that they're going to pay a donation to CoolApp */
+"DONATION_VIEW_DONATION_TO_CoolApp" = "Ziedojums CoolApp";
 
 /* Text explaining there are other ways to donate on the donation view. */
 "DONATION_VIEW_OTHER_WAYS" = "Citi ziedošanas veidi";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_LARGER_AMOUNT" = "Atlasiet lielāku ziedojuma summu";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_SMALLER_AMOUNT" = "Atlasiet mazāku ziedojuma summu";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_AN_AMOUNT" = "Atlasiet ziedojuma summu";
 
-/* Thank you message on the donate to signal view */
+/* Thank you message on the donate to CoolApp view */
 "DONATION_VIEW_THANKS_FOR_YOUR_SUPPORT" = "Paldies par jūsu atbalstu!";
 
-/* Title for the donate to signal view */
-"DONATION_VIEW_TITLE" = "Signal attīsta un uzlabo tādi cilvēki kā jūs.";
+/* Title for the donate to CoolApp view */
+"DONATION_VIEW_TITLE" = "CoolApp attīsta un uzlabo tādi cilvēki kā jūs.";
 
-/* The body of the 'Why Donate' section of the donate to signal view */
-"DONATION_VIEW_WHY_DONATE_BODY" = "Signal komanda ir apņēmusies izstrādāt atvērtā pirmkoda privātuma tehnoloģiju, kas aizsargā vārda brīvību un nodrošina drošu globālu saziņu. Jūsu ieguldījums šo mērķi padara reālāku. Nekādu reklāmu. Nekādu izsekotāju. Bez jokiem.\n\nJūsu ziedojums palīdz samaksāt par lietotnes, kuru privātai un tūlītējai saziņai izmanto miljoniem cilvēku visā pasaulē, izstrādi, serveriem un joslas platumu.";
+/* The body of the 'Why Donate' section of the donate to CoolApp view */
+"DONATION_VIEW_WHY_DONATE_BODY" = "CoolApp komanda ir apņēmusies izstrādāt atvērtā pirmkoda privātuma tehnoloģiju, kas aizsargā vārda brīvību un nodrošina drošu globālu saziņu. Jūsu ieguldījums šo mērķi padara reālāku. Nekādu reklāmu. Nekādu izsekotāju. Bez jokiem.\n\nJūsu ziedojums palīdz samaksāt par lietotnes, kuru privātai un tūlītējai saziņai izmanto miljoniem cilvēku visā pasaulē, izstrādi, serveriem un joslas platumu.";
 
-/* The title of the 'Why Donate' section of the donate to signal view */
+/* The title of the 'Why Donate' section of the donate to CoolApp view */
 "DONATION_VIEW_WHY_DONATE_TITLE" = "Kādēļ ziedot?";
 
-/* Alert body for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
+/* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "Piekļuvi var iespējot iOS iestatījumu lietotnē.";
 
-/* Alert title for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
-"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Lietotnei Signal nepieciešama piekļuve kontaktpersonai, lai rediģētu kontaktinformāciju";
+/* Alert title for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
+"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Lietotnei CoolApp nepieciešama piekļuve kontaktpersonai, lai rediģētu kontaktinformāciju";
 
 /* The navbar title for the 'update group' view. */
 "EDIT_GROUP_DEFAULT_TITLE" = "Rediģēt grupu";
 
 /* Error message indicating the a user can't be added to a group. */
-"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "Šo lietotāju nevar pievienot grupai, kamēr viņš nav veicis lietotnes Signal jaunināšanu.";
+"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "Šo lietotāju nevar pievienot grupai, kamēr viņš nav veicis lietotnes CoolApp jaunināšanu.";
 
 /* Format for the 'group full' error alert when a user can't be added to a group because the group is full. Embeds {{ the maximum number of members in a group }}. */
 "EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER_GROUP_FULL_FORMAT" = "Sasniegts maks. grupas dalībnieku skaits %@.";
@@ -1669,17 +1669,17 @@
 /* Short name for edit menu item to copy contents of media message. */
 "EDIT_ITEM_COPY_ACTION" = "Kopēt";
 
-/* body of email sent to contacts when inviting to install Signal. Embeds {{link to install Signal}} and {{link to the Signal home page}} */
-"EMAIL_INVITE_BODY" = "Sveiki!\n\nTagad es izmantoju Signal, lai tērzēšanas manā iPhone ierīcē būtu privātas. Es vēlos, lai šo lietotni instalētu arī Jūs, jo tad mēs skaidri zināsim, ka mūsu informācijai (ziņām un zvaniem) nevar piekļūt neviens cits.\n\nLietotne Signal ir pieejama iPhone un Android ierīcēm. Lejupielādējiet to šeit: %@\n\nSignal darbojas līdzīgi kā jūsu pašreizējā ziņapmaiņas lietotne. Mēs varam sūtīt attēlus un video, veikt zvanus un sākt grupas tērzēšanu. Taču vislabākais šajā visā ir tas, ka neviens cits šo informāciju neredz, pat ne Signal izstrādātāji!\n\nPapildinformācija par Open Whisper Systems tehnoloģiju, Signal izstrādātājiem, ir šeit: %@";
+/* body of email sent to contacts when inviting to install CoolApp. Embeds {{link to install CoolApp}} and {{link to the CoolApp home page}} */
+"EMAIL_INVITE_BODY" = "Sveiki!\n\nTagad es izmantoju CoolApp, lai tērzēšanas manā iPhone ierīcē būtu privātas. Es vēlos, lai šo lietotni instalētu arī Jūs, jo tad mēs skaidri zināsim, ka mūsu informācijai (ziņām un zvaniem) nevar piekļūt neviens cits.\n\nLietotne CoolApp ir pieejama iPhone un Android ierīcēm. Lejupielādējiet to šeit: %@\n\nCoolApp darbojas līdzīgi kā jūsu pašreizējā ziņapmaiņas lietotne. Mēs varam sūtīt attēlus un video, veikt zvanus un sākt grupas tērzēšanu. Taču vislabākais šajā visā ir tas, ka neviens cits šo informāciju neredz, pat ne CoolApp izstrādātāji!\n\nPapildinformācija par Open Whisper Systems tehnoloģiju, CoolApp izstrādātājiem, ir šeit: %@";
 
-/* subject of email sent to contacts when inviting to install Signal */
-"EMAIL_INVITE_SUBJECT" = "Sāciet lietot Signal";
+/* subject of email sent to contacts when inviting to install CoolApp */
+"EMAIL_INVITE_SUBJECT" = "Sāciet lietot CoolApp";
 
 /* Description for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_MESSAGE" = "Jūsu ierīce nav konfigurēta e-pasta sūtīšanai. Lai nosūtītu atbalsta pieprasījumu, savā ierīcē iestatiet e-pastu vai sūtiet e-pasta ziņojumu uzsupport@signal.org";
+"EMAIL_CoolApp_MESSAGE" = "Jūsu ierīce nav konfigurēta e-pasta sūtīšanai. Lai nosūtītu atbalsta pieprasījumu, savā ierīcē iestatiet e-pastu vai sūtiet e-pasta ziņojumu uzsupport@CoolApp.org";
 
 /* Title for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_TITLE" = "E-pasts nav pieejams";
+"EMAIL_CoolApp_TITLE" = "E-pasts nav pieejams";
 
 /* The name for the emoji category 'Activities' */
 "EMOJI_CATEGORY_ACTIVITIES_NAME" = "Aktivitātes";
@@ -1709,7 +1709,7 @@
 "EMOJI_CATEGORY_TRAVEL_NAME" = "Ceļojumi un Vietas";
 
 /* Full width label displayed when attempting to compose message */
-"EMPTY_CONTACTS_LABEL_LINE1" = "Signal nav nevienai no jūsu kontaktpersonām.";
+"EMPTY_CONTACTS_LABEL_LINE1" = "CoolApp nav nevienai no jūsu kontaktpersonām.";
 
 /* Full width label displayed when attempting to compose message */
 "EMPTY_CONTACTS_LABEL_LINE2" = "Kādēļ kādu neuzaicināt to lietot?";
@@ -1753,8 +1753,8 @@
 /* Error message indicating that message send failed due to block list */
 "ERROR_DESCRIPTION_MESSAGE_SEND_FAILED_DUE_TO_BLOCK_LIST" = "Neizdevās nosūtīt ziņu lietotājam, jo jūs viņu bloķējāt.";
 
-/* Generic error used whenever Signal can't contact the server */
-"ERROR_DESCRIPTION_NO_INTERNET" = "Lietotnei Signal neizdevās izveidot savienojumu ar internetu. Mēģiniet vēlreiz.";
+/* Generic error used whenever CoolApp can't contact the server */
+"ERROR_DESCRIPTION_NO_INTERNET" = "Lietotnei CoolApp neizdevās izveidot savienojumu ar internetu. Mēģiniet vēlreiz.";
 
 /* Error indicating that an outgoing message had no valid recipients. */
 "ERROR_DESCRIPTION_NO_VALID_RECIPIENTS" = "Ziņas nosūtīšana neizdevās, jo trūka derīgu adresātu.";
@@ -1769,7 +1769,7 @@
 "ERROR_DESCRIPTION_RESPONSE_FAILED" = "Nederīga atbilde no pakalpojuma.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "Šī ierīce vairs nav reģistrēta ar jūsu tālruņa numuru. Instalējiet Signal vēlreiz.";
+"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "Šī ierīce vairs nav reģistrēta ar jūsu tālruņa numuru. Instalējiet CoolApp vēlreiz.";
 
 /* Generic server error */
 "ERROR_DESCRIPTION_SERVER_FAILURE" = "Servera kļūda. Vēlāk mēģiniet vēlreiz.";
@@ -1781,7 +1781,7 @@
 "ERROR_DESCRIPTION_UNKNOWN_ERROR" = "Radās nezināma kļūda.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "Kontaktpersona nav Signal lietotājs.";
+"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "Kontaktpersona nav CoolApp lietotājs.";
 
 /* Error message indicating that attachment download(s) failed. */
 "ERROR_MESSAGE_ATTACHMENT_DOWNLOAD_FAILED" = "Neizdevās lejupielādēt pielikumu.";
@@ -1807,10 +1807,10 @@
 /* No comment provided by engineer. */
 "ERROR_MESSAGE_NO_SESSION" = "Kontaktpersonai nav pieejama sesija.";
 
-/* Shown when signal users safety numbers changed */
+/* Shown when CoolApp users safety numbers changed */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE" = "Drošības numurs ir mainīts.";
 
-/* Shown when signal users safety numbers changed, embeds the user's {{name or phone number}} */
+/* Shown when CoolApp users safety numbers changed, embeds the user's {{name or phone number}} */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE_FORMAT" = "Jūsu drošības numurs ar %@ ir mainīts.";
 
 /* Text notifying the user that their secure session has been reset */
@@ -1826,10 +1826,10 @@
 "ERROR_NETWORK_FAILURE" = "Tīkla kļūda";
 
 /* Format string for an error alert notification message. Embes {{ error string }} */
-"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve Signal by reporting this error along with debug logs from your device to support@signal.org; %@";
+"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve CoolApp by reporting this error along with debug logs from your device to support@CoolApp.org; %@";
 
 /* Format string for an error alert notification title. */
-"ERROR_NOTIFICATION_TITLE" = "Signal Beta: An error occurred";
+"ERROR_NOTIFICATION_TITLE" = "CoolApp Beta: An error occurred";
 
 /* Error indicating a send failure due to a delinked application. */
 "ERROR_SENDING_DELINKED" = "Jūsu ierīce vairs nav saistīta. Veiciet saistīšanu vēlreiz, lai turpinātu sūtīt ziņas.";
@@ -1838,19 +1838,19 @@
 "ERROR_SENDING_DEREGISTERED" = "Jūsu ierīce vairs nav reģistrēta. Reģistrējieties vēlreiz, lai turpinātu sūtīt ziņas.";
 
 /* Error indicating a send failure due to an expired application. */
-"ERROR_SENDING_EXPIRED" = "Jūsu Signal versijai ir beidzies derīguma termiņš. Veiciet atjaunināšanu, lai turpinātu sūtīt ziņas.";
+"ERROR_SENDING_EXPIRED" = "Jūsu CoolApp versijai ir beidzies derīguma termiņš. Veiciet atjaunināšanu, lai turpinātu sūtīt ziņas.";
 
-/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or signal id}}. */
+/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or CoolApp id}}. */
 "ERROR_UNREGISTERED_USER_FORMAT" = "Nereģistrēts lietotājs: %@";
 
 /* Label notifying the user that the app has expired. */
-"EXPIRATION_ERROR" = "Jūsu Signal versijas derīgums ir beidzies! Pieskarieties, lai veiktu atjaunināšanu uz jaunāko versiju.";
+"EXPIRATION_ERROR" = "Jūsu CoolApp versijas derīgums ir beidzies! Pieskarieties, lai veiktu atjaunināšanu uz jaunāko versiju.";
 
 /* Label warning the user that the app will expire soon. */
-"EXPIRATION_WARNING_SOON" = "Jūsu Signal versijas derīgums beigsies pēc %d dienām. Pieskarieties, lai veiktu atjaunināšanu uz jaunāko versiju.";
+"EXPIRATION_WARNING_SOON" = "Jūsu CoolApp versijas derīgums beigsies pēc %d dienām. Pieskarieties, lai veiktu atjaunināšanu uz jaunāko versiju.";
 
 /* Label warning the user that the app will expire today. */
-"EXPIRATION_WARNING_TODAY" = "Jūsu Signal versijas derīgums beigsies šodien. Pieskarieties, lai veiktu atjaunināšanu uz jaunāko versiju.";
+"EXPIRATION_WARNING_TODAY" = "Jūsu CoolApp versijas derīgums beigsies šodien. Pieskarieties, lai veiktu atjaunināšanu uz jaunāko versiju.";
 
 /* action sheet header when re-sending message which failed because of too many attempts */
 "FAILED_SENDING_BECAUSE_RATE_LIMIT" = "Pārāk daudz kļūmju ar šo kontaktpersonu. Vēlāk mēģiniet vēlreiz.";
@@ -2315,7 +2315,7 @@
 "GROUP_LINK_INVALID_GROUP_INVITE_LINK_ERROR_TITLE" = "Nederīga saite";
 
 /* Error message indicating that the local user does not support groups v2. */
-"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "Atjauniniet lietotni Signal šajā ierīcē, lai pievienotos šai grupai.";
+"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "Atjauniniet lietotni CoolApp šajā ierīcē, lai pievienotos šai grupai.";
 
 /* Explanation of the 'approve new group members' switch. */
 "GROUP_LINK_PROMOTION_ALERT_APPROVE_NEW_MEMBERS_EXPLANATION" = "Pieprasiet, lai administrators apstiprina jaunu dalībnieku pievienošanos, izmantojot grupas saiti.";
@@ -2374,8 +2374,8 @@
 /* Label for the 'share group link via QR code' button in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_LINK_VIA_QR_CODE" = "QR kods";
 
-/* Label for the 'share group link via Signal' button in the 'group link' view. */
-"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "Koplietot, izmantojot Signal";
+/* Label for the 'share group link via CoolApp' button in the 'group link' view. */
+"GROUP_LINK_VIEW_SHARE_LINK_VIA_CoolApp" = "Koplietot, izmantojot CoolApp";
 
 /* Message for the 'share group link' action sheet in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_SHEET_MESSAGE" = "Ikviens ar šo saiti var skatīt šīs grupas nosaukumu un dalībniekus un nosūtīt pieprasījumu tai pievienoties. Nosūtiet šo saiti tikai cilvēkiem, kuriem uzticaties.";
@@ -2750,13 +2750,13 @@
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_1_TITLE" = "Kas ir mantotās grupas?";
 
 /* Body text for the second section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "Mantotās jeb vecā tipa grupas vēl nevar jaunināt uz jaunām grupām, taču varat izveidot jaunu grupu ar tiem pašiem dalībniekiem, ja dalībnieki izmanto jaunāko lietotnes Signal versiju.\n\nSignal piedāvās veidu, kā turpmāk jaunināt vecā tipa grupas.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "Mantotās jeb vecā tipa grupas vēl nevar jaunināt uz jaunām grupām, taču varat izveidot jaunu grupu ar tiem pašiem dalībniekiem, ja dalībnieki izmanto jaunāko lietotnes CoolApp versiju.\n\nCoolApp piedāvās veidu, kā turpmāk jaunināt vecā tipa grupas.";
 
 /* Title for the second section of the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_2_TITLE" = "Vai var jaunināt mantoto jeb vecā tipa grupu?";
 
 /* Body text for the third section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "Lai izveidotu jaunu grupu, visiem dalībniekiem jāveic atjaunināšana uz jaunāko Signal versiju.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "Lai izveidotu jaunu grupu, visiem dalībniekiem jāveic atjaunināšana uz jaunāko CoolApp versiju.";
 
 /* Title for the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_TITLE" = "Mantoto grupu salīdzinājums ar jaunajām";
@@ -2771,28 +2771,28 @@
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_ALERT_TOO_MANY_MEMBERS_FORMAT" = "Šo grupu nevar jaunināt uz jauno grupu, jo tajā ir pārāk daudz dalībnieku. Maksimālais jaunināmās grupas lielums ir %@.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
-"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "Šī grupa tiks jaunināta, kad visi pašreizējie grupas dalībnieki izmantos Signal versiju, ar kuru ir iespējams pievienoties jaunai grupai.";
+"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "Šī grupa tiks jaunināta, kad visi pašreizējie grupas dalībnieki izmantos CoolApp versiju, ar kuru ir iespējams pievienoties jaunai grupai.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_2" = "Visa ziņu vēsture un multivide tiks saglabāta kā bija pirms pārveidošanas.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "Šo grupu nevar izveidot, jo 1 dalībnieks izmanto veco Signal versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgais dalībnieks atjauninās lietotni Signal, vai arī pirms grupas izveides dzēsiet šo dalībnieku.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "Šo grupu nevar izveidot, jo 1 dalībnieks izmanto veco CoolApp versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgais dalībnieks atjauninās lietotni CoolApp, vai arī pirms grupas izveides dzēsiet šo dalībnieku.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "Šo grupu nevar izveidot, jo %@ dalībnieki izmanto veco Signal versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgie dalībnieki atjauninās lietotni Signal, vai arī pirms grupas izveides dzēsiet šos dalībniekus.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "Šo grupu nevar izveidot, jo %@ dalībnieki izmanto veco CoolApp versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgie dalībnieki atjauninās lietotni CoolApp, vai arī pirms grupas izveides dzēsiet šos dalībniekus.";
 
 /* Indicates that a new group cannot be created because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "Šo grupu nevar izveidot, jo 1 dalībnieks izmanto veco Signal versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgais dalībnieks atjauninās lietotni Signal, vai arī pirms grupas izveides dzēsiet šo dalībnieku. %@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "Šo grupu nevar izveidot, jo 1 dalībnieks izmanto veco CoolApp versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgais dalībnieks atjauninās lietotni CoolApp, vai arī pirms grupas izveides dzēsiet šo dalībnieku. %@";
 
 /* Indicates that a new group cannot be created because multiple members do not support v2 groups. Embeds {{ %1$@ the number of members who do not support v2 groups, %2$@ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "Šo grupu nevar izveidot, jo %1$@ dalībnieki izmanto veco Signal versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgie dalībnieki atjauninās lietotni Signal, vai arī pirms grupas izveides dzēsiet šos dalībniekus. %2$@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "Šo grupu nevar izveidot, jo %1$@ dalībnieki izmanto veco CoolApp versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgie dalībnieki atjauninās lietotni CoolApp, vai arī pirms grupas izveides dzēsiet šos dalībniekus. %2$@";
 
 /* Title for alert that explains that a new group will be a legacy group because 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "Tiks izveidota vecā tipa grupa, jo 1 dalībnieks izmanto veco Signal versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgais dalībnieks atjauninās lietotni Signal, vai arī pirms grupas izveides dzēsiet šo dalībnieku.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "Tiks izveidota vecā tipa grupa, jo 1 dalībnieks izmanto veco CoolApp versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgais dalībnieks atjauninās lietotni CoolApp, vai arī pirms grupas izveides dzēsiet šo dalībnieku.";
 
 /* Title for alert that explains that a new group will be a legacy group because multiple members do not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "Tiks izveidota vecā tipa grupa, jo %@ dalībnieki izmanto veco Signal versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgie dalībnieki atjauninās lietotni Signal, vai arī pirms grupas izveides dzēsiet šos dalībniekus.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "Tiks izveidota vecā tipa grupa, jo %@ dalībnieki izmanto veco CoolApp versiju. Jauna veida grupu varēsiet izveidot, kad attiecīgie dalībnieki atjauninās lietotni CoolApp, vai arī pirms grupas izveides dzēsiet šos dalībniekus.";
 
 /* Indicates that a new group will be a legacy group because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
 "GROUPS_LEGACY_GROUP_CREATION_WARNING_FORMAT_1" = "1 dalībnieks neatbalsta jaunas grupas, tādēļ šī grupa būs mantotā jeb vecā tipa grupa. %@";
@@ -2912,7 +2912,7 @@
 "GROUPS_REPLACE_ADMIN_BUTTON" = "Izvēlēties jaunu administratoru";
 
 /* Format for the alert warning the user that they've reached the recommended limit on how many members can be in a group when creating a new group. Embeds {{ the maximum number of recommended members in a group }}. */
-"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "Signal grupas vislabāk darbojas, ja dalībnieku skaits nepārsniedz %@ vai ir mazāks. Ja pievienosiet vairāk dalībnieku, ziņu sūtīšana un saņemšana aizkavēsies.";
+"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "CoolApp grupas vislabāk darbojas, ja dalībnieku skaits nepārsniedz %@ vai ir mazāks. Ja pievienosiet vairāk dalībnieku, ziņu sūtīšana un saņemšana aizkavēsies.";
 
 /* Title for alert warning the user that they've reached the recommended limit on how many members can be in a group. */
 "GROUPS_TOO_MANY_MEMBERS_ALERT_TITLE" = "Ieteicamais dalībnieku limits sasniegts";
@@ -2929,7 +2929,7 @@
 /* Help item allowing the user to file a support request */
 "HELP_CONTACT_US" = "Sazināties ar mums";
 
-/* Help item that takes the user to the Signal support website */
+/* Help item that takes the user to the CoolApp support website */
 "HELP_SUPPORT_CENTER" = "Atbalsta centrs";
 
 /* Label for 'archived conversations' button. */
@@ -2944,16 +2944,16 @@
 /* A prefix indicating that a message preview is a draft */
 "HOME_VIEW_DRAFT_PREFIX" = "Melnraksts: ";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Signal contact.  Embeds {{The name of 1 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Dažas no jūsu kontaktpersonām jau lieto Signal, tostarp %@.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 1 CoolApp contact.  Embeds {{The name of 1 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Dažas no jūsu kontaktpersonām jau lieto CoolApp, tostarp %@.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Signal contacts.  Embeds {{The names of 2 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Dažas no jūsu kontaktpersonām jau lieto Signal, tostarp %@ un %@";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 2 CoolApp contacts.  Embeds {{The names of 2 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Dažas no jūsu kontaktpersonām jau lieto CoolApp, tostarp %@ un %@";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Signal contacts.  Embeds {{The names of 3 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Dažas no jūsu kontaktpersonām jau lieto Signal, tostarp %@, %@ un %@";
+/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 CoolApp contacts.  Embeds {{The names of 3 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Dažas no jūsu kontaktpersonām jau lieto CoolApp, tostarp %@, %@ un %@";
 
-/* A label offering to start a new conversation with your contacts, if you have no Signal contacts. */
+/* A label offering to start a new conversation with your contacts, if you have no CoolApp contacts. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_NO_CONTACTS" = "Sāciet savu pirmo tērzēšanu šeit.";
 
 /* Table cell subtitle label for a group the user has been added to. {Embeds inviter name} */
@@ -2986,11 +2986,11 @@
 /* Momentarily shown to the user when attempting to select more images than is allowed. Embeds {{max number of items}} that can be shared. */
 "IMAGE_PICKER_CAN_SELECT_NO_MORE_TOAST_FORMAT" = "Nav iespējams kopīgot vairāk nekā %@ attēlu.";
 
-/* Button that will present a view for the user to change the photos Signal has access to. */
+/* Button that will present a view for the user to change the photos CoolApp has access to. */
 "IMAGE_PICKER_CHANGE_PHOTOS" = "Mainīt fotoattēlus";
 
 /* Explanation showing that the user has granted limited access to their photos and can change that in the Settings app. */
-"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "Piešķiriet pilnu piekļuvi iestatījumos vai mainiet, kuriem fotoattēliem lietotne Signal var piekļūt.";
+"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "Piešķiriet pilnu piekļuvi iestatījumos vai mainiet, kuriem fotoattēliem lietotne CoolApp var piekļūt.";
 
 /* Title show that the user has granted limited access to their photos and can change that in the Settings app. */
 "IMAGE_PICKER_CHANGE_PHOTOS_TITLE" = "Vai neredzat savu fotoattēlus?";
@@ -3043,8 +3043,8 @@
 /* Indicates that another user has changed their phone number. Embeds: {{ the user's name}} */
 "INFO_MESSAGE_USER_CHANGED_PHONE_NUMBER_FORMAT" = "%@ changed their phone number.";
 
-/* Shown in inbox and conversation when a user joins Signal, embeds the new user's {{contact name}} */
-"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "%@ lieto Signal!";
+/* Shown in inbox and conversation when a user joins CoolApp, embeds the new user's {{contact name}} */
+"INFO_MESSAGE_USER_JOINED_CoolApp_BODY_FORMAT" = "%@ lieto CoolApp!";
 
 /* accessibility label for the button which shows the sticker picker */
 "INPUT_TOOLBAR_STICKER_BUTTON_ACCESSIBILITY_LABEL" = "Uzlīmes";
@@ -3058,14 +3058,14 @@
 /* Message for the alert indicating that an audio file is invalid. */
 "INVALID_AUDIO_FILE_ALERT_ERROR_MESSAGE" = "Nederīgs audio fails.";
 
-/* Alert body when contacts disabled while trying to invite contacts to signal */
-"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "iOS iestatījumu lietotnē varat iespējot piekļuvi kontaktpersonām, lai aicinātu draugus sākt lietot Signal.";
+/* Alert body when contacts disabled while trying to invite contacts to CoolApp */
+"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "iOS iestatījumu lietotnē varat iespējot piekļuvi kontaktpersonām, lai aicinātu draugus sākt lietot CoolApp.";
 
-/* Alert title when contacts disabled while trying to invite contacts to signal */
+/* Alert title when contacts disabled while trying to invite contacts to CoolApp */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_TITLE" = "Atļaut piekļuvi kontaktpersonām";
 
 /* Label for the cell that presents the 'invite contacts' workflow. */
-"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Aicināt draugus lietotnē Signal";
+"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Aicināt draugus lietotnē CoolApp";
 
 /* Search */
 "INVITE_FRIENDS_PICKER_SEARCHBAR_PLACEHOLDER" = "Meklēt";
@@ -3167,7 +3167,7 @@
 "LINKING_DEVICE_FAILED_TITLE" = "Neizdevās piesaistīt ierīci";
 
 /* Body for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "Lai pārsūtītu savu Signal kontu, abās ierīcēs jāiespējo piekļuve lokālajam tīklam.";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "Lai pārsūtītu savu CoolApp kontu, abās ierīcēs jāiespējo piekļuve lokālajam tīklam.";
 
 /* A button asking the user if they need further help getting their transfer working. */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_NEED_HELP" = "Vai vajadzīga palīdzība?";
@@ -3179,7 +3179,7 @@
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_THREE" = "Ieslēdziet lokālo tīklu";
 
 /* Second step for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Pārvietojieties uz Signal";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Pārvietojieties uz CoolApp";
 
 /* Title for local network permission action sheet */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_TITLE" = "Ieslēdziet lokālā tīkla piekļuvi";
@@ -3194,7 +3194,7 @@
 "LOGGING_SECTION" = "Pieteikšanās";
 
 /* Footer for the 'logging' help section. */
-"LOGGING_SECTION_FOOTER" = "Atkļūdošanas žurnāli var palīdzēt lietotnei Signal novērst problēmas un avārijas.";
+"LOGGING_SECTION_FOOTER" = "Atkļūdošanas žurnāli var palīdzēt lietotnei CoolApp novērst problēmas un avārijas.";
 
 /* Title for the 'long text message' view. */
 "LONG_TEXT_VIEW_TITLE" = "Ziņa";
@@ -3239,7 +3239,7 @@
 "MESSAGE_ACTION_DELETE_FOR_EVERYONE" = "Dzēst visiem";
 
 /* A one-time confirmation that you want to delete for everyone */
-"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "Šī ziņa tiks izdzēsta visiem tērzēšanas dalībniekiem, ja viņi izmanto jaunāko Signal versiju. Dalībnieki varēs redzēt, ka ziņa ir dzēsta.";
+"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "Šī ziņa tiks izdzēsta visiem tērzēšanas dalībniekiem, ja viņi izmanto jaunāko CoolApp versiju. Dalībnieki varēs redzēt, ka ziņa ir dzēsta.";
 
 /* The title for the action sheet asking who the user wants to delete the message for. */
 "MESSAGE_ACTION_DELETE_FOR_TITLE" = "Kuram šo ziņu dzēst?\n ";
@@ -3413,7 +3413,7 @@
 "MESSAGE_REQUEST_LEAVE_AND_DELETE_GROUP_TITLE" = "Vai dzēst un izstāties no grupas?";
 
 /* Banner label notifying user that a new message is from a user with the same name as an existing contact */
-"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "Pārskatiet pieprasījumus rūpīgi. Lietotne Signal atrada citu kontaktpersonu ar šādu vārdu.";
+"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "Pārskatiet pieprasījumus rūpīgi. Lietotne CoolApp atrada citu kontaktpersonu ar šādu vārdu.";
 
 /* A header string above a known contact's contact info */
 "MESSAGE_REQUEST_NAME_COLLISON_CONTACT_HEADER" = "Jūsu kontaktpersona";
@@ -3508,7 +3508,7 @@
 /* status message for read messages */
 "MESSAGE_STATUS_READ" = "Lasīta";
 
-/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Signal account. */
+/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their CoolApp account. */
 "MESSAGE_STATUS_RECIPIENT_SKIPPED" = "Izlaista";
 
 /* Label indicating that a message failed to send. */
@@ -3551,22 +3551,22 @@
 "MISSED_CALL" = "Neatbildēts zvans";
 
 /* Alert body */
-"MISSING_CAMERA_PERMISSION_MESSAGE" = "Varat iespējot piekļuvi kamerai iOS iestatījumu lietotnē, lai lietotnē Signal veiktu video zvanus.";
+"MISSING_CAMERA_PERMISSION_MESSAGE" = "Varat iespējot piekļuvi kamerai iOS iestatījumu lietotnē, lai lietotnē CoolApp veiktu video zvanus.";
 
 /* Alert title */
-"MISSING_CAMERA_PERMISSION_TITLE" = "Signal nepieciešama piekļuve jūsu kamerai.";
+"MISSING_CAMERA_PERMISSION_TITLE" = "CoolApp nepieciešama piekļuve jūsu kamerai.";
 
 /* Alert body indicating the user has denied location permissios */
 "MISSING_LOCATION_PERMISSION_MESSAGE" = "Piekļuves atļauju var piešķirt iOS iestatījumu lietotnē.";
 
 /* Alert title indicating the user has denied location permissios */
-"MISSING_LOCATION_PERMISSION_TITLE" = "Lai izmantotu šo funkciju, lietotnei Signal nepieciešama piekļuve jūsu atrašanās vietas informācijai.";
+"MISSING_LOCATION_PERMISSION_TITLE" = "Lai izmantotu šo funkciju, lietotnei CoolApp nepieciešama piekļuve jūsu atrašanās vietas informācijai.";
 
 /* Alert body when user has previously denied media library access */
 "MISSING_MEDIA_LIBRARY_PERMISSION_MESSAGE" = "Piekļuves atļauju var piešķirt iOS iestatījumu lietotnē.";
 
 /* Alert title when user has previously denied media library access */
-"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Lai izmantotu šo funkciju, lietotnei Signal nepieciešama piekļuve jūsu fotoattēliem.";
+"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Lai izmantotu šo funkciju, lietotnei CoolApp nepieciešama piekļuve jūsu fotoattēliem.";
 
 /* Generic indicator that no value is available for display */
 "MISSING_VALUE" = "Neko";
@@ -3674,12 +3674,12 @@
 "NO_SELECTED_CONVERSATION_DESCRIPTION" = "Izvēlieties kontaktpersonu vai grupu, lai sāktu tērzēšanu.";
 
 /* Title welcoming to the app */
-"NO_SELECTED_CONVERSATION_TITLE" = "Sveiki lietotnē Signal";
+"NO_SELECTED_CONVERSATION_TITLE" = "Sveiki lietotnē CoolApp";
 
 /* A string prompting the user to send a new mesaage to a user */
 "NON_CONTACT_TABLE_CELL_NEW_MESSAGE" = "Jauna ziņa:";
 
-/* A string asking the user if they'd like to invite a number to signal via SMS. */
+/* A string asking the user if they'd like to invite a number to CoolApp via SMS. */
 "NON_CONTACT_TABLE_CELL_SEND_SMS" = "Lietotājs nav atrasts. Vai uzaicināt, nosūtot īsziņu?";
 
 /* Label for 1:1 conversation with yourself. */
@@ -3721,7 +3721,7 @@
 /* No comment provided by engineer. */
 "NOTIFICATIONS_NONE" = "Nav vārda vai satura";
 
-/* Table cell switch label. When disabled, Signal will not play notification sounds while the app is in the foreground. */
+/* Table cell switch label. When disabled, CoolApp will not play notification sounds while the app is in the foreground. */
 "NOTIFICATIONS_SECTION_INAPP" = "Atskaņot, kad lietotne ir atvērta";
 
 /* Label for settings UI that allows user to add a new notification sound. */
@@ -3776,10 +3776,10 @@
 "ONBOARDING_CAPTCHA_TITLE" = "Padariet savas ziņas personiskas";
 
 /* Explanation on the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_EXPLANATION" = "Tā kā ilgu laiku šo lietotni neizmantojāt, jums ir jāreģistrējas vēlreiz, lai izmantotu Signal.";
+"ONBOARDING_DROPPED_YDB_EXPLANATION" = "Tā kā ilgu laiku šo lietotni neizmantojāt, jums ir jāreģistrējas vēlreiz, lai izmantotu CoolApp.";
 
 /* Title of the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_TITLE" = "Reģistrēties lietotnē Signal";
+"ONBOARDING_DROPPED_YDB_TITLE" = "Reģistrēties lietotnē CoolApp";
 
 /* button indicating that the user will register their ipad */
 "ONBOARDING_MODE_SWITCH_BUTTON_PROVISIONING" = "Reģistrēt iPad";
@@ -3788,7 +3788,7 @@
 "ONBOARDING_MODE_SWITCH_BUTTON_REGISTERING" = "Piesaistīt iPhone";
 
 /* explanation to the user they're switching from linking to registering flow */
-"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "Pieskaroties “Reģistrēt iPad”, varēsiet izveidot pavisam jaunu Signal kontu vai pastāvošu kontu pārvietot uz šo iPad ierīci. Lietotne Signal tiks atspējota visās ierīcēs, kuras pašlaik reģistrētas ar to pašu tālruņa numuru.";
+"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "Pieskaroties “Reģistrēt iPad”, varēsiet izveidot pavisam jaunu CoolApp kontu vai pastāvošu kontu pārvietot uz šo iPad ierīci. Lietotne CoolApp tiks atspējota visās ierīcēs, kuras pašlaik reģistrētas ar to pašu tālruņa numuru.";
 
 /* explanation to the user they're switching from registering to linking flow */
 "ONBOARDING_MODE_SWITCH_EXPLANATION_REGISTERING" = "Pieskaroties pie “Piesaistīt iPhone”, tālruni var savienot ar pastāvošu kontu. Tālruņa piesaistīšana parasti nav ieteicama, un tā ierobežos dažas funkcijas, piemēram, zvanīšanu.";
@@ -3800,7 +3800,7 @@
 "ONBOARDING_MODE_SWITCH_TITLE_REGISTERING" = "Piesaistīt šo iPhone";
 
 /* warning to the user that registering an ipad is not recommended */
-"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "Reģistrējot šo iPad ierīci, lietotne Signal tiks atspējota visās ierīcēs, kuras pašlaik reģistrētas ar to pašu tālruņa numuru.";
+"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "Reģistrējot šo iPad ierīci, lietotne CoolApp tiks atspējota visās ierīcēs, kuras pašlaik reģistrētas ar to pašu tālruņa numuru.";
 
 /* warning to the user that linking a phone is not recommended */
 "ONBOARDING_MODE_SWITCH_WARNING_REGISTERING" = "iPhone piesaistīšana nav ieteicama, un tā ierobežos galvenās funkcijas.";
@@ -3809,13 +3809,13 @@
 "ONBOARDING_PERMISSIONS_ENABLE_PERMISSIONS_BUTTON" = "Sniegt atļaujas";
 
 /* Explanation in the 'onboarding permissions' view. */
-"ONBOARDING_PERMISSIONS_EXPLANATION" = "Sniedzot paziņojumu un kontaktpersonu atļaujas, varat redzēt, kad tiek saņemtas ziņas, kā arī meklēt pazīstamus cilvēkus. Kontaktpersonas ir šifrētas, tāpēc Signal pakalpojums tās nevar redzēt.";
+"ONBOARDING_PERMISSIONS_EXPLANATION" = "Sniedzot paziņojumu un kontaktpersonu atļaujas, varat redzēt, kad tiek saņemtas ziņas, kā arī meklēt pazīstamus cilvēkus. Kontaktpersonas ir šifrētas, tāpēc CoolApp pakalpojums tās nevar redzēt.";
 
 /* Title of the 'onboarding permissions' view. */
 "ONBOARDING_PERMISSIONS_TITLE" = "Sniegt atļaujas";
 
 /* Explanation of the 'onboarding phone number discoverability' view. Embeds {user phone number} */
-"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "Izvēlieties, kurš jūs var atrast lietotnē Signal ar jūsu tālruņa numuru %@";
+"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "Izvēlieties, kurš jūs var atrast lietotnē CoolApp ar jūsu tālruņa numuru %@";
 
 /* Title of the 'onboarding phone number discoverability' view. */
 "ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_TITLE" = "Kurš var jūs atrast ar jūsu numuru?";
@@ -3836,7 +3836,7 @@
 "ONBOARDING_PHONE_NUMBER_VALIDATION_WARNING" = "Nederīgs tālruņa numurs. Ievadiet derīgu tālruņa numuru, lai reģistrētos.";
 
 /* Explanation of the 'onboarding pin attempts exhausted' view when reglock is disabled. */
-"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "Jums vairs nav neviena PIN minēšanas mēģinājuma, taču joprojām varat piekļūt savam Signal kontam, izveidojot jaunu PIN. Jūsu privātumam un drošībai jūsu konts tiks atjaunots bez saglabātas profila informācijas un iestatījumiem.";
+"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "Jums vairs nav neviena PIN minēšanas mēģinājuma, taču joprojām varat piekļūt savam CoolApp kontam, izveidojot jaunu PIN. Jūsu privātumam un drošībai jūsu konts tiks atjaunots bez saglabātas profila informācijas un iestatījumiem.";
 
 /* Label for the 'learn more' link when reglock is disabled in the 'onboarding pin attempts exhausted' view. */
 "ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_LEARN_MORE" = "Uzzināt vairāk par PIN kodiem";
@@ -3910,8 +3910,8 @@
 /* Info Message when another user enabled disappearing messages. Embeds {{name of other user}} and {{time amount}} before messages disappear. See the *_TIME_AMOUNT strings for context. */
 "OTHER_UPDATED_DISAPPEARING_MESSAGES_CONFIGURATION" = "%@ iestatīja ziņas dzēšanas intervālu uz %@.";
 
-/* Label warning the user that the Signal service may be down. */
-"OUTAGE_WARNING" = "Signal ir tehniskas grūtības. Mēs darām visu, lai iespējami drīz atjaunotu pakalpojuma darbību.";
+/* Label warning the user that the CoolApp service may be down. */
+"OUTAGE_WARNING" = "CoolApp ir tehniskas grūtības. Mēs darām visu, lai iespējami drīz atjaunotu pakalpojuma darbību.";
 
 /* info message text in conversation view. {embeds callee name} */
 "OUTGOING_CALL_FORMAT" = "Jūs zvanījāt %@";
@@ -3989,7 +3989,7 @@
 "PAYMENTS_NEW_PAYMENT_ERROR_INVALID_TRANSACTION" = "Nederīga transakcija";
 
 /* Indicates that a payment failed due to an outdated client. */
-"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "Atjauniniet Signal, lai izmantotu maksājumus.";
+"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "Atjauniniet CoolApp, lai izmantotu maksājumus.";
 
 /* Indicates that an outgoing payment could not be verified in a timely way. */
 "PAYMENTS_NEW_PAYMENT_ERROR_OUTGOING_VERIFICATION_TAKING_TOO_LONG" = "Maksājums vēl nav pārbaudīts";
@@ -4223,13 +4223,13 @@
 "PHONE_NUMBER_DISCOVERABILITY_EVERYBODY" = "Katrs";
 
 /* A user friendly description of the 'everybody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "Ikviens, kura kontaktpersonu katalogā ir jūsu tālruņa numurs, redzēs jūs kā kontaktpersonu lietotnē Signal. Savukārt pārējie jūs varēs atrast, izmantojot meklēšanas iespēju,";
+"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "Ikviens, kura kontaktpersonu katalogā ir jūsu tālruņa numurs, redzēs jūs kā kontaktpersonu lietotnē CoolApp. Savukārt pārējie jūs varēs atrast, izmantojot meklēšanas iespēju,";
 
 /* A user friendly name for the 'nobody' phone number discoverability mode. */
 "PHONE_NUMBER_DISCOVERABILITY_NOBODY" = "Neviens";
 
 /* A user friendly description of the 'nobody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Neviens lietotnē Signal nevarēs jūs atrast ar jūsu tālruņa numuru. Jūs varēs redzēt kā kontaktpersonu cilvēki, kuru tālruņa katalogā ir jūsu tālruņa numurs, bet pārējie, meklēšanā izmantojot jūsu tālruņa numuru, nevarēs jūs atrast.";
+"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Neviens lietotnē CoolApp nevarēs jūs atrast ar jūsu tālruņa numuru. Jūs varēs redzēt kā kontaktpersonu cilvēki, kuru tālruņa katalogā ir jūsu tālruņa numurs, bet pārējie, meklēšanā izmantojot jūsu tālruņa numuru, nevarēs jūs atrast.";
 
 /* A format for a label showing an example phone number. Embeds {{the example phone number}}. */
 "PHONE_NUMBER_EXAMPLE_FORMAT" = "Piemērs: %@";
@@ -4238,19 +4238,19 @@
 "PHONE_NUMBER_SHARING_CONTACTS_ONLY" = "Manas kontaktpersonas";
 
 /* A user friendly description of the 'contacts only' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "Tikai jūsu kontaktpersonas redzēs jūsu tālruņa numuru lietotnē Signal.";
+"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "Tikai jūsu kontaktpersonas redzēs jūsu tālruņa numuru lietotnē CoolApp.";
 
 /* A user friendly name for the 'everybody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_EVERYBODY" = "Katrs";
 
 /* A user friendly description of the 'everybody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_EVERYBODY_DESCRIPTION" = "Jūsu tālruņa numurs būs redzams cilvēkiem un grupām, kurām sūtāt ziņojumu. Cilvēki, kuru tālruņa katologā ir jūsu numurs, to redzēs arī lietotnē Signal.";
+"PHONE_NUMBER_SHARING_EVERYBODY_DESCRIPTION" = "Jūsu tālruņa numurs būs redzams cilvēkiem un grupām, kurām sūtāt ziņojumu. Cilvēki, kuru tālruņa katologā ir jūsu numurs, to redzēs arī lietotnē CoolApp.";
 
 /* A user friendly name for the 'nobody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_NOBODY" = "Neviens";
 
 /* A user friendly description of the 'nobody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "Neviens neredzēs jūsu tālruņa numuru lietotnē Signal.";
+"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "Neviens neredzēs jūsu tālruņa numuru lietotnē CoolApp.";
 
 /* Format for phone number label with an index. Embeds {{Phone number label (e.g. 'home')}} and {{index, e.g. 2}}. */
 "PHONE_NUMBER_TYPE_AND_INDEX_NAME_FORMAT" = "%@ %@";
@@ -4331,7 +4331,7 @@
 "PIN_CREATION_DISABLE_CONFIRMATION_ACTION" = "Atspējot PIN";
 
 /* Message of the 'pin disable' action sheet. */
-"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "Ja atspējosiet PIN, atkārtoti reģistrējoties lietotnē Signal, jūs zaudēsiet visus datus, ja vien tos nepārsūtīsiet no citas iOS ierīces. Reģistrācijas bloķēšanu nevar ieslēgt, kamēr PIN ir atspējots.";
+"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "Ja atspējosiet PIN, atkārtoti reģistrējoties lietotnē CoolApp, jūs zaudēsiet visus datus, ja vien tos nepārsūtīsiet no citas iOS ierīces. Reģistrācijas bloķēšanu nevar ieslēgt, kamēr PIN ir atspējots.";
 
 /* Title of the 'pin disable' action sheet. */
 "PIN_CREATION_DISABLE_CONFIRMATION_TITLE" = "Brīdinājums";
@@ -4343,7 +4343,7 @@
 "PIN_CREATION_ERROR_TITLE" = "PIN izveidošana neizdevās";
 
 /* The explanation in the 'pin creation' view. */
-"PIN_CREATION_EXPLANATION" = "PIN kodos ir informācija, kas lietotnē Signal ir šifrēta, lai šai informācijai varētu piekļūt tikai jūs. Veicot atkārtotu instalēšanu, jūsu profils, iestatījumi un kontaktpersonas tiks atjaunotas. Lai atvērtu lietotni, PIN kods nebūs nepieciešams.";
+"PIN_CREATION_EXPLANATION" = "PIN kodos ir informācija, kas lietotnē CoolApp ir šifrēta, lai šai informācijai varētu piekļūt tikai jūs. Veicot atkārtotu instalēšanu, jūsu profils, iestatījumi un kontaktpersonas tiks atjaunotas. Lai atvērtu lietotni, PIN kods nebūs nepieciešams.";
 
 /* Learn more action on the pin creation view */
 "PIN_CREATION_LEARN_MORE" = "Uzzināt vairāk par PIN kodiem";
@@ -4421,7 +4421,7 @@
 "PIN_REMINDER_MEGAPHONE_FEW_DAYS_TOAST" = "Pēc dažām dienām mēs vaicāsim to vēlreiz.";
 
 /* Title for PIN reminder megaphone */
-"PIN_REMINDER_MEGAPHONE_TITLE" = "Signal PIN apstiprināšana";
+"PIN_REMINDER_MEGAPHONE_TITLE" = "CoolApp PIN apstiprināšana";
 
 /* Toast indicating that we'll ask you for your PIN again tomorrow. */
 "PIN_REMINDER_MEGAPHONE_TOMORROW_TOAST" = "Rīt mēs vaicāsim atkal.";
@@ -4436,7 +4436,7 @@
 "PIN_REMINDER_MISMATCH_ERROR" = "Nederīgs PIN, mēģiniet vēlreiz";
 
 /* The title for the 'pin reminder' dialog. */
-"PIN_REMINDER_TITLE" = "Signal PIN ievadīšana";
+"PIN_REMINDER_TITLE" = "CoolApp PIN ievadīšana";
 
 /* Label indicating that the attempted PIN is too short */
 "PIN_REMINDER_TOO_SHORT_ERROR" = "PIN jābūt vismaz 4 ciparus garam.";
@@ -4451,7 +4451,7 @@
 "PINS_MEGAPHONE_ACTION" = "Izveidot PIN";
 
 /* Body for PIN megaphone when user doesn't have a PIN */
-"PINS_MEGAPHONE_BODY" = "Finish creating your Signal PIN.";
+"PINS_MEGAPHONE_BODY" = "Finish creating your CoolApp PIN.";
 
 /* Toast indication that the user will be reminded later to setup their PIN. Embeds {{time until mandatory}} */
 "PINS_MEGAPHONE_SNOOZE_TOAST_FORMAT" = "Mēs atgādināsim jums vēlāk. Pēc %ld dienām PIN būs obligāti jāizveido.";
@@ -4487,19 +4487,19 @@
 "PRIVACY_VERIFICATION_FAILED_MISMATCHED_SAFETY_NUMBERS_IN_CLIPBOARD" = "Jūsu starpliktuvē esošais numurs nešķiet pareizais šīs tērzēšanas drošības numurs.";
 
 /* Alert body for user error */
-"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Lietotne Signal jūsu starpliktuvē nevarēja atrast nevienu drošības numuru. Vai nokopējāt pareizi?";
+"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Lietotne CoolApp jūsu starpliktuvē nevarēja atrast nevienu drošības numuru. Vai nokopējāt pareizi?";
 
 /* Alert body when verifying with {{contact name}} */
-"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Katram Signal lietotāju pārim ir atšķirīgs drošības numurs. Vēlreiz pārbaudiet, vai %@ parāda * jūsu* atšķirīgo drošības numuru.";
+"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Katram CoolApp lietotāju pārim ir atšķirīgs drošības numurs. Vēlreiz pārbaudiet, vai %@ parāda * jūsu* atšķirīgo drošības numuru.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "Jūs izmantojat veco Signal versiju. Pirms verificēšanas jums ir jāveic lietotnes atjaunināšana.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "Jūs izmantojat veco CoolApp versiju. Pirms verificēšanas jums ir jāveic lietotnes atjaunināšana.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "Jūsu partneris izmanto veco Signal versiju. Pirms verificēšanas viņam ir jāveic lietotnes atjaunināšana.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "Jūsu partneris izmanto veco CoolApp versiju. Pirms verificēšanas viņam ir jāveic lietotnes atjaunināšana.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "Skenētais kods neatgādina drošības numuru. Vai jūs abi izmantojat jaunāko Signal versiju?";
+"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "Skenētais kods neatgādina drošības numuru. Vai jūs abi izmantojat jaunāko CoolApp versiju?";
 
 /* Paragraph(s) shown alongside the safety number when verifying privacy with {{contact name}} */
 "PRIVACY_VERIFICATION_INSTRUCTIONS" = "Ja kopā ar %@ vēlaties pārliecināties par pilnīgas šifrēšanas drošību, salīdziniet iepriekš norādītos numurus ar numuriem savās ierīcēs.\n\nVai arī varat skenēt kodu otra lietotāja tālrunī vai palūgt, lai viņš skenē jūsu kodu.";
@@ -4685,7 +4685,7 @@
 "RECIPIENT_PICKER_ERROR_USER_CANNOT_BE_SELECTED" = "Lietotāju nevar atlasīt.";
 
 /* Error message indicating that a user can't be selected until they upgrade their app. */
-"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "Šo lietotāju nevar pievienot grupai, kamēr viņš nav veicis lietotnes Signal jaunināšanu.";
+"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "Šo lietotāju nevar pievienot grupai, kamēr viņš nav veicis lietotnes CoolApp jaunināšanu.";
 
 /* Label for 'I forgot my PIN' link in the 2FA registration view. */
 "REGISTER_2FA_FORGOT_PIN" = "Es aizmirsu savu PIN";
@@ -4844,7 +4844,7 @@
 "SAFETY_NUMBER_CONFIRMATION_VIEW_ACTION" = "Skatīt";
 
 /* Snippet to share {{safety number}} with a friend. sent e.g. via SMS */
-"SAFETY_NUMBER_SHARE_FORMAT" = "Mūsu Signal drošības numurs:\n%@";
+"SAFETY_NUMBER_SHARE_FORMAT" = "Mūsu CoolApp drošības numurs:\n%@";
 
 /* Action sheet heading */
 "SAFETY_NUMBERS_ACTIONSHEET_TITLE" = "Jūsu drošības numurs ar %@ ir mainīts. Iespējams, vēlaties to verificēt.";
@@ -4876,14 +4876,14 @@
 /* Indicates that Touch ID/Face ID/Phone Passcode passcode is not set. */
 "SCREEN_LOCK_ERROR_LOCAL_AUTHENTICATION_PASSCODE_NOT_SET" = "Lai izmantotu ekrāna bloķēšanu, iOS iestatījumos ir jāiespējo ieejas kods.";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
-"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Autentificējieties, lai atvērtu Signal.";
+/* Description of how and why CoolApp iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
+"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Autentificējieties, lai atvērtu CoolApp.";
 
 /* Title for alert indicating that screen lock could not be unlocked. */
 "SCREEN_LOCK_UNLOCK_FAILED" = "Autentifikācija neizdevās";
 
-/* Label for button on lock screen that lets users unlock Signal. */
-"SCREEN_LOCK_UNLOCK_SIGNAL" = "Atbloķēt Signālu";
+/* Label for button on lock screen that lets users unlock CoolApp. */
+"SCREEN_LOCK_UNLOCK_CoolApp" = "Atbloķēt Signālu";
 
 /* This is a contact's name. Replace the name for a more common name in your locale if this sounds too foreign. This should be a unique non-public figure's name. This will have a female profile photo. */
 "SCREENSHOT_NAME_CONTACT_EIGHT" = "Ieva Bērniņa";
@@ -4933,7 +4933,7 @@
 /* This is for a group chat for people who want weather updates. */
 "SCREENSHOT_NAME_GROUP_TWO" = "Laika prognozes";
 
-/* This appears in Signal > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
+/* This appears in CoolApp > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
 "SCREENSHOT_NAME_LOCAL_PROFILE" = "Vadītāja Freija";
 
 /* This is a message expressing support/happiness/awe/shock. */
@@ -5054,13 +5054,13 @@
 "SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_TITLE" = "Konts neatbilst";
 
 /* Message for error alert indicating that a linked device must be upgraded before it can be linked. */
-"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "Atjauniniet lietotni Signal šajā ierīcē, lai to saistītu ar savu tālruni.";
+"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "Atjauniniet lietotni CoolApp šajā ierīcē, lai to saistītu ar savu tālruni.";
 
 /* Title for error alert indicating that a linked device must be upgraded before it can be linked. */
 "SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_TITLE" = "Neatbalstīta versija";
 
 /* alert message for outdated linking device */
-"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "Jūsu otrajā ierīcē darbojas vecāka Signal versija, kas neatbalsta iPad QR kodu skenēšanu. Instalējiet jaunāko Signal laidienu un mēģiniet vēlreiz.";
+"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "Jūsu otrajā ierīcē darbojas vecāka CoolApp versija, kas neatbalsta iPad QR kodu skenēšanu. Instalējiet jaunāko CoolApp laidienu un mēģiniet vēlreiz.";
 
 /* alert title for outdated linking device */
 "SECONDARY_LINKING_ERROR_OLD_VERSION_TITLE" = "Atjauniniet skenēšanas ierīci";
@@ -5081,19 +5081,19 @@
 "SECONDARY_ONBOARDING_COMPLETE_LINKING_PROCESS" = "Pabeigt saistīšanu";
 
 /* header text before the user can link this device */
-"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "Palaidiet lietotni Signal tālrunī, lai saistītu šo iPad ar savu kontu";
+"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "Palaidiet lietotni CoolApp tālrunī, lai saistītu šo iPad ar savu kontu";
 
 /* Link explaining what to do when trying to link a device before having a primary device. */
-"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "Manā tālrunī nav Signal...";
+"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "Manā tālrunī nav CoolApp...";
 
 /* alert body */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "Atveriet savā tālrunī App Store, instalējiet Signal un pabeidziet reģistrācijas procesu. Pēc tam varēsiet saistīt savu iPad ar vienu kontu.";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "Atveriet savā tālrunī App Store, instalējiet CoolApp un pabeidziet reģistrācijas procesu. Pēc tam varēsiet saistīt savu iPad ar vienu kontu.";
 
 /* alert title */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "Signal instalēšana tālrunī";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "CoolApp instalēšana tālrunī";
 
 /* body text while displaying a QR code which, when scanned, will link this device. */
-"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "Pieskarieties sava profila attēlam, lai tālrunī atvērtu Signal iestatījumus. Pēc tam pieskarieties pie “Saistītās ierīces” un “Saistīt jauno ierīci”, lai ar savu tālruni skenētu šo kodu:";
+"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "Pieskarieties sava profila attēlam, lai tālrunī atvērtu CoolApp iestatījumus. Pēc tam pieskarieties pie “Saistītās ierīces” un “Saistīt jauno ierīci”, lai ar savu tālruni skenētu šo kodu:";
 
 /* Link text for page with troubleshooting info shown on the QR scanning screen */
 "SECONDARY_ONBOARDING_SCAN_CODE_HELP_TEXT" = "Palīdzību par iPad saistīšanu saņemiet šeit";
@@ -5102,7 +5102,7 @@
 "SECONDARY_ONBOARDING_SCAN_CODE_TITLE" = "Skenējiet QR kodu ar savu tālruni";
 
 /* header text before the user can transfer to this device */
-"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "Palaidiet lietotni Signal vecajā iPad ierīcē, lai pārsūtītu savu kontu";
+"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "Palaidiet lietotni CoolApp vecajā iPad ierīcē, lai pārsūtītu savu kontu";
 
 /* No comment provided by engineer. */
 "SECURE_SESSION_RESET" = "Drošā sesija tika atiestatīta.";
@@ -5123,7 +5123,7 @@
 "SEND_INVITE_FAILURE" = "Neizdevās nosūtīt ielūgumu. Vēlāk mēģiniet vēlreiz.";
 
 /* Alert body after invite succeeded */
-"SEND_INVITE_SUCCESS" = "Jūs uzaicinājāt savu draugu lietot Signal!";
+"SEND_INVITE_SUCCESS" = "Jūs uzaicinājāt savu draugu lietot CoolApp!";
 
 /* alert action, confirming the user wants to exit the media flow and abandon any photos they've taken */
 "SEND_MEDIA_CONFIRM_ABANDON_ALBUM" = "Atmest multivides saturu";
@@ -5135,7 +5135,7 @@
 "SEND_SMS_CONFIRM_TITLE" = "Vai uzaicināt draugu, izmantojot nedrošu SMS?";
 
 /* No comment provided by engineer. */
-"SEND_SMS_INVITE_TITLE" = "Vai vēlaties uzaicināt šo numuru izmantot Signal: ";
+"SEND_SMS_INVITE_TITLE" = "Vai vēlaties uzaicināt šo numuru izmantot CoolApp: ";
 
 /* String describing high quality sent media */
 "SENT_MEDIA_QUALITY_HIGH" = "Augsta";
@@ -5144,7 +5144,7 @@
 "SENT_MEDIA_QUALITY_STANDARD" = "Standarta";
 
 /* Description for the session refresh alert */
-"SESSION_REFRESH_ALERT_MESSAGE" = "Lietotne Signal izmanto pilnīgu šifrēšanu, un, iespējams, reizēm būs jāatsvaidzina jūsu tērzēšanas sesija. Tas neietekmē jūsu tērzēšanas drošību, taču, iespējams, varat palaist garām kādu kontaktpersonas sūtītu ziņu un būs jālūdz nosūtīt to vēlreiz.";
+"SESSION_REFRESH_ALERT_MESSAGE" = "Lietotne CoolApp izmanto pilnīgu šifrēšanu, un, iespējams, reizēm būs jāatsvaidzina jūsu tērzēšanas sesija. Tas neietekmē jūsu tērzēšanas drošību, taču, iespējams, varat palaist garām kādu kontaktpersonas sūtītu ziņu un būs jālūdz nosūtīt to vēlreiz.";
 
 /* Title for the session refresh alert */
 "SESSION_REFRESH_ALERT_TITLE" = "Sarunas (čata) sesija atsvaidzināta";
@@ -5171,7 +5171,7 @@
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_COUNTRY" = "Atrašanās vieta";
 
 /* Table footer for the 'censorship circumvention' section when censorship circumvention can be manually enabled. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "Ja šī funkcija ir iespējota, Signal mēģinās apiet cenzūru. Neieslēdziet šo funkciju, ja atrodaties vietā, kur Signal tiek cenzēta.";
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "Ja šī funkcija ir iespējota, CoolApp mēģinās apiet cenzūru. Neieslēdziet šo funkciju, ja atrodaties vietā, kur CoolApp tiek cenzēta.";
 
 /* Table footer for the 'censorship circumvention' section shown when censorship circumvention has been auto-enabled based on local phone number. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_AUTO_ENABLED" = "Cenzūras apiešana ir aktivizēta, pamatojoties uz jūsu konta tālruņa numuru.";
@@ -5182,8 +5182,8 @@
 /* Table footer for the 'censorship circumvention' section shown when the app is not connected to the internet. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_NO_CONNECTION" = "Cenzūras apiešanu var aktivizēt tikai tad, kad ir izveidots savienojums ar internetu.";
 
-/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Signal service. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "Cenzūras apiešana nav nepieciešama; jūs jau izveidojāt savienojumu ar Signal pakalpojumu.";
+/* Table footer for the 'censorship circumvention' section shown when the app is connected to the CoolApp service. */
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "Cenzūras apiešana nav nepieciešama; jūs jau izveidojāt savienojumu ar CoolApp pakalpojumu.";
 
 /* No comment provided by engineer. */
 "SETTINGS_ADVANCED_DEBUGLOG" = "Iespējot atkļūdošanas žurnālu";
@@ -5224,8 +5224,8 @@
 /* A label for the 'add phone number' button in the block list table. */
 "SETTINGS_BLOCK_LIST_ADD_BUTTON" = "Pievienot bloķētu lietotāju";
 
-/* A label that indicates the user has no Signal contacts. */
-"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "Jums nav kontaktpersonu lietotnē Signal.";
+/* A label that indicates the user has no CoolApp contacts. */
+"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "Jums nav kontaktpersonu lietotnē CoolApp.";
 
 /* A label that indicates the user's search has no matching results. */
 "SETTINGS_BLOCK_LIST_NO_SEARCH_RESULTS" = "Nav meklēšanas rezultātu";
@@ -5237,7 +5237,7 @@
 "SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE" = "Vienmēr pārraidīt zvanus";
 
 /* User settings section footer, a detailed explanation */
-"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "Pārraidiet visus zvanus, izmantojot Signal serveri, lai jūsu kontaktpersona neatklātu jūsu IP adresi. Aktivizējot šo funkciju, tiks samazināta zvana kvalitāte.";
+"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "Pārraidiet visus zvanus, izmantojot CoolApp serveri, lai jūsu kontaktpersona neatklātu jūsu IP adresi. Aktivizējot šo funkciju, tiks samazināta zvana kvalitāte.";
 
 /* Label for the 'edit phone number' button in the 'change phone number' views. */
 "SETTINGS_CHANGE_PHONE_NUMBER_BACK_TO_EDIT_BUTTON" = "Edit Number";
@@ -5291,7 +5291,7 @@
 "SETTINGS_CLEAR_HISTORY" = "Notīrīt tērzēšanas vēsturi";
 
 /* Footer for the 'about' help section */
-"SETTINGS_COPYRIGHT" = "Autortiesības Signal Messenger\nLicencēta saskaņā ar GPLv3";
+"SETTINGS_COPYRIGHT" = "Autortiesības CoolApp Messenger\nLicencēta saskaņā ar GPLv3";
 
 /* Title for the 'Subscription' link in settings. */
 "SETTINGS_CURRENT_SUBSCRIPTION" = "Abonements";
@@ -5362,7 +5362,7 @@
 /* Explanation for the 'disappearing messages' privacy settings. */
 "SETTINGS_DISAPPEARING_MESSAGES_FOOTER" = "Iestatiet noklusējuma ziņu dzēšanas taimeri visām jaunajām jūsu sāktajām tērzēšanām.";
 
-/* Title for the 'donate to signal' link in settings. */
+/* Title for the 'donate to CoolApp' link in settings. */
 "SETTINGS_DONATE" = "Ziedot/dāvināt Signālam";
 
 /* Title for help button and help pages in app settings. */
@@ -5372,7 +5372,7 @@
 "SETTINGS_INVITE_TITLE" = "Aiciniet draugus";
 
 /* content of tweet when inviting via twitter - please do not translate URL */
-"SETTINGS_INVITE_TWITTER_TEXT" = "Ar mani var sazināties, izmantojot @signalapp. Lejupielādēt tūlīt: https://signal.org/download/";
+"SETTINGS_INVITE_TWITTER_TEXT" = "Ar mani var sazināties, izmantojot @CoolAppapp. Lejupielādēt tūlīt: https://CoolApp.org/download/";
 
 /* Label for settings view that allows user to change the chat color and wallpaper. */
 "SETTINGS_ITEM_COLOR_AND_WALLPAPER" = "Tērzēšanas krāsa un fona tapete";
@@ -5431,8 +5431,8 @@
 /* table section header */
 "SETTINGS_NOTIFICATION_CONTENT_TITLE" = "Paziņojumu saturs";
 
-/* When the local device discovers a contact has recently installed signal, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
-"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "Kontaktpersona pievienojas lietotnei Signal";
+/* When the local device discovers a contact has recently installed CoolApp, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
+"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_CoolApp" = "Kontaktpersona pievienojas lietotnei CoolApp";
 
 /* table section header */
 "SETTINGS_NOTIFICATION_NOTIFY_WHEN_TITLE" = "Paziņot, kad...";
@@ -5444,7 +5444,7 @@
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_AGREE" = "Aktivēt";
 
 /* Description for the 'activate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Lietotni Signal var izmantot, lai nosūtītu un saņemtu MobileCoin. Uz visiem maksājumiem attiecas MobileCoin un MobileCoin Wallet lietošanas noteikumi. Šī ir beta funkcija, tādēļ var rasties dažas problēmas, un maksājumus vai atlikumus, kurus iespējams zaudēt, nevar atgūt.";
+"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Lietotni CoolApp var izmantot, lai nosūtītu un saņemtu MobileCoin. Uz visiem maksājumiem attiecas MobileCoin un MobileCoin Wallet lietošanas noteikumi. Šī ir beta funkcija, tādēļ var rasties dažas problēmas, un maksājumus vai atlikumus, kurus iespējams zaudēt, nevar atgūt.";
 
 /* Title for the 'activate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_TITLE" = "Aktivēt";
@@ -5468,7 +5468,7 @@
 "SETTINGS_PAYMENTS_BALANCE_CONVERSION_FORMAT" = "%1$@ %2$@ %3$@";
 
 /* Error message indicating that payments could not be activated because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Maksājumu opcija lietotnē Signal vairs nav pieejama. Jūs joprojām varat pārskaitīt līdzekļus uz centrāli, bet vairs nevarat nosūtīt un saņemt maksājumus vai pievienot kapitālu.";
+"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Maksājumu opcija lietotnē CoolApp vairs nav pieejama. Jūs joprojām varat pārskaitīt līdzekļus uz centrāli, bet vairs nevarat nosūtīt un saņemt maksājumus vai pievienot kapitālu.";
 
 /* Error message indicating that payments could not be deactivated because the current balance is unavailable. */
 "SETTINGS_PAYMENTS_CANNOT_DEACTIVATE_PAYMENTS_NO_BALANCE" = "Nevar deaktivizēt maksājumus, jo jūsu atlikums nav pieejams. Pārbaudiet savienojumu un mēģiniet vēlreiz.";
@@ -5477,10 +5477,10 @@
 "SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENT_NO_BALANCE" = "Nevar pabeigt maksājumu, jo jūsu atlikums nav pieejams. Pārbaudiet savienojumu un mēģiniet vēlreiz.";
 
 /* Error message indicating that payments cannot be sent because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Maksājumu opcija lietotnē Signal vairs nav pieejama. Jūs joprojām varat pārskaitīt līdzekļus uz centrāli, bet vairs nevarat nosūtīt un saņemt maksājumus vai pievienot kapitālu.";
+"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Maksājumu opcija lietotnē CoolApp vairs nav pieejama. Jūs joprojām varat pārskaitīt līdzekļus uz centrāli, bet vairs nevarat nosūtīt un saņemt maksājumus vai pievienot kapitālu.";
 
 /* Error message indicating that you cannot transfer into your payments wallet because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Maksājumu opcija lietotnē Signal vairs nav pieejama. Jūs joprojām varat pārskaitīt līdzekļus uz centrāli, bet vairs nevarat nosūtīt un saņemt maksājumus vai pievienot kapitālu.";
+"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Maksājumu opcija lietotnē CoolApp vairs nav pieejama. Jūs joprojām varat pārskaitīt līdzekļus uz centrāli, bet vairs nevarat nosūtīt un saņemt maksājumus vai pievienot kapitālu.";
 
 /* Message for the 'currency conversions info' alert. */
 "SETTINGS_PAYMENTS_CURRENCY_CONVERSIONS_INFO_ALERT_MESSAGE" = "Konvertācijas vērtības ir aptuvenas, un tās var nebūt precīzas.";
@@ -5498,7 +5498,7 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS" = "Deaktivizēt maksājumus";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Deaktivizējot maksājumus, jūs nevarēsiet nosūtīt vai saņemt MobileCoin lietotnē Signal.";
+"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Deaktivizējot maksājumus, jūs nevarēsiet nosūtīt vai saņemt MobileCoin lietotnē CoolApp.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_TITLE" = "Deaktivēt maksājumus?";
@@ -5507,10 +5507,10 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_TITLE" = "Deaktivizēt maksājumus";
 
 /* Explanation of the 'deactivate payments with balance' process in the 'deactivate payments' settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "Pirms maksājumu deaktivizēšanas ieteicams pārskaitīt līdzekļus uz citu naudas maka adresi. Ja izvēlēsieties nepārskaitīt savus līdzekļus tūlīt, tie paliks ar lietotni Signal saistītajā naudas makā, ja atkārtoti aktivizēsiet maksājumus.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "Pirms maksājumu deaktivizēšanas ieteicams pārskaitīt līdzekļus uz citu naudas maka adresi. Ja izvēlēsieties nepārskaitīt savus līdzekļus tūlīt, tie paliks ar lietotni CoolApp saistītajā naudas makā, ja atkārtoti aktivizēsiet maksājumus.";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "Ja izvēlēsieties atkārtoti aktivizēt maksājumus, atlikums paliks jūsu ar lietotni Signal saistītajā naudas makā.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "Ja izvēlēsieties atkārtoti aktivizēt maksājumus, atlikums paliks jūsu ar lietotni CoolApp saistītajā naudas makā.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_TITLE" = "Vai deaktivizēt, neveicot pārskaitīšanu?";
@@ -5534,7 +5534,7 @@
 "SETTINGS_PAYMENTS_HELP_CARD_ABOUT_MOBILECOIN_TITLE" = "Par MobileCoin";
 
 /* Description for the 'Adding to your wallet' help card in the payments settings. */
-"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "Varat pievienot naudas līdzekļus izmantošanai lietotnē Signal, nosūtot MobileCoin uz sava naudas maka adresi. ";
+"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "Varat pievienot naudas līdzekļus izmantošanai lietotnē CoolApp, nosūtot MobileCoin uz sava naudas maka adresi. ";
 
 /* Title for the 'Adding to your wallet' help card in the payments settings. */
 "SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_TITLE" = "Līdzekļu papildināšana";
@@ -5588,7 +5588,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_ACTIVATED_TOAST" = "Maksājumi aktivizēti.";
 
 /* Message for the 'payments opt-in' view in the app settings. */
-"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Izmantojiet lietotni Signal, lai nosūtītu un saņemtu MobileCoin - jaunu uz privātumu vērstu digitālo valūtu. Aktivizējiet, lai sāktu.";
+"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Izmantojiet lietotni CoolApp, lai nosūtītu un saņemtu MobileCoin - jaunu uz privātumu vērstu digitālo valūtu. Aktivizējiet, lai sāktu.";
 
 /* Label for 'activate' button in the 'payments opt-in' view in the app settings. */
 "SETTINGS_PAYMENTS_OPT_IN_REACTIVATE_BUTTON" = "Aktivizēt maksājumus atkārtoti";
@@ -5597,7 +5597,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_TITLE" = "Maksājumu ieviešana (Beta)";
 
 /* Explanation of the 'payments passphrase' in the 'view payments passphrase' settings. */
-"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Jūsu atlikums tiks automātiski atjaunots, atkārtoti instalējot Signal, ja apstiprināsiet savu lietotnes Signal PIN. Atlikumu var arī atjaunot, izmantojot atgūšanas frāzi, kas ir tikai jums raksturīga 24 vārdu frāze. Pierakstiet to un glabājiet drošā vietā.";
+"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Jūsu atlikums tiks automātiski atjaunots, atkārtoti instalējot CoolApp, ja apstiprināsiet savu lietotnes CoolApp PIN. Atlikumu var arī atjaunot, izmantojot atgūšanas frāzi, kas ir tikai jums raksturīga 24 vārdu frāze. Pierakstiet to un glabājiet drošā vietā.";
 
 /* Label for the 'add money' button in the 'send payment' UI. */
 "SETTINGS_PAYMENTS_PAYMENT_ADD_MONEY" = "Papildināt līdzekļus";
@@ -5756,7 +5756,7 @@
 "SETTINGS_PAYMENTS_TITLE" = "Maksājumi";
 
 /* Error indicating that it is not valid to send yourself a payment. */
-"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "Jūs nevarat veikt pārskaitījumu uz savu Signal naudas maka adresi. Ievadiet naudas maka adresi no sava konta atbalstītā biržā.";
+"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "Jūs nevarat veikt pārskaitījumu uz savu CoolApp naudas maka adresi. Ievadiet naudas maka adresi no sava konta atbalstītā biržā.";
 
 /* Footer of the 'transfer currency out' view in the payment settings. */
 "SETTINGS_PAYMENTS_TRANSFER_OUT_FOOTER" = "MobileCoin var pārskaitīt, veicot pārskaitījumu uz maiņas punkta norādīto naudas maka adresi. Naudas maka adrese ir ciparu un burtu virkne, kas parasti atrodas zem QR koda.";
@@ -5849,16 +5849,16 @@
 "SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_ACTION" = "Izslēgt atgādinājumus";
 
 /* The explanation for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "Pārliecinieties, ka atcerieties vai droši glabājat PIN, jo to nevar atgūt. PIN aizmiršanas gadījumā, iespējams, zaudēsiet datus, atkārtoti reģistrējot Signal kontu.";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "Pārliecinieties, ka atcerieties vai droši glabājat PIN, jo to nevar atgūt. PIN aizmiršanas gadījumā, iespējams, zaudēsiet datus, atkārtoti reģistrējot CoolApp kontu.";
 
 /* The title for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Apstipriniet Signal PIN";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Apstipriniet CoolApp PIN";
 
 /* Label for the 'pin reminder' switch of the privacy settings. */
 "SETTINGS_PIN_REMINDER_SWITCH_LABEL" = "PIN atgādinājumi";
 
 /* Footer for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_FOOTER" = "PIN kodos ir informācija, kas lietotnē Signal ir šifrēta, lai šai informācijai varētu piekļūt tikai jūs. Jūsu PIN nevar atgūt. Jūsu profils, iestatījumi un kontaktpersonas tiks atjaunotas, kad atkārtoti instalēsit lietotni Signal.";
+"SETTINGS_PINS_FOOTER" = "PIN kodos ir informācija, kas lietotnē CoolApp ir šifrēta, lai šai informācijai varētu piekļūt tikai jūs. Jūsu PIN nevar atgūt. Jūsu profils, iestatījumi un kontaktpersonas tiks atjaunotas, kad atkārtoti instalēsit lietotni CoolApp.";
 
 /* Label for the 'pins' item of the privacy settings when the user does have a pin. */
 "SETTINGS_PINS_ITEM" = "PIN maiņa";
@@ -5894,7 +5894,7 @@
 "SETTINGS_REGISTRATION_LOCK_TURN_ON" = "Ieslēgt";
 
 /* Body for the alert confirming that the user wants to turn on registration lock. */
-"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Ja, atkārtoti reģistrējoties lietotnē Signal, aizmirstat savu Signal PIN, jūs 7 dienas nevarēsiet piekļūt savam kontam.";
+"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Ja, atkārtoti reģistrējoties lietotnē CoolApp, aizmirstat savu CoolApp PIN, jūs 7 dienas nevarēsiet piekļūt savam kontam.";
 
 /* Title for the alert confirming that the user wants to turn on registration lock. */
 "SETTINGS_REGISTRATION_LOCK_TURN_ON_TITLE" = "Vai ieslēgt reģistrācijas bloķēšanu?";
@@ -5924,16 +5924,16 @@
 "SETTINGS_SECTION_TITLE_CALLING" = "Zvani";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL" = "Signal atbloķēšanai izmantojiet skāriena ID, sejas ID vai iOS ierīces ieejas kodu.";
+"SETTINGS_SECURITY_DETAIL" = "CoolApp atbloķēšanai izmantojiet skāriena ID, sejas ID vai iOS ierīces ieejas kodu.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_FACEID" = "Izmantojiet sejas ID, lai atbloķētu Signal.";
+"SETTINGS_SECURITY_DETAIL_FACEID" = "Izmantojiet sejas ID, lai atbloķētu CoolApp.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Izmantojiet ierīces ieejas kodu, lai atbloķētu Signal.";
+"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Izmantojiet ierīces ieejas kodu, lai atbloķētu CoolApp.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Izmantojiet skāriena ID, lai atbloķētu Signal.";
+"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Izmantojiet skāriena ID, lai atbloķētu CoolApp.";
 
 /* Section header */
 "SETTINGS_SECURITY_TITLE" = "Lietotnes aizsardzība";
@@ -5948,22 +5948,22 @@
 "SETTINGS_SHARING_SUGGESTIONS" = "Share Contacts with iOS";
 
 /* Footer for setting for enabling & disabling contact sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions.";
+"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions.";
 
 /* Footer for setting for enabling & disabling contact and notification sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions and notifications.";
+"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions and notifications.";
 
-/* Title for the 'signal boost' link in settings. */
-"SETTINGS_SIGNAL_BOOST" = "Signal Atbalsts";
+/* Title for the 'CoolApp boost' link in settings. */
+"SETTINGS_CoolApp_BOOST" = "CoolApp Atbalsts";
 
 /* Title for the 'become a sustainer' link in settings. */
-"SETTINGS_SUBSCRIPTION" = "Kļūsti par Signal Uzturētāju";
+"SETTINGS_SUBSCRIPTION" = "Kļūsti par CoolApp Uzturētāju";
 
 /* Label for the 'enable registration lock' switch of the privacy settings. */
 "SETTINGS_TWO_FACTOR_AUTH_SWITCH_LABEL" = "Reģistrācijas bloķēšana";
 
-/* Footer for the 'two factor auth' section of the privacy settings when Signal PINs are available. */
-"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Pieprasiet savu Signal PIN, lai vēlreiz reģistrētu savu tālruņa numuru lietotnē Signal.";
+/* Footer for the 'two factor auth' section of the privacy settings when CoolApp PINs are available. */
+"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Pieprasiet savu CoolApp PIN, lai vēlreiz reģistrētu savu tālruņa numuru lietotnē CoolApp.";
 
 /* Label for the 'typing indicators' setting. */
 "SETTINGS_TYPING_INDICATORS" = "Rakstīšanas indikatori";
@@ -6002,13 +6002,13 @@
 "SHARE_EXTENSION_LOADING" = "Ielādē…";
 
 /* Message indicating that the share extension cannot be used until the user has registered in the main app. */
-"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Lai reģistrētos, palaidiet Signal.";
+"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Lai reģistrētos, palaidiet CoolApp.";
 
 /* Title indicating that the share extension cannot be used until the user has registered in the main app. */
 "SHARE_EXTENSION_NOT_REGISTERED_TITLE" = "Nav reģistrēts";
 
 /* Message indicating that the share extension cannot be used until the main app has been launched at least once. */
-"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "Lai atjauninātu vai reģistrētos, palaidiet Signal.";
+"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "Lai atjauninātu vai reģistrētos, palaidiet CoolApp.";
 
 /* Title indicating that the share extension cannot be used until the main app has been launched at least once. */
 "SHARE_EXTENSION_NOT_YET_MIGRATED_TITLE" = "Nav gatavs";
@@ -6022,11 +6022,11 @@
 /* Alert title */
 "SHARE_EXTENSION_SENDING_IN_PROGRESS_TITLE" = "Augšupielādē...";
 
-/* Shown when trying to share content to a Signal user for the share extension. Followed by failure details. */
+/* Shown when trying to share content to a CoolApp user for the share extension. Followed by failure details. */
 "SHARE_EXTENSION_UNABLE_TO_BUILD_ATTACHMENT_ALERT_TITLE" = "Nevarēja sagatavot pielikumu";
 
 /* Title for the 'share extension' view. */
-"SHARE_EXTENSION_VIEW_TITLE" = "Koplietot ar Signal";
+"SHARE_EXTENSION_VIEW_TITLE" = "Koplietot ar CoolApp";
 
 /* Title of alert indicating sharing suggestions failed to deactivate */
 "SHARING_SUGGESTIONS_DISABLE_ERROR" = "Neizdevās atspējot kopīgošanas ieteikumus.";
@@ -6037,8 +6037,8 @@
 /* notification action */
 "SHOW_THREAD_BUTTON_TITLE" = "Rādīt tērzēšanu";
 
-/* body sent to contacts when inviting to Install Signal */
-"SMS_INVITE_BODY" = "Es Tevi aicinu lejupielādēt Signal! Lūk, saite:";
+/* body sent to contacts when inviting to Install CoolApp */
+"SMS_INVITE_BODY" = "Es Tevi aicinu lejupielādēt CoolApp! Lūk, saite:";
 
 /* table cell label in conversation settings */
 "SOUND_AND_NOTIFICATION_SETTINGS" = "Skaņas un paziņojumi";
@@ -6056,7 +6056,7 @@
 "SPAM_CAPTCHA_DISMISS_CONFIRMATION_TITLE" = "Vai turpināt bez verifikācijas?";
 
 /* Body for action sheet explaining captcha requirement. */
-"SPAM_CAPTCHA_SHEET_BODY" = "Lai novērstu nevēlamas ziņas lietotnē Signal, lūdzu, pabeidziet verifikāciju.\n\nPēc verifikācijas varat turpināt ziņapmaiņu. Visas pauzētās ziņas tiks automātiski nosūtītas.";
+"SPAM_CAPTCHA_SHEET_BODY" = "Lai novērstu nevēlamas ziņas lietotnē CoolApp, lūdzu, pabeidziet verifikāciju.\n\nPēc verifikācijas varat turpināt ziņapmaiņu. Visas pauzētās ziņas tiks automātiski nosūtītas.";
 
 /* Title for action sheet explaining captcha requirement. */
 "SPAM_CAPTCHA_SHEET_TITLE" = "Verificēt, lai turpinātu ziņapmaiņu";
@@ -6074,7 +6074,7 @@
 "STICKERS_INSTALL_BUTTON" = "Instalēt";
 
 /* Title for the 'available built-in stickers' section of the 'manage stickers' view. */
-"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Signal mākslas sērijas";
+"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "CoolApp mākslas sērijas";
 
 /* Title for the 'available known stickers' section of the 'manage stickers' view. */
 "STICKERS_MANAGE_VIEW_AVAILABLE_KNOWN_PACKS_SECTION_TITLE" = "Jūsu saņemtās uzlīmes";
@@ -6170,7 +6170,7 @@
 "SUBSCRIPTION_MEGAPHONE_ACTION" = "Ziedojiet";
 
 /* Body for subscription megaphone */
-"SUBSCRIPTION_MEGAPHONE_BODY" = "Signal is powered by people like you. Contribute and receive a badge.";
+"SUBSCRIPTION_MEGAPHONE_BODY" = "CoolApp is powered by people like you. Contribute and receive a badge.";
 
 /* Cancel text for subscription megaphone */
 "SUBSCRIPTION_MEGAPHONE_CANCEL" = "Nē, paldies";
@@ -6194,7 +6194,7 @@
 "SUPPORT_EMAIL_DEFAULT_DESCRIPTION" = "Pastāstiet mums par problēmu:";
 
 /* Message for alert dialog presented when a support email failed to send */
-"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "Lūdzu, nosūtiet savu atbalsta pieprasījumu pa e-pastu uz support@signal.org";
+"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "Lūdzu, nosūtiet savu atbalsta pieprasījumu pa e-pastu uz support@CoolApp.org";
 
 /* Localized label for support request email filter string. Embeds {{filter text}}. */
 "SUPPORT_EMAIL_FILTER_LABEL_FORMAT" = "Filtrs: %@";
@@ -6217,16 +6217,16 @@
 /* Localized label for support request email debug log URL. Embeds {{debug log url}}. */
 "SUPPORT_EMAIL_LOG_URL_LABEL_FORMAT" = "Pieteikšanās URL: %@";
 
-/* Localized label for support request email signal version string. Embeds {{signal version}}. */
-"SUPPORT_EMAIL_SIGNAL_VERSION_LABEL_FORMAT" = "Signal versija: %@";
+/* Localized label for support request email CoolApp version string. Embeds {{CoolApp version}}. */
+"SUPPORT_EMAIL_CoolApp_VERSION_LABEL_FORMAT" = "CoolApp versija: %@";
 
 /* Localized subject for support request emails */
-"SUPPORT_EMAIL_SUBJECT" = "Signal iOS atbalsta pieprasījums";
+"SUPPORT_EMAIL_SUBJECT" = "CoolApp iOS atbalsta pieprasījums";
 
 /* Header for emoji mood selection */
 "SUPPORT_EMOJI_PROMPT" = "Kā jūtaties? (fakultatīvs)";
 
-/* Label in support request informing user about Signal FAQ */
+/* Label in support request informing user about CoolApp FAQ */
 "SUPPORT_FAQ_PROMPT" = "Vai esiet jau izlasījuši BUJ?";
 
 /* Label describing support switch to attach debug logs */
@@ -6236,22 +6236,22 @@
 "SUPPORT_LOG_UPLOAD_IN_PROGRESS" = "Ielādē";
 
 /* First block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "Signal is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
 
 /* Second block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "Signal is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
 
-/* Title for the signal sustainer read more view */
+/* Title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_TITLE" = "Support technology that is built for you - not for your data - by joining the community that sustains it.";
 
-/* Why Contribute title for the signal sustainer read more view */
+/* Why Contribute title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_WHY_CONTRIBUTE" = "Kādēļ ziedot?";
 
 /* Action sheet title for Still Processing Badge sheet */
 "SUSTAINER_STILL_PROCESSING_BADGE_TITLE" = "Still Processing";
 
 /* Sustainer view Add Boost button title */
-"SUSTAINER_VIEW_ADD_BOOST" = "Pievienot Signal Atbalstu";
+"SUSTAINER_VIEW_ADD_BOOST" = "Pievienot CoolApp Atbalstu";
 
 /* Description text for sustainer view badges, embeds {{localized badge name}} */
 "SUSTAINER_VIEW_BADGE_DESCRIPTION" = "Get a %@ badge";
@@ -6322,8 +6322,8 @@
 /* Sustainer view Not Now Action sheet button */
 "SUSTAINER_VIEW_SUBSCRIPTION_CONFIRMATION_NOT_NOW" = "Ne tagad";
 
-/* Title for the signal sustainer view */
-"SUSTAINER_VIEW_TITLE" = "Signal attīsta un uzlabo tādi cilvēki kā jūs.";
+/* Title for the CoolApp sustainer view */
+"SUSTAINER_VIEW_TITLE" = "CoolApp attīsta un uzlabo tādi cilvēki kā jūs.";
 
 /* Update Subscription? Action sheet message, embeds {{Price}} */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_MESSAGE" = "You will be charged the full amount (%@) of the new subscription price today. Your new subscription will renew monthly.";
@@ -6334,7 +6334,7 @@
 /* Update Subscription? Action sheet confirm button */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_UPDATE" = "Aktualizēt";
 
-/* The body text for the signal sustainer view */
+/* The body text for the CoolApp sustainer view */
 "SUSTAINER_VIEW_WHY_DONATE_BODY" = "Support technology that is built for you - not for your data - by joining the community of people that sustain it.";
 
 /* Label for 'off' state of a switch control. */
@@ -6452,25 +6452,25 @@
 "UNKNOWN_COUNTRY_NAME" = "Nezināma valsts";
 
 /* Info message recorded in conversation history when local user receives an unknown message from a linked device and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "Viena no jūsu ierīcēm nosūtīja ziņu, kuru šeit nevar apstrādāt vai parādīt, jo tajā izmantota jauna Signal funkcija.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "Viena no jūsu ierīcēm nosūtīja ziņu, kuru šeit nevar apstrādāt vai parādīt, jo tajā izmantota jauna CoolApp funkcija.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%@ nosūtīja jums ziņu, kuru nevar apstrādāt vai parādīt, jo tajā izmantota jauna Signal funkcija.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%@ nosūtīja jums ziņu, kuru nevar apstrādāt vai parādīt, jo tajā izmantota jauna CoolApp funkcija.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "Jūs saņēmāt ziņu, kuru šeit nevar apstrādāt vai parādīt, jo tajā tiek izmantota jauna Signal funkcija.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "Jūs saņēmāt ziņu, kuru šeit nevar apstrādāt vai parādīt, jo tajā tiek izmantota jauna CoolApp funkcija.";
 
 /* Label for button that lets users upgrade the app. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "Atjaunināt Signal tūlīt";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "Atjaunināt CoolApp tūlīt";
 
 /* Info message recorded in conversation history when local user has received an unknown unknown message from a linked device and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Tagad jums ir jaunākā Signal versija. Turpmāk varēsiet saņemt šāda veida ziņas savā ierīcē.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Tagad jums ir jaunākā CoolApp versija. Turpmāk varēsiet saņemt šāda veida ziņas savā ierīcē.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "Jūs varat lūgt %@ atkārtoti nosūtīt šo ziņu tagad, kad izmantojat jaunāko Signal versiju.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "Jūs varat lūgt %@ atkārtoti nosūtīt šo ziņu tagad, kad izmantojat jaunāko CoolApp versiju.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "Jūs varat lūgt sūtītājam atkārtoti nosūtīt šo ziņu tagad, kad izmantojat jaunāko Signal versiju.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "Jūs varat lūgt sūtītājam atkārtoti nosūtīt šo ziņu tagad, kad izmantojat jaunāko CoolApp versiju.";
 
 /* Label indicating an unknown user. */
 "UNKNOWN_USER" = "Nezināms";
@@ -6494,10 +6494,10 @@
 "UNLINK_CONFIRMATION_ALERT_TITLE" = "Vai atsaistīt \"%@\"?";
 
 /* Label warning the user that they have been unlinked from their primary device. */
-"UNLINKED_WARNING" = "Ierīce vairs nav piesaistīta. Piesaistiet Signal tālrunim, lai turpinātu ziņapmaiņu.";
+"UNLINKED_WARNING" = "Ierīce vairs nav piesaistīta. Piesaistiet CoolApp tālrunim, lai turpinātu ziņapmaiņu.";
 
 /* Alert title when unlinking device fails */
-"UNLINKING_FAILED_ALERT_TITLE" = "Lietotne Signal nevarēja noņemt jūsu ierīces piesaisti.";
+"UNLINKING_FAILED_ALERT_TITLE" = "Lietotne CoolApp nevarēja noņemt jūsu ierīces piesaisti.";
 
 /* Label text in device manager for a device with no name */
 "UNNAMED_DEVICE" = "Ierīce bez nosaukuma";
@@ -6518,7 +6518,7 @@
 "UNSUPPORTED_FEATURE_ERROR" = "Jūsu ierīce neatbalsta šo funkciju.";
 
 /* Description for the unverified safety number change. Embeds {name of contact with identity change} */
-"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Jūsu drošības numurs ar %@ ir mainījies, iespējams, tāpēc, ka lietotne Signal ir pārinstalēta vai ir nomainītas ierīces. Pieskarieties pie Verificēt, lai apstiprinātu jauno drošības numuru. Šī darbība nav obligāta.";
+"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Jūsu drošības numurs ar %@ ir mainījies, iespējams, tāpēc, ka lietotne CoolApp ir pārinstalēta vai ir nomainītas ierīces. Pieskarieties pie Verificēt, lai apstiprinātu jauno drošības numuru. Šī darbība nav obligāta.";
 
 /* Action to verify a safety number after it has changed */
 "UNVERIFIED_SAFETY_NUMBER_VERIFY_ACTION" = "Verificēt";
@@ -6533,7 +6533,7 @@
 "UPDATE_GROUP_FAILED_DUE_TO_NETWORK" = "Grupu nevarēja atjaunināt. Pārbaudiet interneta savienojumu un mēģiniet vēlreiz.";
 
 /* An explanation of how usernames work on the username view. */
-"USERNAME_DESCRIPTION" = "Lietotājvārdi lietotnē Signal nav obligāti. Ja izvēlaties izveidot lietotājvārdu, citi Signal lietotāji jūs varēs atrast ar šo lietotājvārdu un sazināties ar jums, nezinot jūsu tālruņa numuru.";
+"USERNAME_DESCRIPTION" = "Lietotājvārdi lietotnē CoolApp nav obligāti. Ja izvēlaties izveidot lietotājvārdu, citi CoolApp lietotāji jūs varēs atrast ar šo lietotājvārdu un sazināties ar jums, nezinot jūsu tālruņa numuru.";
 
 /* An error indicating that the supplied username contains disallowed characters. */
 "USERNAME_INVALID_CHARACTERS_ERROR" = "Lietotājvārdos var būt tikai šādas rakstzīmes: a-z, 0-9, un _";
@@ -6541,10 +6541,10 @@
 /* A message indicating that username lookup failed. */
 "USERNAME_LOOKUP_ERROR" = "Meklējot lietotājvārdu, radās kļūda. Vēlāk mēģiniet vēlreiz.";
 
-/* A message indicating that the given username is not a registered signal account. Embeds {{username}} */
-"USERNAME_NOT_FOUND_FORMAT" = "%@ nav Signal lietotājs. Pārliecinieties, vai ievadījāt pilnu lietotājvārdu.";
+/* A message indicating that the given username is not a registered CoolApp account. Embeds {{username}} */
+"USERNAME_NOT_FOUND_FORMAT" = "%@ nav CoolApp lietotājs. Pārliecinieties, vai ievadījāt pilnu lietotājvārdu.";
 
-/* A message indicating that the given username was not registered with signal. */
+/* A message indicating that the given username was not registered with CoolApp. */
 "USERNAME_NOT_FOUND_TITLE" = "Lietotājs netika atrasts";
 
 /* The placeholder for the username text entry in the username view. */
@@ -6617,7 +6617,7 @@
 "VOICE_MESSAGE_TOO_SHORT_TOOLTIP" = "Nospiediet un turiet, lai ierakstītu.";
 
 /* Activity indicator title, shown upon returning to the device manager, until you complete the provisioning process on desktop */
-"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Pabeidziet Signal iestatīšanu datorā.";
+"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Pabeidziet CoolApp iestatīšanu datorā.";
 
 /* Placeholder text for header of the wallpaper mini preview */
 "WALLPAPER_MINI_PREVIEW_CONTACT_NAME" = "Kontaktpersonas vārds";

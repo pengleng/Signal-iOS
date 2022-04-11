@@ -53,8 +53,10 @@ class GetStartedBannerViewController: UIViewController, UICollectionViewDelegate
 
     // MARK: - Data
 
-    @objc
-    public var hasIncompleteCards: Bool { bannerContent.count > 0 }
+    @objc //TODO: force to hide get start view.
+    public var hasIncompleteCards: Bool { false }
+    //public var hasIncompleteCards: Bool { bannerContent.count > 0 }
+    
     @objc
     public var opaqueHeight: CGFloat { view.height - gradientBackdrop.height }
 

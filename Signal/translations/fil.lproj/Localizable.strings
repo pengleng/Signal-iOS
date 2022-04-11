@@ -2,7 +2,7 @@
 "AB_PERMISSION_MISSING_ACTION_NOT_NOW" = "Hindi Ngayon";
 
 /* Title for the 'about' help section */
-"ABOUT_SECTION_TITLE" = "About Signal";
+"ABOUT_SECTION_TITLE" = "About CoolApp";
 
 /* Action sheet item */
 "ACCEPT_NEW_IDENTITY_ACTION" = "Tanggapin ang Bagong Numerong Pangkaligtasan";
@@ -35,10 +35,10 @@
 "ACCESSIBILITY_LABEL_VOICE_MEMO_FORMAT" = "Voice message %@ seconds";
 
 /* Label for 'audio call' button in contact view. */
-"ACTION_AUDIO_CALL" = "Tawag sa Signal";
+"ACTION_AUDIO_CALL" = "Tawag sa CoolApp";
 
 /* Label for 'invite' button in contact view. */
-"ACTION_INVITE" = "Anyayahan sa Signal";
+"ACTION_INVITE" = "Anyayahan sa CoolApp";
 
 /* Label for button that lets you send a message to a contact. */
 "ACTION_SEND_MESSAGE" = "Ipadala ang Mensahe";
@@ -149,7 +149,7 @@
 "APN_Message" = "Maaaring may mga bago kang mensahe";
 
 /* Message for the 'app launch failed' alert. */
-"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Hindi mapatakbo ang Signal. Pakiusap na magpadala ng debug log sa support@signal.org upang ma-troubleshoot ang issue na ito.";
+"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Hindi mapatakbo ang CoolApp. Pakiusap na magpadala ng debug log sa support@CoolApp.org upang ma-troubleshoot ang issue na ito.";
 
 /* Title for the 'app launch failed' alert. */
 "APP_LAUNCH_FAILURE_ALERT_TITLE" = "Error";
@@ -158,13 +158,13 @@
 "APP_LAUNCH_FAILURE_COULD_NOT_LOAD_DATABASE" = "Hindi Ma-i-load ang Database";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
-"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Pakiusap na mag-upgrade sa pinakabagong bersyon ng Signal.";
+"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Pakiusap na mag-upgrade sa pinakabagong bersyon ng CoolApp.";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
 "APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_TITLE" = "Hindi Tukoy na Bersyon ng Database.";
 
 /* Error indicating that the app could not restore transferred data. */
-"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "Ang data na inilipat mula sa luma mong device ay hindi ma-restore. Paki-padala ang debug log sa support@signal.org para solusyunan namin ang isyu. Kung mag-reinstall ka ng Signal ay maaaring mawala ang dati mo nang mga mensahe.";
+"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "Ang data na inilipat mula sa luma mong device ay hindi ma-restore. Paki-padala ang debug log sa support@CoolApp.org para solusyunan namin ang isyu. Kung mag-reinstall ka ng CoolApp ay maaaring mawala ang dati mo nang mga mensahe.";
 
 /* Error indicating that the app could not restore transferred data. */
 "APP_LAUNCH_FAILURE_RESTORE_FAILED_TITLE" = "Hindi Makumpleto ang Paglipat";
@@ -179,7 +179,7 @@
 "APP_UPDATE_NAG_ALERT_MESSAGE_FORMAT" = "Ang ika-%@ bersyon ay makukuha na sa App Store.";
 
 /* Title for the 'new app version available' alert. */
-"APP_UPDATE_NAG_ALERT_TITLE" = "May Bagong Bersyon ng Signal na Maaari nang Makuha";
+"APP_UPDATE_NAG_ALERT_TITLE" = "May Bagong Bersyon ng CoolApp na Maaari nang Makuha";
 
 /* Label for the 'update' button in the 'new app version available' alert. */
 "APP_UPDATE_NAG_ALERT_UPDATE_BUTTON" = "I-update";
@@ -194,7 +194,7 @@
 "APPEARANCE_SETTINGS_SYSTEM_THEME_NAME" = "Sistema";
 
 /* Name of application */
-"APPLICATION_NAME" = "Signal";
+"APPLICATION_NAME" = "CoolApp";
 
 /* Label for the archive button for conversations list view */
 "ARCHIVE_ACTION" = "Archive";
@@ -211,7 +211,7 @@
 /* Error that outgoing attachments could not be exported. */
 "ATTACHMENT_APPROVAL_FAILED_TO_EXPORT" = "Bigo na ma-export ang attachment.";
 
-/* alert text when Signal was unable to save a copy of the attachment to the system photo library */
+/* alert text when CoolApp was unable to save a copy of the attachment to the system photo library */
 "ATTACHMENT_APPROVAL_FAILED_TO_SAVE" = "Bigo na Ma-i-save";
 
 /* Format string for file extension label in call interstitial view */
@@ -370,20 +370,20 @@
 /* The title for the badge configuration page */
 "BADGE_CONFIGURATION_TITLE" = "Badges";
 
-/* Text prompting the user to become a signal sustainer */
+/* Text prompting the user to become a CoolApp sustainer */
 "BADGE_DETAILS_BECOME_A_SUSTAINER" = "Become a Sustainer";
 
 /* Text prompting the user to boost */
-"BADGE_DETAILS_GIVE_A_BOOST" = "Give Signal a Boost";
+"BADGE_DETAILS_GIVE_A_BOOST" = "Give CoolApp a Boost";
 
 /* String explaing to the user that their boost badge has expired on the badge expiry sheetsheet. */
-"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using Signal but to support technology that is built for you, please consider becoming a monthly Sustainer.";
+"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using CoolApp but to support technology that is built for you, please consider becoming a monthly Sustainer.";
 
 /* String explaing to the user that their boost badge has expired while they are a current subscription sustainer on the badge expiry sheetsheet. */
 "BADGE_EXIPRED_BOOST_CURRENT_SUSTAINER_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can reactivate your Boost badge for another 30 days with a one-time contribution.";
 
 /* String explaing to the user that their subscription badge has expired on the badge expiry sheetsheet. Embed {badge name}. */
-"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using Signal but to support the app and reactivate your badge, renew now.";
+"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using CoolApp but to support the app and reactivate your badge, renew now.";
 
 /* Button title for boost on the badge expiration sheet, used if the user is not already a sustainer. */
 "BADGE_EXPIRED_BOOST_RENEWAL_BUTTON" = "Become a Sustainer";
@@ -416,7 +416,7 @@
 "BADGE_THANKS_TOGGLE_FOOTER" = "When you have more than one badge, you can choose one to feature for others to see on your profile.";
 
 /* String explaing to the user that they've earned a badge on the badge thank you sheet. Embed {badge name}. */
-"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help Signal build awareness by displaying this badge on your profile.";
+"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help CoolApp build awareness by displaying this badge on your profile.";
 
 /* Accessibility label for banner close button */
 "BANNER_CLOSE_ACCESSIBILITY_LABEL" = "Close banner";
@@ -493,13 +493,13 @@
 /* Tooltip highlighting the blur image editing tool. */
 "BLUR_TOOLTIP" = "New: Blur faces or draw anywhere to blur.";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "BOOST_VIEW_AMOUNT_LABEL" = "Set currency";
 
-/* The body text for the donate to signal view */
+/* The body text for the donate to CoolApp view */
 "BOOST_VIEW_BODY" = "Say “Thanks!” and earn the Boost badge for 30 days.";
 
-/* The body text for the donate to signal view, embeds {{Expiration}} */
+/* The body text for the donate to CoolApp view, embeds {{Expiration}} */
 "BOOST_VIEW_BODY_WITH_EXPIRATION_FORMAT" = "Your Boost badge will expire on %@.";
 
 /* Default text for the custom amount field of the boost view. */
@@ -508,17 +508,17 @@
 /* Text explaining there are other ways to donate on the boost view. */
 "BOOST_VIEW_OTHER_WAYS" = "More Payment Options";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_LARGER_AMOUNT" = "Select a larger amount to donate";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_A_SMALLER_AMOUNT" = "Select a smaller amount to donate";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "BOOST_VIEW_SELECT_AN_AMOUNT" = "Select an amount to donate";
 
-/* Title for the donate to signal view */
-"BOOST_VIEW_TITLE" = "Give Signal a Boost";
+/* Title for the donate to CoolApp view */
+"BOOST_VIEW_TITLE" = "Give CoolApp a Boost";
 
 /* Label for the 'add' button. */
 "BUTTON_ADD" = "Add";
@@ -599,7 +599,7 @@
 "CALL_AUDIO_MISSED_WEEK_NOTIFICATION_BODY_FORMAT" = "📞 Missed audio call on %@";
 
 /* Alert message when calling and permissions for microphone are missing */
-"CALL_AUDIO_PERMISSION_MESSAGE" = "Maaari mong paganahin ang access sa mikropono sa Settings app ng iOS upang makatawag at mag-record ng mga voice na mensahe sa Signal.";
+"CALL_AUDIO_PERMISSION_MESSAGE" = "Maaari mong paganahin ang access sa mikropono sa Settings app ng iOS upang makatawag at mag-record ng mga voice na mensahe sa CoolApp.";
 
 /* Alert title when calling and permissions for microphone are missing */
 "CALL_AUDIO_PERMISSION_TITLE" = "Kailangan ng Access sa Mikropono";
@@ -614,7 +614,7 @@
 "CALL_SCREEN_STATUS_NO_ANSWER" = "Walang Sagot";
 
 /* embeds {{Call Status}} in call screen label. For ongoing calls, {{Call Status}} is a seconds timer like 01:23, otherwise {{Call Status}} is a short text like 'Ringing', 'Busy', or 'Failed Call' */
-"CALL_STATUS_FORMAT" = "Signal %@";
+"CALL_STATUS_FORMAT" = "CoolApp %@";
 
 /* Label for call button for alert offering to call a user. */
 "CALL_USER_ALERT_CALL_BUTTON" = "Tawagan";
@@ -677,7 +677,7 @@
 "CALLING_MEMBER_VIEW_YOUR_CAMERA_IS_OFF" = "Your camera is off";
 
 /* The generic name used for calls if CallKit privacy is enabled */
-"CALLKIT_ANONYMOUS_CONTACT_NAME" = "Signal User";
+"CALLKIT_ANONYMOUS_CONTACT_NAME" = "CoolApp User";
 
 /* Accessibility hint describing what you can do with the camera button */
 "CAMERA_BUTTON_HINT" = "Kumuha ng larawan tapos ay ipadala ito";
@@ -764,7 +764,7 @@
 "COMPARE_SAFETY_NUMBER_ACTION" = "Ikumpara sa Clipboard";
 
 /* Accessibility hint describing what you can do with the compose button */
-"COMPOSE_BUTTON_HINT" = "Select or search for a Signal user to start a chat with.";
+"COMPOSE_BUTTON_HINT" = "Select or search for a CoolApp user to start a chat with.";
 
 /* Accessibility label from compose button. */
 "COMPOSE_BUTTON_LABEL" = "Magsulat";
@@ -782,7 +782,7 @@
 "COMPOSE_MESSAGE_USERNAME_SEARCH_SECTION_TITLE" = "Maghanap ng Username";
 
 /* Multi-line label explaining why compose-screen contact picker is empty. */
-"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "Maaari mong paganahin ang access sa mga kontak sa Settings app ng iOS upang makita kung sino sa iyong mga kontak ang gumagamit ng Signal.";
+"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "Maaari mong paganahin ang access sa mga kontak sa Settings app ng iOS upang makita kung sino sa iyong mga kontak ang gumagamit ng CoolApp.";
 
 /* Configure reactions title text */
 "CONFIGURE_REACTIONS" = "Configure Reactions";
@@ -916,7 +916,7 @@
 /* Error indicating that at least one contact field must be selected before sharing a contact. */
 "CONTACT_SHARE_NO_FIELDS_SELECTED" = "Wala ni-isang field ng kontak ang napili na.";
 
-/* Button text to initiate an email to signal support staff */
+/* Button text to initiate an email to CoolApp support staff */
 "CONTACT_SUPPORT" = "Makipag-ugnayan sa Suporta";
 
 /* The localized representation of the 'feature request' support filter. */
@@ -958,14 +958,14 @@
 /* A brief localized representation of the 'something not working' support filter. */
 "CONTACT_SUPPORT_FILTER_SOMETHING_NOT_WORKING_SHORT" = "Something Not Working";
 
-/* The localized representation of the 'Sustainers & Signal Boost' support filter. */
-"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & Signal Boost";
+/* The localized representation of the 'Sustainers & CoolApp Boost' support filter. */
+"CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & CoolApp Boost";
 
-/* A brief localized representation of the 'Sustainers & Signal Boost' support filter. */
+/* A brief localized representation of the 'Sustainers & CoolApp Boost' support filter. */
 "CONTACT_SUPPORT_FILTER_SUSTAINERS_SHORT" = "Sustainers & Boost";
 
 /* Alert body */
-"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Hindi nakumpleto ng Signal ang hinihingi mong suporta.";
+"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Hindi nakumpleto ng CoolApp ang hinihingi mong suporta.";
 
 /* button text */
 "CONTACT_SUPPORT_PROMPT_ERROR_TRY_AGAIN" = "Subukang muli";
@@ -1058,7 +1058,7 @@
 "CONVERSATION_PICKER_SECTION_RECENTS" = "Bagong mga Chat ";
 
 /* table section header for section containing contacts */
-"CONVERSATION_PICKER_SECTION_SIGNAL_CONTACTS" = "Mga Tao";
+"CONVERSATION_PICKER_SECTION_CoolApp_CONTACTS" = "Mga Tao";
 
 /* navbar header */
 "CONVERSATION_PICKER_TITLE" = "Pumili ng mga Tatanggap";
@@ -1100,7 +1100,7 @@
 "CONVERSATION_SETTINGS_AUDIO_CALL_BUTTON" = "audio";
 
 /* Footer string for a contact's badges in conversation settings */
-"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Get badges for your profile by supporting Signal. Tap a badge to learn more.";
+"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Get badges for your profile by supporting CoolApp. Tap a badge to learn more.";
 
 /* Header title for a contact's badges in conversation settings */
 "CONVERSATION_SETTINGS_BADGES_HEADER" = "Badges";
@@ -1397,7 +1397,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_ACTION" = "Burahin ang Account";
 
 /* Title for the action sheet message of the 'delete account confirmation' view controller. */
-"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "This will delete your Signal account and reset the application. The app will close after this process is complete.";
+"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "This will delete your CoolApp account and reset the application. The app will close after this process is complete.";
 
 /* Title for the action sheet confirmation title of the 'delete account confirmation' view controller. */
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_TITLE" = "Sigurado ka bang nais mong burahin ang iyong account?";
@@ -1421,7 +1421,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_PHONE_NUMBER_TITLE" = "Numero ng Telepono";
 
 /* Section header */
-"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "Confirm Your Signal Number";
+"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "Confirm Your CoolApp Number";
 
 /* Title for the 'delete account' confirmation view. */
 "DELETE_ACCOUNT_CONFIRMATION_TITLE" = "Burahin ang Account";
@@ -1445,9 +1445,9 @@
 "DEREGISTRATION_REREGISTER_WITH_SAME_PHONE_NUMBER" = "Muling irehistro ang numero ng teleponong ito";
 
 /* Label warning the user that they have been de-registered. */
-"DEREGISTRATION_WARNING" = "Ang device ay hindi na rehistrado. Ang numero ng iyong telepono ay pwedeng mairehistrong muli sa Signal gamit ang ibang device. Pindutin upang muling i-rehistro.";
+"DEREGISTRATION_WARNING" = "Ang device ay hindi na rehistrado. Ang numero ng iyong telepono ay pwedeng mairehistrong muli sa CoolApp gamit ang ibang device. Pindutin upang muling i-rehistro.";
 
-/* {{Short Date}} when device last communicated with Signal Server. */
+/* {{Short Date}} when device last communicated with CoolApp Server. */
 "DEVICE_LAST_ACTIVE_AT_LABEL" = "Last active %@";
 
 /* {{Short Date}} when device was linked. */
@@ -1469,7 +1469,7 @@
 "DEVICE_TRANSFER_CHOICE_EXPLANATION" = "Kung nasa iyong ang luma mong iOS device, ligtas mong maililipat ang iyong account at mga mensahe sa device na ito.";
 
 /* The explanation for the device transfer 'choice' view when linking a device */
-"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "Kung dati mong ginagamit ang Signal sa isang iPad na naka-link, ligtas mong maililipat ang iyong account at mga mensahe sa device na ito. ";
+"DEVICE_TRANSFER_CHOICE_LINKED_EXPLANATION" = "Kung dati mong ginagamit ang CoolApp sa isang iPad na naka-link, ligtas mong maililipat ang iyong account at mga mensahe sa device na ito. ";
 
 /* The body for the device transfer 'choice' view 'register' option */
 "DEVICE_TRANSFER_CHOICE_REGISTER_BODY" = "Magpatuloy ng hindi inililipat ang iyong account at mga mensahe.";
@@ -1499,7 +1499,7 @@
 "DEVICE_TRANSFER_CHOICE_TRANSFER_TITLE" = "Ilipat mula sa iOS device";
 
 /* A warning for the device transfer 'choice' view indicating you can only have one device registered with your number */
-"DEVICE_TRANSFER_CHOICE_WARNING" = "Kung magpapatuloy ay madi-disable ang Signal sa iba pang mga device na kasalukuyang nakarehistro sa parehong numero ng telepono.";
+"DEVICE_TRANSFER_CHOICE_WARNING" = "Kung magpapatuloy ay madi-disable ang CoolApp sa iba pang mga device na kasalukuyang nakarehistro sa parehong numero ng telepono.";
 
 /* An error indicating that we were unable to verify the identity of the new device to complete the transfer */
 "DEVICE_TRANSFER_ERROR_CERTIFICATE_MISMATCH" = "Hindi magawang iberipika ang bago mong device, paki-subukang muli.";
@@ -1517,16 +1517,16 @@
 "DEVICE_TRANSFER_ERROR_NOT_ENOUGH_SPACE" = "Walang sapat na libreng espasyo para makumpleto ang paglipat";
 
 /* An error indicating the user must update their device before trying to transfer. */
-"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Mag-update sa pinakahuling bersyon ng Signal at subukang muli";
+"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Mag-update sa pinakahuling bersyon ng CoolApp at subukang muli";
 
 /* The explanation on the action sheet prompting the user if they want to transfer their device. */
-"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "Ilipat sa bagong iOS device ang iyong account sa Signal. Siguruhing nasa malapit ang bago mong device at ito ay nakabukas.";
+"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "Ilipat sa bagong iOS device ang iyong account sa CoolApp. Siguruhing nasa malapit ang bago mong device at ito ay nakabukas.";
 
 /* The title on the acttion sheet prompting the user if they want to transfer their device. */
 "DEVICE_TRANSFER_PROMPT_TITLE" = "Ilipat ang Account";
 
 /* The explanation for the device transfer qr code view */
-"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "Buksan ang Signal sa luma mong device, ilapit ito, at siguruhing gumagana ang Wi-Fi at Bluetooth sa parehong device.";
+"DEVICE_TRANSFER_QRCODE_EXPLANATION" = "Buksan ang CoolApp sa luma mong device, ilapit ito, at siguruhing gumagana ang Wi-Fi at Bluetooth sa parehong device.";
 
 /* The second explanation for the device transfer qr code view */
 "DEVICE_TRANSFER_QRCODE_EXPLANATION2" = "Iposisyon ang QR code na ito sa frame ng isa mo pang device.";
@@ -1538,7 +1538,7 @@
 "DEVICE_TRANSFER_QRCODE_TITLE" = "Naghihintay sa Ibang Device...";
 
 /* The explanation on the view that shows receiving progress */
-"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "Panatilihing magkalapit ang parehong device sa isa't-isa. Huwag patayin ang alinman sa dalawa at panatilihing bukas ang Signal. Ang paglipat ay encrypted ng end-to-end.";
+"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "Panatilihing magkalapit ang parehong device sa isa't-isa. Huwag patayin ang alinman sa dalawa at panatilihing bukas ang CoolApp. Ang paglipat ay encrypted ng end-to-end.";
 
 /* The title on the view that shows receiving progress */
 "DEVICE_TRANSFER_RECEIVING_TITLE" = "Tinatanggap ang Data";
@@ -1553,7 +1553,7 @@
 "DEVICE_TRANSFER_SCANNING_TITLE" = "Itapat ang Bago Mong Device sa Camera";
 
 /* The explanation on the action sheet that shows transfer progress */
-"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "Panatilihing magkalapit ang parehong device sa isa't-isa. Huwag patayin ang alinman sa dalawa at panatilihing bukas ang Signal.";
+"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "Panatilihing magkalapit ang parehong device sa isa't-isa. Huwag patayin ang alinman sa dalawa at panatilihing bukas ang CoolApp.";
 
 /* The title on the action sheet that shows transfer progress */
 "DEVICE_TRANSFER_TRANSFERRING_TITLE" = "Inililipat ang Data";
@@ -1606,50 +1606,50 @@
 /* Section title for the 'domain fronting country' view. */
 "DOMAIN_FRONTING_COUNTRY_VIEW_SECTION_HEADER" = "Lokasyon ng Censorship Circumvention";
 
-/* Donation amount label for the donate to signal view */
+/* Donation amount label for the donate to CoolApp view */
 "DONATION_VIEW_AMOUNT_LABEL" = "Donation amount";
 
 /* Default text for the custom amount field of the donation view. */
 "DONATION_VIEW_CUSTOM_AMOUNT_PLACEHOLDER" = "Enter Custom Amount";
 
-/* Text describing to the user that they're going to pay a donation to Signal */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Donation to Signal";
+/* Text describing to the user that they're going to pay a donation to CoolApp */
+"DONATION_VIEW_DONATION_TO_CoolApp" = "Donation to CoolApp";
 
 /* Text explaining there are other ways to donate on the donation view. */
 "DONATION_VIEW_OTHER_WAYS" = "Other Ways to Donate";
 
-/* Error text notifying the user they must select a large amount on the donate to signal view */
+/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_LARGER_AMOUNT" = "Select a larger amount to donate";
 
-/* Error text notifying the user they must select a smaller amount on the donate to signal view */
+/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_A_SMALLER_AMOUNT" = "Select a smaller amount to donate";
 
-/* Error text notifying the user they must select an amount on the donate to signal view */
+/* Error text notifying the user they must select an amount on the donate to CoolApp view */
 "DONATION_VIEW_SELECT_AN_AMOUNT" = "Select an amount to donate";
 
-/* Thank you message on the donate to signal view */
+/* Thank you message on the donate to CoolApp view */
 "DONATION_VIEW_THANKS_FOR_YOUR_SUPPORT" = "Thank you for your support!";
 
-/* Title for the donate to signal view */
-"DONATION_VIEW_TITLE" = "Signal is powered by people like you.";
+/* Title for the donate to CoolApp view */
+"DONATION_VIEW_TITLE" = "CoolApp is powered by people like you.";
 
-/* The body of the 'Why Donate' section of the donate to signal view */
-"DONATION_VIEW_WHY_DONATE_BODY" = "The team at Signal is committed to the mission of developing open source privacy technology that protects free expression and enables secure global communication. Your contribution fuels this cause. No ads. No trackers. No kidding.\n\nYour donation helps pay for the development, servers, and bandwidth of an app used by millions around the world for private and instantaneous communication.";
+/* The body of the 'Why Donate' section of the donate to CoolApp view */
+"DONATION_VIEW_WHY_DONATE_BODY" = "The team at CoolApp is committed to the mission of developing open source privacy technology that protects free expression and enables secure global communication. Your contribution fuels this cause. No ads. No trackers. No kidding.\n\nYour donation helps pay for the development, servers, and bandwidth of an app used by millions around the world for private and instantaneous communication.";
 
-/* The title of the 'Why Donate' section of the donate to signal view */
+/* The title of the 'Why Donate' section of the donate to CoolApp view */
 "DONATION_VIEW_WHY_DONATE_TITLE" = "Why Donate?";
 
-/* Alert body for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
+/* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "Mapapagana mo ang access sa Settings app ng iOS.";
 
-/* Alert title for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
-"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Kailangan ng Signal ng Access sa Kontak upang Ma-edit ang Impormasyon ng Kontak";
+/* Alert title for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
+"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Kailangan ng CoolApp ng Access sa Kontak upang Ma-edit ang Impormasyon ng Kontak";
 
 /* The navbar title for the 'update group' view. */
 "EDIT_GROUP_DEFAULT_TITLE" = "I-edit ang Grupo";
 
 /* Error message indicating the a user can't be added to a group. */
-"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "Ang user na ito ay maidadagdag lamang sa grupo kapag nag-upgrade na sila ng Signal.";
+"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "Ang user na ito ay maidadagdag lamang sa grupo kapag nag-upgrade na sila ng CoolApp.";
 
 /* Format for the 'group full' error alert when a user can't be added to a group because the group is full. Embeds {{ the maximum number of members in a group }}. */
 "EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER_GROUP_FULL_FORMAT" = "Maximum group size of %@ members reached.";
@@ -1669,17 +1669,17 @@
 /* Short name for edit menu item to copy contents of media message. */
 "EDIT_ITEM_COPY_ACTION" = "Kopyahin";
 
-/* body of email sent to contacts when inviting to install Signal. Embeds {{link to install Signal}} and {{link to the Signal home page}} */
-"EMAIL_INVITE_BODY" = "Hey,\n\nLately I've been using Signal to keep the chats on my iPhone private. I'd like you to install it too, so we can be confident that only you and I can read our messages or hear our calls.\n\nSignal is available for iPhones and Android. Get it here: %@\n\nSignal works like your existing messaging app. We can send pictures and video, make calls, and start group chats. The best part is, no one else can see any of it, not even the people who make Signal!\n\nYou can read more about Open Whisper Systems, the people who make Signal, here: %@";
+/* body of email sent to contacts when inviting to install CoolApp. Embeds {{link to install CoolApp}} and {{link to the CoolApp home page}} */
+"EMAIL_INVITE_BODY" = "Hey,\n\nLately I've been using CoolApp to keep the chats on my iPhone private. I'd like you to install it too, so we can be confident that only you and I can read our messages or hear our calls.\n\nCoolApp is available for iPhones and Android. Get it here: %@\n\nCoolApp works like your existing messaging app. We can send pictures and video, make calls, and start group chats. The best part is, no one else can see any of it, not even the people who make CoolApp!\n\nYou can read more about Open Whisper Systems, the people who make CoolApp, here: %@";
 
-/* subject of email sent to contacts when inviting to install Signal */
-"EMAIL_INVITE_SUBJECT" = "Tayo nang lumipat sa Signal";
+/* subject of email sent to contacts when inviting to install CoolApp */
+"EMAIL_INVITE_SUBJECT" = "Tayo nang lumipat sa CoolApp";
 
 /* Description for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_MESSAGE" = "Your device isn't configured to send email. To send a support request, set up email on your device or email support@signal.org";
+"EMAIL_CoolApp_MESSAGE" = "Your device isn't configured to send email. To send a support request, set up email on your device or email support@CoolApp.org";
 
 /* Title for the fallback support sheet if user cannot send email */
-"EMAIL_SIGNAL_TITLE" = "Email unavailable";
+"EMAIL_CoolApp_TITLE" = "Email unavailable";
 
 /* The name for the emoji category 'Activities' */
 "EMOJI_CATEGORY_ACTIVITIES_NAME" = "Mga Aktibidad";
@@ -1709,7 +1709,7 @@
 "EMOJI_CATEGORY_TRAVEL_NAME" = "Paglalakbay at mga Lugar";
 
 /* Full width label displayed when attempting to compose message */
-"EMPTY_CONTACTS_LABEL_LINE1" = "Walang sinuman sa iyong mga kontak ang may Signal.";
+"EMPTY_CONTACTS_LABEL_LINE1" = "Walang sinuman sa iyong mga kontak ang may CoolApp.";
 
 /* Full width label displayed when attempting to compose message */
 "EMPTY_CONTACTS_LABEL_LINE2" = "Bakit hindi mo anyayahan ang sinuman?";
@@ -1753,8 +1753,8 @@
 /* Error message indicating that message send failed due to block list */
 "ERROR_DESCRIPTION_MESSAGE_SEND_FAILED_DUE_TO_BLOCK_LIST" = "Bigo na padalhan ng mensahe ang user dahil naka-block ito sa iyo.";
 
-/* Generic error used whenever Signal can't contact the server */
-"ERROR_DESCRIPTION_NO_INTERNET" = "Hindi magawa ng Signal na kumonek sa internet. Pakiusap na subukang muli.";
+/* Generic error used whenever CoolApp can't contact the server */
+"ERROR_DESCRIPTION_NO_INTERNET" = "Hindi magawa ng CoolApp na kumonek sa internet. Pakiusap na subukang muli.";
 
 /* Error indicating that an outgoing message had no valid recipients. */
 "ERROR_DESCRIPTION_NO_VALID_RECIPIENTS" = "Ang pagpapadala ng mensahe ay nabigo dahil sa kawalan ng mga valid na tatanggap.";
@@ -1769,7 +1769,7 @@
 "ERROR_DESCRIPTION_RESPONSE_FAILED" = "Hindi valid na tugon ng service.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "Ang device na ito ay hindi na rehistrado gamit ang numero ng iyong telepono. Pakiusap na i-reinstall ang Signal.";
+"ERROR_DESCRIPTION_SENDING_UNAUTHORIZED" = "Ang device na ito ay hindi na rehistrado gamit ang numero ng iyong telepono. Pakiusap na i-reinstall ang CoolApp.";
 
 /* Generic server error */
 "ERROR_DESCRIPTION_SERVER_FAILURE" = "May Error sa Server. Pakisubukang muli mamaya.";
@@ -1781,7 +1781,7 @@
 "ERROR_DESCRIPTION_UNKNOWN_ERROR" = "May hindi-tukoy na error ang naganap.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "Ang kontak ay hindi user ng Signal.";
+"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "Ang kontak ay hindi user ng CoolApp.";
 
 /* Error message indicating that attachment download(s) failed. */
 "ERROR_MESSAGE_ATTACHMENT_DOWNLOAD_FAILED" = "Nabigo ang pag-download ng kalakip.";
@@ -1807,10 +1807,10 @@
 /* No comment provided by engineer. */
 "ERROR_MESSAGE_NO_SESSION" = "Walang session na available para sa kontak.";
 
-/* Shown when signal users safety numbers changed */
+/* Shown when CoolApp users safety numbers changed */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE" = "Nagbago ang numerong pangkaligtasan.";
 
-/* Shown when signal users safety numbers changed, embeds the user's {{name or phone number}} */
+/* Shown when CoolApp users safety numbers changed, embeds the user's {{name or phone number}} */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE_FORMAT" = "Ang iyong numerong pangkaligtasan kay/sa %@ ay nagbago.";
 
 /* Text notifying the user that their secure session has been reset */
@@ -1826,10 +1826,10 @@
 "ERROR_NETWORK_FAILURE" = "Nagka-error sa Network.";
 
 /* Format string for an error alert notification message. Embes {{ error string }} */
-"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve Signal by reporting this error along with debug logs from your device to support@signal.org; %@";
+"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Please help us improve CoolApp by reporting this error along with debug logs from your device to support@CoolApp.org; %@";
 
 /* Format string for an error alert notification title. */
-"ERROR_NOTIFICATION_TITLE" = "Signal Beta: An error occurred";
+"ERROR_NOTIFICATION_TITLE" = "CoolApp Beta: An error occurred";
 
 /* Error indicating a send failure due to a delinked application. */
 "ERROR_SENDING_DELINKED" = "Ang iyong device ay hindi na naka-link. Pakiusap na i-link upang makapagpadalang muli ng mga mensahe. ";
@@ -1838,19 +1838,19 @@
 "ERROR_SENDING_DEREGISTERED" = "Ang iyong device ay hindi na nakarehistro. Pakiusap na irehistro upang makapagpadalang muli ng mga mensahe. ";
 
 /* Error indicating a send failure due to an expired application. */
-"ERROR_SENDING_EXPIRED" = "Ang bersyon ng iyong Signal ay expired na. Pakiuap na i-update upang makapagpadalang muli ng mga mensahe.";
+"ERROR_SENDING_EXPIRED" = "Ang bersyon ng iyong CoolApp ay expired na. Pakiuap na i-update upang makapagpadalang muli ng mga mensahe.";
 
-/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or signal id}}. */
+/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or CoolApp id}}. */
 "ERROR_UNREGISTERED_USER_FORMAT" = "Hindi Rehistradong User: %@";
 
 /* Label notifying the user that the app has expired. */
-"EXPIRATION_ERROR" = "Your version of Signal has expired! Tap to update to the most recent version.";
+"EXPIRATION_ERROR" = "Your version of CoolApp has expired! Tap to update to the most recent version.";
 
 /* Label warning the user that the app will expire soon. */
-"EXPIRATION_WARNING_SOON" = "Mag-e-expire na ang iyong bersyon ng Signal sa loob ng %d araw. Pindutin upang mag-update sa pinakabagong bersyon.";
+"EXPIRATION_WARNING_SOON" = "Mag-e-expire na ang iyong bersyon ng CoolApp sa loob ng %d araw. Pindutin upang mag-update sa pinakabagong bersyon.";
 
 /* Label warning the user that the app will expire today. */
-"EXPIRATION_WARNING_TODAY" = "Ang iyong bersyon ng Signal ay mag-e-expire ngayong araw. Pindutin upang mag-update sa pinakabagong bersyon.";
+"EXPIRATION_WARNING_TODAY" = "Ang iyong bersyon ng CoolApp ay mag-e-expire ngayong araw. Pindutin upang mag-update sa pinakabagong bersyon.";
 
 /* action sheet header when re-sending message which failed because of too many attempts */
 "FAILED_SENDING_BECAUSE_RATE_LIMIT" = "Napakarami nang kabiguan sa kontak na ito. Pakiusap na subukang muli kinalaunan.";
@@ -2315,7 +2315,7 @@
 "GROUP_LINK_INVALID_GROUP_INVITE_LINK_ERROR_TITLE" = "Invalid Link";
 
 /* Error message indicating that the local user does not support groups v2. */
-"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "Update Signal on this device to join this group.";
+"GROUP_LINK_LOCAL_USER_DOES_NOT_SUPPORT_GROUPS_V2_ERROR_MESSAGE" = "Update CoolApp on this device to join this group.";
 
 /* Explanation of the 'approve new group members' switch. */
 "GROUP_LINK_PROMOTION_ALERT_APPROVE_NEW_MEMBERS_EXPLANATION" = "Require an admin to approve new members joining via the group link.";
@@ -2374,8 +2374,8 @@
 /* Label for the 'share group link via QR code' button in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_LINK_VIA_QR_CODE" = "QR Code";
 
-/* Label for the 'share group link via Signal' button in the 'group link' view. */
-"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "Share via Signal";
+/* Label for the 'share group link via CoolApp' button in the 'group link' view. */
+"GROUP_LINK_VIEW_SHARE_LINK_VIA_CoolApp" = "Share via CoolApp";
 
 /* Message for the 'share group link' action sheet in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_SHEET_MESSAGE" = "Anyone with this link can view this group’s name and members and request to join.  Share it with people you trust.";
@@ -2750,13 +2750,13 @@
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_1_TITLE" = "What are Legacy Groups?";
 
 /* Body text for the second section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "Legacy Groups can't yet be upgraded to New Groups, but you can create a New Group with the same members if they're on the latest version of Signal.\n\nSignal will offer a way to upgrade Legacy Groups in the future.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_2_BODY" = "Legacy Groups can't yet be upgraded to New Groups, but you can create a New Group with the same members if they're on the latest version of CoolApp.\n\nCoolApp will offer a way to upgrade Legacy Groups in the future.";
 
 /* Title for the second section of the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_SECTION_2_TITLE" = "Can I upgrade a Legacy Group?";
 
 /* Body text for the third section of the 'legacy group' alert view. */
-"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "To create a New Group, all members should update to the latest version of Signal.";
+"GROUPS_LEGACY_GROUP_ALERT_SECTION_3_BODY" = "To create a New Group, all members should update to the latest version of CoolApp.";
 
 /* Title for the 'legacy group' alert view. */
 "GROUPS_LEGACY_GROUP_ALERT_TITLE" = "Legacy vs. New Groups";
@@ -2771,28 +2771,28 @@
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_ALERT_TOO_MANY_MEMBERS_FORMAT" = "This group can’t be upgraded to a New Group because it has too many members. The maximum group size that can be upgraded is %@.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
-"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "When all current group members are using a version of Signal capable of joining a New Group, this group will be upgraded.";
+"GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_1" = "When all current group members are using a version of CoolApp capable of joining a New Group, this group will be upgraded.";
 
 /* Explanation of group migration for groups that can't yet be migrated in the 'legacy group' alert views. */
 "GROUPS_LEGACY_GROUP_CANT_UPGRADE_YET_2" = "All message history and media will be kept from before the upgrade.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "This group cannot be created because 1 member is using an old version of Signal. You can create a New Style Group with them after they update Signal, or remove them before creating the group.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_1" = "This group cannot be created because 1 member is using an old version of CoolApp. You can create a New Style Group with them after they update CoolApp, or remove them before creating the group.";
 
 /* Title for alert that explains that a new group cannot be created 1 member does not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "This group cannot be created because %@ members are using an old version of Signal. You can create a New Style Group with them after they update Signal, or remove them before creating the group.";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_ALERT_TITLE_N_FORMAT" = "This group cannot be created because %@ members are using an old version of CoolApp. You can create a New Style Group with them after they update CoolApp, or remove them before creating the group.";
 
 /* Indicates that a new group cannot be created because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "This group cannot be created because 1 member is using an old version of Signal. You can create a New Style Group with them after they update Signal, or remove them before creating the group. %@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_1" = "This group cannot be created because 1 member is using an old version of CoolApp. You can create a New Style Group with them after they update CoolApp, or remove them before creating the group. %@";
 
 /* Indicates that a new group cannot be created because multiple members do not support v2 groups. Embeds {{ %1$@ the number of members who do not support v2 groups, %2$@ a \"learn more\" link. }}. */
-"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "This group cannot be created because %1$@ members are using an old version of Signal. You can create a New Style Group with them after they update Signal, or remove them before creating the group. %2$@";
+"GROUPS_LEGACY_GROUP_CREATION_ERROR_FORMAT_N" = "This group cannot be created because %1$@ members are using an old version of CoolApp. You can create a New Style Group with them after they update CoolApp, or remove them before creating the group. %2$@";
 
 /* Title for alert that explains that a new group will be a legacy group because 1 member does not support v2 groups. */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "A Legacy Group will be created because 1 member is using an old version of Signal. You can create a New Style Group with them after they update Signal, or remove them before creating the group.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_1" = "A Legacy Group will be created because 1 member is using an old version of CoolApp. You can create a New Style Group with them after they update CoolApp, or remove them before creating the group.";
 
 /* Title for alert that explains that a new group will be a legacy group because multiple members do not support v2 groups. Embeds {{ the number of members which do not support v2 groups. }} */
-"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "A Legacy Group will be created because %@ members are using an old version of Signal. You can create a New Style Group with them after they update Signal, or remove them before creating the group.";
+"GROUPS_LEGACY_GROUP_CREATION_WARNING_ALERT_TITLE_N_FORMAT" = "A Legacy Group will be created because %@ members are using an old version of CoolApp. You can create a New Style Group with them after they update CoolApp, or remove them before creating the group.";
 
 /* Indicates that a new group will be a legacy group because a member does not support v2 groups. Embeds {{ a \"learn more\" link. }}. */
 "GROUPS_LEGACY_GROUP_CREATION_WARNING_FORMAT_1" = "1 member does not support New Groups, so this will be a Legacy Group. %@";
@@ -2912,7 +2912,7 @@
 "GROUPS_REPLACE_ADMIN_BUTTON" = "Pumili ng bagong admin";
 
 /* Format for the alert warning the user that they've reached the recommended limit on how many members can be in a group when creating a new group. Embeds {{ the maximum number of recommended members in a group }}. */
-"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "Signal groups perform best with %@ members or less. Adding more members will cause delays sending and receiving messages.";
+"GROUPS_TOO_MANY_MEMBERS_ALERT_MESSAGE_FORMAT" = "CoolApp groups perform best with %@ members or less. Adding more members will cause delays sending and receiving messages.";
 
 /* Title for alert warning the user that they've reached the recommended limit on how many members can be in a group. */
 "GROUPS_TOO_MANY_MEMBERS_ALERT_TITLE" = "Recommended member limit reached";
@@ -2929,7 +2929,7 @@
 /* Help item allowing the user to file a support request */
 "HELP_CONTACT_US" = "Makipag-ugnayan sa Amin";
 
-/* Help item that takes the user to the Signal support website */
+/* Help item that takes the user to the CoolApp support website */
 "HELP_SUPPORT_CENTER" = "Support Center";
 
 /* Label for 'archived conversations' button. */
@@ -2944,16 +2944,16 @@
 /* A prefix indicating that a message preview is a draft */
 "HOME_VIEW_DRAFT_PREFIX" = "Draft: ";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Signal contact.  Embeds {{The name of 1 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Ilan sa iyong mga kontak ay nasa Signal na, kasama si %@.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 1 CoolApp contact.  Embeds {{The name of 1 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Ilan sa iyong mga kontak ay nasa CoolApp na, kasama si %@.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Signal contacts.  Embeds {{The names of 2 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Ilan sa iyong mga kontak ay nasa Signal na, kasama sina %@ at %@.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 2 CoolApp contacts.  Embeds {{The names of 2 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Ilan sa iyong mga kontak ay nasa CoolApp na, kasama sina %@ at %@.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Signal contacts.  Embeds {{The names of 3 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Ilan sa iyong mga kontak ay nasa Signal na, kasama sina %@, %@ at %@.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 CoolApp contacts.  Embeds {{The names of 3 of your CoolApp contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Ilan sa iyong mga kontak ay nasa CoolApp na, kasama sina %@, %@ at %@.";
 
-/* A label offering to start a new conversation with your contacts, if you have no Signal contacts. */
+/* A label offering to start a new conversation with your contacts, if you have no CoolApp contacts. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_NO_CONTACTS" = "Start your first chat here.";
 
 /* Table cell subtitle label for a group the user has been added to. {Embeds inviter name} */
@@ -2986,11 +2986,11 @@
 /* Momentarily shown to the user when attempting to select more images than is allowed. Embeds {{max number of items}} that can be shared. */
 "IMAGE_PICKER_CAN_SELECT_NO_MORE_TOAST_FORMAT" = "Hindi ka maaaring magbahagi ng mahigit sa %@ items.";
 
-/* Button that will present a view for the user to change the photos Signal has access to. */
+/* Button that will present a view for the user to change the photos CoolApp has access to. */
 "IMAGE_PICKER_CHANGE_PHOTOS" = "Change Photos";
 
 /* Explanation showing that the user has granted limited access to their photos and can change that in the Settings app. */
-"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "Grant full access in Settings or change which photos Signal can access.";
+"IMAGE_PICKER_CHANGE_PHOTOS_EXPLANATION" = "Grant full access in Settings or change which photos CoolApp can access.";
 
 /* Title show that the user has granted limited access to their photos and can change that in the Settings app. */
 "IMAGE_PICKER_CHANGE_PHOTOS_TITLE" = "Not seeing your photos?";
@@ -3043,8 +3043,8 @@
 /* Indicates that another user has changed their phone number. Embeds: {{ the user's name}} */
 "INFO_MESSAGE_USER_CHANGED_PHONE_NUMBER_FORMAT" = "%@ changed their phone number.";
 
-/* Shown in inbox and conversation when a user joins Signal, embeds the new user's {{contact name}} */
-"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "Si %@ ay nasa Signal!";
+/* Shown in inbox and conversation when a user joins CoolApp, embeds the new user's {{contact name}} */
+"INFO_MESSAGE_USER_JOINED_CoolApp_BODY_FORMAT" = "Si %@ ay nasa CoolApp!";
 
 /* accessibility label for the button which shows the sticker picker */
 "INPUT_TOOLBAR_STICKER_BUTTON_ACCESSIBILITY_LABEL" = "Stickers";
@@ -3058,14 +3058,14 @@
 /* Message for the alert indicating that an audio file is invalid. */
 "INVALID_AUDIO_FILE_ALERT_ERROR_MESSAGE" = "Ang file na audio ay hindi valid.";
 
-/* Alert body when contacts disabled while trying to invite contacts to signal */
-"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "Maaari mong paganahin ang access sa mga kontak sa Settings app ng iOS upang maimbitahan ang iyong mga kaibigan na sumali sa Signal.";
+/* Alert body when contacts disabled while trying to invite contacts to CoolApp */
+"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "Maaari mong paganahin ang access sa mga kontak sa Settings app ng iOS upang maimbitahan ang iyong mga kaibigan na sumali sa CoolApp.";
 
-/* Alert title when contacts disabled while trying to invite contacts to signal */
+/* Alert title when contacts disabled while trying to invite contacts to CoolApp */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_TITLE" = "Pahintulutan ang Access sa Kontak";
 
 /* Label for the cell that presents the 'invite contacts' workflow. */
-"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Imbitahan ang mga Kaibigan sa Signal";
+"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Imbitahan ang mga Kaibigan sa CoolApp";
 
 /* Search */
 "INVITE_FRIENDS_PICKER_SEARCHBAR_PLACEHOLDER" = "Maghanap";
@@ -3167,7 +3167,7 @@
 "LINKING_DEVICE_FAILED_TITLE" = "Nabigo ang Pag-link ng Device";
 
 /* Body for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "In order to transfer your Signal account, you need to enable local network access on both devices.";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "In order to transfer your CoolApp account, you need to enable local network access on both devices.";
 
 /* A button asking the user if they need further help getting their transfer working. */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_NEED_HELP" = "Kailangan ng Tulong?";
@@ -3179,7 +3179,7 @@
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_THREE" = "Turn on “Local Network”";
 
 /* Second step for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Navigate to Signal";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Navigate to CoolApp";
 
 /* Title for local network permission action sheet */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_TITLE" = "Turn on Local Network Access";
@@ -3194,7 +3194,7 @@
 "LOGGING_SECTION" = "Logging";
 
 /* Footer for the 'logging' help section. */
-"LOGGING_SECTION_FOOTER" = "Debug logs can help Signal fix issues and crashes.";
+"LOGGING_SECTION_FOOTER" = "Debug logs can help CoolApp fix issues and crashes.";
 
 /* Title for the 'long text message' view. */
 "LONG_TEXT_VIEW_TITLE" = "Mensahe";
@@ -3239,7 +3239,7 @@
 "MESSAGE_ACTION_DELETE_FOR_EVERYONE" = "Burahin para sa Lahat";
 
 /* A one-time confirmation that you want to delete for everyone */
-"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "This message will be deleted for everyone in the chat if they’re on a recent version of Signal. They will be able to see that you deleted a message.";
+"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "This message will be deleted for everyone in the chat if they’re on a recent version of CoolApp. They will be able to see that you deleted a message.";
 
 /* The title for the action sheet asking who the user wants to delete the message for. */
 "MESSAGE_ACTION_DELETE_FOR_TITLE" = "Para kanino mo gustong burahin ang mensaheng ito?";
@@ -3413,7 +3413,7 @@
 "MESSAGE_REQUEST_LEAVE_AND_DELETE_GROUP_TITLE" = "Burahin at Umalis sa Grupo?";
 
 /* Banner label notifying user that a new message is from a user with the same name as an existing contact */
-"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "Review requests carefully. Signal found another contact with the same name.";
+"MESSAGE_REQUEST_NAME_COLLISON_BANNER_LABEL" = "Review requests carefully. CoolApp found another contact with the same name.";
 
 /* A header string above a known contact's contact info */
 "MESSAGE_REQUEST_NAME_COLLISON_CONTACT_HEADER" = "Your contact";
@@ -3508,7 +3508,7 @@
 /* status message for read messages */
 "MESSAGE_STATUS_READ" = "Nabasa na";
 
-/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Signal account. */
+/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their CoolApp account. */
 "MESSAGE_STATUS_RECIPIENT_SKIPPED" = "Nilagpasan";
 
 /* Label indicating that a message failed to send. */
@@ -3551,22 +3551,22 @@
 "MISSED_CALL" = "Tawag na hindi nasagot";
 
 /* Alert body */
-"MISSING_CAMERA_PERMISSION_MESSAGE" = "Maaari mong paganahin ang access sa camera sa Settings app ng iOS upang makapag-video call sa Signal.";
+"MISSING_CAMERA_PERMISSION_MESSAGE" = "Maaari mong paganahin ang access sa camera sa Settings app ng iOS upang makapag-video call sa CoolApp.";
 
 /* Alert title */
-"MISSING_CAMERA_PERMISSION_TITLE" = "Kailangan ng Signal na ma-access ang iyong camera.";
+"MISSING_CAMERA_PERMISSION_TITLE" = "Kailangan ng CoolApp na ma-access ang iyong camera.";
 
 /* Alert body indicating the user has denied location permissios */
 "MISSING_LOCATION_PERMISSION_MESSAGE" = "Maaari mong paganahin ang pahintulot na ito sa Settings app ng iOS.";
 
 /* Alert title indicating the user has denied location permissios */
-"MISSING_LOCATION_PERMISSION_TITLE" = "Kailangan ng Signal ng access sa iyong lokasyon para sa feature na ito.";
+"MISSING_LOCATION_PERMISSION_TITLE" = "Kailangan ng CoolApp ng access sa iyong lokasyon para sa feature na ito.";
 
 /* Alert body when user has previously denied media library access */
 "MISSING_MEDIA_LIBRARY_PERMISSION_MESSAGE" = "Maaari mong paganahin ang pahintulot na ito sa Settings app ng iOS.";
 
 /* Alert title when user has previously denied media library access */
-"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Kailangan ng Signal ng access sa iyong mga larawan para sa feature na ito.";
+"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Kailangan ng CoolApp ng access sa iyong mga larawan para sa feature na ito.";
 
 /* Generic indicator that no value is available for display */
 "MISSING_VALUE" = "Wala";
@@ -3674,12 +3674,12 @@
 "NO_SELECTED_CONVERSATION_DESCRIPTION" = "Pumili ng kontak o grupo para simulan ang pakikipag-chat.";
 
 /* Title welcoming to the app */
-"NO_SELECTED_CONVERSATION_TITLE" = "Welcome sa Signal";
+"NO_SELECTED_CONVERSATION_TITLE" = "Welcome sa CoolApp";
 
 /* A string prompting the user to send a new mesaage to a user */
 "NON_CONTACT_TABLE_CELL_NEW_MESSAGE" = "Bagong mensahe para kay:";
 
-/* A string asking the user if they'd like to invite a number to signal via SMS. */
+/* A string asking the user if they'd like to invite a number to CoolApp via SMS. */
 "NON_CONTACT_TABLE_CELL_SEND_SMS" = "Walang user na nahanap. Mag-imbita sa pamamagitan ng SMS?";
 
 /* Label for 1:1 conversation with yourself. */
@@ -3721,7 +3721,7 @@
 /* No comment provided by engineer. */
 "NOTIFICATIONS_NONE" = "Walang Pangalan o Nilalaman";
 
-/* Table cell switch label. When disabled, Signal will not play notification sounds while the app is in the foreground. */
+/* Table cell switch label. When disabled, CoolApp will not play notification sounds while the app is in the foreground. */
 "NOTIFICATIONS_SECTION_INAPP" = "Patunugin Hangga't ang App ay Bukas";
 
 /* Label for settings UI that allows user to add a new notification sound. */
@@ -3776,10 +3776,10 @@
 "ONBOARDING_CAPTCHA_TITLE" = "Lagyan ng haplos ng pagiging-tao ang iyong mga mensahe";
 
 /* Explanation on the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_EXPLANATION" = "Because you’ve been inactive for a long period of time, you must register again to use Signal.";
+"ONBOARDING_DROPPED_YDB_EXPLANATION" = "Because you’ve been inactive for a long period of time, you must register again to use CoolApp.";
 
 /* Title of the 'onboarding after dropped YDB' view. */
-"ONBOARDING_DROPPED_YDB_TITLE" = "Register for Signal";
+"ONBOARDING_DROPPED_YDB_TITLE" = "Register for CoolApp";
 
 /* button indicating that the user will register their ipad */
 "ONBOARDING_MODE_SWITCH_BUTTON_PROVISIONING" = "Irehistro ang iPad";
@@ -3788,7 +3788,7 @@
 "ONBOARDING_MODE_SWITCH_BUTTON_REGISTERING" = "I-link ang iPhone";
 
 /* explanation to the user they're switching from linking to registering flow */
-"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "Sa pagpindot sa \"Irehistro ang iPad\" ay makakalikha ka ng bagong account sa Signal o kaya'y ilipat ang isang account sa iPad na ito. Hindi na nito pagaganahin ang Signal sa iba pang mga device na kasalukuyang nakarehistro sa parehong numero ng telepono.";
+"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "Sa pagpindot sa \"Irehistro ang iPad\" ay makakalikha ka ng bagong account sa CoolApp o kaya'y ilipat ang isang account sa iPad na ito. Hindi na nito pagaganahin ang CoolApp sa iba pang mga device na kasalukuyang nakarehistro sa parehong numero ng telepono.";
 
 /* explanation to the user they're switching from registering to linking flow */
 "ONBOARDING_MODE_SWITCH_EXPLANATION_REGISTERING" = "Sa pagpindot ng \"I-link ang iPhone\" ay magagawa mong i-connect ang iyong telepono sa kasalukuyan mong account. Hindi minumungkahi ang pag-link ng iyong phone dahil lilimitahan nito ang ilang functionality, tulad ng pagtawag.";
@@ -3800,7 +3800,7 @@
 "ONBOARDING_MODE_SWITCH_TITLE_REGISTERING" = "I-link ang iPhone na Ito";
 
 /* warning to the user that registering an ipad is not recommended */
-"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "Madi-disable ang Signal sa iba pang mga device na kasalukuyang nakarehistro sa parehong numero ng telepono kung irerehistro ang iPad na ito.";
+"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "Madi-disable ang CoolApp sa iba pang mga device na kasalukuyang nakarehistro sa parehong numero ng telepono kung irerehistro ang iPad na ito.";
 
 /* warning to the user that linking a phone is not recommended */
 "ONBOARDING_MODE_SWITCH_WARNING_REGISTERING" = "Hindi minumungkahi na i-link ang iPhone na ito dahil maglilimita ito sa core na functionality.";
@@ -3809,13 +3809,13 @@
 "ONBOARDING_PERMISSIONS_ENABLE_PERMISSIONS_BUTTON" = "Allow Permissions";
 
 /* Explanation in the 'onboarding permissions' view. */
-"ONBOARDING_PERMISSIONS_EXPLANATION" = "Allowing notifications and contacts lets you see when messages arrive and helps you find people you know. Contacts are encrypted so the Signal service can't see them.";
+"ONBOARDING_PERMISSIONS_EXPLANATION" = "Allowing notifications and contacts lets you see when messages arrive and helps you find people you know. Contacts are encrypted so the CoolApp service can't see them.";
 
 /* Title of the 'onboarding permissions' view. */
 "ONBOARDING_PERMISSIONS_TITLE" = "Allow Permissions";
 
 /* Explanation of the 'onboarding phone number discoverability' view. Embeds {user phone number} */
-"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "Choose who can find you on Signal with your phone number %@";
+"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "Choose who can find you on CoolApp with your phone number %@";
 
 /* Title of the 'onboarding phone number discoverability' view. */
 "ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_TITLE" = "Who can find you with your number?";
@@ -3836,7 +3836,7 @@
 "ONBOARDING_PHONE_NUMBER_VALIDATION_WARNING" = "Invalid phone number. Please enter a valid phone number to register.";
 
 /* Explanation of the 'onboarding pin attempts exhausted' view when reglock is disabled. */
-"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "Naubusan ka na ng posibleng hula sa PIN, pero maa-access mo pa rin ang iyong account sa Signal sa paggawa ng bagong PIN. Para sa iyong privacy at security ire-restore ang iyong account ng wala ang naka-save na profile na impormasyon at mga settings.";
+"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "Naubusan ka na ng posibleng hula sa PIN, pero maa-access mo pa rin ang iyong account sa CoolApp sa paggawa ng bagong PIN. Para sa iyong privacy at security ire-restore ang iyong account ng wala ang naka-save na profile na impormasyon at mga settings.";
 
 /* Label for the 'learn more' link when reglock is disabled in the 'onboarding pin attempts exhausted' view. */
 "ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_LEARN_MORE" = "Magdagdag ng kaalaman tungkol sa mga PIN";
@@ -3910,8 +3910,8 @@
 /* Info Message when another user enabled disappearing messages. Embeds {{name of other user}} and {{time amount}} before messages disappear. See the *_TIME_AMOUNT strings for context. */
 "OTHER_UPDATED_DISAPPEARING_MESSAGES_CONFIGURATION" = "Itinakda ni %@ ang oras ng naglalahong mensahe sa %@.";
 
-/* Label warning the user that the Signal service may be down. */
-"OUTAGE_WARNING" = "Nakakaranas ng kahirapang pang-teknikal ang Signal. Kami'y nagtatrabaho ng lubos upang maibalik ang serbisyo sa pinakamabilis na paraan.";
+/* Label warning the user that the CoolApp service may be down. */
+"OUTAGE_WARNING" = "Nakakaranas ng kahirapang pang-teknikal ang CoolApp. Kami'y nagtatrabaho ng lubos upang maibalik ang serbisyo sa pinakamabilis na paraan.";
 
 /* info message text in conversation view. {embeds callee name} */
 "OUTGOING_CALL_FORMAT" = "You called %@";
@@ -3989,7 +3989,7 @@
 "PAYMENTS_NEW_PAYMENT_ERROR_INVALID_TRANSACTION" = "Invalid transaction";
 
 /* Indicates that a payment failed due to an outdated client. */
-"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "Update Signal to use payments.";
+"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "Update CoolApp to use payments.";
 
 /* Indicates that an outgoing payment could not be verified in a timely way. */
 "PAYMENTS_NEW_PAYMENT_ERROR_OUTGOING_VERIFICATION_TAKING_TOO_LONG" = "Payment not yet verified";
@@ -4223,13 +4223,13 @@
 "PHONE_NUMBER_DISCOVERABILITY_EVERYBODY" = "Everybody";
 
 /* A user friendly description of the 'everybody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "Anyone who has your phone number in their contacts will see you as a contact on Signal. Others will be able to find you in Search.";
+"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "Anyone who has your phone number in their contacts will see you as a contact on CoolApp. Others will be able to find you in Search.";
 
 /* A user friendly name for the 'nobody' phone number discoverability mode. */
 "PHONE_NUMBER_DISCOVERABILITY_NOBODY" = "Nobody";
 
 /* A user friendly description of the 'nobody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Nobody on Signal will be able to find you with your phone number. You won’t be visible as contact for people who have your phone number in their contacts and others won’t be able to find you with your phone number in search.";
+"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Nobody on CoolApp will be able to find you with your phone number. You won’t be visible as contact for people who have your phone number in their contacts and others won’t be able to find you with your phone number in search.";
 
 /* A format for a label showing an example phone number. Embeds {{the example phone number}}. */
 "PHONE_NUMBER_EXAMPLE_FORMAT" = "Halimbawa: %@";
@@ -4238,19 +4238,19 @@
 "PHONE_NUMBER_SHARING_CONTACTS_ONLY" = "My Contacts";
 
 /* A user friendly description of the 'contacts only' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "Only your contacts will see your phone number on Signal.";
+"PHONE_NUMBER_SHARING_CONTACTS_ONLY_DESCRIPTION" = "Only your contacts will see your phone number on CoolApp.";
 
 /* A user friendly name for the 'everybody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_EVERYBODY" = "Everybody";
 
 /* A user friendly description of the 'everybody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_EVERYBODY_DESCRIPTION" = "Your phone number will be visible to people and groups you message. People who have your number in their phone contacts will also see it on Signal.";
+"PHONE_NUMBER_SHARING_EVERYBODY_DESCRIPTION" = "Your phone number will be visible to people and groups you message. People who have your number in their phone contacts will also see it on CoolApp.";
 
 /* A user friendly name for the 'nobody' phone number sharing mode. */
 "PHONE_NUMBER_SHARING_NOBODY" = "Nobody";
 
 /* A user friendly description of the 'nobody' phone number sharing mode. */
-"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "Nobody will see your phone number on Signal.";
+"PHONE_NUMBER_SHARING_NOBODY_DESCRIPTION" = "Nobody will see your phone number on CoolApp.";
 
 /* Format for phone number label with an index. Embeds {{Phone number label (e.g. 'home')}} and {{index, e.g. 2}}. */
 "PHONE_NUMBER_TYPE_AND_INDEX_NAME_FORMAT" = "%@ %@";
@@ -4331,7 +4331,7 @@
 "PIN_CREATION_DISABLE_CONFIRMATION_ACTION" = "Disable PIN";
 
 /* Message of the 'pin disable' action sheet. */
-"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "If you disable the PIN, you will lose all data when you re-register Signal unless you transfer it from another iOS device. You can not turn on Registration Lock while the PIN is disabled.";
+"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "If you disable the PIN, you will lose all data when you re-register CoolApp unless you transfer it from another iOS device. You can not turn on Registration Lock while the PIN is disabled.";
 
 /* Title of the 'pin disable' action sheet. */
 "PIN_CREATION_DISABLE_CONFIRMATION_TITLE" = "Babala";
@@ -4343,7 +4343,7 @@
 "PIN_CREATION_ERROR_TITLE" = "Ang paglikha ng PIN ay nabigo";
 
 /* The explanation in the 'pin creation' view. */
-"PIN_CREATION_EXPLANATION" = "PINs keep information stored with Signal encrypted so only you can access it. Your profile, settings, and contacts will restore when you reinstall. You won’t need your PIN to open the app.";
+"PIN_CREATION_EXPLANATION" = "PINs keep information stored with CoolApp encrypted so only you can access it. Your profile, settings, and contacts will restore when you reinstall. You won’t need your PIN to open the app.";
 
 /* Learn more action on the pin creation view */
 "PIN_CREATION_LEARN_MORE" = "Learn More About PINs";
@@ -4421,7 +4421,7 @@
 "PIN_REMINDER_MEGAPHONE_FEW_DAYS_TOAST" = "Paaalalahanan ka naming muli sa loob ng ilang araw.";
 
 /* Title for PIN reminder megaphone */
-"PIN_REMINDER_MEGAPHONE_TITLE" = "Beripikahin ang PIN ng iyong Signal";
+"PIN_REMINDER_MEGAPHONE_TITLE" = "Beripikahin ang PIN ng iyong CoolApp";
 
 /* Toast indicating that we'll ask you for your PIN again tomorrow. */
 "PIN_REMINDER_MEGAPHONE_TOMORROW_TOAST" = "Paaalalahanan ka naming muli bukas.";
@@ -4436,7 +4436,7 @@
 "PIN_REMINDER_MISMATCH_ERROR" = "Hindi tama ang PIN. Subukang muli.";
 
 /* The title for the 'pin reminder' dialog. */
-"PIN_REMINDER_TITLE" = "Ipasok ang iyong PIN ng Signal";
+"PIN_REMINDER_TITLE" = "Ipasok ang iyong PIN ng CoolApp";
 
 /* Label indicating that the attempted PIN is too short */
 "PIN_REMINDER_TOO_SHORT_ERROR" = "Ang PIN ay kailangang hindi bababa sa 4 na bilang.";
@@ -4451,7 +4451,7 @@
 "PINS_MEGAPHONE_ACTION" = "Lumikha ng PIN";
 
 /* Body for PIN megaphone when user doesn't have a PIN */
-"PINS_MEGAPHONE_BODY" = "Finish creating your Signal PIN.";
+"PINS_MEGAPHONE_BODY" = "Finish creating your CoolApp PIN.";
 
 /* Toast indication that the user will be reminded later to setup their PIN. Embeds {{time until mandatory}} */
 "PINS_MEGAPHONE_SNOOZE_TOAST_FORMAT" = "Paaalalahanan ka naming muli. Ang paglikha ng PIN ay kakailanganin na sa loob ng %ld araw.";
@@ -4487,19 +4487,19 @@
 "PRIVACY_VERIFICATION_FAILED_MISMATCHED_SAFETY_NUMBERS_IN_CLIPBOARD" = "The number in your clipboard doesn't look like the correct safety number for this chat.";
 
 /* Alert body for user error */
-"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Walang mahanap sa clipboard na numerong pangkaligtasan ang Signal. Nakopya mo ba ito ng tama? ";
+"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Walang mahanap sa clipboard na numerong pangkaligtasan ang CoolApp. Nakopya mo ba ito ng tama? ";
 
 /* Alert body when verifying with {{contact name}} */
-"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Ang bawat pares ng user ng Signal ay may isang natatanging numerong pangkaligtasan. Siguraduhing mabuti na %@ ay nagpapakita ng \"iyong\" natatanging numerong pangkaligtasan.";
+"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Ang bawat pares ng user ng CoolApp ay may isang natatanging numerong pangkaligtasan. Siguraduhing mabuti na %@ ay nagpapakita ng \"iyong\" natatanging numerong pangkaligtasan.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "Lumang bersyon ng Signal ang iyong ginagamit. Bago ka makapagberipika'y kailangan mong mag-update.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "Lumang bersyon ng CoolApp ang iyong ginagamit. Bago ka makapagberipika'y kailangan mong mag-update.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "Ang iyong kapareha ay gumagamit ng lumang bersyon ng Signal. Kailangan nyang mag-update bago ka magkapagberipika.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "Ang iyong kapareha ay gumagamit ng lumang bersyon ng CoolApp. Kailangan nyang mag-update bago ka magkapagberipika.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "Ang na-scan na code mukhang hindi isang numerong pangkaligtasan. Pareho ba kayong gumagamit ng pinakahuling bersyon ng Signal?";
+"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "Ang na-scan na code mukhang hindi isang numerong pangkaligtasan. Pareho ba kayong gumagamit ng pinakahuling bersyon ng CoolApp?";
 
 /* Paragraph(s) shown alongside the safety number when verifying privacy with {{contact name}} */
 "PRIVACY_VERIFICATION_INSTRUCTIONS" = "Kung nais mong beripikahin ang seguridad ng iyong encryption na end-to-end kay %@, ikumpara ang mga numero sa itaas sa mga numero sa kanilang device.\n\nMaaari mo ring i-scan ang code sa kanilang phone, o kaya'y ipa-scan sa kanila ang iyong code.";
@@ -4685,7 +4685,7 @@
 "RECIPIENT_PICKER_ERROR_USER_CANNOT_BE_SELECTED" = "hindi mapili ang user.";
 
 /* Error message indicating that a user can't be selected until they upgrade their app. */
-"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "Ang user na ito ay maidadagdag lamang sa grupo kapag nag-upgrade na sila ng Signal.";
+"RECIPIENT_PICKER_ERROR_USER_HAS_OUTDATED_CLIENT" = "Ang user na ito ay maidadagdag lamang sa grupo kapag nag-upgrade na sila ng CoolApp.";
 
 /* Label for 'I forgot my PIN' link in the 2FA registration view. */
 "REGISTER_2FA_FORGOT_PIN" = "Nakalimutan ko ang aking PIN";
@@ -4844,7 +4844,7 @@
 "SAFETY_NUMBER_CONFIRMATION_VIEW_ACTION" = "View";
 
 /* Snippet to share {{safety number}} with a friend. sent e.g. via SMS */
-"SAFETY_NUMBER_SHARE_FORMAT" = "Ang ating Numerong Pangkaligtasan sa Signal:\n%@";
+"SAFETY_NUMBER_SHARE_FORMAT" = "Ang ating Numerong Pangkaligtasan sa CoolApp:\n%@";
 
 /* Action sheet heading */
 "SAFETY_NUMBERS_ACTIONSHEET_TITLE" = "Ang iyong numerong pangkaligtasan kay %@ ay nagbago na. Baka nais mong iberipika ito.";
@@ -4876,14 +4876,14 @@
 /* Indicates that Touch ID/Face ID/Phone Passcode passcode is not set. */
 "SCREEN_LOCK_ERROR_LOCAL_AUTHENTICATION_PASSCODE_NOT_SET" = "Kailangan mong paganahin ang passcode sa settings ng iyong iOS upang magamit ang Screen Lock.";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
-"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Mag-authenticate upang mabuksan ang Signal.";
+/* Description of how and why CoolApp iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
+"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Mag-authenticate upang mabuksan ang CoolApp.";
 
 /* Title for alert indicating that screen lock could not be unlocked. */
 "SCREEN_LOCK_UNLOCK_FAILED" = "Nabigo ang Authentication.";
 
-/* Label for button on lock screen that lets users unlock Signal. */
-"SCREEN_LOCK_UNLOCK_SIGNAL" = "I-unlock ang Signal";
+/* Label for button on lock screen that lets users unlock CoolApp. */
+"SCREEN_LOCK_UNLOCK_CoolApp" = "I-unlock ang CoolApp";
 
 /* This is a contact's name. Replace the name for a more common name in your locale if this sounds too foreign. This should be a unique non-public figure's name. This will have a female profile photo. */
 "SCREENSHOT_NAME_CONTACT_EIGHT" = "Tina Del Rosario";
@@ -4933,7 +4933,7 @@
 /* This is for a group chat for people who want weather updates. */
 "SCREENSHOT_NAME_GROUP_TWO" = "Ulat Panahon";
 
-/* This appears in Signal > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
+/* This appears in CoolApp > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
 "SCREENSHOT_NAME_LOCAL_PROFILE" = "Chairwoman Maria";
 
 /* This is a message expressing support/happiness/awe/shock. */
@@ -5054,13 +5054,13 @@
 "SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_TITLE" = "Account Does Not Match";
 
 /* Message for error alert indicating that a linked device must be upgraded before it can be linked. */
-"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "Update Signal on this device to link it with your phone.";
+"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "Update CoolApp on this device to link it with your phone.";
 
 /* Title for error alert indicating that a linked device must be upgraded before it can be linked. */
 "SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_TITLE" = "Unsupported Version";
 
 /* alert message for outdated linking device */
-"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "Ang iba mong device ay gumagamit ng lumang bersyon ng Signal na hindi kayang mag-scan ng mga QR Code ng iPad. Paki-install ang pinakabagong inilabas na Signal at subukang muli.";
+"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "Ang iba mong device ay gumagamit ng lumang bersyon ng CoolApp na hindi kayang mag-scan ng mga QR Code ng iPad. Paki-install ang pinakabagong inilabas na CoolApp at subukang muli.";
 
 /* alert title for outdated linking device */
 "SECONDARY_LINKING_ERROR_OLD_VERSION_TITLE" = "I-update ang Device na Pinang-i-scan";
@@ -5081,19 +5081,19 @@
 "SECONDARY_ONBOARDING_COMPLETE_LINKING_PROCESS" = "Tapusin ang Pag-link";
 
 /* header text before the user can link this device */
-"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "Patakbuhin ang Signal sa iyong telepono para i-link ang iPad na ito sa iyong account";
+"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "Patakbuhin ang CoolApp sa iyong telepono para i-link ang iPad na ito sa iyong account";
 
 /* Link explaining what to do when trying to link a device before having a primary device. */
-"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "Wala akong Signal sa aking telepono...";
+"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "Wala akong CoolApp sa aking telepono...";
 
 /* alert body */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "Pumunta sa App Store ng iyong phone, i-install ang Signal, kumpletuhin ang proseso ng rehistrasyon, at pagkatapos ay ma-i-li-link mo ang iyong iPad sa parehong account.";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "Pumunta sa App Store ng iyong phone, i-install ang CoolApp, kumpletuhin ang proseso ng rehistrasyon, at pagkatapos ay ma-i-li-link mo ang iyong iPad sa parehong account.";
 
 /* alert title */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "I-install ang Signal sa Iyong Telepono";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "I-install ang CoolApp sa Iyong Telepono";
 
 /* body text while displaying a QR code which, when scanned, will link this device. */
-"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "Pindutin ang larawan ng iyong profile upang buksan ang Settings ng Signal sa iyong telepono. Tapos ay \"Naka-link na mga Device\" at \"Mag-link ng Bagong Device\" para ma-scan ang code na ito gamit ang iyong telepono:";
+"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "Pindutin ang larawan ng iyong profile upang buksan ang Settings ng CoolApp sa iyong telepono. Tapos ay \"Naka-link na mga Device\" at \"Mag-link ng Bagong Device\" para ma-scan ang code na ito gamit ang iyong telepono:";
 
 /* Link text for page with troubleshooting info shown on the QR scanning screen */
 "SECONDARY_ONBOARDING_SCAN_CODE_HELP_TEXT" = "Kumuha dito ng tulong kung paano i-link ang iyong iPad";
@@ -5102,7 +5102,7 @@
 "SECONDARY_ONBOARDING_SCAN_CODE_TITLE" = "I-scan ang QR Code gamit ang iyong phone";
 
 /* header text before the user can transfer to this device */
-"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "Patakbuhin ang Signal sa luma mong iPad para mailipat ang iyong account";
+"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "Patakbuhin ang CoolApp sa luma mong iPad para mailipat ang iyong account";
 
 /* No comment provided by engineer. */
 "SECURE_SESSION_RESET" = "Ang ligtas na session ay na-reset.";
@@ -5123,7 +5123,7 @@
 "SEND_INVITE_FAILURE" = "Nabigong ipadala ang imbitasyon, Pakisubukang muli mamaya.";
 
 /* Alert body after invite succeeded */
-"SEND_INVITE_SUCCESS" = "Inimbitahan mo ang iyong kaibigan sa Signal!";
+"SEND_INVITE_SUCCESS" = "Inimbitahan mo ang iyong kaibigan sa CoolApp!";
 
 /* alert action, confirming the user wants to exit the media flow and abandon any photos they've taken */
 "SEND_MEDIA_CONFIRM_ABANDON_ALBUM" = "I-discard ang Media";
@@ -5135,7 +5135,7 @@
 "SEND_SMS_CONFIRM_TITLE" = "Imbitahan ang kaibigan sa pamamagitan ng hindi ligtas na SMS?";
 
 /* No comment provided by engineer. */
-"SEND_SMS_INVITE_TITLE" = "Nais mo bang imbitahan ang sumusunod na numero sa Signal:";
+"SEND_SMS_INVITE_TITLE" = "Nais mo bang imbitahan ang sumusunod na numero sa CoolApp:";
 
 /* String describing high quality sent media */
 "SENT_MEDIA_QUALITY_HIGH" = "Mataas";
@@ -5144,7 +5144,7 @@
 "SENT_MEDIA_QUALITY_STANDARD" = "Standard";
 
 /* Description for the session refresh alert */
-"SESSION_REFRESH_ALERT_MESSAGE" = "Signal uses end-to-end encryption and it may need to refresh your chat session sometimes. This doesn’t affect your chat’s security but you may have missed a message from this contact and you can ask them to resend it.";
+"SESSION_REFRESH_ALERT_MESSAGE" = "CoolApp uses end-to-end encryption and it may need to refresh your chat session sometimes. This doesn’t affect your chat’s security but you may have missed a message from this contact and you can ask them to resend it.";
 
 /* Title for the session refresh alert */
 "SESSION_REFRESH_ALERT_TITLE" = "Chat session refreshed";
@@ -5171,7 +5171,7 @@
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_COUNTRY" = "Lokasyon";
 
 /* Table footer for the 'censorship circumvention' section when censorship circumvention can be manually enabled. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "Kung gumagana, susubukin ng Signal na ikutan ang censorship. Huwag paganahin ang feature na ito maliban na lang kung ika'y nasa lugar na naka-censor ang Signal.";
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "Kung gumagana, susubukin ng CoolApp na ikutan ang censorship. Huwag paganahin ang feature na ito maliban na lang kung ika'y nasa lugar na naka-censor ang CoolApp.";
 
 /* Table footer for the 'censorship circumvention' section shown when censorship circumvention has been auto-enabled based on local phone number. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_AUTO_ENABLED" = "Ang pag-ikot sa censorship ay pinagana na base sa numero ng telepono ng iyong account. ";
@@ -5182,8 +5182,8 @@
 /* Table footer for the 'censorship circumvention' section shown when the app is not connected to the internet. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_NO_CONNECTION" = "Ang pag-ikot sa censorship ay mapapagana lamang kapag kunektado sa internet.";
 
-/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Signal service. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "Ang pag-ikot sa censorship ay hindi kailangan; kunektado ka na sa serbisyo ng Signal.";
+/* Table footer for the 'censorship circumvention' section shown when the app is connected to the CoolApp service. */
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "Ang pag-ikot sa censorship ay hindi kailangan; kunektado ka na sa serbisyo ng CoolApp.";
 
 /* No comment provided by engineer. */
 "SETTINGS_ADVANCED_DEBUGLOG" = "Paganahin ang Debug Log";
@@ -5224,8 +5224,8 @@
 /* A label for the 'add phone number' button in the block list table. */
 "SETTINGS_BLOCK_LIST_ADD_BUTTON" = "Idagdag ang Naka-block na User";
 
-/* A label that indicates the user has no Signal contacts. */
-"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "Wala kang mga kontak sa Signal.";
+/* A label that indicates the user has no CoolApp contacts. */
+"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "Wala kang mga kontak sa CoolApp.";
 
 /* A label that indicates the user's search has no matching results. */
 "SETTINGS_BLOCK_LIST_NO_SEARCH_RESULTS" = "Walang Resulta ang Paghahanap";
@@ -5234,10 +5234,10 @@
 "SETTINGS_BLOCK_LIST_TITLE" = "Naka-block";
 
 /* Table cell label */
-"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE" = "Laging padaain ang Tawag sa server ng Signal";
+"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE" = "Laging padaain ang Tawag sa server ng CoolApp";
 
 /* User settings section footer, a detailed explanation */
-"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "Padaanin ang lahat ng tawag sa server ng Signal upang maiwasang mailantad sa iyong kontak ang iyong IP address. Mababawasan ang kalidad ng tawag kapag pinagana ito.";
+"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "Padaanin ang lahat ng tawag sa server ng CoolApp upang maiwasang mailantad sa iyong kontak ang iyong IP address. Mababawasan ang kalidad ng tawag kapag pinagana ito.";
 
 /* Label for the 'edit phone number' button in the 'change phone number' views. */
 "SETTINGS_CHANGE_PHONE_NUMBER_BACK_TO_EDIT_BUTTON" = "Edit Number";
@@ -5291,7 +5291,7 @@
 "SETTINGS_CLEAR_HISTORY" = "Clear Chat History";
 
 /* Footer for the 'about' help section */
-"SETTINGS_COPYRIGHT" = "Copyright Signal Messenger\nLicensed under the GPLv3";
+"SETTINGS_COPYRIGHT" = "Copyright CoolApp Messenger\nLicensed under the GPLv3";
 
 /* Title for the 'Subscription' link in settings. */
 "SETTINGS_CURRENT_SUBSCRIPTION" = "Subscription";
@@ -5362,8 +5362,8 @@
 /* Explanation for the 'disappearing messages' privacy settings. */
 "SETTINGS_DISAPPEARING_MESSAGES_FOOTER" = "Set a default disappearing message timer for all new chats started by you.";
 
-/* Title for the 'donate to signal' link in settings. */
-"SETTINGS_DONATE" = "Donate to Signal";
+/* Title for the 'donate to CoolApp' link in settings. */
+"SETTINGS_DONATE" = "Donate to CoolApp";
 
 /* Title for help button and help pages in app settings. */
 "SETTINGS_HELP" = "Tulong";
@@ -5372,7 +5372,7 @@
 "SETTINGS_INVITE_TITLE" = "Imbitahan ang Iyong mga Kaibigan";
 
 /* content of tweet when inviting via twitter - please do not translate URL */
-"SETTINGS_INVITE_TWITTER_TEXT" = "Makokontak mo ako gamit ang @signalapp. Kuhanin ito ngayon: https://signal.org/download/";
+"SETTINGS_INVITE_TWITTER_TEXT" = "Makokontak mo ako gamit ang @CoolAppapp. Kuhanin ito ngayon: https://CoolApp.org/download/";
 
 /* Label for settings view that allows user to change the chat color and wallpaper. */
 "SETTINGS_ITEM_COLOR_AND_WALLPAPER" = "Chat Color & Wallpaper";
@@ -5431,8 +5431,8 @@
 /* table section header */
 "SETTINGS_NOTIFICATION_CONTENT_TITLE" = "Nilalaman ng Notipikasyon";
 
-/* When the local device discovers a contact has recently installed signal, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
-"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "Contact Joins Signal";
+/* When the local device discovers a contact has recently installed CoolApp, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
+"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_CoolApp" = "Contact Joins CoolApp";
 
 /* table section header */
 "SETTINGS_NOTIFICATION_NOTIFY_WHEN_TITLE" = "Notify when…";
@@ -5444,7 +5444,7 @@
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_AGREE" = "Activate";
 
 /* Description for the 'activate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "You can use Signal to send and receive MobileCoin. All payments are subject to the Terms of Use for MobileCoins and the MobileCoin Wallet. This is a beta feature so you may encounter some issues and payments or balances you may lose can’t be recovered.";
+"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "You can use CoolApp to send and receive MobileCoin. All payments are subject to the Terms of Use for MobileCoins and the MobileCoin Wallet. This is a beta feature so you may encounter some issues and payments or balances you may lose can’t be recovered.";
 
 /* Title for the 'activate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_TITLE" = "Activate";
@@ -5468,7 +5468,7 @@
 "SETTINGS_PAYMENTS_BALANCE_CONVERSION_FORMAT" = "%1$@ %2$@ at %3$@";
 
 /* Error message indicating that payments could not be activated because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Payments in Signal is no longer available. You can still transfer funds to an exchange but you can no longer send and receive payments or add funds.";
+"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Payments in CoolApp is no longer available. You can still transfer funds to an exchange but you can no longer send and receive payments or add funds.";
 
 /* Error message indicating that payments could not be deactivated because the current balance is unavailable. */
 "SETTINGS_PAYMENTS_CANNOT_DEACTIVATE_PAYMENTS_NO_BALANCE" = "Can't deactivate payments because your balance is not available. Check your connection and try again.";
@@ -5477,10 +5477,10 @@
 "SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENT_NO_BALANCE" = "Couldn't complete payment because your balance is not available. Check your connection and try again.";
 
 /* Error message indicating that payments cannot be sent because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Payments in Signal is no longer available. You can still transfer funds to an exchange but you can no longer send and receive payments or add funds.";
+"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Payments in CoolApp is no longer available. You can still transfer funds to an exchange but you can no longer send and receive payments or add funds.";
 
 /* Error message indicating that you cannot transfer into your payments wallet because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Payments in Signal is no longer available. You can still transfer funds to an exchange but you can no longer send and receive payments or add funds.";
+"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Payments in CoolApp is no longer available. You can still transfer funds to an exchange but you can no longer send and receive payments or add funds.";
 
 /* Message for the 'currency conversions info' alert. */
 "SETTINGS_PAYMENTS_CURRENCY_CONVERSIONS_INFO_ALERT_MESSAGE" = "Conversions are just estimates and may not be accurate.";
@@ -5498,7 +5498,7 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS" = "Deactivate Payments";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "You will not be able to send or receive Mobilecoin in Signal if you deactivate payments.";
+"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "You will not be able to send or receive Mobilecoin in CoolApp if you deactivate payments.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_TITLE" = "Deactivate Payments?";
@@ -5507,10 +5507,10 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_TITLE" = "Deactivate Payments";
 
 /* Explanation of the 'deactivate payments with balance' process in the 'deactivate payments' settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "It’s recommended that you transfer your funds to another wallet address before deactivating payments. If you choose not to transfer your funds now, they will remain in your wallet linked to Signal if you reactivate payments.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "It’s recommended that you transfer your funds to another wallet address before deactivating payments. If you choose not to transfer your funds now, they will remain in your wallet linked to CoolApp if you reactivate payments.";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "Your balance will remain in your wallet linked to Signal if you choose to reactivate payments.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "Your balance will remain in your wallet linked to CoolApp if you choose to reactivate payments.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_TITLE" = "Deactivate Without Transferring?";
@@ -5534,7 +5534,7 @@
 "SETTINGS_PAYMENTS_HELP_CARD_ABOUT_MOBILECOIN_TITLE" = "About MobileCoin";
 
 /* Description for the 'Adding to your wallet' help card in the payments settings. */
-"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "You can add funds for use in Signal by sending MobileCoin to your wallet address.";
+"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "You can add funds for use in CoolApp by sending MobileCoin to your wallet address.";
 
 /* Title for the 'Adding to your wallet' help card in the payments settings. */
 "SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_TITLE" = "Adding Funds";
@@ -5588,7 +5588,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_ACTIVATED_TOAST" = "Payments activated.";
 
 /* Message for the 'payments opt-in' view in the app settings. */
-"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Use Signal to send and receive MobileCoin, a new privacy focused digital currency. Activate to get started.";
+"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Use CoolApp to send and receive MobileCoin, a new privacy focused digital currency. Activate to get started.";
 
 /* Label for 'activate' button in the 'payments opt-in' view in the app settings. */
 "SETTINGS_PAYMENTS_OPT_IN_REACTIVATE_BUTTON" = "Reactivate Payments";
@@ -5597,7 +5597,7 @@
 "SETTINGS_PAYMENTS_OPT_IN_TITLE" = "Introducing Payments (Beta)";
 
 /* Explanation of the 'payments passphrase' in the 'view payments passphrase' settings. */
-"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Your balance will automatically restore when you reinstall Signal if you confirm your Signal PIN. You can also restore your balance using a recovery phrase, which is a 24-word phrase unique to you. Write it down and store it in a safe place.";
+"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Your balance will automatically restore when you reinstall CoolApp if you confirm your CoolApp PIN. You can also restore your balance using a recovery phrase, which is a 24-word phrase unique to you. Write it down and store it in a safe place.";
 
 /* Label for the 'add money' button in the 'send payment' UI. */
 "SETTINGS_PAYMENTS_PAYMENT_ADD_MONEY" = "Add Funds";
@@ -5756,7 +5756,7 @@
 "SETTINGS_PAYMENTS_TITLE" = "Payments";
 
 /* Error indicating that it is not valid to send yourself a payment. */
-"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "You can’t transfer to your Signal wallet address. Enter the wallet address from your account at a supported exchange.";
+"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "You can’t transfer to your CoolApp wallet address. Enter the wallet address from your account at a supported exchange.";
 
 /* Footer of the 'transfer currency out' view in the payment settings. */
 "SETTINGS_PAYMENTS_TRANSFER_OUT_FOOTER" = "You can transfer MobileCoin by completing a transfer to the wallet address provided by the exchange. The wallet address is the string of numbers and letters most commonly below the QR code.";
@@ -5849,16 +5849,16 @@
 "SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_ACTION" = "Patayin ang mga Paalala";
 
 /* The explanation for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "Siguraduhing saulado mo o naitabi ng ligtas ang iyong PIN dahil hindi na ito mababawing muli. Kung makalimutan mo ang iyong PIN, maaaring mawala ang iyong mga data kapag nirehistrong muli ang iyong account sa Signal.";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "Siguraduhing saulado mo o naitabi ng ligtas ang iyong PIN dahil hindi na ito mababawing muli. Kung makalimutan mo ang iyong PIN, maaaring mawala ang iyong mga data kapag nirehistrong muli ang iyong account sa CoolApp.";
 
 /* The title for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Kumpirmahin ang PIN ng iyong Signal";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Kumpirmahin ang PIN ng iyong CoolApp";
 
 /* Label for the 'pin reminder' switch of the privacy settings. */
 "SETTINGS_PIN_REMINDER_SWITCH_LABEL" = "Paalala ng PIN";
 
 /* Footer for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_FOOTER" = "PINs keep information stored with Signal encrypted so only you can access it. Your PIN cannot be recovered. Your profile, settings, and contacts will restore when you reinstall Signal.";
+"SETTINGS_PINS_FOOTER" = "PINs keep information stored with CoolApp encrypted so only you can access it. Your PIN cannot be recovered. Your profile, settings, and contacts will restore when you reinstall CoolApp.";
 
 /* Label for the 'pins' item of the privacy settings when the user does have a pin. */
 "SETTINGS_PINS_ITEM" = "Baguhin ang iyong PIN";
@@ -5867,7 +5867,7 @@
 "SETTINGS_PINS_ITEM_CREATE" = "Lumikha ng PIN";
 
 /* Title for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_TITLE" = "PIN ng Signal";
+"SETTINGS_PINS_TITLE" = "PIN ng CoolApp";
 
 /* Footer for table section */
 "SETTINGS_PRIVACY_ADVANCED_FOOTER" = "Censorship circumvention, relay calls, and sealed sender settings.";
@@ -5894,7 +5894,7 @@
 "SETTINGS_REGISTRATION_LOCK_TURN_ON" = "Buksan";
 
 /* Body for the alert confirming that the user wants to turn on registration lock. */
-"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Kung makalimutan mo ang iyong PIN sa Signal kapag nagrehistro kang muli, hindi mo mabubuksan ang iyong account sa Signal sa loob ng 7 araw.";
+"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Kung makalimutan mo ang iyong PIN sa CoolApp kapag nagrehistro kang muli, hindi mo mabubuksan ang iyong account sa CoolApp sa loob ng 7 araw.";
 
 /* Title for the alert confirming that the user wants to turn on registration lock. */
 "SETTINGS_REGISTRATION_LOCK_TURN_ON_TITLE" = "Paganahin ang Registration Lock?";
@@ -5924,16 +5924,16 @@
 "SETTINGS_SECTION_TITLE_CALLING" = "Tumatawag na";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL" = "Use Touch ID, Face ID, or your iOS device passcode to unlock Signal.";
+"SETTINGS_SECURITY_DETAIL" = "Use Touch ID, Face ID, or your iOS device passcode to unlock CoolApp.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_FACEID" = "Use Face ID to unlock Signal.";
+"SETTINGS_SECURITY_DETAIL_FACEID" = "Use Face ID to unlock CoolApp.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Use your device passcode to unlock Signal.";
+"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Use your device passcode to unlock CoolApp.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Use Touch ID to unlock Signal.";
+"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Use Touch ID to unlock CoolApp.";
 
 /* Section header */
 "SETTINGS_SECURITY_TITLE" = "App Security";
@@ -5948,22 +5948,22 @@
 "SETTINGS_SHARING_SUGGESTIONS" = "Share Contacts with iOS";
 
 /* Footer for setting for enabling & disabling contact sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions.";
+"SETTINGS_SHARING_SUGGESTIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions.";
 
 /* Footer for setting for enabling & disabling contact and notification sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to Signal contacts and chats for features such as sharing suggestions and notifications.";
+"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions and notifications.";
 
-/* Title for the 'signal boost' link in settings. */
-"SETTINGS_SIGNAL_BOOST" = "Signal Boost";
+/* Title for the 'CoolApp boost' link in settings. */
+"SETTINGS_CoolApp_BOOST" = "CoolApp Boost";
 
 /* Title for the 'become a sustainer' link in settings. */
-"SETTINGS_SUBSCRIPTION" = "Become a Signal Sustainer";
+"SETTINGS_SUBSCRIPTION" = "Become a CoolApp Sustainer";
 
 /* Label for the 'enable registration lock' switch of the privacy settings. */
 "SETTINGS_TWO_FACTOR_AUTH_SWITCH_LABEL" = "Lock ng Rehistrasyon";
 
-/* Footer for the 'two factor auth' section of the privacy settings when Signal PINs are available. */
-"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Require your Signal PIN to register your phone number again with Signal.";
+/* Footer for the 'two factor auth' section of the privacy settings when CoolApp PINs are available. */
+"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Require your CoolApp PIN to register your phone number again with CoolApp.";
 
 /* Label for the 'typing indicators' setting. */
 "SETTINGS_TYPING_INDICATORS" = "Typing Indicators";
@@ -6002,13 +6002,13 @@
 "SHARE_EXTENSION_LOADING" = "Naglo-load...";
 
 /* Message indicating that the share extension cannot be used until the user has registered in the main app. */
-"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Patakbuhin ang Signal app upang makapag-rehistro.";
+"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Patakbuhin ang CoolApp app upang makapag-rehistro.";
 
 /* Title indicating that the share extension cannot be used until the user has registered in the main app. */
 "SHARE_EXTENSION_NOT_REGISTERED_TITLE" = "Hindi Rehistrado";
 
 /* Message indicating that the share extension cannot be used until the main app has been launched at least once. */
-"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "Patakbuhin ang Signal app upang i-update at makapag-rehistro.";
+"SHARE_EXTENSION_NOT_YET_MIGRATED_MESSAGE" = "Patakbuhin ang CoolApp app upang i-update at makapag-rehistro.";
 
 /* Title indicating that the share extension cannot be used until the main app has been launched at least once. */
 "SHARE_EXTENSION_NOT_YET_MIGRATED_TITLE" = "Hindi Handa";
@@ -6022,11 +6022,11 @@
 /* Alert title */
 "SHARE_EXTENSION_SENDING_IN_PROGRESS_TITLE" = "Ina-upload...";
 
-/* Shown when trying to share content to a Signal user for the share extension. Followed by failure details. */
+/* Shown when trying to share content to a CoolApp user for the share extension. Followed by failure details. */
 "SHARE_EXTENSION_UNABLE_TO_BUILD_ATTACHMENT_ALERT_TITLE" = "Hindi Maihanda ang Kalakip";
 
 /* Title for the 'share extension' view. */
-"SHARE_EXTENSION_VIEW_TITLE" = "Ibahagi sa Signal";
+"SHARE_EXTENSION_VIEW_TITLE" = "Ibahagi sa CoolApp";
 
 /* Title of alert indicating sharing suggestions failed to deactivate */
 "SHARING_SUGGESTIONS_DISABLE_ERROR" = "Failed to disable sharing suggestions.";
@@ -6037,8 +6037,8 @@
 /* notification action */
 "SHOW_THREAD_BUTTON_TITLE" = "Show Chat";
 
-/* body sent to contacts when inviting to Install Signal */
-"SMS_INVITE_BODY" = "Iniimbitahan kitang i-install ang Signal. Narito ang link:";
+/* body sent to contacts when inviting to Install CoolApp */
+"SMS_INVITE_BODY" = "Iniimbitahan kitang i-install ang CoolApp. Narito ang link:";
 
 /* table cell label in conversation settings */
 "SOUND_AND_NOTIFICATION_SETTINGS" = "Sounds & Notifications";
@@ -6056,7 +6056,7 @@
 "SPAM_CAPTCHA_DISMISS_CONFIRMATION_TITLE" = "Continue Without Verifying?";
 
 /* Body for action sheet explaining captcha requirement. */
-"SPAM_CAPTCHA_SHEET_BODY" = "To help prevent spam on Signal, please complete verification.\n\nAfter verifying, you can continue messaging. Any paused messages will automatically be sent.";
+"SPAM_CAPTCHA_SHEET_BODY" = "To help prevent spam on CoolApp, please complete verification.\n\nAfter verifying, you can continue messaging. Any paused messages will automatically be sent.";
 
 /* Title for action sheet explaining captcha requirement. */
 "SPAM_CAPTCHA_SHEET_TITLE" = "Verify to Continue Messaging";
@@ -6074,7 +6074,7 @@
 "STICKERS_INSTALL_BUTTON" = "I-install";
 
 /* Title for the 'available built-in stickers' section of the 'manage stickers' view. */
-"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Serye ng mga Artista ng Signal";
+"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Serye ng mga Artista ng CoolApp";
 
 /* Title for the 'available known stickers' section of the 'manage stickers' view. */
 "STICKERS_MANAGE_VIEW_AVAILABLE_KNOWN_PACKS_SECTION_TITLE" = "Mga Sticker na Iyong Natanggap";
@@ -6170,7 +6170,7 @@
 "SUBSCRIPTION_MEGAPHONE_ACTION" = "Contribute";
 
 /* Body for subscription megaphone */
-"SUBSCRIPTION_MEGAPHONE_BODY" = "Signal is powered by people like you. Contribute and receive a badge.";
+"SUBSCRIPTION_MEGAPHONE_BODY" = "CoolApp is powered by people like you. Contribute and receive a badge.";
 
 /* Cancel text for subscription megaphone */
 "SUBSCRIPTION_MEGAPHONE_CANCEL" = "Hindi pero salamat.";
@@ -6194,7 +6194,7 @@
 "SUPPORT_EMAIL_DEFAULT_DESCRIPTION" = "Tell us about the issue: ";
 
 /* Message for alert dialog presented when a support email failed to send */
-"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "Please email your support request to support@signal.org";
+"SUPPORT_EMAIL_ERROR_ALERT_DESCRIPTION" = "Please email your support request to support@CoolApp.org";
 
 /* Localized label for support request email filter string. Embeds {{filter text}}. */
 "SUPPORT_EMAIL_FILTER_LABEL_FORMAT" = "Filter: %@";
@@ -6217,16 +6217,16 @@
 /* Localized label for support request email debug log URL. Embeds {{debug log url}}. */
 "SUPPORT_EMAIL_LOG_URL_LABEL_FORMAT" = "Log URL: %@";
 
-/* Localized label for support request email signal version string. Embeds {{signal version}}. */
-"SUPPORT_EMAIL_SIGNAL_VERSION_LABEL_FORMAT" = "Signal Version: %@";
+/* Localized label for support request email CoolApp version string. Embeds {{CoolApp version}}. */
+"SUPPORT_EMAIL_CoolApp_VERSION_LABEL_FORMAT" = "CoolApp Version: %@";
 
 /* Localized subject for support request emails */
-"SUPPORT_EMAIL_SUBJECT" = "Signal iOS Support Request";
+"SUPPORT_EMAIL_SUBJECT" = "CoolApp iOS Support Request";
 
 /* Header for emoji mood selection */
 "SUPPORT_EMOJI_PROMPT" = "Ano ang iyong nararamdaman? (Opsyonal)";
 
-/* Label in support request informing user about Signal FAQ */
+/* Label in support request informing user about CoolApp FAQ */
 "SUPPORT_FAQ_PROMPT" = "Nabasa mo na ba ang ating FAQ?";
 
 /* Label describing support switch to attach debug logs */
@@ -6236,22 +6236,22 @@
 "SUPPORT_LOG_UPLOAD_IN_PROGRESS" = "Naglo-load";
 
 /* First block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "Signal is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
 
 /* Second block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "Signal is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
 
-/* Title for the signal sustainer read more view */
+/* Title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_TITLE" = "Support technology that is built for you - not for your data - by joining the community that sustains it.";
 
-/* Why Contribute title for the signal sustainer read more view */
+/* Why Contribute title for the CoolApp sustainer read more view */
 "SUSTAINER_READ_MORE_WHY_CONTRIBUTE" = "Why Contribute?";
 
 /* Action sheet title for Still Processing Badge sheet */
 "SUSTAINER_STILL_PROCESSING_BADGE_TITLE" = "Still Processing";
 
 /* Sustainer view Add Boost button title */
-"SUSTAINER_VIEW_ADD_BOOST" = "Add a Signal Boost";
+"SUSTAINER_VIEW_ADD_BOOST" = "Add a CoolApp Boost";
 
 /* Description text for sustainer view badges, embeds {{localized badge name}} */
 "SUSTAINER_VIEW_BADGE_DESCRIPTION" = "Get a %@ badge";
@@ -6322,8 +6322,8 @@
 /* Sustainer view Not Now Action sheet button */
 "SUSTAINER_VIEW_SUBSCRIPTION_CONFIRMATION_NOT_NOW" = "Hindi Ngayon";
 
-/* Title for the signal sustainer view */
-"SUSTAINER_VIEW_TITLE" = "Signal is powered by people like you.";
+/* Title for the CoolApp sustainer view */
+"SUSTAINER_VIEW_TITLE" = "CoolApp is powered by people like you.";
 
 /* Update Subscription? Action sheet message, embeds {{Price}} */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_MESSAGE" = "You will be charged the full amount (%@) of the new subscription price today. Your new subscription will renew monthly.";
@@ -6334,7 +6334,7 @@
 /* Update Subscription? Action sheet confirm button */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_UPDATE" = "I-update";
 
-/* The body text for the signal sustainer view */
+/* The body text for the CoolApp sustainer view */
 "SUSTAINER_VIEW_WHY_DONATE_BODY" = "Support technology that is built for you - not for your data - by joining the community of people that sustain it.";
 
 /* Label for 'off' state of a switch control. */
@@ -6452,25 +6452,25 @@
 "UNKNOWN_COUNTRY_NAME" = "Hindi Tukoy na Bansa";
 
 /* Info message recorded in conversation history when local user receives an unknown message from a linked device and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "Isa sa iyong mga device ay nagpadala ng mensahe na hindi maiproseso o maipakita dahil gumagamit ito ng bagong feature ng Signal.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "Isa sa iyong mga device ay nagpadala ng mensahe na hindi maiproseso o maipakita dahil gumagamit ito ng bagong feature ng CoolApp.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "Nagpadala si %@ ng mensahe na hindi maiproseso o maipakita dahil gumagamit ito ng bagong feature ng Signal.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "Nagpadala si %@ ng mensahe na hindi maiproseso o maipakita dahil gumagamit ito ng bagong feature ng CoolApp.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "Nakatanggap ka ng mensahe na hindi maiproseso o maipakita dahil gumagamit ito ng bagong feature ng Signal.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "Nakatanggap ka ng mensahe na hindi maiproseso o maipakita dahil gumagamit ito ng bagong feature ng CoolApp.";
 
 /* Label for button that lets users upgrade the app. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "I-update ang Signal Ngayon";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "I-update ang CoolApp Ngayon";
 
 /* Info message recorded in conversation history when local user has received an unknown unknown message from a linked device and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Na-update sa pinakahuling bersyon ng Signal. Makakatanggap ka na ngayon ng ganitong tipo ng mensahe sa iyong device. ";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Na-update sa pinakahuling bersyon ng CoolApp. Makakatanggap ka na ngayon ng ganitong tipo ng mensahe sa iyong device. ";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "Maaari mong hingin kay %@ na ipadalang muli ang mensaheng ito ngayong gumagamit ka na ng up-to-date na bersyon ng Signal.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "Maaari mong hingin kay %@ na ipadalang muli ang mensaheng ito ngayong gumagamit ka na ng up-to-date na bersyon ng CoolApp.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "Maaari mong hingin sa nagpadala na ipadalang muli ang mensaheng ito ngayong gumagamit ka na ng up-to-date na bersyon ng Signal.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "Maaari mong hingin sa nagpadala na ipadalang muli ang mensaheng ito ngayong gumagamit ka na ng up-to-date na bersyon ng CoolApp.";
 
 /* Label indicating an unknown user. */
 "UNKNOWN_USER" = "Hindi alam";
@@ -6494,10 +6494,10 @@
 "UNLINK_CONFIRMATION_ALERT_TITLE" = "I-unlink \"%@\"?";
 
 /* Label warning the user that they have been unlinked from their primary device. */
-"UNLINKED_WARNING" = "Hindi na naka-link ang device. I-link ang Signal gamit ang iyong telepono upang makapagpatuloy na magpadala ng mensahe.";
+"UNLINKED_WARNING" = "Hindi na naka-link ang device. I-link ang CoolApp gamit ang iyong telepono upang makapagpatuloy na magpadala ng mensahe.";
 
 /* Alert title when unlinking device fails */
-"UNLINKING_FAILED_ALERT_TITLE" = "Hindi nagawang i-unlink ng Signal ang device.";
+"UNLINKING_FAILED_ALERT_TITLE" = "Hindi nagawang i-unlink ng CoolApp ang device.";
 
 /* Label text in device manager for a device with no name */
 "UNNAMED_DEVICE" = "Device na Walang Pangalan";
@@ -6518,7 +6518,7 @@
 "UNSUPPORTED_FEATURE_ERROR" = "Hindi suportado ng iyong device ang feature na ito.";
 
 /* Description for the unverified safety number change. Embeds {name of contact with identity change} */
-"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Your Safety Number with %@ changed likely because they reinstalled Signal or changed devices. Tap Verify to confirm the new safety number. This is optional.";
+"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Your Safety Number with %@ changed likely because they reinstalled CoolApp or changed devices. Tap Verify to confirm the new safety number. This is optional.";
 
 /* Action to verify a safety number after it has changed */
 "UNVERIFIED_SAFETY_NUMBER_VERIFY_ACTION" = "Iberipika";
@@ -6533,7 +6533,7 @@
 "UPDATE_GROUP_FAILED_DUE_TO_NETWORK" = "Group could not be updated. Check your internet connection and try again.";
 
 /* An explanation of how usernames work on the username view. */
-"USERNAME_DESCRIPTION" = "Ang mga username sa Signal ay opsyonal. Kung piliin mong lumikha ng username ang ibang gumagamit ng Signal ay magagawang hanapin ka gamit ang username na ito at kontakin ka kahit hindi alam ang numero ng iyong telepono.";
+"USERNAME_DESCRIPTION" = "Ang mga username sa CoolApp ay opsyonal. Kung piliin mong lumikha ng username ang ibang gumagamit ng CoolApp ay magagawang hanapin ka gamit ang username na ito at kontakin ka kahit hindi alam ang numero ng iyong telepono.";
 
 /* An error indicating that the supplied username contains disallowed characters. */
 "USERNAME_INVALID_CHARACTERS_ERROR" = "Ang mga username ay maaaring maglaman lamang ng a-z, 0-9 at _";
@@ -6541,10 +6541,10 @@
 /* A message indicating that username lookup failed. */
 "USERNAME_LOOKUP_ERROR" = "May nangyaring error habang hinahanap ang username. Paki-subukang muli mamaya.";
 
-/* A message indicating that the given username is not a registered signal account. Embeds {{username}} */
-"USERNAME_NOT_FOUND_FORMAT" = "Si %@ ay hindi Signal user. Siguruhing nailagay mo ang kumpletong username.";
+/* A message indicating that the given username is not a registered CoolApp account. Embeds {{username}} */
+"USERNAME_NOT_FOUND_FORMAT" = "Si %@ ay hindi CoolApp user. Siguruhing nailagay mo ang kumpletong username.";
 
-/* A message indicating that the given username was not registered with signal. */
+/* A message indicating that the given username was not registered with CoolApp. */
 "USERNAME_NOT_FOUND_TITLE" = "Hindi Makita ang User";
 
 /* The placeholder for the username text entry in the username view. */
@@ -6617,7 +6617,7 @@
 "VOICE_MESSAGE_TOO_SHORT_TOOLTIP" = "Press and hold to record.";
 
 /* Activity indicator title, shown upon returning to the device manager, until you complete the provisioning process on desktop */
-"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Kumpletuhin ang setup sa Signal Desktop.";
+"WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Kumpletuhin ang setup sa CoolApp Desktop.";
 
 /* Placeholder text for header of the wallpaper mini preview */
 "WALLPAPER_MINI_PREVIEW_CONTACT_NAME" = "Contact Name";
