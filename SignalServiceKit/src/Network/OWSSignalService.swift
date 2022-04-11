@@ -109,6 +109,13 @@ fileprivate extension OWSSignalService {
             switch signalServiceType {
             case .updates:
                 securityPolicy = OWSURLSession.defaultSecurityPolicy
+                break
+            case .cdn0:
+                securityPolicy = OWSURLSession.defaultSecurityPolicy
+                break
+            case .cdn2:
+                securityPolicy = OWSURLSession.defaultSecurityPolicy
+                break
             default:
                 securityPolicy = OWSURLSession.signalServiceSecurityPolicy
             }

@@ -77,20 +77,20 @@ public class SignalServiceProfile: NSObject {
 
         self.supportsGroupsV2Migration = Self.parseCapabilityFlag(capabilityKey: "gv1-migration",
                                                                   params: params,
-                                                                  requireCapability: true)
+                                                                  requireCapability: false)
         self.supportsAnnouncementOnlyGroups = Self.parseCapabilityFlag(capabilityKey: "announcementGroup",
                                                                        params: params,
-                                                                       requireCapability: true)
+                                                                       requireCapability: false)
         self.supportsSenderKey = Self.parseCapabilityFlag(capabilityKey: "senderKey",
                                                           params: params,
-                                                          requireCapability: true)
+                                                          requireCapability: false)
         self.supportsChangeNumber = Self.parseCapabilityFlag(capabilityKey: "changeNumber",
                                                              params: params,
-                                                             requireCapability: true)
+                                                             requireCapability: false)
 
         self.credential = try params.optionalBase64EncodedData(key: "credential")
 
-        self.isStoriesCapable = Self.parseCapabilityFlag(capabilityKey: "stories", params: params, requireCapability: true)
+        self.isStoriesCapable = Self.parseCapabilityFlag(capabilityKey: "stories", params: params, requireCapability: false)
 
         if RemoteConfig.donorBadgeDisplay,
            let badgeArray: [[String: Any]] = try params.optional(key: "badges") {

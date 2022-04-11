@@ -731,7 +731,9 @@ class OWSUserProfileSerializer: SDSSerializer {
         let lastMessagingDate: Double? = archiveOptionalDate(model.lastMessagingDate)
         let bio: String? = model.bio
         let bioEmoji: String? = model.bioEmoji
-        let profileBadgeInfo: Data? = optionalArchive(model.profileBadgeInfo)
+        //TODO: Badge - Will do next time.
+        //let profileBadgeInfo: Data? = optionalArchive(model.profileBadgeInfo)
+        let profileBadgeInfo: Data? = optionalArchive(nil)
         let isStoriesCapable: Bool = model.isStoriesCapable
 
         return UserProfileRecord(delegate: model, id: id, recordType: recordType, uniqueId: uniqueId, avatarFileName: avatarFileName, avatarUrlPath: avatarUrlPath, profileKey: profileKey, profileName: profileName, recipientPhoneNumber: recipientPhoneNumber, recipientUUID: recipientUUID, username: username, familyName: familyName, lastFetchDate: lastFetchDate, lastMessagingDate: lastMessagingDate, bio: bio, bioEmoji: bioEmoji, profileBadgeInfo: profileBadgeInfo, isStoriesCapable: isStoriesCapable)

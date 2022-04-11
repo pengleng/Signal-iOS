@@ -530,7 +530,10 @@ public class ProfileFetcherJob: NSObject {
             let hasBioEmoji = bioEmoji?.count ?? 0 > 0
             let hasUsername = username?.count ?? 0 > 0
             let hasPaymentAddress = paymentAddress != nil
-            let badges = fetchedProfile.profile.badges.map { "\"\($0.0.description)\"" }.joined(separator: "; ")
+            
+            // TODO: Badge do next time.
+            //let badges = fetchedProfile.profile.badges.map { "\"\($0.0.description)\"" }.joined(separator: "; ")
+            let badges = [OWSUserProfileBadgeInfo]()
 
             Logger.info("address: \(address), " +
                         "isVersionedProfile: \(isVersionedProfile), " +
@@ -558,22 +561,25 @@ public class ProfileFetcherJob: NSObject {
             }
         }.done(on: .global()) { (avatarUrl: URL?) in
             self.databaseStorage.write { writeTx in
-                // First, we add ensure we have a copy of any new badge in our badge store
-                let badgeModels = fetchedProfile.profile.badges.map { $0.1 }
-                let persistedBadgeIds: [String] = badgeModels.compactMap {
-                    do {
-                        try self.profileManager.badgeStore.createOrUpdateBadge($0, transaction: writeTx)
-                        return $0.id
-                    } catch {
-                        owsFailDebug("Failed to save badgeId: \($0.id). \(error)")
-                        return nil
-                    }
-                }
-
-                // Then, we update the profile. `profileBadges` will contain the badgeId of badges in the badge store
-                let profileBadgeMetadata = fetchedProfile.profile.badges
-                    .map { $0.0 }
-                    .filter { persistedBadgeIds.contains($0.badgeId) }
+                // TODO: Badge do next time.
+                                               
+               // First, we add ensure we have a copy of any new badge in our badge store
+//                let badgeModels = fetchedProfile.profile.badges.map { $0.1 }
+//                let persistedBadgeIds: [String] = badgeModels.compactMap {
+//                    do {
+//                        try self.profileManager.badgeStore.createOrUpdateBadge($0, transaction: writeTx)
+//                        return $0.id
+//                    } catch {
+//                        owsFailDebug("Failed to save badgeId: \($0.id). \(error)")
+//                        return nil
+//                    }
+//                }
+               
+               // Then, we update the profile. `profileBadges` will contain the badgeId of badges in the badge store
+//                let profileBadgeMetadata = fetchedProfile.profile.badges
+//                    .map { $0.0 }
+//                    .filter { persistedBadgeIds.contains($0.badgeId) }
+               let profileBadgeMetadata = [OWSUserProfileBadgeInfo]()
 
                 self.profileManager.updateProfile(
                     for: address,

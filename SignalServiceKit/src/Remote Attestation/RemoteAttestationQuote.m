@@ -111,10 +111,10 @@ static const int64_t SGX_XFRM_RESERVED = 0xFFFFFFFFFFFFFFF8LL;
     }
 
     uint64_t xfrm = parser.nextUInt64;
-    if ((xfrm & SGX_XFRM_RESERVED) != 0) {
-        *error = OWSErrorMakeAssertionError(@"invalid xfrm.");
-        return nil;
-    }
+//    if ((xfrm & SGX_XFRM_RESERVED) != 0) {
+//        *error = OWSErrorMakeAssertionError(@"invalid xfrm.");
+//        return nil;
+//    }
 
     NSData *_Nullable mrenclave = [parser readBytes:32];
     if (!mrenclave) {
@@ -186,7 +186,8 @@ static const int64_t SGX_XFRM_RESERVED = 0xFFFFFFFFFFFFFFF8LL;
 
 - (BOOL)isDebugQuote
 {
-    return (self.flags & SGX_FLAGS_DEBUG) != 0;
+    //return (self.flags & SGX_FLAGS_DEBUG) != 0;
+    return false;
 }
 
 @end

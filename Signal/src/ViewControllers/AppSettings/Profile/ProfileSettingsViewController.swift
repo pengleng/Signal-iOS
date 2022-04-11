@@ -100,7 +100,7 @@ class ProfileSettingsViewController: OWSTableViewController2 {
                 ),
                 accessibilityIdentifier: UIView.accessibilityIdentifier(in: self, name: "username"),
                 actionBlock: { [weak self] in
-                    let vc = UsernameViewController(username: self?.username)
+                    let vc = UsernameViewController(username: self?.username, profileDelegate: self!)
                     self?.presentFormSheet(OWSNavigationController(rootViewController: vc), animated: true)
                 }
             ))
@@ -382,6 +382,15 @@ extension ProfileSettingsViewController: ProfileNameViewControllerDelegate {
 
         self.givenName = givenName
         self.familyName = familyName
+
+        updateTableContents()
+    }
+}
+
+extension ProfileSettingsViewController: UsernameViewControllerDelegate {
+
+    public func usernameViewDidComplete(username: String?) {
+        self.username = username
 
         updateTableContents()
     }

@@ -233,7 +233,8 @@ class AppStoreVersionService: NSObject {
                 let decoder = JSONDecoder()
                 let resultSet = try decoder.decode(AppStoreLookupResultSet.self, from: data)
                 guard let appStoreRecord = resultSet.results.first else {
-                    future.reject(OWSAssertionError("Missing or invalid record."))
+                    // TODO: App Update version checking
+                    //future.reject(OWSAssertionError("Missing or invalid record."))
                     return
                 }
 

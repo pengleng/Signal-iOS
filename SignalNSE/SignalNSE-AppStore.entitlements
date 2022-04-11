@@ -4,18 +4,18 @@
 <dict>
 	<key>com.apple.developer.default-data-protection</key>
 	<string>NSFileProtectionComplete</string>
-	<key>com.apple.developer.usernotifications.filtering</key>
-	<true/>
 	<key>com.apple.developer.pushkit.unrestricted-voip</key>
+	<true/>
+	<key>com.apple.developer.usernotifications.filtering</key>
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.org.whispersystems.signal.group</string>
-		<string>group.org.whispersystems.signal.group.staging</string>
+		<string>group.asia.coolapp.chat.group.st</string>
+		<string>group.asia.coolapp.chat.group</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)org.whispersystems.signal</string>
+		<string>$(AppIdentifierPrefix)asia.coolapp.chat</string>
 	</array>
 </dict>
 </plist>

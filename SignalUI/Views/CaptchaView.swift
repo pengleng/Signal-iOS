@@ -118,7 +118,7 @@ extension CaptchaView: WKNavigationDelegate {
             decisionHandler(.cancel)
             return
         }
-        if url.scheme == "signalcaptcha" {
+        if url.scheme == "coolchatcaptcha" {
             decisionHandler(.cancel)
             DispatchQueue.main.async {
                 self.parseCaptchaResult(url: url)

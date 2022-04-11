@@ -6,6 +6,11 @@ import Foundation
 import BonMot
 import UIKit
 
+protocol UsernameViewControllerDelegate: AnyObject {
+    func usernameViewDidComplete(username: String?)
+}
+// MARK: -
+
 @objc
 class UsernameViewController: OWSTableViewController2 {
     private let usernameTextField = OWSTextField()
@@ -13,6 +18,8 @@ class UsernameViewController: OWSTableViewController2 {
 
     private static let minimumUsernameLength = 4
     private static let maximumUsernameLength: Int = 26
+    
+    private weak var profileDelegate: UsernameViewControllerDelegate?
 
     private enum ValidationState {
         case valid
@@ -30,8 +37,10 @@ class UsernameViewController: OWSTableViewController2 {
         }
     }
 
-    required init(username: String?) {
+    required init(username: String?,
+                  profileDelegate: UsernameViewControllerDelegate) {
         self.originalUsername = username
+        self.profileDelegate = profileDelegate
 
         super.init()
 
@@ -245,6 +254,7 @@ class UsernameViewController: OWSTableViewController2 {
                                                                 userProfileWriter: .localUser,
                                                                 transaction: transaction)
                 }
+                self.profileDelegate?.usernameViewDidComplete(username: usernameToUse)
                 modalView.dismiss {
                     self.usernameSavedOrCanceled()
                 }

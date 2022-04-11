@@ -154,69 +154,69 @@ public struct KeyBackupEnclave: Equatable {
 
 private class TSConstantsProduction: TSConstantsProtocol {
 
-    public let mainServiceWebSocketAPI_identified = "wss://chat.signal.org/v1/websocket/"
-    public let mainServiceWebSocketAPI_unidentified = "wss://ud-chat.signal.org/v1/websocket/"
-    public let mainServiceURL = "https://chat.signal.org/"
-    public let textSecureCDN0ServerURL = "https://cdn.signal.org"
-    public let textSecureCDN2ServerURL = "https://cdn2.signal.org"
-    public let contactDiscoverySGXURL = "https://api.directory.signal.org"
-    public let contactDiscoveryHSMURL = "wss://cdsh.signal.org/discovery/"
-    public let keyBackupURL = "https://api.backup.signal.org"
-    public let storageServiceURL = "https://storage.signal.org"
-    public let sfuURL = "https://sfu.voip.signal.org"
+    public let mainServiceWebSocketAPI_identified = "wss://chat.coolchatasia.com/v1/websocket/"
+    public let mainServiceWebSocketAPI_unidentified = "wss://chat.coolchatasia.com/v1/websocket/"
+    public let mainServiceURL = "https://chat.coolchatasia.com/"
+    public let textSecureCDN0ServerURL = "https://cdn-aws.coolchatasia.com"
+    public let textSecureCDN2ServerURL = "https://cdn-gcp.coolchatasia.com"
+    public let contactDiscoverySGXURL = "https://cds.coolchatasia.com"
+    public let contactDiscoveryHSMURL = "wss://cds.coolchatasia.com/discovery/"
+    public let keyBackupURL = "https://kbs.coolchatasia.com"
+    public let storageServiceURL = "https://storage.coolchatasia.com"
+    public let sfuURL = "https://turn.coolchatasia.com"
     public let sfuTestURL = "https://sfu.test.voip.signal.org"
-    public let registrationCaptchaURL = "https://signalcaptchas.org/registration/generate.html"
-    public let challengeCaptchaURL = "https://signalcaptchas.org/challenge/generate.html"
-    public let kUDTrustRoot = "BXu6QIKVz5MA8gstzfOgRQGqyLqOwNKHL6INkv3IHWMF"
+    public let registrationCaptchaURL = "https://verify.coolchatasia.com/registration/generate.html"
+    public let challengeCaptchaURL = "https://verify.coolchatasia.com/challenge/generate.html"
+    public let kUDTrustRoot = "BVuU1wFzCsMciGmiTgFpKTKud7e7obG22BkmOlb9F+p2"
     public let updatesURL = "https://updates.signal.org"
     public let updates2URL = "https://updates2.signal.org"
 
-    public let censorshipReflectorHost = "europe-west1-signal-cdn-reflector.cloudfunctions.net"
+    public let censorshipReflectorHost = "australia-southeast1-cool-chat-2021.cloudfunctions.net"
 
-    public let serviceCensorshipPrefix = "service"
-    public let cdn0CensorshipPrefix = "cdn"
-    public let cdn2CensorshipPrefix = "cdn2"
-    public let contactDiscoveryCensorshipPrefix = "directory"
-    public let keyBackupCensorshipPrefix = "backup"
-    public let storageServiceCensorshipPrefix = "storage"
+        public let serviceCensorshipPrefix = "service"
+        public let cdn0CensorshipPrefix = "cdn"
+        public let cdn2CensorshipPrefix = "cdn2"
+        public let contactDiscoveryCensorshipPrefix = "directory"
+        public let keyBackupCensorshipPrefix = "backup"
+        public let storageServiceCensorshipPrefix = "storage"
 
-    public let contactDiscoveryEnclaveName = "c98e00a4e3ff977a56afefe7362a27e4961e4f19e211febfbb19b897e6b80b15"
-    public var contactDiscoveryMrEnclave: String {
-        return contactDiscoveryEnclaveName
-    }
+        public let contactDiscoveryEnclaveName = "5ee1d7571fffada6df9cb8196eefa775a56d9445fc83fd2b64f255662ca21bba"
+        public var contactDiscoveryMrEnclave: String {
+            return contactDiscoveryEnclaveName
+        }
 
-    public var contactDiscoveryPublicKey: String {
-        owsFailDebug("CDSH unsupported in production")
-        return ""
-    }
-    public var contactDiscoveryCodeHashes: [String] {
-        owsFailDebug("CDSH unsupported in production")
-        return []
-    }
+        public var contactDiscoveryPublicKey: String {
+            owsFailDebug("CDSH unsupported in production")
+            return ""
+        }
+        public var contactDiscoveryCodeHashes: [String] {
+            owsFailDebug("CDSH unsupported in production")
+            return []
+        }
 
-    public let keyBackupEnclave = KeyBackupEnclave(
-        name: "0cedba03535b41b67729ce9924185f831d7767928a1d1689acb689bc079c375f",
-        mrenclave: "ee19f1965b1eefa3dc4204eb70c04f397755f771b8c1909d080c04dad2a6a9ba",
-        serviceId: "187d2739d22be65e74b65f0055e74d31310e4267e5fac2b1246cc8beba81af39"
-    )
-
-    // An array of previously used enclaves that we should try and restore
-    // key material from during registration. These must be ordered from
-    // newest to oldest, so we check the latest enclaves for backups before
-    // checking earlier enclaves.
-    public let keyBackupPreviousEnclaves = [
-        KeyBackupEnclave(
-            name: "fe7c1bfae98f9b073d220366ea31163ee82f6d04bead774f71ca8e5c40847bfe",
-            mrenclave: "a3baab19ef6ce6f34ab9ebb25ba722725ae44a8872dc0ff08ad6d83a9489de87",
-            serviceId: "fe7c1bfae98f9b073d220366ea31163ee82f6d04bead774f71ca8e5c40847bfe"
+        public let keyBackupEnclave = KeyBackupEnclave(
+            name: "f0b6faf7133748655a4f88e320b019baf1cc1cb509b30c1cfc59848ba1429717",
+            mrenclave: "5d4495bc955d01b261bbf4cfe5d6c25a37dee7bc3b0c8515bccd45aec5fe17ac",
+            serviceId: "f0b6faf7133748655a4f88e320b019baf1cc1cb509b30c1cfc59848ba1429717"
         )
-    ]
 
-    public let applicationGroup = "group.org.whispersystems.signal.group"
+        // An array of previously used enclaves that we should try and restore
+        // key material from during registration. These must be ordered from
+        // newest to oldest, so we check the latest enclaves for backups before
+        // checking earlier enclaves.
+        public let keyBackupPreviousEnclaves = [
+            KeyBackupEnclave(
+                name: "f0b6faf7133748655a4f88e320b019baf1cc1cb509b30c1cfc59848ba1429717",
+                mrenclave: "5d4495bc955d01b261bbf4cfe5d6c25a37dee7bc3b0c8515bccd45aec5fe17ac",
+                serviceId: "f0b6faf7133748655a4f88e320b019baf1cc1cb509b30c1cfc59848ba1429717"
+            )
+        ]
+
+    public let applicationGroup = "group.asia.coolapp.chat.group"
 
     // We need to discard all profile key credentials if these values ever change.
     // See: GroupsV2Impl.verifyServerPublicParams(...)
-    public let serverPublicParamsBase64 = "AMhf5ywVwITZMsff/eCyudZx9JDmkkkbV6PInzG4p8x3VqVJSFiMvnvlEKWuRob/1eaIetR31IYeAbm0NdOuHH8Qi+Rexi1wLlpzIo1gstHWBfZzy1+qHRV5A4TqPp15YzBPm0WSggW6PbSn+F4lf57VCnHF7p8SvzAA2ZZJPYJURt8X7bbg+H3i+PEjH9DXItNEqs2sNcug37xZQDLm7X36nOoGPs54XsEGzPdEV+itQNGUFEjY6X9Uv+Acuks7NpyGvCoKxGwgKgE5XyJ+nNKlyHHOLb6N1NuHyBrZrgtY/JYJHRooo5CEqYKBqdFnmbTVGEkCvJKxLnjwKWf+fEPoWeQFj5ObDjcKMZf2Jm2Ae69x+ikU5gBXsRmoF94GXQ=="
+    public let serverPublicParamsBase64 = "ABSzmt4ojmFA+RbINeWVzukOleV+Tz7Pj7Kdozp96Y9odMQ1q9875jZHrPJD7KtXmNlfyL46Hqlk6puDekmjTWXYXTis2wttE4OwsxDhQdveadl8TgKwF7g/K/FlesGnPKDYwUeuiv++qxmIiEW5zKaWzlQLDEvzTQEr8fF/6jZ4lqHo0OcUygyP77Sh+iMk4Om00hVK/hP27SG6ID0T9zcm/Ftpfrc5XkqbJ/LAxe3JjawRyaTh+isg+d9NgU06XD5Ylx2FZ0tcqbn0sbt7mjHaS5CJWl8w7rAL4reAZCMS5jyClAHScIDvqFMaw/CbS83ewHjQ/dDwb+6bDD3doFJiL2/Y+kSKCTBTUnzl2HH4uhxX+QJ7XMupfN3X2RtFGg=="
 }
 
 // MARK: - Staging
@@ -285,7 +285,7 @@ private class TSConstantsStaging: TSConstantsProtocol {
         )
     ]
 
-    public let applicationGroup = "group.org.whispersystems.signal.group.staging"
+    public let applicationGroup = "group.asia.coolapp.chat.group.staging"
 
     // We need to discard all profile key credentials if these values ever change.
     // See: GroupsV2Impl.verifyServerPublicParams(...)

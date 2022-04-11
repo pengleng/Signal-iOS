@@ -31,6 +31,10 @@ class DownloadStickerPackOperation: CDNDownloadOperation {
             self.reportSuccess()
             return
         }
+        
+        // TODO: Testing
+        self.reportSuccess()
+        return
 
         Logger.verbose("Downloading: \(stickerPackInfo).")
 

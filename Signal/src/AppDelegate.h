@@ -1,6 +1,7 @@
 //
 //  Copyright (c) 2022 Open Whisper Systems. All rights reserved.
 //
+// $(PRODUCT_NAME:c99extidentifier)
 
 #import <UIKit/UIKit.h>
 
