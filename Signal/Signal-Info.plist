@@ -4,8 +4,16 @@
 <dict>
 	<key>BuildDetails</key>
 	<dict>
+		<key>DateTime</key>
+		<string>Mon Apr 18 07:18:27 UTC 2022</string>
+		<key>SignalCommit</key>
+		<string>d29908902d8fda49dd49055fe9841adce90cc807 temporary remove key com.apple.developer.pushkit.unrestricted-voip and com.apple.developer.usernotifications.filtering</string>
+		<key>Timestamp</key>
+		<string>1650266307</string>
 		<key>WebRTCCommit</key>
 		<string>0bdc4fb9c7a703c8a8f498fa78b6c1f398625348 Production build of v2.20.0</string>
+		<key>XCodeVersion</key>
+		<string>1300.1330</string>
 	</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -131,6 +139,7 @@
 	<array>
 		<string>audio</string>
 		<string>fetch</string>
+		<string>processing</string>
 		<string>remote-notification</string>
 		<string>voip</string>
 	</array>
