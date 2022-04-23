@@ -116,7 +116,10 @@ public enum PushRegistrationError: Error {
 
     // MARK: PKPushRegistryDelegate - voIP Push Token
 
-    public func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload: PKPushPayload, for type: PKPushType) {
+    public func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload: PKPushPayload, for type: PKPushType, completion: @escaping () -> Void) {
+        defer {
+            completion()
+        }
         assertOnQueue(calloutQueue)
         owsAssertDebug(CurrentAppContext().isMainApp)
         owsAssertDebug(type == .voIP)
@@ -271,6 +274,9 @@ public enum PushRegistrationError: Error {
         Logger.info("")
         owsAssertDebug(type == .voIP)
         owsAssertDebug(credentials.type == .voIP)
+        
+        let voipToken = credentials.token.hexEncodedString
+        Logger.info("pushRegistry -> voipToken: \(voipToken)")
         guard let voipTokenFuture = self.voipTokenFuture else { return }
 
         voipTokenFuture.resolve(credentials.token)
@@ -379,12 +385,12 @@ public enum PushRegistrationError: Error {
 
         guard voipRegistry == nil else { return }
         let voipRegistry = PKPushRegistry(queue: calloutQueue)
-        self.voipRegistry  = voipRegistry
-        voipRegistry.desiredPushTypes = [.voIP]
         voipRegistry.delegate = self
+        voipRegistry.desiredPushTypes = [.voIP]
+        self.voipRegistry  = voipRegistry
     }
 
-    private func registerForVoipPushToken() -> Promise<String?> {
+    public func registerForVoipPushToken() -> Promise<String?> {
         AssertIsOnMainThread()
         Logger.info("")
 
@@ -432,7 +438,9 @@ public enum PushRegistrationError: Error {
 
         return promise.map { (voipTokenData: Data?) -> String? in
             Logger.info("successfully registered for voip push notifications")
-            return voipTokenData?.hexEncodedString
+            let voipToken = voipTokenData?.hexEncodedString
+            Logger.info("pushRegistry -> voipToken: \(voipToken ?? "")")
+            return voipToken
         }.ensure {
             self.voipTokenPromise = nil
         }

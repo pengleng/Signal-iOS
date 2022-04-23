@@ -1459,7 +1459,7 @@ public class GroupsV2Impl: NSObject, GroupsV2Swift {
         let possibleHosts: [String]
         if url.scheme == "https" {
             possibleHosts = ["coolapp.group"]
-        } else if url.scheme == "sgnl" {
+        } else if url.scheme == "clapp" {
             possibleHosts = ["coolapp.group", "joingroup"]
         } else {
             return false

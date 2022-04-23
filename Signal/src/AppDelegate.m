@@ -47,7 +47,7 @@ NSString *const AppDelegateStoryboardMain = @"Main";
 NSString *const kShouldFailNextLaunchForTestingPurposesKey = @"ShouldFailNextLaunchForTestingPurposes";
 
 static NSString *const kInitialViewControllerIdentifier = @"UserInitialViewController";
-NSString *const kURLSchemeSGNLKey = @"sgnl";
+NSString *const kURLSchemeSGNLKey = @"clapp";
 static NSString *const kURLHostVerifyPrefix             = @"verify";
 static NSString *const kURLHostAddStickersPrefix = @"addstickers";
 NSString *const kURLHostTransferPrefix = @"transfer";
@@ -667,8 +667,10 @@ static void uncaughtExceptionHandler(NSException *exception)
     if (CurrentAppContext().isRunningTests) {
         return;
     }
-
-    AppReadinessRunNowOrWhenAppDidBecomeReadySync(^{ [self handleActivation]; });
+    
+    AppReadinessRunNowOrWhenAppDidBecomeReadySync(^{
+        [self handleActivation];
+    });
 
     // Clear all notifications whenever we become active.
     // When opening the app from a notification,
