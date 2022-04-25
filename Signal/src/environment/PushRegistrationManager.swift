@@ -117,9 +117,6 @@ public enum PushRegistrationError: Error {
     // MARK: PKPushRegistryDelegate - voIP Push Token
 
     public func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload: PKPushPayload, for type: PKPushType, completion: @escaping () -> Void) {
-        defer {
-            completion()
-        }
         assertOnQueue(calloutQueue)
         owsAssertDebug(CurrentAppContext().isMainApp)
         owsAssertDebug(type == .voIP)
@@ -170,6 +167,7 @@ public enum PushRegistrationError: Error {
                         isUnexpectedPush.set(true)
                     }
                 }
+                completion()
             }
         }
 
