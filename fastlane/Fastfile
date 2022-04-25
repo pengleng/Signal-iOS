@@ -19,13 +19,15 @@ desc 'Build, Archive, and Upload to ASC'
 lane :release do |options|
   is_nightly = options[:nightly].to_i > 0
 
-  xcversion(version: '13.3')
+  xcversion(version: '13.2')
 
   app_identifier = ENV['APP_IDENTIFIER']
   scheme = ENV['SCHEME']
   configuration = 'App Store Release'
 
   app_store_connect_api_key
+
+  cert
 
   # Signal provisioning
   sigh(
