@@ -2486,11 +2486,6 @@
 				4520D8D51D417D8E00123472 /* Photos.framework in Frameworks */,
 				B6B226971BE4B7D200860F4D /* ContactsUI.framework in Frameworks */,
 				45BD60821DE9547E00A8F436 /* Contacts.framework in Frameworks */,
-<<<<<<< HEAD
-				FC3BD9881A30A790005B96BB /* Social.framework in Frameworks */,
-=======
-				B6FE7EB71ADD62FA00A6D22F /* PushKit.framework in Frameworks */,
->>>>>>> master
 				FCB11D8C1A129A76002F93FB /* CoreMedia.framework in Frameworks */,
 				B9EB5ABD1884C002007CBB57 /* MessageUI.framework in Frameworks */,
 				453518991FC63DBF00210559 /* SignalMessaging.framework in Frameworks */,
