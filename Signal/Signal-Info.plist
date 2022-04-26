@@ -10,7 +10,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>CoolApp</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleGetInfoString</key>
@@ -71,10 +71,10 @@
 			</dict>
 			<key>cds.coolchatasia.com</key>
 			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
 				<key>NSIncludesSubdomains</key>
 				<true/>
-				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-				<false/>
 			</dict>
 			<key>coolchatasia.com</key>
 			<dict>
@@ -85,10 +85,10 @@
 			</dict>
 			<key>kbs.coolchatasia.com</key>
 			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
 				<key>NSIncludesSubdomains</key>
 				<true/>
-				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-				<false/>
 			</dict>
 			<key>whispersystems.org</key>
 			<dict>
@@ -138,7 +138,7 @@
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>New Message</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>org.whispersystems.signal.quickCompose</string>
+			<string>asia.coolapp.chat.quickCompose</string>
 		</dict>
 	</array>
 	<key>UIBackgroundModes</key>

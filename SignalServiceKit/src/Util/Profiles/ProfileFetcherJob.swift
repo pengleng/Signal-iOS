@@ -530,7 +530,6 @@ public class ProfileFetcherJob: NSObject {
             let hasBioEmoji = bioEmoji?.count ?? 0 > 0
             let hasUsername = username?.count ?? 0 > 0
             let hasPaymentAddress = paymentAddress != nil
-            
             // TODO: Badge do next time.
             //let badges = fetchedProfile.profile.badges.map { "\"\($0.0.description)\"" }.joined(separator: "; ")
             let badges = [OWSUserProfileBadgeInfo]()
@@ -562,7 +561,7 @@ public class ProfileFetcherJob: NSObject {
         }.done(on: .global()) { (avatarUrl: URL?) in
             self.databaseStorage.write { writeTx in
                 // TODO: Badge do next time.
-                                               
+                                                               
                // First, we add ensure we have a copy of any new badge in our badge store
 //                let badgeModels = fetchedProfile.profile.badges.map { $0.1 }
 //                let persistedBadgeIds: [String] = badgeModels.compactMap {

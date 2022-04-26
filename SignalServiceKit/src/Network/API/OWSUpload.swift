@@ -27,7 +27,7 @@ public class OWSUpload: NSObject {
 
     @objc
     public static let serialQueue: DispatchQueue = {
-        return DispatchQueue(label: "org.whispersystems.signal.upload",
+        return DispatchQueue(label: "asia.coolapp.chat.upload",
                              qos: .utility,
                              autoreleaseFrequency: .workItem)
     }()

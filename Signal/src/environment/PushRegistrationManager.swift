@@ -31,7 +31,7 @@ public enum PushRegistrationError: Error {
     // Private callout queue that we can use to synchronously wait for our call to start
     // TODO: Rewrite call message routing to be able to synchronously report calls
     private static let calloutQueue = DispatchQueue(
-        label: "org.whispersystems.signal.PKPushRegistry",
+        label: "asia.coolapp.chat.PKPushRegistry",
         autoreleaseFrequency: .workItem
     )
     private var calloutQueue: DispatchQueue { Self.calloutQueue }
@@ -116,7 +116,7 @@ public enum PushRegistrationError: Error {
 
     // MARK: PKPushRegistryDelegate - voIP Push Token
 
-    public func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload: PKPushPayload, for type: PKPushType, completion: @escaping () -> Void) {
+    public func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload: PKPushPayload, for type: PKPushType) {
         assertOnQueue(calloutQueue)
         owsAssertDebug(CurrentAppContext().isMainApp)
         owsAssertDebug(type == .voIP)
@@ -167,7 +167,6 @@ public enum PushRegistrationError: Error {
                         isUnexpectedPush.set(true)
                     }
                 }
-                completion()
             }
         }
 
@@ -272,9 +271,6 @@ public enum PushRegistrationError: Error {
         Logger.info("")
         owsAssertDebug(type == .voIP)
         owsAssertDebug(credentials.type == .voIP)
-        
-        let voipToken = credentials.token.hexEncodedString
-        Logger.info("pushRegistry -> voipToken: \(voipToken)")
         guard let voipTokenFuture = self.voipTokenFuture else { return }
 
         voipTokenFuture.resolve(credentials.token)
@@ -383,12 +379,12 @@ public enum PushRegistrationError: Error {
 
         guard voipRegistry == nil else { return }
         let voipRegistry = PKPushRegistry(queue: calloutQueue)
-        voipRegistry.delegate = self
-        voipRegistry.desiredPushTypes = [.voIP]
         self.voipRegistry  = voipRegistry
+        voipRegistry.desiredPushTypes = [.voIP]
+        voipRegistry.delegate = self
     }
 
-    public func registerForVoipPushToken() -> Promise<String?> {
+    private func registerForVoipPushToken() -> Promise<String?> {
         AssertIsOnMainThread()
         Logger.info("")
 
@@ -436,9 +432,7 @@ public enum PushRegistrationError: Error {
 
         return promise.map { (voipTokenData: Data?) -> String? in
             Logger.info("successfully registered for voip push notifications")
-            let voipToken = voipTokenData?.hexEncodedString
-            Logger.info("pushRegistry -> voipToken: \(voipToken ?? "")")
-            return voipToken
+            return voipTokenData?.hexEncodedString
         }.ensure {
             self.voipTokenPromise = nil
         }

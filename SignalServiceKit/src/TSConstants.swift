@@ -174,28 +174,28 @@ private class TSConstantsProduction: TSConstantsProtocol {
 
     public let censorshipReflectorHost = "australia-southeast1-cool-chat-2021.cloudfunctions.net"
 
-        public let serviceCensorshipPrefix = "service"
-        public let cdn0CensorshipPrefix = "cdn"
-        public let cdn2CensorshipPrefix = "cdn2"
-        public let contactDiscoveryCensorshipPrefix = "directory"
-        public let keyBackupCensorshipPrefix = "backup"
-        public let storageServiceCensorshipPrefix = "storage"
+    public let serviceCensorshipPrefix = "service"
+    public let cdn0CensorshipPrefix = "cdn"
+    public let cdn2CensorshipPrefix = "cdn2"
+    public let contactDiscoveryCensorshipPrefix = "directory"
+    public let keyBackupCensorshipPrefix = "backup"
+    public let storageServiceCensorshipPrefix = "storage"
 
-        public let contactDiscoveryEnclaveName = "5ee1d7571fffada6df9cb8196eefa775a56d9445fc83fd2b64f255662ca21bba"
-        public var contactDiscoveryMrEnclave: String {
-            return contactDiscoveryEnclaveName
-        }
+    public let contactDiscoveryEnclaveName = "5ee1d7571fffada6df9cb8196eefa775a56d9445fc83fd2b64f255662ca21bba"
+    public var contactDiscoveryMrEnclave: String {
+        return contactDiscoveryEnclaveName
+    }
 
-        public var contactDiscoveryPublicKey: String {
-            owsFailDebug("CDSH unsupported in production")
-            return ""
-        }
-        public var contactDiscoveryCodeHashes: [String] {
-            owsFailDebug("CDSH unsupported in production")
-            return []
-        }
+    public var contactDiscoveryPublicKey: String {
+        owsFailDebug("CDSH unsupported in production")
+        return ""
+    }
+    public var contactDiscoveryCodeHashes: [String] {
+        owsFailDebug("CDSH unsupported in production")
+        return []
+    }
 
-        public let keyBackupEnclave = KeyBackupEnclave(
+    public let keyBackupEnclave = KeyBackupEnclave(
             name: "f0b6faf7133748655a4f88e320b019baf1cc1cb509b30c1cfc59848ba1429717",
             mrenclave: "5d4495bc955d01b261bbf4cfe5d6c25a37dee7bc3b0c8515bccd45aec5fe17ac",
             serviceId: "f0b6faf7133748655a4f88e320b019baf1cc1cb509b30c1cfc59848ba1429717"

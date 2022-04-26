@@ -58,7 +58,7 @@ public class ContactDiscoveryTask: NSObject {
         }
 
         let workQueue = DispatchQueue(
-            label: "org.whispersystems.signal.\(type(of: self))",
+            label: "asia.coolapp.chat.\(type(of: self))",
             qos: qos,
             autoreleaseFrequency: .workItem,
             target: targetQueue ?? .sharedQueue(at: qos))

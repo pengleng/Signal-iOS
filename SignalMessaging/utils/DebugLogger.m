@@ -197,12 +197,12 @@ const NSUInteger kMaxDebugLogFileSize = 1024 * 1024 * 3;
 - (void)removeObsoleteDebugLogs
 {
     NSArray<NSString *> *allAppIds = @[
-        @"org.whispersystems.signal",
-        @"org.whispersystems.signal.shareextension",
-        @"org.whispersystems.signal.SignalNSE",
+        @"asia.coolapp.chat",
+        @"asia.coolapp.chat.shareextension",
+        @"asia.coolapp.chat.SignalNSE",
 
         // Obsolete, should not be included:
-        // @"org.whispersystems.signal.NotificationServiceExtension",
+        // @"asia.coolapp.chat.NotificationServiceExtension",
     ];
     BOOL (^hasKnownAppId)(NSString *) = ^(NSString *logFileName) {
         for (NSString *appId in allAppIds) {

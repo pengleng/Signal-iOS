@@ -40,7 +40,7 @@ import os.signpost
     public static var stop: stopSpanInterface?
 
     @usableFromInline
-    internal static let SUBSYSTEM = "org.whispersystems.signal"
+    internal static let SUBSYSTEM = "asia.coolapp.chat"
 
     @objc public static func enable() {
         #if TESTABLE_BUILD

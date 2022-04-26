@@ -345,30 +345,18 @@ static void uncaughtExceptionHandler(NSException *exception)
 
     OWSLogInfo(@"exiting because we are in the background and the database password is not accessible.");
 
+    UILocalNotification *notification = [UILocalNotification new];
     NSString *messageFormat = NSLocalizedString(@"NOTIFICATION_BODY_PHONE_LOCKED_FORMAT",
         @"Lock screen notification text presented after user powers on their device without unlocking. Embeds "
         @"{{device model}} (either 'iPad' or 'iPhone')");
-    
-    UNMutableNotificationContent *content = [[UNMutableNotificationContent alloc] init];
-    content.body = [NSString stringWithFormat:messageFormat, UIDevice.currentDevice.localizedModel];
-    
-    UNTimeIntervalNotificationTrigger *trigger = [UNTimeIntervalNotificationTrigger triggerWithTimeInterval:5.f repeats:NO];
-    
-    NSString *identifier = [[NSUUID UUID] UUIDString];
-    UNNotificationRequest *request =  [UNNotificationRequest requestWithIdentifier:identifier content:content trigger:trigger];
-    
-    UNUserNotificationCenter *center = [UNUserNotificationCenter currentNotificationCenter];
+    notification.alertBody = [NSString stringWithFormat:messageFormat, UIDevice.currentDevice.localizedModel];
 
     // Make sure we clear any existing notifications so that they don't start stacking up
     // if the user receives multiple pushes.
-    [center removeAllPendingNotificationRequests];
+    [UIApplication.sharedApplication cancelAllLocalNotifications];
     [UIApplication.sharedApplication setApplicationIconBadgeNumber:0];
 
-    [center addNotificationRequest:request withCompletionHandler:^(NSError * _Nullable error) {
-        if (!error) {
-            NSLog(@"add NotificationRequest succeeded!");
-        }
-    }];
+    [[UIApplication sharedApplication] scheduleLocalNotification:notification];
     [UIApplication.sharedApplication setApplicationIconBadgeNumber:1];
 
     OWSLogFlush();
@@ -710,10 +698,8 @@ static void uncaughtExceptionHandler(NSException *exception)
     if (CurrentAppContext().isRunningTests) {
         return;
     }
-    
-    AppReadinessRunNowOrWhenAppDidBecomeReadySync(^{
-        [self handleActivation];
-    });
+
+    AppReadinessRunNowOrWhenAppDidBecomeReadySync(^{ [self handleActivation]; });
 
     // Clear all notifications whenever we become active.
     // When opening the app from a notification,

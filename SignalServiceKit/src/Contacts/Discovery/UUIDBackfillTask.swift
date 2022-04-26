@@ -32,7 +32,7 @@ public class UUIDBackfillTask: NSObject {
          persistence: PersistenceProvider = .default,
          readiness: ReadinessProvider = .default) {
 
-        self.queue = DispatchQueue(label: "org.whispersystems.signal.\(type(of: self))", target: targetQueue)
+        self.queue = DispatchQueue(label: "asia.coolapp.chat.\(type(of: self))", target: targetQueue)
         self.persistence = persistence
         self.readiness = readiness
         super.init()

@@ -1400,7 +1400,7 @@ public extension OWSAttachmentDownloads {
 
     @objc
     static let serialQueue: DispatchQueue = {
-        return DispatchQueue(label: "org.whispersystems.signal.download",
+        return DispatchQueue(label: "asia.coolapp.chat.download",
                              qos: .utility,
                              autoreleaseFrequency: .workItem)
     }()

@@ -38,7 +38,7 @@ class UsernameViewController: OWSTableViewController2 {
     }
 
     required init(username: String?,
-                  profileDelegate: UsernameViewControllerDelegate) {
+                      profileDelegate: UsernameViewControllerDelegate) {
         self.originalUsername = username
         self.profileDelegate = profileDelegate
 

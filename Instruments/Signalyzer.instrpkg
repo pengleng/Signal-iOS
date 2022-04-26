@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <package>
-    <id>org.whispersystems.signal.Signalyzer</id>
+    <id>asia.coolapp.chat.Signalyzer</id>
     <version>1.91</version>
     <title>Signalyzer the Signal InstrumentsMonitor</title>
     <owner>
@@ -10,7 +10,7 @@
     <os-signpost-interval-schema>
         <id>traffic</id>
         <title>Web based traffic</title>
-        <subsystem>"org.whispersystems.signal"</subsystem>
+        <subsystem>"asia.coolapp.chat"</subsystem>
         <category>"traffic"</category>
         <name>"entry"</name>
         <identifier>?pid</identifier>
@@ -91,7 +91,7 @@
     <os-signpost-interval-schema>
         <id>runtime</id>
         <title>Runtime Measurement</title>
-        <subsystem>"org.whispersystems.signal"</subsystem>
+        <subsystem>"asia.coolapp.chat"</subsystem>
         <category>"runtime"</category>
         <name>"entry"</name>
         <identifier>?pid</identifier>
@@ -155,7 +155,7 @@
     <os-signpost-interval-schema>
         <id>db-main</id>
         <title>Database Performance</title>
-        <subsystem>"org.whispersystems.signal"</subsystem>
+        <subsystem>"asia.coolapp.chat"</subsystem>
         <category>"db"</category>
         <name>"entry"</name>
         <identifier>?pid</identifier>
@@ -207,7 +207,7 @@
     <os-signpost-interval-schema>
         <id>db-back</id>
         <title>Database Performance</title>
-        <subsystem>"org.whispersystems.signal"</subsystem>
+        <subsystem>"asia.coolapp.chat"</subsystem>
         <category>"db"</category>
         <name>"entry"</name>
         <identifier>?pid</identifier>
@@ -265,7 +265,7 @@
     <os-signpost-interval-schema>
         <id>appstart</id>
         <title>AppStart details</title>
-        <subsystem>"org.whispersystems.signal"</subsystem>
+        <subsystem>"asia.coolapp.chat"</subsystem>
         <category>"appstart"</category>
         <name>"entry"</name>
         <identifier>?pid</identifier>
@@ -311,7 +311,7 @@
     </os-signpost-interval-schema>
 
     <instrument>
-        <id>org.whispersystems.signal</id>
+        <id>asia.coolapp.chat</id>
         <title>Signalyzer</title>
         <category>Behavior</category>
         <purpose>Tracks the user interaction, the network traffic and the database operations while the Signal app is running.</purpose>

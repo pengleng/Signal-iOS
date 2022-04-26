@@ -32,7 +32,6 @@ class DownloadStickerPackOperation: CDNDownloadOperation {
             return
         }
         
-        // TODO: Testing
         self.reportSuccess()
         return
 
