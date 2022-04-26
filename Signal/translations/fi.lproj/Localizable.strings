@@ -1707,7 +1707,7 @@
 "DONATION_RECEIPTS_MIGHT_BE_MISSING_IF_YOU_REINSTALLED" = "If you have reinstalled CoolApp, receipts from previous donations will not be available.";
 
 /* Text describing to the user that they're going to pay a donation to CoolApp */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Lahjoita Signalille";
+"DONATION_VIEW_DONATION_TO_SIGNAL" = "Lahjoita CoolAppille";
 >>>>>>> master
 
 /* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */

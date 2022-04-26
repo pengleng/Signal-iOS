@@ -214,7 +214,7 @@
 /* Error that outgoing attachments could not be exported. */
 "ATTACHMENT_APPROVAL_FAILED_TO_EXPORT" = "Attachment failed to export.";
 
-/* alert text when CoolApp was unable to save a copy of the attachment to the system photo library */
+/* alert text when Signal was unable to save a copy of the attachment to the system photo library */
 "ATTACHMENT_APPROVAL_FAILED_TO_SAVE" = "Failed to Save";
 
 /* Format string for file extension label in call interstitial view */
@@ -373,28 +373,20 @@
 /* The title for the badge configuration page */
 "BADGE_CONFIGURATION_TITLE" = "Badges";
 
-/* Text prompting the user to become a CoolApp sustainer */
+/* Text prompting the user to become a signal sustainer */
 "BADGE_DETAILS_BECOME_A_SUSTAINER" = "Become a Sustainer";
 
 /* Text prompting the user to boost */
 "BADGE_DETAILS_GIVE_A_BOOST" = "Give CoolApp a Boost";
 
 /* String explaing to the user that their boost badge has expired on the badge expiry sheetsheet. */
-<<<<<<< HEAD
-"BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can continue using CoolApp but to support technology that is built for you, please consider becoming a monthly Sustainer.";
-=======
 "BADGE_EXIPRED_BOOST_BODY_FORMAT" = "Your Boost badge has expired and is no longer visible on your profile.\n\nYou can keep using CoolApp but to support technology that is built for you, consider becoming a sustainer by making a monthly donation.";
->>>>>>> master
 
 /* String explaing to the user that their boost badge has expired while they are a current subscription sustainer on the badge expiry sheetsheet. */
 "BADGE_EXIPRED_BOOST_CURRENT_SUSTAINER_BODY_FORMAT" = "Your Boost badge has expired, and is no longer visible on your profile.\n\nYou can reactivate your Boost badge for another 30 days with a one-time contribution.";
 
 /* String explaing to the user that their subscription badge has expired on the badge expiry sheetsheet. Embed {badge name}. */
-<<<<<<< HEAD
-"BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your Sustainer subscription was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using CoolApp but to support the app and reactivate your badge, renew now.";
-=======
 "BADGE_EXIPRED_SUBSCRIPTION_BODY_FORMAT" = "Your recurring monthly donation was automatically cancelled because you were inactive for too long. Your %@ badge is no longer visible on your profile.\n\nYou can keep using CoolApp but to support the app and reactivate your badge, renew now.";
->>>>>>> master
 
 /* Button title for boost on the badge expiration sheet, used if the user is not already a sustainer. */
 "BADGE_EXPIRED_BOOST_RENEWAL_BUTTON" = "Become a Sustainer";
@@ -427,11 +419,7 @@
 "BADGE_THANKS_TOGGLE_FOOTER" = "When you have more than one badge, you can choose one to feature for others to see on your profile.";
 
 /* String explaing to the user that they've earned a badge on the badge thank you sheet. Embed {badge name}. */
-<<<<<<< HEAD
-"BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned the %@ badge! Help CoolApp build awareness by displaying this badge on your profile.";
-=======
 "BADGE_THANKS_YOU_EARNED_FORMAT" = "You’ve earned a %@ badge. Display this badge on your profile to build awareness for donating to CoolApp.";
->>>>>>> master
 
 /* Accessibility label for banner close button */
 "BANNER_CLOSE_ACCESSIBILITY_LABEL" = "Close banner";
@@ -508,18 +496,13 @@
 /* Tooltip highlighting the blur image editing tool. */
 "BLUR_TOOLTIP" = "New: Blur faces or draw anywhere to blur.";
 
-/* Donation amount label for the donate to CoolApp view */
+/* Donation amount label for the donate to signal view */
 "BOOST_VIEW_AMOUNT_LABEL" = "Set currency";
 
-<<<<<<< HEAD
-/* The body text for the donate to CoolApp view */
-"BOOST_VIEW_BODY" = "Say “Thanks!” and earn the Boost badge for 30 days.";
-=======
-/* The body text for the donate to CoolApp view */
+/* The body text for the donate to signal view */
 "BOOST_VIEW_BODY" = "Make a one-time donation and earn a Boost badge for 30 days.";
->>>>>>> master
 
-/* The body text for the donate to CoolApp view, embeds {{Expiration}} */
+/* The body text for the donate to signal view, embeds {{Expiration}} */
 "BOOST_VIEW_BODY_WITH_EXPIRATION_FORMAT" = "Your Boost badge will expire on %@.";
 
 /* Default text for the custom amount field of the boost view. */
@@ -528,16 +511,16 @@
 /* Text explaining there are other ways to donate on the boost view. */
 "BOOST_VIEW_OTHER_WAYS" = "More Payment Options";
 
-/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
+/* Error text notifying the user they must select a large amount on the donate to signal view */
 "BOOST_VIEW_SELECT_A_LARGER_AMOUNT" = "Select a larger amount to donate";
 
-/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
+/* Error text notifying the user they must select a smaller amount on the donate to signal view */
 "BOOST_VIEW_SELECT_A_SMALLER_AMOUNT" = "Select a smaller amount to donate";
 
-/* Error text notifying the user they must select an amount on the donate to CoolApp view */
+/* Error text notifying the user they must select an amount on the donate to signal view */
 "BOOST_VIEW_SELECT_AN_AMOUNT" = "Select an amount to donate";
 
-/* Title for the donate to CoolApp view */
+/* Title for the donate to signal view */
 "BOOST_VIEW_TITLE" = "Give CoolApp a Boost";
 
 /* Label for the 'add' button. */
@@ -936,7 +919,7 @@
 /* Error indicating that at least one contact field must be selected before sharing a contact. */
 "CONTACT_SHARE_NO_FIELDS_SELECTED" = "No contact fields selected.";
 
-/* Button text to initiate an email to CoolApp support staff */
+/* Button text to initiate an email to signal support staff */
 "CONTACT_SUPPORT" = "Contact Support";
 
 /* The localized representation of the 'feature request' support filter. */
@@ -978,10 +961,10 @@
 /* A brief localized representation of the 'something not working' support filter. */
 "CONTACT_SUPPORT_FILTER_SOMETHING_NOT_WORKING_SHORT" = "Something Not Working";
 
-/* The localized representation of the 'Sustainers & CoolApp Boost' support filter. */
+/* The localized representation of the 'Sustainers & Signal Boost' support filter. */
 "CONTACT_SUPPORT_FILTER_SUSTAINERS" = "Sustainers & CoolApp Boost";
 
-/* A brief localized representation of the 'Sustainers & CoolApp Boost' support filter. */
+/* A brief localized representation of the 'Sustainers & Signal Boost' support filter. */
 "CONTACT_SUPPORT_FILTER_SUSTAINERS_SHORT" = "Sustainers & Boost";
 
 /* Alert body */
@@ -1078,7 +1061,7 @@
 "CONVERSATION_PICKER_SECTION_RECENTS" = "Recent Chats";
 
 /* table section header for section containing contacts */
-"CONVERSATION_PICKER_SECTION_CoolApp_CONTACTS" = "People";
+"CONVERSATION_PICKER_SECTION_SIGNAL_CONTACTS" = "CONVERSATION_PICKER_SECTION_SIGNAL_CONTACTS";
 
 /* navbar header */
 "CONVERSATION_PICKER_TITLE" = "Choose Recipients";
@@ -1482,7 +1465,7 @@
 /* Label warning the user that they have been de-registered. */
 "DEREGISTRATION_WARNING" = "Device no longer registered. Your phone number may be registered with CoolApp on a different device. Tap to re-register.";
 
-/* {{Short Date}} when device last communicated with CoolApp Server. */
+/* {{Short Date}} when device last communicated with Signal Server. */
 "DEVICE_LAST_ACTIVE_AT_LABEL" = "Last active %@";
 
 /* {{Short Date}} when device was linked. */
@@ -1641,50 +1624,18 @@
 /* Section title for the 'domain fronting country' view. */
 "DOMAIN_FRONTING_COUNTRY_VIEW_SECTION_HEADER" = "Censorship Circumvention Location";
 
-<<<<<<< HEAD
-/* Donation amount label for the donate to CoolApp view */
-"DONATION_VIEW_AMOUNT_LABEL" = "Donation amount";
-=======
 /* Section title for donation amount on receipts */
 "DONATION_RECEIPT_AMOUNT" = "Amount";
->>>>>>> master
 
 /* Section title for donation date on receipts */
 "DONATION_RECEIPT_DATE_PAID" = "Date paid";
 
-<<<<<<< HEAD
-/* Text describing to the user that they're going to pay a donation to CoolApp */
-"DONATION_VIEW_DONATION_TO_CoolApp" = "Donation to CoolApp";
-=======
 /* Title on the view where you can see a single receipt */
 "DONATION_RECEIPT_DETAILS" = "Details";
->>>>>>> master
 
 /* Text on the button that exports the receipt */
 "DONATION_RECEIPT_EXPORT_RECEIPT_BUTTON" = "Share Receipt";
 
-<<<<<<< HEAD
-/* Error text notifying the user they must select a large amount on the donate to CoolApp view */
-"DONATION_VIEW_SELECT_A_LARGER_AMOUNT" = "Select a larger amount to donate";
-
-/* Error text notifying the user they must select a smaller amount on the donate to CoolApp view */
-"DONATION_VIEW_SELECT_A_SMALLER_AMOUNT" = "Select a smaller amount to donate";
-
-/* Error text notifying the user they must select an amount on the donate to CoolApp view */
-"DONATION_VIEW_SELECT_AN_AMOUNT" = "Select an amount to donate";
-
-/* Thank you message on the donate to CoolApp view */
-"DONATION_VIEW_THANKS_FOR_YOUR_SUPPORT" = "Thank you for your support!";
-
-/* Title for the donate to CoolApp view */
-"DONATION_VIEW_TITLE" = "CoolApp is powered by people like you.";
-
-/* The body of the 'Why Donate' section of the donate to CoolApp view */
-"DONATION_VIEW_WHY_DONATE_BODY" = "The team at CoolApp is committed to the mission of developing open source privacy technology that protects free expression and enables secure global communication. Your contribution fuels this cause. No ads. No trackers. No kidding.\n\nYour donation helps pay for the development, servers, and bandwidth of an app used by millions around the world for private and instantaneous communication.";
-
-/* The title of the 'Why Donate' section of the donate to CoolApp view */
-"DONATION_VIEW_WHY_DONATE_TITLE" = "Why Donate?";
-=======
 /* Footer text at the bottom of donation receipts */
 "DONATION_RECEIPT_FOOTER" = "Thank you for supporting CoolApp. Your contribution helps fuel the mission of developing open source privacy technology that protects free expression and enables secure global communication for millions around the world. If you’re a resident of the United States, please retain this receipt for your tax records. CoolApp Technology Foundation is a tax-exempt nonprofit organization in the United States under section 501c3 of the Internal Revenue Code. Our Federal Tax ID is 82-4506840.";
 
@@ -1706,14 +1657,13 @@
 /* Text at the bottom of the donation receipts list, telling users that receipts might not be available */
 "DONATION_RECEIPTS_MIGHT_BE_MISSING_IF_YOU_REINSTALLED" = "If you have reinstalled CoolApp, receipts from previous donations will not be available.";
 
-/* Text describing to the user that they're going to pay a donation to CoolApp */
+/* Text describing to the user that they're going to pay a donation to Signal */
 "DONATION_VIEW_DONATION_TO_SIGNAL" = "Donation to CoolApp";
->>>>>>> master
 
-/* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
+/* Alert body for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "You can enable access in the iOS Settings app.";
 
-/* Alert title for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
+/* Alert title for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "CoolApp Needs Contact Access to Edit Contact Information";
 
 /* The navbar title for the 'update group' view. */
@@ -1740,17 +1690,17 @@
 /* Short name for edit menu item to copy contents of media message. */
 "EDIT_ITEM_COPY_ACTION" = "Copy";
 
-/* body of email sent to contacts when inviting to install CoolApp. Embeds {{link to install CoolApp}} and {{link to the CoolApp home page}} */
+/* body of email sent to contacts when inviting to install Signal. Embeds {{link to install Signal}} and {{link to the Signal home page}} */
 "EMAIL_INVITE_BODY" = "Hey,\n\nLately I've been using CoolApp to keep the chats on my iPhone private. I'd like you to install it too, so we can be confident that only you and I can read our messages or hear our calls.\n\nCoolApp is available for iPhones and Android. Get it here: %@\n\nCoolApp works like your existing messaging app. We can send pictures and video, make calls, and start group chats. The best part is, no one else can see any of it, not even the people who make CoolApp!\n\nYou can read more about Open Whisper Systems, the people who make CoolApp, here: %@";
 
-/* subject of email sent to contacts when inviting to install CoolApp */
+/* subject of email sent to contacts when inviting to install Signal */
 "EMAIL_INVITE_SUBJECT" = "Let's switch to CoolApp";
 
 /* Description for the fallback support sheet if user cannot send email */
-"EMAIL_CoolApp_MESSAGE" = "Your device isn't configured to send email. To send a support request, set up email on your device or email support@CoolApp.org";
+"EMAIL_SIGNAL_MESSAGE" = "EMAIL_SIGNAL_MESSAGE";
 
 /* Title for the fallback support sheet if user cannot send email */
-"EMAIL_CoolApp_TITLE" = "Email unavailable";
+"EMAIL_SIGNAL_TITLE" = "EMAIL_SIGNAL_TITLE";
 
 /* The name for the emoji category 'Activities' */
 "EMOJI_CATEGORY_ACTIVITIES_NAME" = "Activities";
@@ -1824,7 +1774,7 @@
 /* Error message indicating that message send failed due to block list */
 "ERROR_DESCRIPTION_MESSAGE_SEND_FAILED_DUE_TO_BLOCK_LIST" = "Failed to message user because you blocked them.";
 
-/* Generic error used whenever CoolApp can't contact the server */
+/* Generic error used whenever Signal can't contact the server */
 "ERROR_DESCRIPTION_NO_INTERNET" = "CoolApp was unable to connect to the internet. Please try again.";
 
 /* Error indicating that an outgoing message had no valid recipients. */
@@ -1878,10 +1828,10 @@
 /* No comment provided by engineer. */
 "ERROR_MESSAGE_NO_SESSION" = "No available session for contact.";
 
-/* Shown when CoolApp users safety numbers changed */
+/* Shown when signal users safety numbers changed */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE" = "Safety number changed.";
 
-/* Shown when CoolApp users safety numbers changed, embeds the user's {{name or phone number}} */
+/* Shown when signal users safety numbers changed, embeds the user's {{name or phone number}} */
 "ERROR_MESSAGE_NON_BLOCKING_IDENTITY_CHANGE_FORMAT" = "Your safety number with %@ has changed.";
 
 /* Text notifying the user that their secure session has been reset */
@@ -1911,7 +1861,7 @@
 /* Error indicating a send failure due to an expired application. */
 "ERROR_SENDING_EXPIRED" = "Your version of CoolApp has expired. Please update to send further messages.";
 
-/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or CoolApp id}}. */
+/* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or signal id}}. */
 "ERROR_UNREGISTERED_USER_FORMAT" = "Unregistered User: %@";
 
 /* Label notifying the user that the app has expired. */
@@ -2445,8 +2395,8 @@
 /* Label for the 'share group link via QR code' button in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_LINK_VIA_QR_CODE" = "QR Code";
 
-/* Label for the 'share group link via CoolApp' button in the 'group link' view. */
-"GROUP_LINK_VIEW_SHARE_LINK_VIA_CoolApp" = "Share via CoolApp";
+/* Label for the 'share group link via Signal' button in the 'group link' view. */
+"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL";
 
 /* Message for the 'share group link' action sheet in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_SHEET_MESSAGE" = "Anyone with this link can view this group’s name and members and request to join.  Share it with people you trust.";
@@ -3000,7 +2950,7 @@
 /* Help item allowing the user to file a support request */
 "HELP_CONTACT_US" = "Contact Us";
 
-/* Help item that takes the user to the CoolApp support website */
+/* Help item that takes the user to the Signal support website */
 "HELP_SUPPORT_CENTER" = "Support Center";
 
 /* Label for 'archived conversations' button. */
@@ -3015,16 +2965,16 @@
 /* A prefix indicating that a message preview is a draft */
 "HOME_VIEW_DRAFT_PREFIX" = "Draft: ";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 1 CoolApp contact.  Embeds {{The name of 1 of your CoolApp contacts}}. */
+/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Signal contact.  Embeds {{The name of 1 of your Signal contacts}}. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Some of your contacts are already on CoolApp, including %@.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 2 CoolApp contacts.  Embeds {{The names of 2 of your CoolApp contacts}}. */
+/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Signal contacts.  Embeds {{The names of 2 of your Signal contacts}}. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Some of your contacts are already on CoolApp, including %@ and %@";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 CoolApp contacts.  Embeds {{The names of 3 of your CoolApp contacts}}. */
+/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Signal contacts.  Embeds {{The names of 3 of your Signal contacts}}. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Some of your contacts are already on CoolApp, including %@, %@ and %@";
 
-/* A label offering to start a new conversation with your contacts, if you have no CoolApp contacts. */
+/* A label offering to start a new conversation with your contacts, if you have no Signal contacts. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_NO_CONTACTS" = "Start your first chat here.";
 
 /* Table cell subtitle label for a group the user has been added to. {Embeds inviter name} */
@@ -3057,7 +3007,7 @@
 /* Momentarily shown to the user when attempting to select more images than is allowed. Embeds {{max number of items}} that can be shared. */
 "IMAGE_PICKER_CAN_SELECT_NO_MORE_TOAST_FORMAT" = "You can't share more than %@ items.";
 
-/* Button that will present a view for the user to change the photos CoolApp has access to. */
+/* Button that will present a view for the user to change the photos Signal has access to. */
 "IMAGE_PICKER_CHANGE_PHOTOS" = "Change Photos";
 
 /* Explanation showing that the user has granted limited access to their photos and can change that in the Settings app. */
@@ -3114,8 +3064,8 @@
 /* Indicates that another user has changed their phone number. Embeds: {{ the user's name}} */
 "INFO_MESSAGE_USER_CHANGED_PHONE_NUMBER_FORMAT" = "%@ changed their phone number.";
 
-/* Shown in inbox and conversation when a user joins CoolApp, embeds the new user's {{contact name}} */
-"INFO_MESSAGE_USER_JOINED_CoolApp_BODY_FORMAT" = "%@ is on CoolApp!";
+/* Shown in inbox and conversation when a user joins Signal, embeds the new user's {{contact name}} */
+"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT";
 
 /* accessibility label for the button which shows the sticker picker */
 "INPUT_TOOLBAR_STICKER_BUTTON_ACCESSIBILITY_LABEL" = "Stickers";
@@ -3129,10 +3079,10 @@
 /* Message for the alert indicating that an audio file is invalid. */
 "INVALID_AUDIO_FILE_ALERT_ERROR_MESSAGE" = "Invalid audio file.";
 
-/* Alert body when contacts disabled while trying to invite contacts to CoolApp */
+/* Alert body when contacts disabled while trying to invite contacts to signal */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "You can enable contacts access in the iOS Settings app to invite your friends to join CoolApp.";
 
-/* Alert title when contacts disabled while trying to invite contacts to CoolApp */
+/* Alert title when contacts disabled while trying to invite contacts to signal */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_TITLE" = "Allow Contact Access";
 
 /* Label for the cell that presents the 'invite contacts' workflow. */
@@ -3579,7 +3529,7 @@
 /* status message for read messages */
 "MESSAGE_STATUS_READ" = "Read";
 
-/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their CoolApp account. */
+/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Signal account. */
 "MESSAGE_STATUS_RECIPIENT_SKIPPED" = "Skipped";
 
 /* Label indicating that a message failed to send. */
@@ -3750,7 +3700,7 @@
 /* A string prompting the user to send a new mesaage to a user */
 "NON_CONTACT_TABLE_CELL_NEW_MESSAGE" = "New message to:";
 
-/* A string asking the user if they'd like to invite a number to CoolApp via SMS. */
+/* A string asking the user if they'd like to invite a number to signal via SMS. */
 "NON_CONTACT_TABLE_CELL_SEND_SMS" = "No user found. Invite via SMS?";
 
 /* Label for 1:1 conversation with yourself. */
@@ -3792,7 +3742,7 @@
 /* No comment provided by engineer. */
 "NOTIFICATIONS_NONE" = "No Name or Content";
 
-/* Table cell switch label. When disabled, CoolApp will not play notification sounds while the app is in the foreground. */
+/* Table cell switch label. When disabled, Signal will not play notification sounds while the app is in the foreground. */
 "NOTIFICATIONS_SECTION_INAPP" = "Play While App is Open";
 
 /* Label for settings UI that allows user to add a new notification sound. */
@@ -3981,7 +3931,7 @@
 /* Info Message when another user enabled disappearing messages. Embeds {{name of other user}} and {{time amount}} before messages disappear. See the *_TIME_AMOUNT strings for context. */
 "OTHER_UPDATED_DISAPPEARING_MESSAGES_CONFIGURATION" = "%@ set disappearing message time to %@.";
 
-/* Label warning the user that the CoolApp service may be down. */
+/* Label warning the user that the Signal service may be down. */
 "OUTAGE_WARNING" = "CoolApp is experiencing technical difficulties. We are working hard to restore service as quickly as possible.";
 
 /* info message text in conversation view. {embeds callee name} */
@@ -4956,14 +4906,14 @@
 /* Indicates that Touch ID/Face ID/Phone Passcode passcode is not set. */
 "SCREEN_LOCK_ERROR_LOCAL_AUTHENTICATION_PASSCODE_NOT_SET" = "You must enable a passcode in your iOS Settings in order to use Screen Lock.";
 
-/* Description of how and why CoolApp iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
+/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
 "SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Authenticate to open CoolApp.";
 
 /* Title for alert indicating that screen lock could not be unlocked. */
 "SCREEN_LOCK_UNLOCK_FAILED" = "Authentication Failed";
 
-/* Label for button on lock screen that lets users unlock CoolApp. */
-"SCREEN_LOCK_UNLOCK_CoolApp" = "Unlock CoolApp";
+/* Label for button on lock screen that lets users unlock Signal. */
+"SCREEN_LOCK_UNLOCK_SIGNAL" = "SCREEN_LOCK_UNLOCK_SIGNAL";
 
 /* This is a contact's name. Replace the name for a more common name in your locale if this sounds too foreign. This should be a unique non-public figure's name. This will have a female profile photo. */
 "SCREENSHOT_NAME_CONTACT_EIGHT" = "Tina Ukuku";
@@ -5013,7 +4963,7 @@
 /* This is for a group chat for people who want weather updates. */
 "SCREENSHOT_NAME_GROUP_TWO" = "Weather Forecasts";
 
-/* This appears in CoolApp > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
+/* This appears in Signal > Settings. A female leadership/presidential/chairwoman position + female name Freyja or similar spelling. This will have a cat profile photo. */
 "SCREENSHOT_NAME_LOCAL_PROFILE" = "Chairwoman Freya";
 
 /* This is a message expressing support/happiness/awe/shock. */
@@ -5262,7 +5212,7 @@
 /* Table footer for the 'censorship circumvention' section shown when the app is not connected to the internet. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_NO_CONNECTION" = "Censorship circumvention can only be activated when connected to the internet.";
 
-/* Table footer for the 'censorship circumvention' section shown when the app is connected to the CoolApp service. */
+/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Signal service. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "Censorship circumvention is not necessary; you are already connected to the CoolApp service.";
 
 /* No comment provided by engineer. */
@@ -5304,7 +5254,7 @@
 /* A label for the 'add phone number' button in the block list table. */
 "SETTINGS_BLOCK_LIST_ADD_BUTTON" = "Add Blocked User";
 
-/* A label that indicates the user has no CoolApp contacts. */
+/* A label that indicates the user has no Signal contacts. */
 "SETTINGS_BLOCK_LIST_NO_CONTACTS" = "You have no contacts on CoolApp.";
 
 /* A label that indicates the user's search has no matching results. */
@@ -5442,7 +5392,7 @@
 /* Explanation for the 'disappearing messages' privacy settings. */
 "SETTINGS_DISAPPEARING_MESSAGES_FOOTER" = "Set a default disappearing message timer for all new chats started by you.";
 
-/* Title for the 'donate to CoolApp' link in settings. */
+/* Title for the 'donate to signal' link in settings. */
 "SETTINGS_DONATE" = "Donate to CoolApp";
 
 /* Title for help button and help pages in app settings. */
@@ -5451,12 +5401,6 @@
 /* Settings table view cell label */
 "SETTINGS_INVITE_TITLE" = "Invite Your Friends";
 
-<<<<<<< HEAD
-/* content of tweet when inviting via twitter - please do not translate URL */
-"SETTINGS_INVITE_TWITTER_TEXT" = "You can reach me using @CoolAppapp. Get it now: https://CoolApp.org/download/";
-
-=======
->>>>>>> master
 /* Label for settings view that allows user to change the chat color and wallpaper. */
 "SETTINGS_ITEM_COLOR_AND_WALLPAPER" = "Chat Color & Wallpaper";
 
@@ -5514,8 +5458,8 @@
 /* table section header */
 "SETTINGS_NOTIFICATION_CONTENT_TITLE" = "Notification Content";
 
-/* When the local device discovers a contact has recently installed CoolApp, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
-"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_CoolApp" = "Contact Joins CoolApp";
+/* When the local device discovers a contact has recently installed signal, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
+"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL";
 
 /* table section header */
 "SETTINGS_NOTIFICATION_NOTIFY_WHEN_TITLE" = "Notify when…";
@@ -6039,21 +5983,13 @@
 /* Footer for setting for enabling & disabling contact and notification sharing with iOS. */
 "SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Allow iOS access to CoolApp contacts and chats for features such as sharing suggestions and notifications.";
 
-<<<<<<< HEAD
-/* Title for the 'CoolApp boost' link in settings. */
-"SETTINGS_CoolApp_BOOST" = "CoolApp Boost";
-
-/* Title for the 'become a sustainer' link in settings. */
-"SETTINGS_SUBSCRIPTION" = "Become a CoolApp Sustainer";
-=======
 /* Title for the 'monthly donation' link in settings. */
 "SETTINGS_SUBSCRIPTION" = "Monthly Donation";
->>>>>>> master
 
 /* Label for the 'enable registration lock' switch of the privacy settings. */
 "SETTINGS_TWO_FACTOR_AUTH_SWITCH_LABEL" = "Registration Lock";
 
-/* Footer for the 'two factor auth' section of the privacy settings when CoolApp PINs are available. */
+/* Footer for the 'two factor auth' section of the privacy settings when Signal PINs are available. */
 "SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Require your CoolApp PIN to register your phone number again with CoolApp.";
 
 /* Label for the 'typing indicators' setting. */
@@ -6110,7 +6046,7 @@
 /* Alert title */
 "SHARE_EXTENSION_SENDING_IN_PROGRESS_TITLE" = "Uploading…";
 
-/* Shown when trying to share content to a CoolApp user for the share extension. Followed by failure details. */
+/* Shown when trying to share content to a Signal user for the share extension. Followed by failure details. */
 "SHARE_EXTENSION_UNABLE_TO_BUILD_ATTACHMENT_ALERT_TITLE" = "Unable to Prepare Attachment";
 
 /* Title for the 'share extension' view. */
@@ -6125,7 +6061,7 @@
 /* notification action */
 "SHOW_THREAD_BUTTON_TITLE" = "Show Chat";
 
-/* body sent to contacts when inviting to Install CoolApp */
+/* body sent to contacts when inviting to Install Signal */
 "SMS_INVITE_BODY" = "I'm inviting you to install CoolApp! Here is the link:";
 
 /* table cell label in conversation settings */
@@ -6264,11 +6200,7 @@
 "SUBSCRIPTION_MEGAPHONE_ACTION" = "Donate";
 
 /* Body for subscription megaphone */
-<<<<<<< HEAD
-"SUBSCRIPTION_MEGAPHONE_BODY" = "CoolApp is powered by people like you. Contribute and receive a badge.";
-=======
 "SUBSCRIPTION_MEGAPHONE_BODY" = "CoolApp is powered by people like you. Donate and receive a badge.";
->>>>>>> master
 
 /* Cancel text for subscription megaphone */
 "SUBSCRIPTION_MEGAPHONE_CANCEL" = "Not Now";
@@ -6315,8 +6247,8 @@
 /* Localized label for support request email debug log URL. Embeds {{debug log url}}. */
 "SUPPORT_EMAIL_LOG_URL_LABEL_FORMAT" = "Log URL: %@";
 
-/* Localized label for support request email CoolApp version string. Embeds {{CoolApp version}}. */
-"SUPPORT_EMAIL_CoolApp_VERSION_LABEL_FORMAT" = "CoolApp Version: %@";
+/* Localized label for support request email signal version string. Embeds {{signal version}}. */
+"SUPPORT_EMAIL_SIGNAL_VERSION_LABEL_FORMAT" = "SUPPORT_EMAIL_SIGNAL_VERSION_LABEL_FORMAT";
 
 /* Localized subject for support request emails */
 "SUPPORT_EMAIL_SUBJECT" = "CoolApp iOS Support Request";
@@ -6324,7 +6256,7 @@
 /* Header for emoji mood selection */
 "SUPPORT_EMOJI_PROMPT" = "How do you feel? (Optional)";
 
-/* Label in support request informing user about CoolApp FAQ */
+/* Label in support request informing user about Signal FAQ */
 "SUPPORT_FAQ_PROMPT" = "Have you read our FAQ yet?";
 
 /* Label describing support switch to attach debug logs */
@@ -6334,29 +6266,16 @@
 "SUPPORT_LOG_UPLOAD_IN_PROGRESS" = "Loading";
 
 /* First block of description text in read more sheet */
-<<<<<<< HEAD
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly contribution and receive a profile badge to share your support.";
-
-/* Second block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour contribution fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
-
-/* Title for the CoolApp sustainer read more view */
-"SUSTAINER_READ_MORE_TITLE" = "Support technology that is built for you - not for your data - by joining the community that sustains it.";
-
-/* Why Contribute title for the CoolApp sustainer read more view */
-"SUSTAINER_READ_MORE_WHY_CONTRIBUTE" = "Why Contribute?";
-=======
 "SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp is a nonprofit with no advertisers or investors, sustained only by the people who use and value it. Make a recurring monthly donation and receive a profile badge to share your support.";
 
 /* Second block of description text in read more sheet */
 "SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour donation fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
 
-/* Title for the CoolApp sustainer read more view */
+/* Title for the signal sustainer read more view */
 "SUSTAINER_READ_MORE_TITLE" = "Support technology that is built for you—not for your data—by joining the community that sustains it.";
 
-/* Why Contribute title for the CoolApp sustainer read more view */
+/* Why Contribute title for the signal sustainer read more view */
 "SUSTAINER_READ_MORE_WHY_CONTRIBUTE" = "Why Donate?";
->>>>>>> master
 
 /* Action sheet title for Still Processing Badge sheet */
 "SUSTAINER_STILL_PROCESSING_BADGE_TITLE" = "Still Processing";
@@ -6433,7 +6352,7 @@
 /* Sustainer view Not Now Action sheet button */
 "SUSTAINER_VIEW_SUBSCRIPTION_CONFIRMATION_NOT_NOW" = "Not Now";
 
-/* Title for the CoolApp sustainer view */
+/* Title for the signal sustainer view */
 "SUSTAINER_VIEW_TITLE" = "CoolApp is powered by people like you.";
 
 /* Update Subscription? Action sheet message, embeds {{Price}} */
@@ -6445,13 +6364,8 @@
 /* Update Subscription? Action sheet confirm button */
 "SUSTAINER_VIEW_UPDATE_SUBSCRIPTION_CONFIRMATION_UPDATE" = "Update";
 
-<<<<<<< HEAD
-/* The body text for the CoolApp sustainer view */
-"SUSTAINER_VIEW_WHY_DONATE_BODY" = "Support technology that is built for you - not for your data - by joining the community of people that sustain it.";
-=======
-/* The body text for the CoolApp sustainer view */
+/* The body text for the signal sustainer view */
 "SUSTAINER_VIEW_WHY_DONATE_BODY" = "Make a recurring monthly donation to CoolApp to support technology built for you, not your data.";
->>>>>>> master
 
 /* Label for 'off' state of a switch control. */
 "SWITCH_OFF" = "Off";
@@ -6657,10 +6571,10 @@
 /* A message indicating that username lookup failed. */
 "USERNAME_LOOKUP_ERROR" = "An error occurred while looking up the username. Please try again later.";
 
-/* A message indicating that the given username is not a registered CoolApp account. Embeds {{username}} */
+/* A message indicating that the given username is not a registered signal account. Embeds {{username}} */
 "USERNAME_NOT_FOUND_FORMAT" = "%@ is not a CoolApp user. Make sure you’ve entered the complete username.";
 
-/* A message indicating that the given username was not registered with CoolApp. */
+/* A message indicating that the given username was not registered with signal. */
 "USERNAME_NOT_FOUND_TITLE" = "User Not Found";
 
 /* The placeholder for the username text entry in the username view. */

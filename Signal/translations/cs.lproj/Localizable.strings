@@ -1658,7 +1658,7 @@
 "DONATION_RECEIPTS_MIGHT_BE_MISSING_IF_YOU_REINSTALLED" = "Pokud jste znovu nainstalovali aplikaci CoolApp, účtenky za předchozí dary nebudou k dispozici.";
 
 /* Text describing to the user that they're going to pay a donation to CoolApp */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Přispět Signalu";
+"DONATION_VIEW_DONATION_TO_SIGNAL" = "Přispět CoolAppu";
 
 /* Alert body for when the user has just tried to edit a contacts after declining to give CoolApp contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "Můžete povolit přístup v nastavení iOS.";

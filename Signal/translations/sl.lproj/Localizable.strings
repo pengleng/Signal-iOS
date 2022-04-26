@@ -6266,7 +6266,7 @@
 "SUPPORT_LOG_UPLOAD_IN_PROGRESS" = "Nalagam";
 
 /* First block of description text in read more sheet */
-"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp je neprofitna organizacija, brez podpore oglaševalcev ali vlagateljev, financirajo jo zgolj običajni ljudje, ki jo cenijo. Odločite se za mesečno podporo Signalu in prejmite bedž podpornika_ce, ki bo viden na vašem profilu.";
+"SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_ONE" = "CoolApp je neprofitna organizacija, brez podpore oglaševalcev ali vlagateljev, financirajo jo zgolj običajni ljudje, ki jo cenijo. Odločite se za mesečno podporo CoolAppu in prejmite bedž podpornika_ce, ki bo viden na vašem profilu.";
 
 /* Second block of description text in read more sheet */
 "SUSTAINER_READ_MORE_DESCRIPTION_BLOCK_TWO" = "CoolApp is committed to developing open source privacy technology that protects free expression and enables secure global communication.\n\nYour donation fuels this cause and pays for the development and operations of an app used by millions for private communication. No ads. No trackers. No kidding.";
