@@ -22,6 +22,9 @@ public class TSConstants: NSObject {
 
     public static let legalTermsUrl = URL(string: "https://signal.org/legal/")!
     public static let donateUrl = URL(string: "https://signal.org/donate/")!
+    
+    @objc
+    public static var isUseMinioCDN: Bool { shared.isUseMinioCDN }
 
     @objc
     public static var mainServiceWebSocketAPI_identified: String { shared.mainServiceWebSocketAPI_identified }
@@ -103,6 +106,7 @@ public class TSConstants: NSObject {
 // MARK: -
 
 private protocol TSConstantsProtocol: AnyObject {
+    var isUseMinioCDN: Bool { get }
     var mainServiceWebSocketAPI_identified: String { get }
     var mainServiceWebSocketAPI_unidentified: String { get }
     var mainServiceURL: String { get }
@@ -155,11 +159,13 @@ public struct KeyBackupEnclave: Equatable {
 
 private class TSConstantsProduction: TSConstantsProtocol {
 
+    public let isUseMinioCDN :Bool = true
+    
     public let mainServiceWebSocketAPI_identified = "wss://chat.coolchatasia.com/v1/websocket/"
     public let mainServiceWebSocketAPI_unidentified = "wss://chat.coolchatasia.com/v1/websocket/"
     public let mainServiceURL = "https://chat.coolchatasia.com/"
     public let textSecureCDN0ServerURL = "https://cdn-aws.coolchatasia.com"
-    public let textSecureCDN2ServerURL = "https://cdn-gcp.coolchatasia.com"
+    public let textSecureCDN2ServerURL = "https://minio.coolchatasia.com"
     public let contactDiscoverySGXURL = "https://cds.coolchatasia.com"
     public let contactDiscoveryHSMURL = "wss://cds.coolchatasia.com/discovery/"
     public let keyBackupURL = "https://kbs.coolchatasia.com"
@@ -223,6 +229,8 @@ private class TSConstantsProduction: TSConstantsProtocol {
 // MARK: - Staging
 
 private class TSConstantsStaging: TSConstantsProtocol {
+    
+    public let isUseMinioCDN :Bool = true
 
     public let mainServiceWebSocketAPI_identified = "wss://chat.staging.signal.org/v1/websocket/"
     public let mainServiceWebSocketAPI_unidentified = "wss://ud-chat.staging.signal.org/v1/websocket/"

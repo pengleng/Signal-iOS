@@ -385,19 +385,31 @@ public class OWSAttachmentUploadV2: NSObject {
             headers["Content-Type"] = OWSMimeTypeApplicationOctetStream
 
             let body = "".data(using: .utf8)
+            if (TSConstants.isUseMinioCDN) {
+                return urlSession.dataTaskPromise(urlString, method: .put, headers: headers, body: body)
+            }
             return urlSession.dataTaskPromise(urlString, method: .post, headers: headers, body: body)
         }.map(on: Self.serialQueue) { (response: HTTPResponse) in
             let statusCode = response.responseStatusCode
-            guard statusCode == 201 else {
+            guard statusCode == 201 || statusCode == 200 else {
                 throw OWSAssertionError("Invalid statusCode: \(statusCode).")
             }
-            guard let locationHeader = response.responseHeaders["Location"] else {
-                throw OWSAssertionError("Missing location header.")
+            
+            var locationHeader :String? = nil
+            if ((response.responseHeaders["Location"]) != nil) {
+                locationHeader = response.responseHeaders["Location"]
             }
-            guard locationHeader.lowercased().hasPrefix("http") else {
+            if (locationHeader == nil) {
+                if (TSConstants.isUseMinioCDN) {
+                    locationHeader = form.signedUploadLocation
+                } else {
+                    throw OWSAssertionError("Missing location header.")
+                }
+            }
+            guard locationHeader!.lowercased().hasPrefix("http") else {
                 throw OWSAssertionError("Invalid location.")
             }
-            guard let locationUrl = URL(string: locationHeader) else {
+            guard let locationUrl = URL(string: locationHeader!) else {
                 throw OWSAssertionError("Invalid location header.")
             }
             return locationUrl
@@ -706,6 +718,7 @@ public extension OWSUpload {
             return uploadedUrlPath
         }
     }
+    
 }
 
 // MARK: -
