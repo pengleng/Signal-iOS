@@ -4,8 +4,16 @@
 <dict>
 	<key>BuildDetails</key>
 	<dict>
+		<key>DateTime</key>
+		<string>Fri Apr 29 14:33:00 UTC 2022</string>
+		<key>SignalCommit</key>
+		<string>d29c358197e4ab3988e605c9b6c10c92001886f0 Useing minio, replease google cloud storage</string>
+		<key>Timestamp</key>
+		<string>1651242780</string>
 		<key>WebRTCCommit</key>
 		<string>385073a77447d32c1f8f33e8858065b99694aac6 Update source code to 5.36.0 build 21</string>
+		<key>XCodeVersion</key>
+		<string>1300.1330</string>
 	</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>

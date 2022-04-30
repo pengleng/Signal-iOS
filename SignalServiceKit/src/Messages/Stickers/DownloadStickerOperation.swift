@@ -69,7 +69,7 @@ class DownloadStickerOperation: CDNDownloadOperation {
             }
 
             do {
-                let url = try StickerManager.decrypt(at: url, packKey: self.stickerInfo.packKey)
+                //let url = try StickerManager.decrypt(at: url, packKey: self.stickerInfo.packKey)
 
                 DownloadStickerOperation.setCachedUrl(url, for: self.stickerInfo)
 

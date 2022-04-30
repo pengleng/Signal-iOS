@@ -32,8 +32,8 @@ class DownloadStickerPackOperation: CDNDownloadOperation {
             return
         }
         
-        self.reportSuccess()
-        return
+//        self.reportSuccess()
+//        return
 
         Logger.verbose("Downloading: \(stickerPackInfo).")
 
@@ -99,7 +99,8 @@ class DownloadStickerPackOperation: CDNDownloadOperation {
             owsFailDebug("Invalid manifest, no stickers")
             throw StickerError.invalidInput
         }
-        let cover = manifestCover ?? firstItem
+        //let cover = manifestCover ?? firstItem
+        let cover = firstItem
 
         let stickerPack = StickerPack(info: stickerPackInfo, title: title, author: author, cover: cover, stickers: items)
         return stickerPack
